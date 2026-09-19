@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T21:37:37.002133+00:00",
+  "generatedAt": "2026-09-19T02:52:03.555571+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4101,6 +4101,674 @@
         "Shared campaign terms: This fall, White Castle has several offers for Craver Nation Rewards members and other customers. New rewards members also get $5 off your first in-app order of $8 or more. Offer valid for 30 days after joining. Through"
       ],
       "redemptionReady": true
+    },
+    {
+      "id": "scraped-6a6a76c37609503d667d",
+      "restaurant": "Subway",
+      "title": "$4.99 6-inch sub with drink",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Participating locations only",
+        "Qualifying purchase required",
+        "Buy a drink"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Through October 11, 2026, buy a drink and get a 6-inch sub for $4.99 at Subway using promo code 499SUB at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Use promo code 499SUB as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://hip2save.com/deals/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:44:55.720614+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Through October 11, 2026, buy a drink and get a 6-inch sub for $4.99 at Subway using promo code 499SUB at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+      "offerDetails": "$4.99 6-inch sub with drink.",
+      "reportedDates": "Through October 11, 2026",
+      "reportedEndsOn": "2026-10-11",
+      "detailNotes": [
+        "Through October 11, 2026, buy a drink and get a 6-inch sub for $4.99 at Subway using promo code 499SUB at checkout.",
+        "Available at participating locations; offers and pricing may vary.",
+        "Confirm that your selected restaurant accepts the code before paying.",
+        "Sources reviewed 2026-09-18: https://hip2save.com/deals/subway-coupons/"
+      ],
+      "code": "499SUB",
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:44:55.720614+00:00",
+        "validUntil": "2026-09-26T02:44:55.720614+00:00",
+        "sourceURLs": [
+          "https://hip2save.com/deals/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-704951fc3e0c14f6c510",
+      "restaurant": "Subway",
+      "title": "$6.99 6-inch meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Through October 11, 2026, get a 6-inch meal for $6.99 at Subway using promo code 6INCHMEAL699 at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+        "Use promo code 6INCHMEAL699 as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://hip2save.com/deals/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:44:55.720614+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Through October 11, 2026, get a 6-inch meal for $6.99 at Subway using promo code 6INCHMEAL699 at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+      "offerDetails": "$6.99 6-inch meal.",
+      "reportedDates": "Through October 11, 2026",
+      "reportedEndsOn": "2026-10-11",
+      "detailNotes": [
+        "Through October 11, 2026, get a 6-inch meal for $6.99 at Subway using promo code 6INCHMEAL699 at checkout.",
+        "Available at participating locations; offers and pricing may vary.",
+        "Confirm that your selected restaurant accepts the code before paying.",
+        "Sources reviewed 2026-09-18: https://hip2save.com/deals/subway-coupons/"
+      ],
+      "code": "6INCHMEAL699",
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:44:55.720614+00:00",
+        "validUntil": "2026-09-26T02:44:55.720614+00:00",
+        "sourceURLs": [
+          "https://hip2save.com/deals/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-fe2cf68f3c53b24e2437",
+      "restaurant": "Subway",
+      "title": "$7.99 footlong",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Through October 11, 2026, get a Footlong for $7.99 at Subway using promo code FL799 at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+        "Use promo code FL799 as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://hip2save.com/deals/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:44:55.720614+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Through October 11, 2026, get a Footlong for $7.99 at Subway using promo code FL799 at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+      "offerDetails": "$7.99 footlong.",
+      "reportedDates": "Through October 11, 2026",
+      "reportedEndsOn": "2026-10-11",
+      "detailNotes": [
+        "Through October 11, 2026, get a Footlong for $7.99 at Subway using promo code FL799 at checkout.",
+        "Available at participating locations; offers and pricing may vary.",
+        "Confirm that your selected restaurant accepts the code before paying.",
+        "Sources reviewed 2026-09-18: https://hip2save.com/deals/subway-coupons/"
+      ],
+      "code": "FL799",
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:44:55.720614+00:00",
+        "validUntil": "2026-09-26T02:44:55.720614+00:00",
+        "sourceURLs": [
+          "https://hip2save.com/deals/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-54fef0423a335a47f62c",
+      "restaurant": "Subway",
+      "title": "Two footlongs for $13.99",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Through October 11, 2026, get two Footlongs for $13.99 at Subway using promo code FL1399 at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+        "Use promo code FL1399 as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://hip2save.com/deals/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:44:55.720614+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Through October 11, 2026, get two Footlongs for $13.99 at Subway using promo code FL1399 at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+      "offerDetails": "Two footlongs for $13.99.",
+      "reportedDates": "Through October 11, 2026",
+      "reportedEndsOn": "2026-10-11",
+      "detailNotes": [
+        "Through October 11, 2026, get two Footlongs for $13.99 at Subway using promo code FL1399 at checkout.",
+        "Available at participating locations; offers and pricing may vary.",
+        "Confirm that your selected restaurant accepts the code before paying.",
+        "Sources reviewed 2026-09-18: https://hip2save.com/deals/subway-coupons/"
+      ],
+      "code": "FL1399",
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:44:55.720614+00:00",
+        "validUntil": "2026-09-26T02:44:55.720614+00:00",
+        "sourceURLs": [
+          "https://hip2save.com/deals/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-c51e758a267625dfb8ce",
+      "restaurant": "Subway",
+      "title": "$9.99 footlong meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Through October 11, 2026, get a Footlong Meal for $9.99 at Subway using promo code FLMEAL999 at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+        "Use promo code FLMEAL999 as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://hip2save.com/deals/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:44:55.720614+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Through October 11, 2026, get a Footlong Meal for $9.99 at Subway using promo code FLMEAL999 at checkout. Available at participating locations; offers and pricing may vary. Confirm that your selected restaurant accepts the code before paying.",
+      "offerDetails": "$9.99 footlong meal.",
+      "reportedDates": "Through October 11, 2026",
+      "reportedEndsOn": "2026-10-11",
+      "detailNotes": [
+        "Through October 11, 2026, get a Footlong Meal for $9.99 at Subway using promo code FLMEAL999 at checkout.",
+        "Available at participating locations; offers and pricing may vary.",
+        "Confirm that your selected restaurant accepts the code before paying.",
+        "Sources reviewed 2026-09-18: https://hip2save.com/deals/subway-coupons/"
+      ],
+      "code": "FLMEAL999",
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:44:55.720614+00:00",
+        "validUntil": "2026-09-26T02:44:55.720614+00:00",
+        "sourceURLs": [
+          "https://hip2save.com/deals/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-31ba53a080e20f1b2053",
+      "restaurant": "Subway",
+      "title": "$6.99 Meatball Marinara meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Monday, Subway offers a $6.99 Meal of the Day: a 6-inch Meatball Marinara sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.freestufffinder.com/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:45:44.318657+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Monday, Subway offers a $6.99 Meal of the Day: a 6-inch Meatball Marinara sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+      "offerDetails": "$6.99 Meatball Marinara meal.",
+      "recurrenceLabel": "Every Monday",
+      "detailNotes": [
+        "Every Monday, Subway offers a $6.99 Meal of the Day: a 6-inch Meatball Marinara sub, a small drink, and chips or two cookies.",
+        "Order via the Subway app or website at participating locations.",
+        "Upgrade the sandwich to a Footlong for $3 more.",
+        "Prices and participation may vary; no published campaign end date.",
+        "Sources reviewed 2026-09-18: https://www.freestufffinder.com/subway-coupons/ • https://hip2save.com/deals/subway-coupons/"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:45:44.318657+00:00",
+        "validUntil": "2026-09-26T02:45:44.318657+00:00",
+        "sourceURLs": [
+          "https://www.freestufffinder.com/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-dfb1bd451d76ad84e0ec",
+      "restaurant": "Subway",
+      "title": "$6.99 Tuna meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Tuesday, Subway offers a $6.99 Meal of the Day: a 6-inch Tuna sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.freestufffinder.com/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:45:44.318657+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Tuesday, Subway offers a $6.99 Meal of the Day: a 6-inch Tuna sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+      "offerDetails": "$6.99 Tuna meal.",
+      "recurrenceLabel": "Every Tuesday",
+      "detailNotes": [
+        "Every Tuesday, Subway offers a $6.99 Meal of the Day: a 6-inch Tuna sub, a small drink, and chips or two cookies.",
+        "Order via the Subway app or website at participating locations.",
+        "Upgrade the sandwich to a Footlong for $3 more.",
+        "Prices and participation may vary; no published campaign end date.",
+        "Sources reviewed 2026-09-18: https://www.freestufffinder.com/subway-coupons/ • https://hip2save.com/deals/subway-coupons/"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:45:44.318657+00:00",
+        "validUntil": "2026-09-26T02:45:44.318657+00:00",
+        "sourceURLs": [
+          "https://www.freestufffinder.com/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-f23be34fef211db27510",
+      "restaurant": "Subway",
+      "title": "$6.99 teriyaki chicken meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Wednesday, Subway offers a $6.99 Meal of the Day: a 6-inch Sweet Onion Chicken Teriyaki sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.freestufffinder.com/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:45:44.318657+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Wednesday, Subway offers a $6.99 Meal of the Day: a 6-inch Sweet Onion Chicken Teriyaki sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+      "offerDetails": "$6.99 teriyaki chicken meal.",
+      "recurrenceLabel": "Every Wednesday",
+      "detailNotes": [
+        "Every Wednesday, Subway offers a $6.99 Meal of the Day: a 6-inch Sweet Onion Chicken Teriyaki sub, a small drink, and chips or two cookies.",
+        "Order via the Subway app or website at participating locations.",
+        "Upgrade the sandwich to a Footlong for $3 more.",
+        "Prices and participation may vary; no published campaign end date.",
+        "Sources reviewed 2026-09-18: https://www.freestufffinder.com/subway-coupons/ • https://hip2save.com/deals/subway-coupons/"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:45:44.318657+00:00",
+        "validUntil": "2026-09-26T02:45:44.318657+00:00",
+        "sourceURLs": [
+          "https://www.freestufffinder.com/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-8c96b6a3b0d0333035bd",
+      "restaurant": "Subway",
+      "title": "$6.99 Oven Roasted Turkey meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Thursday, Subway offers a $6.99 Meal of the Day: a 6-inch Oven Roasted Turkey sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.freestufffinder.com/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:45:44.318657+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Thursday, Subway offers a $6.99 Meal of the Day: a 6-inch Oven Roasted Turkey sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+      "offerDetails": "$6.99 Oven Roasted Turkey meal.",
+      "recurrenceLabel": "Every Thursday",
+      "detailNotes": [
+        "Every Thursday, Subway offers a $6.99 Meal of the Day: a 6-inch Oven Roasted Turkey sub, a small drink, and chips or two cookies.",
+        "Order via the Subway app or website at participating locations.",
+        "Upgrade the sandwich to a Footlong for $3 more.",
+        "Prices and participation may vary; no published campaign end date.",
+        "Sources reviewed 2026-09-18: https://www.freestufffinder.com/subway-coupons/ • https://hip2save.com/deals/subway-coupons/"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:45:44.318657+00:00",
+        "validUntil": "2026-09-26T02:45:44.318657+00:00",
+        "sourceURLs": [
+          "https://www.freestufffinder.com/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-e0450939ebc1294c3738",
+      "restaurant": "Subway",
+      "title": "$6.99 Black Forest Ham meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Friday, Subway offers a $6.99 Meal of the Day: a 6-inch Black Forest Ham sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.freestufffinder.com/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:45:44.318657+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Friday, Subway offers a $6.99 Meal of the Day: a 6-inch Black Forest Ham sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+      "offerDetails": "$6.99 Black Forest Ham meal.",
+      "recurrenceLabel": "Every Friday",
+      "detailNotes": [
+        "Every Friday, Subway offers a $6.99 Meal of the Day: a 6-inch Black Forest Ham sub, a small drink, and chips or two cookies.",
+        "Order via the Subway app or website at participating locations.",
+        "Upgrade the sandwich to a Footlong for $3 more.",
+        "Prices and participation may vary; no published campaign end date.",
+        "Sources reviewed 2026-09-18: https://www.freestufffinder.com/subway-coupons/ • https://hip2save.com/deals/subway-coupons/"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:45:44.318657+00:00",
+        "validUntil": "2026-09-26T02:45:44.318657+00:00",
+        "sourceURLs": [
+          "https://www.freestufffinder.com/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-0b0a8a20c9d411f6fdca",
+      "restaurant": "Subway",
+      "title": "$6.99 Italian BMT meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Saturday, Subway offers a $6.99 Meal of the Day: a 6-inch Italian BMT sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.freestufffinder.com/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:45:44.318657+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Saturday, Subway offers a $6.99 Meal of the Day: a 6-inch Italian BMT sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+      "offerDetails": "$6.99 Italian BMT meal.",
+      "recurrenceLabel": "Every Saturday",
+      "detailNotes": [
+        "Every Saturday, Subway offers a $6.99 Meal of the Day: a 6-inch Italian BMT sub, a small drink, and chips or two cookies.",
+        "Order via the Subway app or website at participating locations.",
+        "Upgrade the sandwich to a Footlong for $3 more.",
+        "Prices and participation may vary; no published campaign end date.",
+        "Sources reviewed 2026-09-18: https://www.freestufffinder.com/subway-coupons/ • https://hip2save.com/deals/subway-coupons/"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:45:44.318657+00:00",
+        "validUntil": "2026-09-26T02:45:44.318657+00:00",
+        "sourceURLs": [
+          "https://www.freestufffinder.com/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-c10fb4c624f1740a4944",
+      "restaurant": "Subway",
+      "title": "$6.99 Spicy Italian meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Participating locations only"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Sunday, Subway offers a $6.99 Meal of the Day: a 6-inch Spicy Italian sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.freestufffinder.com/subway-coupons/",
+      "lastCheckedAt": "2026-09-19T02:45:44.318657+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Sunday, Subway offers a $6.99 Meal of the Day: a 6-inch Spicy Italian sub, a small drink, and chips or two cookies. Order via the Subway app or website at participating locations. Upgrade the sandwich to a Footlong for $3 more. Prices and participation may vary; no published campaign end date.",
+      "offerDetails": "$6.99 Spicy Italian meal.",
+      "recurrenceLabel": "Every Sunday",
+      "detailNotes": [
+        "Every Sunday, Subway offers a $6.99 Meal of the Day: a 6-inch Spicy Italian sub, a small drink, and chips or two cookies.",
+        "Order via the Subway app or website at participating locations.",
+        "Upgrade the sandwich to a Footlong for $3 more.",
+        "Prices and participation may vary; no published campaign end date.",
+        "Sources reviewed 2026-09-18: https://www.freestufffinder.com/subway-coupons/ • https://hip2save.com/deals/subway-coupons/"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:45:44.318657+00:00",
+        "validUntil": "2026-09-26T02:45:44.318657+00:00",
+        "sourceURLs": [
+          "https://www.freestufffinder.com/subway-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-8c5cb8d69e57faf48356",
+      "restaurant": "Dairy Queen",
+      "title": "Free cheeseburger",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Rewards membership required",
+        "Participating locations only",
+        "Qualifying purchase required",
+        "With a $1+ purchase ordered in the app or online through September 18, 2026",
+        "With a pickup order",
+        "DQ Rewards members"
+      ],
+      "redemptionSteps": [
+        "Open the DQ app, go to Deals, and redeem the coupon with a pickup order.",
+        "For in-store orders, scan your Rewards barcode at checkout.",
+        "Source instructions: Free Single Original Cheeseburger Signature Stackburger for DQ Rewards members with a $1+ purchase ordered in the app or online through September 18, 2026. Open the DQ app, go to Deals, and redeem the coupon with a pickup order. For in-store orders, scan your Rewards barcode at checkout. Participating locations only.",
+        "Use your rewards membership to access this offer.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.freestufffinder.com/dairy-queen-coupons/",
+      "lastCheckedAt": "2026-09-19T02:46:04.572149+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Free Single Original Cheeseburger Signature Stackburger for DQ Rewards members with a $1+ purchase ordered in the app or online through September 18, 2026. Open the DQ app, go to Deals, and redeem the coupon with a pickup order. For in-store orders, scan your Rewards barcode at checkout. Participating locations only.",
+      "offerDetails": "Free cheeseburger.",
+      "membershipRequirement": "Rewards membership required",
+      "reportedEndsOn": "2026-09-18",
+      "detailNotes": [
+        "Sources reviewed 2026-09-18: https://www.freestufffinder.com/dairy-queen-coupons/ • https://hip2save.com/deals/dairy-queen-coupons/"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:46:04.572149+00:00",
+        "validUntil": "2026-09-26T02:46:04.572149+00:00",
+        "sourceURLs": [
+          "https://www.freestufffinder.com/dairy-queen-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-a8c163d816339eb58274",
+      "restaurant": "Dairy Queen",
+      "title": "Free Banana Split Shake",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "App required — access this offer in the app.",
+        "Rewards membership required",
+        "Participating locations only",
+        "With any purchase over $1",
+        "DQ Rewards members",
+        "New members",
+        "Enrollment required; see redemption steps"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Through October 1, 2026, new DQ Rewards members can get a free Banana Split Shake with any purchase over $1. Join DQ Rewards and check the new-member offer in the DQ app for your selected restaurant; follow the offer instructions and confirm the discount before paying. Participating locations only. New members only.",
+        "Use your rewards membership to access this offer.",
+        "App required — access this offer in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://www.freestufffinder.com/dairy-queen-coupons/",
+      "lastCheckedAt": "2026-09-19T02:46:04.572149+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Through October 1, 2026, new DQ Rewards members can get a free Banana Split Shake with any purchase over $1. Join DQ Rewards and check the new-member offer in the DQ app for your selected restaurant; follow the offer instructions and confirm the discount before paying. Participating locations only. New members only.",
+      "offerDetails": "Free Banana Split Shake.",
+      "reportedDates": "Through October 1, 2026",
+      "membershipRequirement": "Rewards membership required",
+      "reportedEndsOn": "2026-10-01",
+      "detailNotes": [
+        "Join DQ Rewards and check the new-member offer in the DQ app for your selected restaurant; follow the offer instructions and confirm the discount before paying.",
+        "Sources reviewed 2026-09-18: https://www.freestufffinder.com/dairy-queen-coupons/"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T02:46:04.572149+00:00",
+        "validUntil": "2026-09-26T02:46:04.572149+00:00",
+        "sourceURLs": [
+          "https://www.freestufffinder.com/dairy-queen-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
     }
   ],
   "happyHours": [

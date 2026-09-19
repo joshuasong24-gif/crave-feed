@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-18T21:37:37.002133+00:00",
+  "generatedAt": "2026-09-19T03:43:54.675342+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4643,6 +4643,312 @@
         "Sources reviewed 2026-09-18: https://www.freestufffinder.com/dairy-queen-coupons/"
       ],
       "redemptionReady": true
+    },
+    {
+      "id": "scraped-de4d297afa2b9d3d2209",
+      "restaurant": "KFC",
+      "title": "Free 10-piece Hot Wings",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Rewards membership required",
+        "Qualifying purchase required",
+        "With a $15 purchase placed digitally through the KFC website or app",
+        "KFC Rewards members"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Through September 21, 2026, KFC Rewards members can get a free 10-piece Double Crispy Hot Wings with a $15 purchase placed digitally through the KFC website or app. Sign in to KFC Rewards, find this offer for your selected participating restaurant, and confirm the discount before paying. Participation and availability may vary.",
+        "Use your rewards membership to access this offer.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://hip2save.com/deals/kfc-coupons/",
+      "lastCheckedAt": "2026-09-19T03:31:16.865938+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Through September 21, 2026, KFC Rewards members can get a free 10-piece Double Crispy Hot Wings with a $15 purchase placed digitally through the KFC website or app. Sign in to KFC Rewards, find this offer for your selected participating restaurant, and confirm the discount before paying. Participation and availability may vary.",
+      "offerDetails": "Free 10-piece Hot Wings.",
+      "reportedDates": "Through September 21, 2026",
+      "membershipRequirement": "Rewards membership required",
+      "reportedEndsOn": "2026-09-21",
+      "detailNotes": [
+        "Sign in to KFC Rewards, find this offer for your selected participating restaurant, and confirm the discount before paying.",
+        "Participation and availability may vary."
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T03:31:16.865938+00:00",
+        "validUntil": "2026-09-26T03:31:16.865938+00:00",
+        "sourceURLs": [
+          "https://hip2save.com/deals/kfc-coupons/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-b8d305042ed35ffd134a",
+      "restaurant": "Panera",
+      "title": "$5 second entrée",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Qualifying purchase required",
+        "Buy one eligible entrée, get a second for $5. *Purchase required. For a limited time, purchase one whole sandwich, whole salad, whole market bowl, salad stuffer, bowl of soup, or bowl of mac & cheese",
+        "Limit one use per transaction",
+        "Excludes catering orders",
+        "Excludes breakfast items, You Pick Two®, Mix & Match Menu, Family Feasts, Kids’ Meals, lobster items, and orders placed on third party sites",
+        "While supplies last",
+        "Valid at participating US cafes; nonparticipating cafes are excluded.",
+        "Must enter code: BOGO5 at checkout .",
+        "Limit one use per transaction.",
+        "Excludes catering orders."
+      ],
+      "redemptionSteps": [
+        "Must enter code: BOGO5 at checkout .",
+        "Limit one use per transaction.",
+        "Source instructions: Limited-time Panera deal: Buy one eligible entrée, get a second for $5. *Purchase required. For a limited time, purchase one whole sandwich, whole salad, whole market bowl, salad stuffer, bowl of soup, or bowl of mac & cheese and get a second whole sandwich, whole salad, whole market bowl, salad stuffer, bowl of soup, or bowl of mac & cheese for $5, plus any applicable taxes/fees/charges. Valid at participating US cafes; nonparticipating cafes are excluded. Must enter code: BOGO5 at checkout . Limit one use per transaction. Discount applies to lowest priced eligible item. Upcharges due to customer modifications will still apply and will not be discounted. Excludes catering orders. Also excludes breakfast items, You Pick Two®, Mix & Match Menu, Family Feasts, Kids’ Meals, lobster items, and orders placed on third party sites. Not valid with any other coupon or offer. Offer may expire or be terminated by Panera without notice due to error, fraud, computer error, electronic or technical malfunctions, or other unusual or unexpected circumstances. While supplies last. Delivery order minimum $8-10 applies (varies by location), exclusive of any taxes, fees, and charges. Menu prices for delivery may be higher and charges and fees apply. Other restrictions may apply. Full terms: panerabread.com/BOGO5.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Use promo code BOGO5 as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.panerabread.com/en-us/legal/bogo-five-terms.html",
+      "lastCheckedAt": "2026-09-19T03:36:05.339239+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Limited-time Panera deal: Buy one eligible entrée, get a second for $5. *Purchase required. For a limited time, purchase one whole sandwich, whole salad, whole market bowl, salad stuffer, bowl of soup, or bowl of mac & cheese and get a second whole sandwich, whole salad, whole market bowl, salad stuffer, bowl of soup, or bowl of mac & cheese for $5, plus any applicable taxes/fees/charges. Valid at participating US cafes; nonparticipating cafes are excluded. Must enter code: BOGO5 at checkout . Limit one use per transaction. Discount applies to lowest priced eligible item. Upcharges due to customer modifications will still apply and will not be discounted. Excludes catering orders. Also excludes breakfast items, You Pick Two®, Mix & Match Menu, Family Feasts, Kids’ Meals, lobster items, and orders placed on third party sites. Not valid with any other coupon or offer. Offer may expire or be terminated by Panera without notice due to error, fraud, computer error, electronic or technical malfunctions, or other unusual or unexpected circumstances. While supplies last. Delivery order minimum $8-10 applies (varies by location), exclusive of any taxes, fees, and charges. Menu prices for delivery may be higher and charges and fees apply. Other restrictions may apply. Full terms: panerabread.com/BOGO5.",
+      "offerDetails": "$5 second entrée.",
+      "reportedDates": "Reported for September 19, 2026 in publisher roundup; official campaign end unspecified",
+      "reportedStartsOn": "2026-09-19",
+      "detailNotes": [
+        "Limited-time Panera deal: Buy one eligible entrée, get a second for $5. *Purchase required.",
+        "For a limited time, purchase one whole sandwich, whole salad, whole market bowl, salad stuffer, bowl of soup, or bowl of mac & cheese and get a second whole sandwich, whole salad, whole market bowl, salad stuffer, bowl of soup, or bowl of mac & cheese for $5, plus any applicable taxes/fees/charges.",
+        "Discount applies to lowest priced eligible item.",
+        "Upcharges due to customer modifications will still apply and will not be discounted.",
+        "While supplies last.",
+        "Menu prices for delivery may be higher and charges and fees apply.",
+        "Other restrictions may apply.",
+        "Full terms: panerabread.com/BOGO5."
+      ],
+      "code": "BOGO5",
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T03:36:05.339239+00:00",
+        "validUntil": "2026-09-26T03:36:05.339239+00:00",
+        "sourceURLs": [
+          "https://www.panerabread.com/en-us/legal/bogo-five-terms.html"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-884a0b35c3f71a24181e",
+      "restaurant": "White Castle",
+      "title": "BOGO Crispy Chicken Slider",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "App only — access this offer in the app.",
+        "Qualifying purchase required",
+        "White Castle Craver Nation members",
+        "Rewards membership required"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Throughout October 2026, White Castle Craver Nation members can get a buy one Crispy Chicken Slider, get one free offer exclusively in the White Castle app. Check the app offer for your selected participating restaurant and confirm the discount before paying. Craver Nation membership is free; participation, limits and restrictions may vary.",
+        "Use your rewards membership to access this offer.",
+        "App only — access this offer in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Buy one Crispy Chicken Slider; the second is free under this offer. Check the source for quantity and item restrictions.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/p/DdXam-pR7-8/",
+      "lastCheckedAt": "2026-09-19T03:38:56.386463+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Throughout October 2026, White Castle Craver Nation members can get a buy one Crispy Chicken Slider, get one free offer exclusively in the White Castle app. Check the app offer for your selected participating restaurant and confirm the discount before paying. Craver Nation membership is free; participation, limits and restrictions may vary.",
+      "offerDetails": "BOGO Crispy Chicken Slider.",
+      "reportedStartsOn": "2026-10-01",
+      "reportedEndsOn": "2026-10-31",
+      "detailNotes": [
+        "Throughout October 2026, White Castle Craver Nation members can get a buy one Crispy Chicken Slider, get one free offer exclusively in the White Castle app.",
+        "Check the app offer for your selected participating restaurant and confirm the discount before paying.",
+        "Craver Nation membership is free; participation, limits and restrictions may vary."
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T03:38:56.386463+00:00",
+        "validUntil": "2026-09-26T03:38:56.386463+00:00",
+        "sourceURLs": [
+          "https://www.instagram.com/p/DdXam-pR7-8/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-8dc572b5f4760e1b8013",
+      "restaurant": "White Castle",
+      "title": "5 Original Sliders for $3",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "App only — access this offer in the app.",
+        "White Castle Craver Nation members",
+        "Rewards membership required"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Throughout October 2026, White Castle Craver Nation members can get five Original Sliders for $3 through an app-exclusive deal. Check the White Castle app offer for your selected participating restaurant and confirm the price before paying. Craver Nation membership is free; participation, limits and restrictions may vary.",
+        "Use your rewards membership to access this offer.",
+        "App only — access this offer in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/p/DdXam-pR7-8/",
+      "lastCheckedAt": "2026-09-19T03:38:56.386463+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Throughout October 2026, White Castle Craver Nation members can get five Original Sliders for $3 through an app-exclusive deal. Check the White Castle app offer for your selected participating restaurant and confirm the price before paying. Craver Nation membership is free; participation, limits and restrictions may vary.",
+      "offerDetails": "5 Original Sliders for $3.",
+      "reportedStartsOn": "2026-10-01",
+      "reportedEndsOn": "2026-10-31",
+      "detailNotes": [
+        "Throughout October 2026, White Castle Craver Nation members can get five Original Sliders for $3 through an app-exclusive deal.",
+        "Check the White Castle app offer for your selected participating restaurant and confirm the price before paying.",
+        "Craver Nation membership is free; participation, limits and restrictions may vary."
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T03:38:56.386463+00:00",
+        "validUntil": "2026-09-26T03:38:56.386463+00:00",
+        "sourceURLs": [
+          "https://www.instagram.com/p/DdXam-pR7-8/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-5dc2046854d69e9332c9",
+      "restaurant": "White Castle",
+      "title": "Free Dessert-on-a-Stick",
+      "subtitle": "",
+      "category": "dessert",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Qualifying purchase required",
+        "With any combo at White Castle"
+      ],
+      "redemptionSteps": [
+        "Purchase required: buy any combo and use code DESSERT at checkout.",
+        "Check the code and discount for your selected participating restaurant before paying; availability, limits and restrictions may vary.",
+        "Source instructions: October 14–19, 2026: get a free Dessert-on-a-Stick with any combo at White Castle. Purchase required: buy any combo and use code DESSERT at checkout. Check the code and discount for your selected participating restaurant before paying; availability, limits and restrictions may vary.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Use promo code DESSERT as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/DdXam-pR7-8/",
+      "lastCheckedAt": "2026-09-19T03:38:56.386463+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "October 14–19, 2026: get a free Dessert-on-a-Stick with any combo at White Castle. Purchase required: buy any combo and use code DESSERT at checkout. Check the code and discount for your selected participating restaurant before paying; availability, limits and restrictions may vary.",
+      "offerDetails": "Free Dessert-on-a-Stick.",
+      "reportedDates": "October 14–19, 2026",
+      "reportedStartsOn": "2026-10-14",
+      "reportedEndsOn": "2026-10-19",
+      "detailNotes": [
+        "October 14–19, 2026: get a free Dessert-on-a-Stick with any combo at White Castle."
+      ],
+      "code": "DESSERT",
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T03:38:56.386463+00:00",
+        "validUntil": "2026-09-26T03:38:56.386463+00:00",
+        "sourceURLs": [
+          "https://www.instagram.com/p/DdXam-pR7-8/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-8b408f284f5dbbbb77a8",
+      "restaurant": "McDonald's",
+      "title": "Free Friday medium fries",
+      "subtitle": "",
+      "category": "side",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "App required — access this offer in the app.",
+        "Qualifying purchase required",
+        "With a $1+ purchase through the McDonald’s app"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Friday through December 31, 2026, get free medium fries with a $1+ purchase through the McDonald’s app. Find the Friday offer in the app for your selected restaurant and confirm the discount before paying. Offers may vary by location or account.",
+        "App required — access this offer in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": true,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/DdZIjcaR6w0/",
+      "lastCheckedAt": "2026-09-19T03:38:56.386463+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Friday through December 31, 2026, get free medium fries with a $1+ purchase through the McDonald’s app. Find the Friday offer in the app for your selected restaurant and confirm the discount before paying. Offers may vary by location or account.",
+      "offerDetails": "Free Friday medium fries.",
+      "recurrenceLabel": "Every Friday",
+      "reportedEndsOn": "2026-12-31",
+      "detailNotes": [
+        "Find the Friday offer in the app for your selected restaurant and confirm the discount before paying.",
+        "Offers may vary by location or account."
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reported",
+        "checkedAt": "2026-09-19T03:38:56.386463+00:00",
+        "validUntil": "2026-09-26T03:38:56.386463+00:00",
+        "sourceURLs": [
+          "https://www.instagram.com/p/DdZIjcaR6w0/"
+        ],
+        "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
     }
   ],
   "happyHours": [

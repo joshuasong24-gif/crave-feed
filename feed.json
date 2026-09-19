@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-19T03:43:54.675342+00:00",
+  "generatedAt": "2026-09-19T15:35:37.523340+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4948,6 +4948,68 @@
           "https://www.instagram.com/p/DdZIjcaR6w0/"
         ],
         "reason": "A source reports these offer terms; no current independent review is recorded."
+      }
+    },
+    {
+      "id": "scraped-bf396ea9f07a3c0e3567",
+      "restaurant": "Tropical Smoothie Cafe",
+      "title": "Free smoothie with food or bowl purchase",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "App required — download the app to access this offer.",
+        "Rewards membership required",
+        "Qualifying purchase required",
+        "When you purchase a qualifying Tropic Bowl or food item at Tropical Smoothie Cafe during Tropic Fan Fest",
+        "Excludes Toasted Snack Rolls, Sunshine Smoothie, sides, sweets and kids food items",
+        "Tropic Rewards members",
+        "Excludes Toasted Snack Rolls, Sunshine Smoothie, sides, sweets and kids food items.",
+        "Enrollment required; see redemption steps"
+      ],
+      "redemptionSteps": [
+        "Download the Tropical Smoothie Cafe app and join Tropic Rewards.",
+        "Source instructions: September 21–27, 2026: Tropic Rewards members get a free 24 oz. smoothie when you purchase a qualifying Tropic Bowl or food item at Tropical Smoothie Cafe during Tropic Fan Fest. Purchase required. Download the Tropical Smoothie Cafe app and join Tropic Rewards. Add your smoothie and a qualifying Tropic Bowl or food item to your cart, then tap Apply on the Tropic Fan Fest reward at checkout. The official page advertises the offer every day during the week. Excludes Toasted Snack Rolls, Sunshine Smoothie, sides, sweets and kids food items. Check the reward for your selected cafe before paying; participation and availability may vary.",
+        "Use your rewards membership to access this offer.",
+        "App required — download the app to access this offer.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://www.tropicalsmoothiecafe.com/tropic-fan-fest",
+      "lastCheckedAt": "2026-09-19T15:35:37.523340+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "September 21–27, 2026: Tropic Rewards members get a free 24 oz. smoothie when you purchase a qualifying Tropic Bowl or food item at Tropical Smoothie Cafe during Tropic Fan Fest. Purchase required. Download the Tropical Smoothie Cafe app and join Tropic Rewards. Add your smoothie and a qualifying Tropic Bowl or food item to your cart, then tap Apply on the Tropic Fan Fest reward at checkout. The official page advertises the offer every day during the week. Excludes Toasted Snack Rolls, Sunshine Smoothie, sides, sweets and kids food items. Check the reward for your selected cafe before paying; participation and availability may vary.",
+      "offerDetails": "Free smoothie with food or bowl purchase.",
+      "reportedDates": "September 21–27, 2026",
+      "membershipRequirement": "Rewards membership required",
+      "recurrenceLabel": "Every day",
+      "reportedStartsOn": "2026-09-21",
+      "reportedEndsOn": "2026-09-27",
+      "detailNotes": [
+        "September 21–27, 2026: Tropic Rewards members get a free 24 oz. smoothie when you purchase a qualifying Tropic Bowl or food item at Tropical Smoothie Cafe during Tropic Fan Fest.",
+        "Purchase required.",
+        "Add your smoothie and a qualifying Tropic Bowl or food item to your cart, then tap Apply on the Tropic Fan Fest reward at checkout.",
+        "The official page advertises the offer every day during the week.",
+        "Check the reward for your selected cafe before paying; participation and availability may vary.",
+        "Sources reviewed 2026-09-19: https://www.tropicalsmoothiecafe.com/tropic-fan-fest • https://www.dealnews.com/Upcoming-Tropical-Smoothie-Cafe-Tropic-Fan-Fest-Free-24-oz-smoothie-w-purchase/22192168.html"
+      ],
+      "redemptionReady": true,
+      "offerEvidence": {
+        "level": "reviewed",
+        "checkedAt": "2026-09-19T05:00:00+00:00",
+        "validUntil": "2026-09-26T05:00:00+00:00",
+        "sourceURLs": [
+          "https://www.tropicalsmoothiecafe.com/tropic-fan-fest",
+          "https://www.dealnews.com/Upcoming-Tropical-Smoothie-Cafe-Tropic-Fan-Fest-Free-24-oz-smoothie-w-purchase/22192168.html"
+        ],
+        "reason": "The campaign and material terms have a current, source-matched evidence review. This does not confirm store or account eligibility."
       }
     }
   ],

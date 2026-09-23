@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T05:50:01.740860+00:00",
+  "generatedAt": "2026-09-23T06:12:19.719766+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -478,39 +478,6 @@
       "redemptionReady": true
     },
     {
-      "id": "scraped-9ff3f420f6acb3c9db04",
-      "restaurant": "TGI Fridays",
-      "title": "Free six-piece dumpling order",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online or in the app.",
-        "With an online or in-app purchase over $25"
-      ],
-      "redemptionSteps": [
-        "Source instructions: Sept. 26: Free six-piece dumpling order with an online or in-app purchase over $25.",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-20T16:46:53.081672+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Sept. 26: Free six-piece dumpling order with an online or in-app purchase over $25.",
-      "offerDetails": "Free six-piece dumpling order.",
-      "reportedDates": "Sept. 26",
-      "reportedStartsOn": "2026-09-26",
-      "reportedEndsOn": "2026-09-26",
-      "redemptionReady": true
-    },
-    {
       "id": "scraped-8a646bb856a7e808d6fb",
       "restaurant": "Tropical Smoothie Cafe",
       "title": "$2 24oz smoothie",
@@ -615,39 +582,6 @@
       "detailNotes": [
         "The digital offer refreshes daily."
       ],
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-91b0bc968b0d31e6f225",
-      "restaurant": "Wendy's",
-      "title": "$1.99 10-piece nuggets",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online or in the app.",
-        "With any online or in-app purchase",
-        "Offer valid once per day."
-      ],
-      "redemptionSteps": [
-        "Source instructions: Through Sept. 27: Get 10pc Crispy or Spicy Nuggets for $1.99 with any online or in-app purchase. Offer valid once per day.",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.736671+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Through Sept. 27: Get 10pc Crispy or Spicy Nuggets for $1.99 with any online or in-app purchase. Offer valid once per day.",
-      "offerDetails": "$1.99 10-piece nuggets.",
-      "reportedDates": "Through Sept. 27",
-      "reportedEndsOn": "2026-09-27",
       "redemptionReady": true
     },
     {
@@ -4248,118 +4182,6 @@
       "membershipRequirement": "Rewards membership required",
       "reportedStartsOn": "2026-09-26",
       "reportedEndsOn": "2026-09-26",
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-50863e1e90afdacb02a2",
-      "restaurant": "Wendy's",
-      "title": "Free 6-Piece Nuggets",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "With purchase at wendy's enjoy free 6-piece nuggets with every purchase at wendy's every wednesday throughout the entire year! this offer is valid when you place your order through the wendy's app"
-      ],
-      "redemptionSteps": [
-        "Source instructions: FREE 6-Piece Nuggets with Purchase at Wendy's Enjoy free 6-piece nuggets with every purchase at Wendy's every Wednesday throughout the entire year! This offer is valid when you place your order through the Wendy's app. Don't miss out on this delicious deal.",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://www.freestufffinder.com/how-to-get-free-food/",
-      "lastCheckedAt": "2026-09-22T22:51:37.184030+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "FREE 6-Piece Nuggets with Purchase at Wendy's Enjoy free 6-piece nuggets with every purchase at Wendy's every Wednesday throughout the entire year! This offer is valid when you place your order through the Wendy's app. Don't miss out on this delicious deal.",
-      "offerDetails": "Free 6-Piece Nuggets.",
-      "recurrenceLabel": "Every Wednesday",
-      "detailNotes": [
-        "Don't miss out on this delicious deal."
-      ],
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-81fb238f1c0b4ea5a8e9",
-      "restaurant": "Chipotle",
-      "title": "Free Quesadilla",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "With purchase at chipotle (on 9/24) from september 24th to september 25th, chipotle will be offering a free quesadilla with a digital purchase of $20 or more on the chipotle app ( ios or android ), or via chipotle"
-      ],
-      "redemptionSteps": [
-        "Source instructions: FREE Quesadilla with Purchase at Chipotle (On 9/24) From September 24th to September 25th, Chipotle will be offering a free quesadilla with a digital purchase of $20 or more on the Chipotle App ( iOS or Android ), or via Chipotle.com with code NQD2026 ! Celebrate National Quesadilla Day with this amazing freebie!",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Use promo code NQD2026 as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://www.freestufffinder.com/how-to-get-free-food/",
-      "lastCheckedAt": "2026-09-22T22:51:37.150870+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "FREE Quesadilla with Purchase at Chipotle (On 9/24) From September 24th to September 25th, Chipotle will be offering a free quesadilla with a digital purchase of $20 or more on the Chipotle App ( iOS or Android ), or via Chipotle.com with code NQD2026 ! Celebrate National Quesadilla Day with this amazing freebie!",
-      "offerDetails": "Free Quesadilla.",
-      "reportedDates": "September 24th",
-      "reportedStartsOn": "2026-09-24",
-      "reportedEndsOn": "2026-09-24",
-      "detailNotes": [
-        "Celebrate National Quesadilla Day with this amazing freebie!"
-      ],
-      "code": "NQD2026",
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-a892650845d21a2c954e",
-      "restaurant": "Chipotle",
-      "title": "Free quesadilla",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "With a digital purchase of $20 or more on the Chipotle App ( iOS or Android ), or via Chipotle"
-      ],
-      "redemptionSteps": [
-        "Source instructions: From September 24th to September 25th, Chipotle will be offering a free quesadilla with a digital purchase of $20 or more on the Chipotle App ( iOS or Android ), or via Chipotle.com with code NQD2026 ! Celebrate National Quesadilla Day with this amazing freebie!",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Use promo code NQD2026 as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://www.freestufffinder.com/chipotle-deals/",
-      "lastCheckedAt": "2026-09-22T22:51:51.686412+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "From September 24th to September 25th, Chipotle will be offering a free quesadilla with a digital purchase of $20 or more on the Chipotle App ( iOS or Android ), or via Chipotle.com with code NQD2026 ! Celebrate National Quesadilla Day with this amazing freebie!",
-      "offerDetails": "Free quesadilla.",
-      "reportedDates": "September 24th",
-      "reportedStartsOn": "2026-09-24",
-      "reportedEndsOn": "2026-09-24",
-      "detailNotes": [
-        "Celebrate National Quesadilla Day with this amazing freebie!"
-      ],
-      "code": "NQD2026",
       "redemptionReady": true
     },
     {
@@ -9494,52 +9316,6 @@
       }
     },
     {
-      "id": "312deals-107167",
-      "restaurant": "Drew's on Halsted",
-      "title": "Half-Off Bottles of Wine",
-      "subtitle": "Half-Off Bottles of Wine",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Half off bottles of wine all night Tuesday"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://drewsonhalsted.com/",
-      "lastCheckedAt": "2026-09-23T05:25:58.082331+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Half-Off Bottles of Wine\nHalf off bottles of wine all night Tuesday\nBottles of wine (half off)",
-      "locationDetails": "3201 N Halsted St, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:58.082331+00:00",
-        "validUntil": "2026-09-30T05:25:58.082331+00:00",
-        "sourceURLs": [
-          "https://drewsonhalsted.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "daily_special",
-        "days": [
-          2
-        ],
-        "allDay": false
-      }
-    },
-    {
       "id": "312deals-107168",
       "restaurant": "Drew's on Halsted",
       "title": "Cabaret Night",
@@ -11210,55 +10986,6 @@
         "allDay": false,
         "startTime": "12:00",
         "endTime": "22:00"
-      }
-    },
-    {
-      "id": "312deals-107112",
-      "restaurant": "Reno",
-      "title": "$1 Chicken Wings",
-      "subtitle": "$1 Chicken Wings",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Dine-in only"
-      ],
-      "redemptionSteps": [
-        "$1 chicken wings every Monday, choose from Reno spicy, hot honey or BBQ"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://renochicago.com/specials",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$1 Chicken Wings\n$1 chicken wings every Monday, choose from Reno spicy, hot honey or BBQ\n$1 Chicken wings - Reno spicy\n$1 Chicken wings - Hot honey\n$1 Chicken wings - BBQ\nDine-in only",
-      "locationDetails": "2607 N MILWAUKEE AVE 1ST FLOOR, Chicago, IL 60647",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://renochicago.com/specials"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Logan Square",
-        "kind": "daily_special",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "itemPrice": 1.0
       }
     },
     {
@@ -16074,51 +15801,6 @@
         ],
         "allDay": false,
         "itemPrice": 1.99
-      }
-    },
-    {
-      "id": "312deals-106614",
-      "restaurant": "Wendy's",
-      "title": "$3 Off $20+ Purchase",
-      "subtitle": "$3 Off $20+ Purchase",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Minimum $20 purchase required, digital offer via Wendy's app or website"
-      ],
-      "redemptionSteps": [
-        "$3 off orders $20 or more"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://www.wendys.com/deals",
-      "lastCheckedAt": "2026-09-23T05:26:02.007878+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$3 Off $20+ Purchase\n$3 off orders $20 or more\nMinimum $20 purchase required, digital offer via Wendy's app or website",
-      "locationDetails": "3610 N Western Ave, Chicago, IL 60618",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:02.007878+00:00",
-        "validUntil": "2026-09-30T05:26:02.007878+00:00",
-        "sourceURLs": [
-          "https://www.wendys.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "chain_app_deal",
-        "days": [],
-        "allDay": false
       }
     },
     {
@@ -23087,60 +22769,6 @@
       }
     },
     {
-      "id": "312deals-10614",
-      "restaurant": "Wendy's",
-      "title": "Delivery Discount",
-      "subtitle": "Delivery Discount",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Orders $20+, limited time only, participating locations only, delivery via app, wendys.com, DoorDash, Grubhub, Postmates, or Uber Eats"
-      ],
-      "redemptionSteps": [
-        "$3 off delivery orders of $20 or more"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://locations.wendys.com/united-states/il/chicago/4901-w-north-avenue?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search",
-      "lastCheckedAt": "2026-09-23T05:26:03.988816+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Delivery Discount\n$3 off delivery orders of $20 or more\nOrders $20+, limited time only, participating locations only, delivery via app, wendys.com, DoorDash, Grubhub, Postmates, or Uber Eats",
-      "locationDetails": "4901 W North Ave, Chicago, IL 60639",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:03.988816+00:00",
-        "validUntil": "2026-09-30T05:26:03.988816+00:00",
-        "sourceURLs": [
-          "https://locations.wendys.com/united-states/il/chicago/4901-w-north-avenue?utm_source=Yext&utm_medium=Google_My_Business&utm_campaign=Local_Search"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Austin",
-        "kind": "chain_app_deal",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false
-      }
-    },
-    {
       "id": "312deals-106158",
       "restaurant": "See Thru Chinese Kitchen",
       "title": "Free Egg Rolls (2)",
@@ -24836,59 +24464,6 @@
         "startTime": "14:00",
         "endTime": "18:00"
       }
-    },
-    {
-      "id": "312deals-1427",
-      "restaurant": "Cafe Ba-Ba-Reeba!",
-      "title": "Flamenco Show Dinner",
-      "subtitle": "Flamenco Show Dinner",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Tickets required for purchase"
-      ],
-      "redemptionSteps": [
-        "Enjoy tapas and a flamenco performance alongside Ba-Ba favorites on Monday, March 16 from 6:00 - 8:00 PM"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.cafebabareeba.com/",
-      "lastCheckedAt": "2026-09-23T05:26:05.977046+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Flamenco Show Dinner\nEnjoy tapas and a flamenco performance alongside Ba-Ba favorites on Monday, March 16 from 6:00 - 8:00 PM\nTickets required for purchase",
-      "locationDetails": "2024 N Halsted St, Chicago, IL 60614",
-      "timeWindow": "6 PM–8 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:05.977046+00:00",
-        "validUntil": "2026-09-30T05:26:05.977046+00:00",
-        "sourceURLs": [
-          "https://www.cafebabareeba.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "event_driven",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "startTime": "18:00",
-        "endTime": "20:00"
-      },
-      "reportedStartsOn": "2027-03-16",
-      "reportedEndsOn": "2027-03-16",
-      "eventCondition": "Enjoy tapas and a flamenco performance alongside Ba-Ba favorites on Monday, March 16 from 6:00 - 8:00 PM"
     },
     {
       "id": "312deals-1581",

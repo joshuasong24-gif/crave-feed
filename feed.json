@@ -8102,50 +8102,6 @@
       "eventCondition": "Monthly cultural event"
     },
     {
-      "id": "312deals-107222",
-      "restaurant": "Level Sporting Club",
-      "title": "Bingo & Beats",
-      "subtitle": "Bingo & Beats",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Monthly bingo and music event"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.levelsportingclub.com/",
-      "lastCheckedAt": "2026-09-23T05:25:58.082331+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Bingo & Beats\nMonthly bingo and music event",
-      "locationDetails": "3343 N Clark St, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:58.082331+00:00",
-        "validUntil": "2026-09-30T05:25:58.082331+00:00",
-        "sourceURLs": [
-          "https://www.levelsportingclub.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "event_driven",
-        "days": [],
-        "allDay": false
-      },
-      "eventCondition": "Monthly bingo and music event"
-    },
-    {
       "id": "312deals-107223",
       "restaurant": "Level Sporting Club",
       "title": "Level Networking Club",
@@ -8740,52 +8696,6 @@
         "kind": "daily_special",
         "days": [
           4
-        ],
-        "allDay": false
-      }
-    },
-    {
-      "id": "312deals-107176",
-      "restaurant": "Spin Chicago",
-      "title": "Tuesday Night Deal",
-      "subtitle": "Tuesday Night Deal",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Midweek Tuesday deal for $9 per guest with crew activities and ping pong"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://wearespin.com/location/chicago/",
-      "lastCheckedAt": "2026-09-23T05:25:58.082331+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Tuesday Night Deal\nMidweek Tuesday deal for $9 per guest with crew activities and ping pong",
-      "locationDetails": "344 N STATE ST GROUND & LOWER LEVEL, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:58.082331+00:00",
-        "validUntil": "2026-09-30T05:25:58.082331+00:00",
-        "sourceURLs": [
-          "https://wearespin.com/location/chicago/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "daily_special",
-        "days": [
-          2
         ],
         "allDay": false
       }
@@ -11054,58 +10964,6 @@
       }
     },
     {
-      "id": "312deals-107072",
-      "restaurant": "Punch Bowl Social",
-      "title": "Happy Hour - 50% Off Games",
-      "subtitle": "Happy Hour - 50% Off Games",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Times vary per location"
-      ],
-      "redemptionSteps": [
-        "50% off all games during Happy Hour"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://punchbowlsocial.com/happy-hour",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Happy Hour - 50% Off Games\n50% off all games during Happy Hour\nTimes vary per location",
-      "locationDetails": "310 N Green St, Chicago, IL 60607",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://punchbowlsocial.com/happy-hour"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday",
-      "discovery": {
-        "neighborhood": "West Loop",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "allDay": false
-      }
-    },
-    {
       "id": "312deals-107073",
       "restaurant": "Punch Bowl Social",
       "title": "Happy Hour - Atlanta Special",
@@ -11454,55 +11312,6 @@
         "allDay": false,
         "itemPrice": 35.0
       }
-    },
-    {
-      "id": "312deals-107042",
-      "restaurant": "Happy Camper",
-      "title": "F*ckin' Bingo",
-      "subtitle": "F*ckin' Bingo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Select Sundays only, $10 cash donation to local charity, seating on first-come basis"
-      ],
-      "redemptionSteps": [
-        "Weekly bingo night on select Sundays with suggested $10 donation to local charity"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://happycamper.pizza/old-town/events",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "F*ckin' Bingo\nWeekly bingo night on select Sundays with suggested $10 donation to local charity\nSelect Sundays only, $10 cash donation to local charity, seating on first-come basis",
-      "locationDetails": "1209 N WELLS ST 1, Chicago, IL 60610",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://happycamper.pizza/old-town/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "Old Town",
-        "kind": "event_driven",
-        "days": [
-          7
-        ],
-        "allDay": false
-      },
-      "eventCondition": "Weekly bingo night on select Sundays with suggested $10 donation to local charity"
     },
     {
       "id": "312deals-107044",
@@ -12385,55 +12194,6 @@
         "itemPrice": 0.0
       },
       "eventCondition": "Traditional Köln beer hall service with rotating Kölsch pours on coasters. After five notches, receive a complimentary pretzel."
-    },
-    {
-      "id": "312deals-106886",
-      "restaurant": "Dovetail Brewery",
-      "title": "Music Bingo with Ben",
-      "subtitle": "Music Bingo with Ben",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Every other Wednesday, Music Bingo hosted by taproom manager Ben. Match song snippets to squares and win prizes."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dovetailbrewery.com/events-2025",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Music Bingo with Ben\nEvery other Wednesday, Music Bingo hosted by taproom manager Ben. Match song snippets to squares and win prizes.",
-      "locationDetails": "1800 W Belle Plaine Ave, Chicago, IL 60613",
-      "timeWindow": "6 PM–8 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://www.dovetailbrewery.com/events-2025"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "event_driven",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "startTime": "18:00",
-        "endTime": "20:00"
-      },
-      "eventCondition": "Every other Wednesday, Music Bingo hosted by taproom manager Ben. Match song snippets to squares and win prizes."
     },
     {
       "id": "312deals-106887",
@@ -14050,110 +13810,6 @@
       }
     },
     {
-      "id": "312deals-106667",
-      "restaurant": "Guthries Tavern",
-      "title": "Jeopardy! Bar League",
-      "subtitle": "Jeopardy! Bar League",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Free to play"
-      ],
-      "redemptionSteps": [
-        "Jeopardy! Bar League every Thursday at 7:30 PM. 1st Place wins $200 cash, 2nd place wins $50 gift card"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.guthriestavern.com/",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Jeopardy! Bar League\nJeopardy! Bar League every Thursday at 7:30 PM. 1st Place wins $200 cash, 2nd place wins $50 gift card\nFree to play",
-      "locationDetails": "1300 W Addison St, Chicago, IL 60613",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "http://www.guthriestavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "event_driven",
-        "days": [
-          4
-        ],
-        "allDay": false
-      },
-      "eventCondition": "Jeopardy! Bar League every Thursday at 7:30 PM. 1st Place wins $200 cash, 2nd place wins $50 gift card"
-    },
-    {
-      "id": "312deals-106668",
-      "restaurant": "Guthries Tavern",
-      "title": "Euchre Leagues",
-      "subtitle": "Euchre Leagues",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Year-round leagues. Email euchre@guthriestavern.com to be added to the list"
-      ],
-      "redemptionSteps": [
-        "Euchre leagues run all four seasons year-round"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.guthriestavern.com/",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Euchre Leagues\nEuchre leagues run all four seasons year-round\nYear-round leagues. Email euchre@guthriestavern.com to be added to the list",
-      "locationDetails": "1300 W Addison St, Chicago, IL 60613",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "http://www.guthriestavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "event_driven",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false
-      },
-      "eventCondition": "Euchre leagues run all four seasons year-round"
-    },
-    {
       "id": "312deals-106666",
       "restaurant": "Lonesome Rose / Sweethearts",
       "title": "Happy Hour",
@@ -15228,55 +14884,6 @@
         "allDay": false,
         "itemPrice": 10.0
       }
-    },
-    {
-      "id": "312deals-106625",
-      "restaurant": "Streeter's Tavern",
-      "title": "Halloween Tavern Tour",
-      "subtitle": "Halloween Tavern Tour",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Halloween tavern tour on Saturday October 31"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://streeterstavern.com/",
-      "lastCheckedAt": "2026-09-23T05:26:02.007878+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Halloween Tavern Tour\nHalloween tavern tour on Saturday October 31",
-      "locationDetails": "50 E Chicago Ave, Chicago, IL 60611, USA",
-      "timeWindow": "12:30 PM–4 AM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:02.007878+00:00",
-        "validUntil": "2026-09-30T05:26:02.007878+00:00",
-        "sourceURLs": [
-          "https://streeterstavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Saturday",
-      "discovery": {
-        "neighborhood": "Streeterville",
-        "kind": "event_driven",
-        "days": [
-          6
-        ],
-        "allDay": false
-      },
-      "reportedStartsOn": "2026-10-31",
-      "reportedEndsOn": "2026-10-31",
-      "eventCondition": "Halloween tavern tour on Saturday October 31"
     },
     {
       "id": "312deals-106626",
@@ -16854,53 +16461,6 @@
       }
     },
     {
-      "id": "312deals-106566",
-      "restaurant": "Blue Bayou",
-      "title": "Progressive Jackpot Bingo",
-      "subtitle": "Progressive Jackpot Bingo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Progressive jackpot bingo every Tuesday at 7 PM"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.bluebayouchitown.com/",
-      "lastCheckedAt": "2026-09-23T05:26:02.007878+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Progressive Jackpot Bingo\nProgressive jackpot bingo every Tuesday at 7 PM",
-      "locationDetails": "3734 N SOUTHPORT AVE 1-2, Chicago, IL 60613",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:02.007878+00:00",
-        "validUntil": "2026-09-30T05:26:02.007878+00:00",
-        "sourceURLs": [
-          "https://www.bluebayouchitown.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "event_driven",
-        "days": [
-          2
-        ],
-        "allDay": false
-      },
-      "eventCondition": "Progressive jackpot bingo every Tuesday at 7 PM"
-    },
-    {
       "id": "312deals-106567",
       "restaurant": "Blue Bayou",
       "title": "Taco Tuesdays",
@@ -17941,50 +17501,6 @@
       "eventCondition": "Bears vs. Jets game day on Sunday, October 4 at noon with Chicago-style hot dogs and game-day specials"
     },
     {
-      "id": "312deals-106514",
-      "restaurant": "Clover Sports Bar",
-      "title": "2026 Darts Leagues",
-      "subtitle": "2026 Darts Leagues",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Competitive darts league for 2026 at Clover River West"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://cloverchicago.com/",
-      "lastCheckedAt": "2026-09-23T05:26:02.007878+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "2026 Darts Leagues\nCompetitive darts league for 2026 at Clover River West",
-      "locationDetails": "722-724 W GRAND AVE, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:02.007878+00:00",
-        "validUntil": "2026-09-30T05:26:02.007878+00:00",
-        "sourceURLs": [
-          "https://cloverchicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "West Town",
-        "kind": "event_driven",
-        "days": [],
-        "allDay": false
-      },
-      "eventCondition": "Competitive darts league for 2026 at Clover River West"
-    },
-    {
       "id": "312deals-106498",
       "restaurant": "Vaughan'S Pub",
       "title": "Happy Hour",
@@ -18973,53 +18489,6 @@
       "eventCondition": "Standard Bar & Grill opens early for select Arsenal Premier League matches throughout the 2026–27 season to serve breakfast and cold drinks for match day viewing"
     },
     {
-      "id": "312deals-106376",
-      "restaurant": "Duffy's Tavern and Grille",
-      "title": "Game Night Mondays",
-      "subtitle": "Game Night Mondays",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Game night event on Mondays at Duffy's"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://duffys-tavern.com/",
-      "lastCheckedAt": "2026-09-23T05:26:02.007878+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Game Night Mondays\nGame night event on Mondays at Duffy's",
-      "locationDetails": "420 W Diversey Pkwy, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:02.007878+00:00",
-        "validUntil": "2026-09-30T05:26:02.007878+00:00",
-        "sourceURLs": [
-          "https://duffys-tavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "event_driven",
-        "days": [
-          1
-        ],
-        "allDay": false
-      },
-      "eventCondition": "Game night event on Mondays at Duffy's"
-    },
-    {
       "id": "312deals-106378",
       "restaurant": "Duffy's Tavern and Grille",
       "title": "Loyalty Rewards Program",
@@ -19950,53 +19419,6 @@
       "eventCondition": "TNF watch party on Thursday with audio"
     },
     {
-      "id": "312deals-106351",
-      "restaurant": "Theory Chicago",
-      "title": "Sunday Football Watch Party",
-      "subtitle": "Sunday Football Watch Party",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Manchester United at 10:30am, NFL games with audio on all games"
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.theorychicago.com/specials/",
-      "lastCheckedAt": "2026-09-23T05:26:03.988816+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Sunday Football Watch Party\nManchester United at 10:30am, NFL games with audio on all games",
-      "locationDetails": "9 W Hubbard St, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:03.988816+00:00",
-        "validUntil": "2026-09-30T05:26:03.988816+00:00",
-        "sourceURLs": [
-          "https://www.theorychicago.com/specials/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "game_day",
-        "days": [
-          7
-        ],
-        "allDay": false
-      },
-      "eventCondition": "Manchester United at 10:30am, NFL games with audio on all games"
-    },
-    {
       "id": "312deals-106341",
       "restaurant": "Recess / City Hall",
       "title": "Brunch",
@@ -20839,55 +20261,6 @@
       "eventCondition": "Oktoberfest celebration with Fest Bier release, live music, and German style foods on Saturday September 26th"
     },
     {
-      "id": "312deals-106253",
-      "restaurant": "Suncatcher Brewing",
-      "title": "Jingo Jongo Bingo",
-      "subtitle": "Jingo Jongo Bingo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Bingo with weird prizes and an even weirder host, every Wednesday starting in the Fall"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.suncatcherbrewing.com/events",
-      "lastCheckedAt": "2026-09-23T05:26:03.988816+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Jingo Jongo Bingo\nBingo with weird prizes and an even weirder host, every Wednesday starting in the Fall",
-      "locationDetails": "2849 W CHICAGO AVE, CHICAGO, IL 60622",
-      "timeWindow": "6 PM–8 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:03.988816+00:00",
-        "validUntil": "2026-09-30T05:26:03.988816+00:00",
-        "sourceURLs": [
-          "https://www.suncatcherbrewing.com/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "Humboldt Park",
-        "kind": "event_driven",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "startTime": "18:00",
-        "endTime": "20:00"
-      },
-      "eventCondition": "Bingo with weird prizes and an even weirder host, every Wednesday starting in the Fall"
-    },
-    {
       "id": "312deals-106254",
       "restaurant": "Suncatcher Brewing",
       "title": "Vinyl Night",
@@ -20983,53 +20356,6 @@
         "itemPrice": 12.0
       },
       "eventCondition": "Game night 6-10pm with 15% off beer and wine, and $12 Roll Your Own Flight"
-    },
-    {
-      "id": "312deals-106208",
-      "restaurant": "Marz Community Brewing Company",
-      "title": "Music Bingo",
-      "subtitle": "Music Bingo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Music Bingo every Monday at 7:00 PM at Mothership"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://marz.beer/",
-      "lastCheckedAt": "2026-09-23T05:26:03.988816+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Music Bingo\nMusic Bingo every Monday at 7:00 PM at Mothership",
-      "locationDetails": "3630 S Iron St, Chicago, IL 60609",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:03.988816+00:00",
-        "validUntil": "2026-09-30T05:26:03.988816+00:00",
-        "sourceURLs": [
-          "https://marz.beer/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Gage Park",
-        "kind": "event_driven",
-        "days": [
-          1
-        ],
-        "allDay": false
-      },
-      "eventCondition": "Music Bingo every Monday at 7:00 PM at Mothership"
     },
     {
       "id": "312deals-106207",
@@ -24703,52 +24029,6 @@
       }
     },
     {
-      "id": "312deals-1677",
-      "restaurant": "Goose Island Beer Company",
-      "title": "Thursday Bingo Night",
-      "subtitle": "Thursday Bingo Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly bingo hosted by Baig of Tricks at 6:30 p.m. Winners get mystery surprise each week"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.gooseisland.com/taproom",
-      "lastCheckedAt": "2026-09-23T05:26:07.956495+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Thursday Bingo Night\nWeekly bingo hosted by Baig of Tricks at 6:30 p.m. Winners get mystery surprise each week",
-      "locationDetails": "603 N SACRAMENTO BLVD 1ST, Chicago, IL 60612",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:07.956495+00:00",
-        "validUntil": "2026-09-30T05:26:07.956495+00:00",
-        "sourceURLs": [
-          "https://www.gooseisland.com/taproom"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Humboldt Park",
-        "kind": "happy_hour",
-        "days": [
-          4
-        ],
-        "allDay": false
-      }
-    },
-    {
       "id": "312deals-1728",
       "restaurant": "Kie-Gol-Lanee Comida Tradicional Oaxaquena",
       "title": "$49 Prix Fixe Special",
@@ -25506,60 +24786,6 @@
         ],
         "allDay": false,
         "itemPrice": 0.0
-      }
-    },
-    {
-      "id": "312deals-6605",
-      "restaurant": "King Ktv",
-      "title": "$3 Parking Validation",
-      "subtitle": "$3 Parking Validation",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "3 hours maximum, public parking across the street"
-      ],
-      "redemptionSteps": [
-        "$3 parking validation for 3 hours"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://kingktvchicago.com/",
-      "lastCheckedAt": "2026-09-23T05:26:07.956495+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$3 Parking Validation\n$3 parking validation for 3 hours\n3 hours maximum, public parking across the street",
-      "locationDetails": "2002 S WENTWORTH AVE 2ND 1-4, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:07.956495+00:00",
-        "validUntil": "2026-09-30T05:26:07.956495+00:00",
-        "sourceURLs": [
-          "https://kingktvchicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false
       }
     },
     {
@@ -34605,61 +33831,6 @@
       }
     },
     {
-      "id": "312deals-7162",
-      "restaurant": "Rick'S Cabaret",
-      "title": "Happy hour specials",
-      "subtitle": "Free Cover Pass Newsletter Signup",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must join digital mailing list"
-      ],
-      "redemptionSteps": [
-        "Free cover pass for joining newsletter to receive updates on specials, events & features"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://www.rickschicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Cover Pass Newsletter Signup\nFree cover pass for joining newsletter to receive updates on specials, events & features\nMust join digital mailing list",
-      "locationDetails": "1531 N KINGSBURY ST 1, Chicago, IL 60642",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.rickschicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-7164",
       "restaurant": "Spin Chicago",
       "title": "Sip & Smash",
@@ -39648,102 +38819,6 @@
       "eventCondition": "Official Chicago Illini Club watch party every Illini game day. Game-day specials include a smashburger + fries + Miller Lite combo for $17 and wings + Miller Lite for $18."
     },
     {
-      "id": "312deals-106080",
-      "restaurant": "Boss Bar",
-      "title": "Friday DJ Set – Dorian Westwood",
-      "subtitle": "Friday DJ Set – Dorian Westwood",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly Friday DJ set with Dorian Westwood spinning house music, reggaeton, and classic hip hop starting at 11 PM."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.thebossbar.com/events",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Friday DJ Set – Dorian Westwood\nWeekly Friday DJ set with Dorian Westwood spinning house music, reggaeton, and classic hip hop starting at 11 PM.",
-      "locationDetails": "418-420 N CLARK ST 1ST, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://www.thebossbar.com/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "event_driven",
-        "days": [
-          5
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Weekly Friday DJ set with Dorian Westwood spinning house music, reggaeton, and classic hip hop starting at 11 PM."
-    },
-    {
-      "id": "312deals-106081",
-      "restaurant": "Boss Bar",
-      "title": "Saturday Rotating Chicago DJs",
-      "subtitle": "Saturday Rotating Chicago DJs",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly Saturday night open format music with rotating Chicago DJs starting at 10 PM."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.thebossbar.com/events",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Saturday Rotating Chicago DJs\nWeekly Saturday night open format music with rotating Chicago DJs starting at 10 PM.",
-      "locationDetails": "418-420 N CLARK ST 1ST, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://www.thebossbar.com/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Saturday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "event_driven",
-        "days": [
-          6
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Weekly Saturday night open format music with rotating Chicago DJs starting at 10 PM."
-    },
-    {
       "id": "312deals-7877",
       "restaurant": "Boss Bar",
       "title": "Reported restaurant special",
@@ -40166,106 +39241,6 @@
       }
     },
     {
-      "id": "312deals-7126",
-      "restaurant": "Bally'S",
-      "title": "Give $5 Get $10",
-      "subtitle": "Give $5 Get $10",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be Bally Rewards member, free play expires within 24 hours"
-      ],
-      "redemptionSteps": [
-        "Every Wednesday 8AM-11:59PM - donate $5 to charity of the month, receive $10 free play"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://casinos.ballys.com/chicago/promotions.htm",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Give $5 Get $10\nEvery Wednesday 8AM-11:59PM - donate $5 to charity of the month, receive $10 free play\nMust be Bally Rewards member, free play expires within 24 hours",
-      "locationDetails": "600 N WABASH AVE, Chicago, IL 60611",
-      "timeWindow": "8 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://casinos.ballys.com/chicago/promotions.htm"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "daily_special",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "08:00",
-        "endTime": "23:59"
-      }
-    },
-    {
-      "id": "312deals-7130",
-      "restaurant": "Bally'S",
-      "title": "$125K Luck of the Chi-rish",
-      "subtitle": "$125K Luck of the Chi-rish",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be present to win, must activate entries at Bally Rewards Kiosk starting at 6PM"
-      ],
-      "redemptionSteps": [
-        "Saturdays in March at 8PM - 10 lucky guests selected for Chicago River Game Board with minimum $500 free slot play, chance at $10,000 cash"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://casinos.ballys.com/chicago/promotions.htm",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$125K Luck of the Chi-rish\nSaturdays in March at 8PM - 10 lucky guests selected for Chicago River Game Board with minimum $500 free slot play, chance at $10,000 cash\nMust be present to win, must activate entries at Bally Rewards Kiosk starting at 6PM",
-      "locationDetails": "600 N WABASH AVE, Chicago, IL 60611",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://casinos.ballys.com/chicago/promotions.htm"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Saturday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          6
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-7823",
       "restaurant": "Bally'S",
       "title": "Weekend Happy Hour",
@@ -40317,161 +39292,6 @@
       }
     },
     {
-      "id": "312deals-106070",
-      "restaurant": "Bally'S",
-      "title": "$25,000 Baccarat Hot Seat",
-      "subtitle": "$25,000 Baccarat Hot Seat",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be 21+. Must be playing with a Bally Rewards Card. Must have play actively rated prior to the start of each drawing."
-      ],
-      "redemptionSteps": [
-        "One Baccarat player awarded $1,000 cash every hour. Every active player at the winner's table receives a $100 free bet. Prizes double at 11PM — one winner gets $2,000 cash and all active players at the winner's table receive a $200 free bet. Saturdays in September, 9PM–11PM."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://casinos.ballys.com/chicago/promotions.htm",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$25,000 Baccarat Hot Seat\nOne Baccarat player awarded $1,000 cash every hour. Every active player at the winner's table receives a $100 free bet. Prizes double at 11PM — one winner gets $2,000 cash and all active players at the winner's table receive a $200 free bet. Saturdays in September, 9PM–11PM.\nMust be 21+. Must be playing with a Bally Rewards Card. Must have play actively rated prior to the start of each drawing.",
-      "locationDetails": "600 N WABASH AVE, Chicago, IL 60611",
-      "timeWindow": "9 PM–11 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://casinos.ballys.com/chicago/promotions.htm"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Saturday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "event_driven",
-        "days": [
-          6
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "21:00",
-        "endTime": "23:00"
-      },
-      "eventCondition": "One Baccarat player awarded $1,000 cash every hour. Every active player at the winner's table receives a $100 free bet. Prizes double at 11PM — one winner gets $2,000 cash and all active players at the winner's table receive a $200 free bet. Saturdays in September, 9PM–11PM."
-    },
-    {
-      "id": "312deals-106072",
-      "restaurant": "Bally'S",
-      "title": "Confetti Cash Kiosk Game",
-      "subtitle": "Confetti Cash Kiosk Game",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be 21+. For invited guests only."
-      ],
-      "redemptionSteps": [
-        "Play at any Bally Rewards Kiosk each Tuesday in September to reveal a free slot play prize. Win up to $1,000 in free slot play."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://casinos.ballys.com/chicago/promotions.htm",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Confetti Cash Kiosk Game\nPlay at any Bally Rewards Kiosk each Tuesday in September to reveal a free slot play prize. Win up to $1,000 in free slot play.\nMust be 21+. For invited guests only.",
-      "locationDetails": "600 N WABASH AVE, Chicago, IL 60611",
-      "timeWindow": "10 AM–8 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://casinos.ballys.com/chicago/promotions.htm"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "loyalty_reward",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "10:00",
-        "endTime": "20:00"
-      }
-    },
-    {
-      "id": "312deals-106073",
-      "restaurant": "Bally'S",
-      "title": "Gift Giveaway",
-      "subtitle": "Gift Giveaway",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be 21+. Earn points 9AM–9:59PM. Claim gift or free play at Bally Rewards kiosk 9AM–9:59PM or while supplies last. Redeem gift at Promotions Center 10AM–10PM. Free play valid for 24 hours of issuance."
-      ],
-      "redemptionSteps": [
-        "Earn 100 Bally Rewards points to receive a gift or $15 in free play. Available Wednesdays and Fridays, 10AM–10PM."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://casinos.ballys.com/chicago/promotions.htm",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Gift Giveaway\nEarn 100 Bally Rewards points to receive a gift or $15 in free play. Available Wednesdays and Fridays, 10AM–10PM.\nMust be 21+. Earn points 9AM–9:59PM. Claim gift or free play at Bally Rewards kiosk 9AM–9:59PM or while supplies last. Redeem gift at Promotions Center 10AM–10PM. Free play valid for 24 hours of issuance.",
-      "locationDetails": "600 N WABASH AVE, Chicago, IL 60611",
-      "timeWindow": "10 AM–10 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://casinos.ballys.com/chicago/promotions.htm"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday, Friday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "loyalty_reward",
-        "days": [
-          3,
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "10:00",
-        "endTime": "22:00"
-      }
-    },
-    {
       "id": "312deals-106074",
       "restaurant": "Bally'S",
       "title": "Reported restaurant special",
@@ -40520,106 +39340,6 @@
         "isChain": false,
         "startTime": "08:00",
         "endTime": "23:59"
-      }
-    },
-    {
-      "id": "312deals-7125",
-      "restaurant": "Bally'S",
-      "title": "50+ Club",
-      "subtitle": "50+ Club",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Ages 50 and older, must activate at Bally Rewards kiosk, excludes Video Poker and Electronic Table Games"
-      ],
-      "redemptionSteps": [
-        "Tuesdays 8AM-5PM - guaranteed 5X Bally Bucks multiplier for members 50+"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://casinos.ballys.com/chicago/promotions.htm",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "50+ Club\nTuesdays 8AM-5PM - guaranteed 5X Bally Bucks multiplier for members 50+\nAges 50 and older, must activate at Bally Rewards kiosk, excludes Video Poker and Electronic Table Games",
-      "locationDetails": "600 N WABASH AVE, Chicago, IL 60611",
-      "timeWindow": "8 AM–5 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://casinos.ballys.com/chicago/promotions.htm"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "daily_special",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "08:00",
-        "endTime": "17:00"
-      }
-    },
-    {
-      "id": "312deals-7129",
-      "restaurant": "Bally'S",
-      "title": "Clover Cash",
-      "subtitle": "Clover Cash",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must earn entry through table game bonuses, see pit boss for details"
-      ],
-      "redemptionSteps": [
-        "Fridays in March at 8PM - table game bonus entries for chance at $10,000 cash, guaranteed minimum $500 free play"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://casinos.ballys.com/chicago/promotions.htm",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Clover Cash\nFridays in March at 8PM - table game bonus entries for chance at $10,000 cash, guaranteed minimum $500 free play\nMust earn entry through table game bonuses, see pit boss for details",
-      "locationDetails": "600 N WABASH AVE, Chicago, IL 60611",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://casinos.ballys.com/chicago/promotions.htm"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          5
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -46669,59 +45389,6 @@
       "eventCondition": "All Arsenal soccer matches shown in beer garden and main bar area for Chicago Gooners"
     },
     {
-      "id": "312deals-20517",
-      "restaurant": "Ten Cat Tavern",
-      "title": "Free Pool Cues",
-      "subtitle": "Free Pool Cues",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Free pool cue rental on antique 1925 Brunswick Medalist 9ft table and 1945 Brunswick Centennial 8ft table"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.tencattavern.com/",
-      "lastCheckedAt": "2026-09-23T05:50:43.517214+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Pool Cues\nFree pool cue rental on antique 1925 Brunswick Medalist 9ft table and 1945 Brunswick Centennial 8ft table",
-      "locationDetails": "3931 N ASHLAND AVE 1, CHICAGO, IL 60613",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:43.517214+00:00",
-        "validUntil": "2026-09-30T05:50:43.517214+00:00",
-        "sourceURLs": [
-          "http://www.tencattavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-45600",
       "restaurant": "FRUNZE",
       "title": "Bottomless Brunch Deal",
@@ -50518,54 +49185,6 @@
       }
     },
     {
-      "id": "312deals-41202",
-      "restaurant": "Clover Lincoln Park",
-      "title": "Summer Dart League",
-      "subtitle": "Summer Dart League",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly dart league competition with friendly competition and neighborhood energy"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://cloverlincolnpark.com/",
-      "lastCheckedAt": "2026-09-23T05:50:45.379541+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Summer Dart League\nWeekly dart league competition with friendly competition and neighborhood energy",
-      "locationDetails": "810 W Diversey Pkwy, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:45.379541+00:00",
-        "validUntil": "2026-09-30T05:50:45.379541+00:00",
-        "sourceURLs": [
-          "https://cloverlincolnpark.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "event_driven",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Weekly dart league competition with friendly competition and neighborhood energy"
-    },
-    {
       "id": "312deals-87860",
       "restaurant": "Clover Lincoln Park",
       "title": "Frozen Cocktails All Summer Long",
@@ -51253,53 +49872,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 1.0
-      }
-    },
-    {
-      "id": "312deals-6919",
-      "restaurant": "Blue Bayou",
-      "title": "Progressive Jackpot Bingo",
-      "subtitle": "Progressive Jackpot Bingo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Progressive jackpot bingo every Tuesday at 7 PM"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.bluebayouchitown.com/",
-      "lastCheckedAt": "2026-09-23T05:50:45.379541+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Progressive Jackpot Bingo\nProgressive jackpot bingo every Tuesday at 7 PM",
-      "locationDetails": "3734 N SOUTHPORT AVE 1-2, Chicago, IL 60613",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:45.379541+00:00",
-        "validUntil": "2026-09-30T05:50:45.379541+00:00",
-        "sourceURLs": [
-          "https://www.bluebayouchitown.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "happy_hour",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -52056,55 +50628,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 10.0
-      }
-    },
-    {
-      "id": "312deals-9422",
-      "restaurant": "The Pony Inn",
-      "title": "Wednesday Night Bingo",
-      "subtitle": "Wednesday Night Bingo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Starts at 19:00"
-      ],
-      "redemptionSteps": [
-        "Bingo night starting at 19:00 every Wednesday."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.theponychicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:45.379541+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Wednesday Night Bingo\nBingo night starting at 19:00 every Wednesday.\nStarts at 19:00",
-      "locationDetails": "1638 W BELMONT AVE 1 & 2, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:45.379541+00:00",
-        "validUntil": "2026-09-30T05:50:45.379541+00:00",
-        "sourceURLs": [
-          "https://www.theponychicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "daily_special",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -53010,53 +51533,6 @@
         "startTime": "11:00",
         "endTime": "15:00",
         "itemPrice": 45.0
-      }
-    },
-    {
-      "id": "312deals-6576",
-      "restaurant": "Duffy's Tavern and Grille",
-      "title": "Game Night Mondays",
-      "subtitle": "Game Night Mondays",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Game Night every Monday at Duffy's"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://duffys-tavern.com/",
-      "lastCheckedAt": "2026-09-23T05:50:45.379541+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Game Night Mondays\nGame Night every Monday at Duffy's",
-      "locationDetails": "420 W Diversey Pkwy, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:45.379541+00:00",
-        "validUntil": "2026-09-30T05:50:45.379541+00:00",
-        "sourceURLs": [
-          "https://duffys-tavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "daily_special",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -57247,52 +55723,6 @@
           6,
           7
         ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-1396",
-      "restaurant": "The Gray",
-      "title": "IHG One Rewards Member Benefits",
-      "subtitle": "IHG One Rewards Member Benefits",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be IHG One Rewards member"
-      ],
-      "redemptionSteps": [
-        "Best rates guaranteed, complimentary WiFi, $30 spa credit at participating hotels, flexible cancellation policies, and exclusive member rates"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://www.grayhotelchicago.com/?&cm_mmc=WEB-_-KI-_-AMER-_-EN-_-EV-_-Google%20Business%20Profile-_-DD-_-gray",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "IHG One Rewards Member Benefits\nBest rates guaranteed, complimentary WiFi, $30 spa credit at participating hotels, flexible cancellation policies, and exclusive member rates\nMust be IHG One Rewards member",
-      "locationDetails": "39 S LA SALLE ST 1-15, Chicago, IL 60603",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.grayhotelchicago.com/?&cm_mmc=WEB-_-KI-_-AMER-_-EN-_-EV-_-Google%20Business%20Profile-_-DD-_-gray"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "loyalty_reward",
-        "days": [],
         "allDay": false,
         "isChain": false
       }
@@ -66714,58 +65144,6 @@
       }
     },
     {
-      "id": "312deals-9775",
-      "restaurant": "Kingston Mines",
-      "title": "Special Discounts",
-      "subtitle": "Special Discounts",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available for Students, Seniors, US Military, Police, Firefighters, Birthdays, Industry and more"
-      ],
-      "redemptionSteps": [
-        "Free and discount entry available for qualifying groups"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.kingstonmines.com/",
-      "lastCheckedAt": "2026-09-23T05:50:51.490690+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Special Discounts\nFree and discount entry available for qualifying groups\nAvailable for Students, Seniors, US Military, Police, Firefighters, Birthdays, Industry and more",
-      "locationDetails": "2548-2550 N HALSTED ST 1, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:51.490690+00:00",
-        "validUntil": "2026-09-30T05:50:51.490690+00:00",
-        "sourceURLs": [
-          "https://www.kingstonmines.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "happy_hour",
-        "days": [
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-106106",
       "restaurant": "ALIVE ONE",
       "title": "Half-Price Happy Hour (Sun–Thu)",
@@ -74126,52 +72504,6 @@
       }
     },
     {
-      "id": "312deals-7424",
-      "restaurant": "The Fresh Market Of Illinois",
-      "title": "One Hour Free Parking",
-      "subtitle": "One Hour Free Parking",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "With $20 purchase in the Chicago French Market"
-      ],
-      "redemptionSteps": [
-        "Free parking for one hour at 165 N Clinton with minimum purchase"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.frenchmarketchicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:51.490690+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "One Hour Free Parking\nFree parking for one hour at 165 N Clinton with minimum purchase\nWith $20 purchase in the Chicago French Market",
-      "locationDetails": "2730 N HALSTED ST, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:51.490690+00:00",
-        "validUntil": "2026-09-30T05:50:51.490690+00:00",
-        "sourceURLs": [
-          "https://www.frenchmarketchicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "happy_hour",
-        "days": [],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-8084",
       "restaurant": "Burwood Tap",
       "title": "Monday Daily Specials",
@@ -77573,100 +75905,6 @@
         "isChain": false,
         "startTime": "11:00",
         "endTime": "15:00"
-      }
-    },
-    {
-      "id": "312deals-7048",
-      "restaurant": "Willie Lill'S",
-      "title": "Euchre League",
-      "subtitle": "Euchre League",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly Euchre League on Mondays"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.willielills.com/",
-      "lastCheckedAt": "2026-09-23T05:50:53.303887+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Euchre League\nWeekly Euchre League on Mondays",
-      "locationDetails": "433 W DIVERSEY PKWY 1, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:53.303887+00:00",
-        "validUntil": "2026-09-30T05:50:53.303887+00:00",
-        "sourceURLs": [
-          "https://www.willielills.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "happy_hour",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-7049",
-      "restaurant": "Willie Lill'S",
-      "title": "Old School Bingo",
-      "subtitle": "Old School Bingo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Old School Bingo on Tuesdays"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.willielills.com/",
-      "lastCheckedAt": "2026-09-23T05:50:53.303887+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Old School Bingo\nOld School Bingo on Tuesdays",
-      "locationDetails": "433 W DIVERSEY PKWY 1, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:53.303887+00:00",
-        "validUntil": "2026-09-30T05:50:53.303887+00:00",
-        "sourceURLs": [
-          "https://www.willielills.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "happy_hour",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -85514,56 +83752,6 @@
       }
     },
     {
-      "id": "312deals-16265",
-      "restaurant": "BROKEN HEARTS",
-      "title": "Free Pool Sunday-Wednesday",
-      "subtitle": "Free Pool Sunday-Wednesday",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Free pool all night Sunday through Wednesday"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.brokenheartsbar.com/",
-      "lastCheckedAt": "2026-09-23T05:50:55.508709+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Pool Sunday-Wednesday\nFree pool all night Sunday through Wednesday",
-      "locationDetails": "1009 W LAKE ST 1, CHICAGO, IL 60607",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:55.508709+00:00",
-        "validUntil": "2026-09-30T05:50:55.508709+00:00",
-        "sourceURLs": [
-          "https://www.brokenheartsbar.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Sunday",
-      "discovery": {
-        "neighborhood": "West Loop",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-16372",
       "restaurant": "BROKEN HEARTS",
       "title": "Tuesday Blantons Whiskey Special",
@@ -88763,56 +86951,6 @@
       }
     },
     {
-      "id": "312deals-106019",
-      "restaurant": "Marz Community Brewing Company",
-      "title": "Music Bingo Night",
-      "subtitle": "Music Bingo Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Mothership location only (3630 S Iron St)"
-      ],
-      "redemptionSteps": [
-        "Weekly Music Bingo every Monday at 7pm. Cards feature song titles, artists, and more. Prizes awarded to multiple winners each game."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://marz.beer/events",
-      "lastCheckedAt": "2026-09-23T05:50:59.658538+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Music Bingo Night\nWeekly Music Bingo every Monday at 7pm. Cards feature song titles, artists, and more. Prizes awarded to multiple winners each game.\nMothership location only (3630 S Iron St)",
-      "locationDetails": "3630 S Iron St, Chicago, IL 60609",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:59.658538+00:00",
-        "validUntil": "2026-09-30T05:50:59.658538+00:00",
-        "sourceURLs": [
-          "https://marz.beer/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Gage Park",
-        "kind": "event_driven",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Weekly Music Bingo every Monday at 7pm. Cards feature song titles, artists, and more. Prizes awarded to multiple winners each game."
-    },
-    {
       "id": "312deals-106021",
       "restaurant": "Marz Community Brewing Company",
       "title": "Puzzled Pint",
@@ -88861,56 +86999,6 @@
         "isChain": false
       },
       "eventCondition": "Monthly logic puzzle event hosted in partnership with the nonprofit Puzzledpint.org, held every second Tuesday at 7pm."
-    },
-    {
-      "id": "312deals-106022",
-      "restaurant": "Marz Community Brewing Company",
-      "title": "Game Night",
-      "subtitle": "Game Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Mothership location only (3630 S Iron St)"
-      ],
-      "redemptionSteps": [
-        "Weekly Game Night every Thursday at 7pm."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://marz.beer/events",
-      "lastCheckedAt": "2026-09-23T05:50:59.658538+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Game Night\nWeekly Game Night every Thursday at 7pm.\nMothership location only (3630 S Iron St)",
-      "locationDetails": "3630 S Iron St, Chicago, IL 60609",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:59.658538+00:00",
-        "validUntil": "2026-09-30T05:50:59.658538+00:00",
-        "sourceURLs": [
-          "https://marz.beer/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Gage Park",
-        "kind": "event_driven",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Weekly Game Night every Thursday at 7pm."
     },
     {
       "id": "312deals-18277",
@@ -89274,56 +87362,6 @@
       }
     },
     {
-      "id": "312deals-592",
-      "restaurant": "Danny'S Pizza Place",
-      "title": "Tuesday Bingo Night",
-      "subtitle": "Tuesday Bingo Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Bingo night on Tuesdays"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dannyschicago.com",
-      "lastCheckedAt": "2026-09-23T05:50:59.658538+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Tuesday Bingo Night\nBingo night on Tuesdays",
-      "locationDetails": "6021 S ARCHER AVE 1, Chicago, IL 60638",
-      "timeWindow": "11 AM–10 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:59.658538+00:00",
-        "validUntil": "2026-09-30T05:50:59.658538+00:00",
-        "sourceURLs": [
-          "https://www.dannyschicago.com"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Gage Park",
-        "kind": "event_driven",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "22:00"
-      },
-      "eventCondition": "Bingo night on Tuesdays"
-    },
-    {
       "id": "312deals-13667",
       "restaurant": "Danny'S Pizza Place",
       "title": "Pizza, Beer & Bingo Tuesday",
@@ -89681,53 +87719,6 @@
         "startTime": "00:00",
         "endTime": "23:59",
         "itemPrice": 4.0
-      }
-    },
-    {
-      "id": "312deals-6631",
-      "restaurant": "Danny'S Pizza Place",
-      "title": "Tuesday Bingo Night",
-      "subtitle": "Tuesday Bingo Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly bingo night event"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dannyschicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:59.658538+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Tuesday Bingo Night\nWeekly bingo night event",
-      "locationDetails": "6021 S ARCHER AVE 1, Chicago, IL 60638",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:59.658538+00:00",
-        "validUntil": "2026-09-30T05:50:59.658538+00:00",
-        "sourceURLs": [
-          "https://www.dannyschicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Gage Park",
-        "kind": "happy_hour",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -90860,51 +88851,6 @@
         "isChain": false
       },
       "eventCondition": "Fight Night watch event hosted at LaCoco's — specific date, pricing, and details referenced in promotional image on site but not extractable from page text."
-    },
-    {
-      "id": "312deals-105990",
-      "restaurant": "Lacoco's Pizza & Sports Club",
-      "title": "Watch Soccer",
-      "subtitle": "Watch Soccer",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Soccer watch party or viewing event at LaCoco's — specific schedule, pricing, and details referenced in promotional image on site but not extractable from page text."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.lacocospizza.com/",
-      "lastCheckedAt": "2026-09-23T05:50:59.658538+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Watch Soccer\nSoccer watch party or viewing event at LaCoco's — specific schedule, pricing, and details referenced in promotional image on site but not extractable from page text.",
-      "locationDetails": "3350 W 47th St, Chicago, IL 60632, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:59.658538+00:00",
-        "validUntil": "2026-09-30T05:50:59.658538+00:00",
-        "sourceURLs": [
-          "https://www.lacocospizza.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "Gage Park",
-        "kind": "game_day",
-        "days": [],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Soccer watch party or viewing event at LaCoco's — specific schedule, pricing, and details referenced in promotional image on site but not extractable from page text."
     },
     {
       "id": "312deals-10694",
@@ -108731,54 +106677,6 @@
       }
     },
     {
-      "id": "312deals-20259",
-      "restaurant": "Swift Tavern",
-      "title": "Wednesday Bingo",
-      "subtitle": "Wednesday Bingo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly bingo night"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.swiftandsonstavern.com/happy-hour",
-      "lastCheckedAt": "2026-09-23T05:51:07.699059+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Wednesday Bingo\nWeekly bingo night",
-      "locationDetails": "Wrigleyville, Chicago, IL",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:07.699059+00:00",
-        "validUntil": "2026-09-30T05:51:07.699059+00:00",
-        "sourceURLs": [
-          "https://www.swiftandsonstavern.com/happy-hour"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "Wrigleyville",
-        "kind": "event_driven",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Weekly bingo night"
-    },
-    {
       "id": "312deals-8915",
       "restaurant": "Swift Tavern",
       "title": "$1 Sports Shots",
@@ -112272,101 +110170,6 @@
       }
     },
     {
-      "id": "312deals-6983",
-      "restaurant": "Roadhouse 66 Gas N' Grill",
-      "title": "Bar Bingo Night",
-      "subtitle": "Bar Bingo Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Free to play Bar Bingo with cash jackpot and weekly specials"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://roadhouse66gas-n-grill.com/",
-      "lastCheckedAt": "2026-09-23T05:51:07.699059+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Bar Bingo Night\nFree to play Bar Bingo with cash jackpot and weekly specials",
-      "locationDetails": "3478 N CLARK ST, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:07.699059+00:00",
-        "validUntil": "2026-09-30T05:51:07.699059+00:00",
-        "sourceURLs": [
-          "https://roadhouse66gas-n-grill.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Wrigleyville",
-        "kind": "happy_hour",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-12566",
-      "restaurant": "Roadhouse 66 Gas N' Grill",
-      "title": "Bar Bingo Night",
-      "subtitle": "Bar Bingo Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Free to play bar bingo with cash jackpot and weekly specials every Thursday night starting at 7:30pm"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://roadhouse66gas-n-grill.com/",
-      "lastCheckedAt": "2026-09-23T05:51:07.699059+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Bar Bingo Night\nFree to play bar bingo with cash jackpot and weekly specials every Thursday night starting at 7:30pm",
-      "locationDetails": "3478 N CLARK ST, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:07.699059+00:00",
-        "validUntil": "2026-09-30T05:51:07.699059+00:00",
-        "sourceURLs": [
-          "https://roadhouse66gas-n-grill.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Wrigleyville",
-        "kind": "event_driven",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Free to play bar bingo with cash jackpot and weekly specials every Thursday night starting at 7:30pm"
-    },
-    {
       "id": "312deals-106055",
       "restaurant": "The Rabbit Hole Wrigley",
       "title": "Thursday Daily Special",
@@ -113990,58 +111793,6 @@
         "isChain": false,
         "itemPrice": 1.0
       }
-    },
-    {
-      "id": "312deals-32741",
-      "restaurant": "Stolen Saddle",
-      "title": "Thursday Line Dancing Night",
-      "subtitle": "Thursday Line Dancing Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "No line dancing during Cubs night games"
-      ],
-      "redemptionSteps": [
-        "Line dancing event led by Windy City Cowboy Club, all skill levels welcome"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.tiktok.com/@stolensaddlechi/video/7639796084386106654",
-      "lastCheckedAt": "2026-09-23T05:51:07.699059+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Thursday Line Dancing Night\nLine dancing event led by Windy City Cowboy Club, all skill levels welcome\nNo line dancing during Cubs night games",
-      "locationDetails": "Wrigleyville, Chicago, IL",
-      "timeWindow": "7 PM–10 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:07.699059+00:00",
-        "validUntil": "2026-09-30T05:51:07.699059+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@stolensaddlechi/video/7639796084386106654"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Wrigleyville",
-        "kind": "event_driven",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "19:00",
-        "endTime": "22:00"
-      },
-      "eventCondition": "Line dancing event led by Windy City Cowboy Club, all skill levels welcome"
     },
     {
       "id": "312deals-32742",
@@ -121079,101 +118830,6 @@
           4,
           5,
           6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-6746",
-      "restaurant": "La Pena Restaurante",
-      "title": "Latin Dance Night",
-      "subtitle": "Latin Dance Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Dance floor with Latin rhythms - salsa, merengue, cumbia, bachata"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.lapenachicago.com/",
-      "lastCheckedAt": "2026-09-23T05:51:09.552388+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Latin Dance Night\nDance floor with Latin rhythms - salsa, merengue, cumbia, bachata",
-      "locationDetails": "4212-4214 N MILWAUKEE AVE 1, Chicago, IL 60641",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:09.552388+00:00",
-        "validUntil": "2026-09-30T05:51:09.552388+00:00",
-        "sourceURLs": [
-          "https://www.lapenachicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Saturday",
-      "discovery": {
-        "neighborhood": "Portage Park",
-        "kind": "happy_hour",
-        "days": [
-          6
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-6747",
-      "restaurant": "La Pena Restaurante",
-      "title": "Spanish Classics Night",
-      "subtitle": "Spanish Classics Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Spanish classics with DJ Darwin - dance and sing along to timeless hits"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.lapenachicago.com/",
-      "lastCheckedAt": "2026-09-23T05:51:09.552388+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Spanish Classics Night\nSpanish classics with DJ Darwin - dance and sing along to timeless hits",
-      "locationDetails": "4212-4214 N MILWAUKEE AVE 1, Chicago, IL 60641",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:09.552388+00:00",
-        "validUntil": "2026-09-30T05:51:09.552388+00:00",
-        "sourceURLs": [
-          "https://www.lapenachicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday, Sunday",
-      "discovery": {
-        "neighborhood": "Portage Park",
-        "kind": "happy_hour",
-        "days": [
-          5,
           7
         ],
         "allDay": false,
@@ -129027,106 +126683,6 @@
         "isChain": false,
         "itemPrice": 3.75
       }
-    },
-    {
-      "id": "312deals-12708",
-      "restaurant": "REED'S LOCAL",
-      "title": "AEW Watch Party",
-      "subtitle": "AEW Watch Party",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly AEW wrestling watch party"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://reedslocal.com/",
-      "lastCheckedAt": "2026-09-23T05:51:13.507938+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "AEW Watch Party\nWeekly AEW wrestling watch party",
-      "locationDetails": "3017 W BELMONT AVE 1ST, CHICAGO, IL 60618",
-      "timeWindow": "7 PM–9 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:13.507938+00:00",
-        "validUntil": "2026-09-30T05:51:13.507938+00:00",
-        "sourceURLs": [
-          "https://reedslocal.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "Avondale",
-        "kind": "event_driven",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "19:00",
-        "endTime": "21:00"
-      },
-      "eventCondition": "Weekly AEW wrestling watch party"
-    },
-    {
-      "id": "312deals-12709",
-      "restaurant": "REED'S LOCAL",
-      "title": "Open Mic Comedy",
-      "subtitle": "Open Mic Comedy",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "21+ only"
-      ],
-      "redemptionSteps": [
-        "Open mic comedy hosted by Fun Simulation 2000, list goes up at 9:45pm"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://reedslocal.com/",
-      "lastCheckedAt": "2026-09-23T05:51:13.507938+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Open Mic Comedy\nOpen mic comedy hosted by Fun Simulation 2000, list goes up at 9:45pm\n21+ only",
-      "locationDetails": "3017 W BELMONT AVE 1ST, CHICAGO, IL 60618",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:13.507938+00:00",
-        "validUntil": "2026-09-30T05:51:13.507938+00:00",
-        "sourceURLs": [
-          "https://reedslocal.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "Avondale",
-        "kind": "event_driven",
-        "days": [
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Open mic comedy hosted by Fun Simulation 2000, list goes up at 9:45pm"
     },
     {
       "id": "312deals-16740",
@@ -140043,55 +137599,6 @@
       }
     },
     {
-      "id": "312deals-6648",
-      "restaurant": "Goose Island Beer Company",
-      "title": "Bingo Night",
-      "subtitle": "Bingo Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Play bingo hosted by Baig of Tricks. Winners get a mystery surprise each week"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.gooseisland.com/taproom",
-      "lastCheckedAt": "2026-09-23T05:51:17.663544+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Bingo Night\nPlay bingo hosted by Baig of Tricks. Winners get a mystery surprise each week",
-      "locationDetails": "603 N SACRAMENTO BLVD 1ST, Chicago, IL 60612",
-      "timeWindow": "6:30 PM–8 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:17.663544+00:00",
-        "validUntil": "2026-09-30T05:51:17.663544+00:00",
-        "sourceURLs": [
-          "https://www.gooseisland.com/taproom"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Humboldt Park",
-        "kind": "daily_special",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "18:30",
-        "endTime": "20:00"
-      }
-    },
-    {
       "id": "312deals-13892",
       "restaurant": "Offset Bbq",
       "title": "Weekend Brunch",
@@ -140808,56 +138315,6 @@
       "eventCondition": "Comedic close-up magic performed by Justin Purcell (Chicago Magic Lounge) every other Tuesday 9pm–12am. Free to watch, tips encouraged. $3 High Life cans available and Happy Hour 6–8pm on Tuesdays."
     },
     {
-      "id": "312deals-84126",
-      "restaurant": "Logan Arcade",
-      "title": "Movie Mondays w/ Vidnite Movies",
-      "subtitle": "Movie Mondays w/ Vidnite Movies",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Every 2nd Monday of the month only"
-      ],
-      "redemptionSteps": [
-        "Strange, weird, cult, and unusual double features presented by Vidnite Movies. Every 2nd Monday of the month at 7pm."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://loganarcade.com/events",
-      "lastCheckedAt": "2026-09-23T05:51:17.663544+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Movie Mondays w/ Vidnite Movies\nStrange, weird, cult, and unusual double features presented by Vidnite Movies. Every 2nd Monday of the month at 7pm.\nEvery 2nd Monday of the month only",
-      "locationDetails": "2410 W Fullerton Ave, Chicago, IL 60647",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:17.663544+00:00",
-        "validUntil": "2026-09-30T05:51:17.663544+00:00",
-        "sourceURLs": [
-          "https://loganarcade.com/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Humboldt Park",
-        "kind": "event_driven",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Strange, weird, cult, and unusual double features presented by Vidnite Movies. Every 2nd Monday of the month at 7pm."
-    },
-    {
       "id": "312deals-84127",
       "restaurant": "Logan Arcade",
       "title": "Reported restaurant special",
@@ -140906,108 +138363,6 @@
         "isChain": false
       },
       "eventCondition": "Casual Mortal Kombat II runs with Robbie every first Monday of the month starting at 7pm. Open to beginners, free entry."
-    },
-    {
-      "id": "312deals-84130",
-      "restaurant": "Logan Arcade",
-      "title": "Stern Army Pinball Tournament",
-      "subtitle": "Stern Army Pinball Tournament",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Every 2nd Thursday of the month only. No entry fee; coin drop required. Signup at 7:30pm, start at 8pm."
-      ],
-      "redemptionSteps": [
-        "Monthly Stern Army casual pinball tournament every 2nd Thursday. No IFPA/WPPRs, all skill levels welcome. Streamed live on Twitch and YouTube."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://loganarcade.com/events",
-      "lastCheckedAt": "2026-09-23T05:51:17.663544+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Stern Army Pinball Tournament\nMonthly Stern Army casual pinball tournament every 2nd Thursday. No IFPA/WPPRs, all skill levels welcome. Streamed live on Twitch and YouTube.\nEvery 2nd Thursday of the month only. No entry fee; coin drop required. Signup at 7:30pm, start at 8pm.",
-      "locationDetails": "2410 W Fullerton Ave, Chicago, IL 60647",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:17.663544+00:00",
-        "validUntil": "2026-09-30T05:51:17.663544+00:00",
-        "sourceURLs": [
-          "https://loganarcade.com/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Humboldt Park",
-        "kind": "event_driven",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Monthly Stern Army casual pinball tournament every 2nd Thursday. No IFPA/WPPRs, all skill levels welcome. Streamed live on Twitch and YouTube."
-    },
-    {
-      "id": "312deals-84131",
-      "restaurant": "Logan Arcade",
-      "title": "Sundays w/ DJ Jivan Ivan",
-      "subtitle": "Sundays w/ DJ Jivan Ivan",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Every 2nd and 4th Sunday of the month only"
-      ],
-      "redemptionSteps": [
-        "DJ Jivan Ivan spinning every 2nd and 4th Sunday of the month from 7–11pm."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://loganarcade.com/events",
-      "lastCheckedAt": "2026-09-23T05:51:17.663544+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Sundays w/ DJ Jivan Ivan\nDJ Jivan Ivan spinning every 2nd and 4th Sunday of the month from 7–11pm.\nEvery 2nd and 4th Sunday of the month only",
-      "locationDetails": "2410 W Fullerton Ave, Chicago, IL 60647",
-      "timeWindow": "7 PM–11 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:17.663544+00:00",
-        "validUntil": "2026-09-30T05:51:17.663544+00:00",
-        "sourceURLs": [
-          "https://loganarcade.com/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "Humboldt Park",
-        "kind": "event_driven",
-        "days": [
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "19:00",
-        "endTime": "23:00"
-      },
-      "eventCondition": "DJ Jivan Ivan spinning every 2nd and 4th Sunday of the month from 7–11pm."
     },
     {
       "id": "312deals-84132",
@@ -143340,56 +140695,6 @@
         "endTime": "02:00"
       },
       "eventCondition": "DJ sets featuring SABADO & MARK MAJOR every Friday night"
-    },
-    {
-      "id": "312deals-12847",
-      "restaurant": "The Black Lion",
-      "title": "Saturday Night DJ - SABADO",
-      "subtitle": "Saturday Night DJ - SABADO",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "DJ set featuring SABADO every Saturday night"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.blacklionchicago.com/",
-      "lastCheckedAt": "2026-09-23T05:51:17.663544+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Saturday Night DJ - SABADO\nDJ set featuring SABADO every Saturday night",
-      "locationDetails": "2434 N Milwaukee Ave, Chicago, IL 60647",
-      "timeWindow": "10 PM–3 AM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:17.663544+00:00",
-        "validUntil": "2026-09-30T05:51:17.663544+00:00",
-        "sourceURLs": [
-          "https://www.blacklionchicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Saturday",
-      "discovery": {
-        "neighborhood": "Humboldt Park",
-        "kind": "event_driven",
-        "days": [
-          6
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "22:00",
-        "endTime": "03:00"
-      },
-      "eventCondition": "DJ set featuring SABADO every Saturday night"
     },
     {
       "id": "312deals-13119",
@@ -147101,50 +144406,6 @@
       }
     },
     {
-      "id": "312deals-1371",
-      "restaurant": "Carson'S Ribs",
-      "title": "Parking Deals",
-      "subtitle": "Parking Deals",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Amazing parking deals available"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.ribs.com/",
-      "lastCheckedAt": "2026-09-23T05:51:19.611618+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Parking Deals\nAmazing parking deals available",
-      "locationDetails": "465 E ILLINOIS ST 1, Chicago, IL 60611",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:19.611618+00:00",
-        "validUntil": "2026-09-30T05:51:19.611618+00:00",
-        "sourceURLs": [
-          "https://www.ribs.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "Streeterville",
-        "kind": "other",
-        "days": [],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-3441",
       "restaurant": "Carson'S Ribs",
       "title": "Heat & Eat BBQ Family Feasts",
@@ -147450,56 +144711,6 @@
         "startTime": "15:00",
         "endTime": "18:00"
       }
-    },
-    {
-      "id": "312deals-10336",
-      "restaurant": "Streeter's Tavern",
-      "title": "Live DJ Thursday Nights",
-      "subtitle": "Live DJ Thursday Nights",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Live DJ every Thursday night from 8pm to 2am"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://streeterstavern.com/",
-      "lastCheckedAt": "2026-09-23T05:51:19.611618+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Live DJ Thursday Nights\nLive DJ every Thursday night from 8pm to 2am",
-      "locationDetails": "50 E Chicago Ave, Chicago, IL 60611, USA",
-      "timeWindow": "8 PM–2 AM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:19.611618+00:00",
-        "validUntil": "2026-09-30T05:51:19.611618+00:00",
-        "sourceURLs": [
-          "https://streeterstavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Streeterville",
-        "kind": "event_driven",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "20:00",
-        "endTime": "02:00"
-      },
-      "eventCondition": "Live DJ every Thursday night from 8pm to 2am"
     },
     {
       "id": "312deals-10337",
@@ -148168,61 +145379,6 @@
         "days": [],
         "allDay": false,
         "isChain": true
-      }
-    },
-    {
-      "id": "312deals-1136",
-      "restaurant": "Lucky Strike Lanes",
-      "title": "The Special",
-      "subtitle": "The Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Subject to lane availability. Shoe rental not included."
-      ],
-      "redemptionSteps": [
-        "Buy two games, get the third 50% off"
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.luckystrikeent.com/location/lucky-strike-chicago/specials",
-      "lastCheckedAt": "2026-09-23T05:51:19.611618+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "The Special\nBuy two games, get the third 50% off\nSubject to lane availability. Shoe rental not included.",
-      "locationDetails": "322 E ILLINOIS ST 2ND, Chicago, IL 60611",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:19.611618+00:00",
-        "validUntil": "2026-09-30T05:51:19.611618+00:00",
-        "sourceURLs": [
-          "https://www.luckystrikeent.com/location/lucky-strike-chicago/specials"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Streeterville",
-        "kind": "daily_special",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -152532,58 +149688,6 @@
       }
     },
     {
-      "id": "312deals-105771",
-      "restaurant": "EMPORIUM ARCADE BAR",
-      "title": "Bring Your Own Game Night",
-      "subtitle": "Bring Your Own Game Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be 21+ with valid photo ID"
-      ],
-      "redemptionSteps": [
-        "Recurring Monday game night mixer where guests bring their own games, 6PM–11PM."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://emporiumarcadebar.com/locations/chicago/wicker-park/",
-      "lastCheckedAt": "2026-09-23T05:51:21.583588+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Bring Your Own Game Night\nRecurring Monday game night mixer where guests bring their own games, 6PM–11PM.\nMust be 21+ with valid photo ID",
-      "locationDetails": "1366-1368 N MILWAUKEE AVE, CHICAGO, IL 60622",
-      "timeWindow": "6 PM–11 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:21.583588+00:00",
-        "validUntil": "2026-09-30T05:51:21.583588+00:00",
-        "sourceURLs": [
-          "https://emporiumarcadebar.com/locations/chicago/wicker-park/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Wicker Park",
-        "kind": "event_driven",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "18:00",
-        "endTime": "23:00"
-      },
-      "eventCondition": "Recurring Monday game night mixer where guests bring their own games, 6PM–11PM."
-    },
-    {
       "id": "312deals-60244",
       "restaurant": "Standard Bar and Grill",
       "title": "Tuesday Pub Trivia Night",
@@ -155117,57 +152221,6 @@
         "isChain": false,
         "startTime": "15:00",
         "endTime": "18:00"
-      }
-    },
-    {
-      "id": "312deals-2962",
-      "restaurant": "Simone'S",
-      "title": "Loteria Monday",
-      "subtitle": "Loteria Monday",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "$5 to play"
-      ],
-      "redemptionSteps": [
-        "Weekly Loteria game, proceeds benefit local organization, hosted by Rich"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.simonesbar.com/",
-      "lastCheckedAt": "2026-09-23T05:51:23.673110+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Loteria Monday\nWeekly Loteria game, proceeds benefit local organization, hosted by Rich\n$5 to play",
-      "locationDetails": "960-962 W 18TH ST 1, Chicago, IL 60608",
-      "timeWindow": "7 PM–9 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:23.673110+00:00",
-        "validUntil": "2026-09-30T05:51:23.673110+00:00",
-        "sourceURLs": [
-          "https://www.simonesbar.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Pilsen",
-        "kind": "daily_special",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "19:00",
-        "endTime": "21:00"
       }
     },
     {
@@ -158688,98 +155741,6 @@
           6,
           7
         ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-105927",
-      "restaurant": "JACKHAMMER",
-      "title": "Free Pool",
-      "subtitle": "Free Pool",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "21+, LGBTQIA+ bar in Rogers Park"
-      ],
-      "redemptionSteps": [
-        "Free pool available as part of weekly offers. Specific days/times not listed on page."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://jackhammerchicago.com/specials",
-      "lastCheckedAt": "2026-09-23T05:51:25.531735+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Pool\nFree pool available as part of weekly offers. Specific days/times not listed on page.\n21+, LGBTQIA+ bar in Rogers Park",
-      "locationDetails": "6406 N CLARK ST 1 & BSMT, CHICAGO, IL 60626",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:25.531735+00:00",
-        "validUntil": "2026-09-30T05:51:25.531735+00:00",
-        "sourceURLs": [
-          "https://jackhammerchicago.com/specials"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "Rogers Park",
-        "kind": "other",
-        "days": [],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-105928",
-      "restaurant": "JACKHAMMER",
-      "title": "Free Darts",
-      "subtitle": "Free Darts",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "21+, LGBTQIA+ bar in Rogers Park"
-      ],
-      "redemptionSteps": [
-        "Free darts available as part of weekly offers. Specific days/times not listed on page."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://jackhammerchicago.com/specials",
-      "lastCheckedAt": "2026-09-23T05:51:25.531735+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Darts\nFree darts available as part of weekly offers. Specific days/times not listed on page.\n21+, LGBTQIA+ bar in Rogers Park",
-      "locationDetails": "6406 N CLARK ST 1 & BSMT, CHICAGO, IL 60626",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:25.531735+00:00",
-        "validUntil": "2026-09-30T05:51:25.531735+00:00",
-        "sourceURLs": [
-          "https://jackhammerchicago.com/specials"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "Rogers Park",
-        "kind": "other",
-        "days": [],
         "allDay": false,
         "isChain": false
       }
@@ -179852,61 +176813,6 @@
       }
     },
     {
-      "id": "312deals-20448",
-      "restaurant": "Gracie O' Malley's Wicker Park",
-      "title": "Team Sponsorship Program",
-      "subtitle": "Team Sponsorship Program",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be part of sponsored team"
-      ],
-      "redemptionSteps": [
-        "20% off league fees, game night discounts, and complimentary end of season party for sponsored teams"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.gracieomalleyschicago.com/",
-      "lastCheckedAt": "2026-09-23T05:51:41.458837+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Team Sponsorship Program\n20% off league fees, game night discounts, and complimentary end of season party for sponsored teams\nMust be part of sponsored team",
-      "locationDetails": "1635 N Milwaukee Ave, Chicago, IL 60647, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:41.458837+00:00",
-        "validUntil": "2026-09-30T05:51:41.458837+00:00",
-        "sourceURLs": [
-          "http://www.gracieomalleyschicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Bucktown",
-        "kind": "loyalty_reward",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-20449",
       "restaurant": "Gracie O' Malley's Wicker Park",
       "title": "Industry FAC Nights",
@@ -180057,54 +176963,6 @@
         "allDay": false,
         "isChain": false
       }
-    },
-    {
-      "id": "312deals-20453",
-      "restaurant": "Gracie O' Malley's Wicker Park",
-      "title": "Thursday Weekly Darts Tournament",
-      "subtitle": "Thursday Weekly Darts Tournament",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly darts tournament with specials at Portage Park location"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.gracieomalleyschicago.com/",
-      "lastCheckedAt": "2026-09-23T05:51:41.458837+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Thursday Weekly Darts Tournament\nWeekly darts tournament with specials at Portage Park location",
-      "locationDetails": "1635 N Milwaukee Ave, Chicago, IL 60647, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:41.458837+00:00",
-        "validUntil": "2026-09-30T05:51:41.458837+00:00",
-        "sourceURLs": [
-          "http://www.gracieomalleyschicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Bucktown",
-        "kind": "event_driven",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Weekly darts tournament with specials at Portage Park location"
     },
     {
       "id": "312deals-20454",
@@ -180607,61 +177465,6 @@
         "days": [
           5,
           6
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-6591",
-      "restaurant": "Diversey River Bowl Lounge",
-      "title": "Lane Reservation Special",
-      "subtitle": "Lane Reservation Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "2-hour reservation"
-      ],
-      "redemptionSteps": [
-        "2-Hour lane reservations for $40"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.drbowl.com/",
-      "lastCheckedAt": "2026-09-23T05:51:41.458837+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Lane Reservation Special\n2-Hour lane reservations for $40\n2-hour reservation",
-      "locationDetails": "2211 W DIVERSEY PKWY 1, Chicago, IL 60647",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:41.458837+00:00",
-        "validUntil": "2026-09-30T05:51:41.458837+00:00",
-        "sourceURLs": [
-          "https://www.drbowl.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Bucktown",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
         ],
         "allDay": false,
         "isChain": false
@@ -183537,61 +180340,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 12.0
-      }
-    },
-    {
-      "id": "312deals-20495",
-      "restaurant": "Life Time River North At One Chicago",
-      "title": "Join Before Summer Pricing",
-      "subtitle": "Join Before Summer Pricing",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "New members only, must join in April"
-      ],
-      "redemptionSteps": [
-        "Join in April and receive a complimentary personal training session to set your goals, introductory spa treatment for convenient self-care and kids' swim lessons so your whole family thrives."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://www.lifetime.life/locations/il/river-north-one-chicago?utm_source=google&utm_medium=local&utm_campaign=google-local-club",
-      "lastCheckedAt": "2026-09-23T05:51:43.468860+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Join Before Summer Pricing\nJoin in April and receive a complimentary personal training session to set your goals, introductory spa treatment for convenient self-care and kids' swim lessons so your whole family thrives.\nNew members only, must join in April",
-      "locationDetails": "15 W CHICAGO AVE 8TH, 9TH, Chicago, IL 60610",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:43.468860+00:00",
-        "validUntil": "2026-09-30T05:51:43.468860+00:00",
-        "sourceURLs": [
-          "https://www.lifetime.life/locations/il/river-north-one-chicago?utm_source=google&utm_medium=local&utm_campaign=google-local-club"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Gold Coast",
-        "kind": "new_opening",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -191478,54 +188226,6 @@
       }
     },
     {
-      "id": "312deals-10664",
-      "restaurant": "Harrigan's",
-      "title": "Open Mic Comedy",
-      "subtitle": "Open Mic Comedy",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Open mic comedy night hosted by stand up comedian Alex Joyce"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.harriganspubchicago.com/",
-      "lastCheckedAt": "2026-09-23T05:51:51.470990+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Open Mic Comedy\nOpen mic comedy night hosted by stand up comedian Alex Joyce",
-      "locationDetails": "2816 N Halsted St, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:51.470990+00:00",
-        "validUntil": "2026-09-30T05:51:51.470990+00:00",
-        "sourceURLs": [
-          "http://www.harriganspubchicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Ukrainian Village",
-        "kind": "event_driven",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Open mic comedy night hosted by stand up comedian Alex Joyce"
-    },
-    {
       "id": "312deals-10654",
       "restaurant": "Rosati's Pizza",
       "title": "Online Order Discount",
@@ -192781,59 +189481,6 @@
       }
     },
     {
-      "id": "312deals-105762",
-      "restaurant": "The Original Mother's",
-      "title": "Live DJ Night",
-      "subtitle": "Live DJ Night",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Front Room only"
-      ],
-      "redemptionSteps": [
-        "Live DJ in the Front Room every Friday and Saturday from 7pm to 10pm."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://originalmothers.com/events/live-dj-schedule",
-      "lastCheckedAt": "2026-09-23T05:51:51.470990+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Live DJ Night\nLive DJ in the Front Room every Friday and Saturday from 7pm to 10pm.\nFront Room only",
-      "locationDetails": "26 W Division St, Chicago, IL 60610",
-      "timeWindow": "7 PM–10 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:51.470990+00:00",
-        "validUntil": "2026-09-30T05:51:51.470990+00:00",
-        "sourceURLs": [
-          "https://originalmothers.com/events/live-dj-schedule"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday, Saturday",
-      "discovery": {
-        "neighborhood": "Ukrainian Village",
-        "kind": "event_driven",
-        "days": [
-          5,
-          6
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "19:00",
-        "endTime": "22:00"
-      },
-      "eventCondition": "Live DJ in the Front Room every Friday and Saturday from 7pm to 10pm."
-    },
-    {
       "id": "312deals-10626",
       "restaurant": "Dog House Grill",
       "title": "Combo Deals",
@@ -193352,118 +189999,6 @@
       }
     },
     {
-      "id": "312deals-16035",
-      "restaurant": "Meeting House Tavern",
-      "title": "Free Pool",
-      "subtitle": "Free Pool",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Upstairs bar and game room"
-      ],
-      "redemptionSteps": [
-        "Pool is free all day, every day at the upstairs bar and game room"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.meetinghousetavern.com/",
-      "lastCheckedAt": "2026-09-23T05:51:53.484364+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Pool\nPool is free all day, every day at the upstairs bar and game room\nUpstairs bar and game room",
-      "locationDetails": "5025 N Clark St, Chicago, IL 60640, USA",
-      "timeWindow": "12 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:53.484364+00:00",
-        "validUntil": "2026-09-30T05:51:53.484364+00:00",
-        "sourceURLs": [
-          "https://www.meetinghousetavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Andersonville",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "00:00",
-        "endTime": "23:59"
-      }
-    },
-    {
-      "id": "312deals-16036",
-      "restaurant": "Meeting House Tavern",
-      "title": "Free Darts and Games",
-      "subtitle": "Free Darts and Games",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Upstairs"
-      ],
-      "redemptionSteps": [
-        "Electronic darts, shuffleboard and Skee-Ball always free and available every day upstairs"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.meetinghousetavern.com/",
-      "lastCheckedAt": "2026-09-23T05:51:53.484364+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Darts and Games\nElectronic darts, shuffleboard and Skee-Ball always free and available every day upstairs\nUpstairs",
-      "locationDetails": "5025 N Clark St, Chicago, IL 60640, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:53.484364+00:00",
-        "validUntil": "2026-09-30T05:51:53.484364+00:00",
-        "sourceURLs": [
-          "https://www.meetinghousetavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Andersonville",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-21050",
       "restaurant": "Meeting House Tavern",
       "title": "All Day Friday Specials",
@@ -193511,63 +190046,6 @@
         "startTime": "00:00",
         "endTime": "23:59",
         "itemPrice": 5.0
-      }
-    },
-    {
-      "id": "312deals-21051",
-      "restaurant": "Meeting House Tavern",
-      "title": "Free Games",
-      "subtitle": "Free Games",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Upstairs"
-      ],
-      "redemptionSteps": [
-        "Electronic darts, shuffleboard and Skee-Ball always free and available every day"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.meetinghousetavern.com/",
-      "lastCheckedAt": "2026-09-23T05:51:53.484364+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Games\nElectronic darts, shuffleboard and Skee-Ball always free and available every day\nUpstairs",
-      "locationDetails": "5025 N Clark St, Chicago, IL 60640, USA",
-      "timeWindow": "12 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:53.484364+00:00",
-        "validUntil": "2026-09-30T05:51:53.484364+00:00",
-        "sourceURLs": [
-          "https://www.meetinghousetavern.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Andersonville",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "00:00",
-        "endTime": "23:59"
       }
     },
     {
@@ -195098,106 +191576,6 @@
         "allDay": false,
         "isChain": false
       }
-    },
-    {
-      "id": "312deals-105714",
-      "restaurant": "ATMOSPHERE",
-      "title": "Broadway Boulevard",
-      "subtitle": "Broadway Boulevard",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly Wednesday event featuring musicals and movie hits from 8PM to 12AM."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.atmospherebar.com/",
-      "lastCheckedAt": "2026-09-23T05:51:53.484364+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Broadway Boulevard\nWeekly Wednesday event featuring musicals and movie hits from 8PM to 12AM.",
-      "locationDetails": "5355 N CLARK ST 1ST, CHICAGO, IL 60640",
-      "timeWindow": "8 PM–12 AM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:53.484364+00:00",
-        "validUntil": "2026-09-30T05:51:53.484364+00:00",
-        "sourceURLs": [
-          "http://www.atmospherebar.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "Andersonville",
-        "kind": "event_driven",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "20:00",
-        "endTime": "00:00"
-      },
-      "eventCondition": "Weekly Wednesday event featuring musicals and movie hits from 8PM to 12AM."
-    },
-    {
-      "id": "312deals-105716",
-      "restaurant": "ATMOSPHERE",
-      "title": "Saturday Inferno",
-      "subtitle": "Saturday Inferno",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Saturday night event with DJ Ron G and hot dancers all night."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.atmospherebar.com/",
-      "lastCheckedAt": "2026-09-23T05:51:53.484364+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Saturday Inferno\nSaturday night event with DJ Ron G and hot dancers all night.",
-      "locationDetails": "5355 N CLARK ST 1ST, CHICAGO, IL 60640",
-      "timeWindow": "3 PM–3 AM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:53.484364+00:00",
-        "validUntil": "2026-09-30T05:51:53.484364+00:00",
-        "sourceURLs": [
-          "http://www.atmospherebar.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Saturday",
-      "discovery": {
-        "neighborhood": "Andersonville",
-        "kind": "event_driven",
-        "days": [
-          6
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "15:00",
-        "endTime": "03:00"
-      },
-      "eventCondition": "Saturday night event with DJ Ron G and hot dancers all night."
     },
     {
       "id": "312deals-6581",
@@ -199475,54 +195853,6 @@
       }
     },
     {
-      "id": "312deals-10491",
-      "restaurant": "Reynold's Lounge",
-      "title": "Steppers Delight Monday",
-      "subtitle": "Steppers Delight Monday",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Monday steppers delight dance event starting at 7pm"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://munchza.com/reynold-s-lounge",
-      "lastCheckedAt": "2026-09-23T05:51:59.507607+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Steppers Delight Monday\nMonday steppers delight dance event starting at 7pm",
-      "locationDetails": "938 E 75th St, Chicago, IL 60619, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:59.507607+00:00",
-        "validUntil": "2026-09-30T05:51:59.507607+00:00",
-        "sourceURLs": [
-          "https://munchza.com/reynold-s-lounge"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Chatham",
-        "kind": "event_driven",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Monday steppers delight dance event starting at 7pm"
-    },
-    {
       "id": "312deals-42603",
       "restaurant": "Irie jerk hut 4",
       "title": "Lunch Specials",
@@ -203543,54 +199873,6 @@
         "isChain": false,
         "itemPrice": 0.0
       }
-    },
-    {
-      "id": "312deals-10018",
-      "restaurant": "BRONZEVILLE SOUL",
-      "title": "Wednesday Live Band",
-      "subtitle": "Wednesday Live Band",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekly live band performance on Wednesdays"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.bronzevillesoulrestaurant.com/events",
-      "lastCheckedAt": "2026-09-23T05:52:05.503944+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Wednesday Live Band\nWeekly live band performance on Wednesdays",
-      "locationDetails": "4655 S DR MARTIN LUTHER KING JR DR 1ST 101, CHICAGO, IL 60653",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:52:05.503944+00:00",
-        "validUntil": "2026-09-30T05:52:05.503944+00:00",
-        "sourceURLs": [
-          "https://www.bronzevillesoulrestaurant.com/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "Bronzeville",
-        "kind": "event_driven",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "Weekly live band performance on Wednesdays"
     },
     {
       "id": "312deals-105932",

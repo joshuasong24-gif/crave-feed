@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-23T06:29:56.776236+00:00",
+  "generatedAt": "2026-09-24T16:11:26.096709+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -149793,6 +149793,56 @@
         "allDay": false,
         "isChain": false
       }
+    },
+    {
+      "id": "scraped-dunkin-code-20260924",
+      "restaurant": "Dunkin'",
+      "title": "Free hot or iced coffee reward",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "App required — access this offer in the app.",
+        "Only for Dunkin' Rewards members",
+        "Participating locations only",
+        "While supplies last",
+        "No purchase necessary",
+        "Million Dunkin' Rewards members",
+        "No purchase necessary.",
+        "Promo code JUST4U, released 2026-09-24 by @thefreebieguy"
+      ],
+      "redemptionSteps": [
+        "Open the Dunkin app and sign in to your Rewards account.",
+        "Enter promo code JUST4U today to claim the free hot or iced coffee reward.",
+        "Redeem the claimed reward September 24–27. Single use; while supplies last."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://thefreebieguy.com/best-dunkin-deals-freebies/",
+      "lastCheckedAt": "2026-09-24T16:11:26.097771+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "September 24, 2026: Free hot or iced coffee reward. Claim promo code JUST4U in the Dunkin app today, September 24. Dunkin Rewards membership required. Limited to the first one million claims, while supplies last. Single use; claimed reward redeemable September 24–27, 2026. No purchase necessary. Participating locations. Publisher evidence: Use code: JUST4U to score your free Dunkin! Here are the upcoming Dunkin' freebies to mark on your calendar: Thursday, Sept. 24 – Free Hot or Iced Coffee Reward (single use) that is redeemable 9/24 – 9/27. Promo codes will available to the first one Million Dunkin' Rewards members who claim it from the time it drops (mid-day) through the end of the day. Claiming instructions: https://studentrecipes.com/news/dunkin-free-coffee-sept-24-2026/\n\nReleased code captured 2026-09-24T16:11:26.096709+00:00 from the publisher page https://thefreebieguy.com/best-dunkin-deals-freebies/.\nEnter promo code JUST4U at checkout (in the Dunkin app).\nPosted caption: \"Use code: JUST4U to score your free Dunkin!\nHere are the upcoming Dunkin’ freebies to mark on your calendar:\nThursday, Sept. 24\n– Free Hot or Iced Coffee Reward (single use) that is redeemable 9/24 – 9/27. Promo codes will available to the first one Million Dunkin’ Rewards members who claim it from the time it drops (mid-day) through the end of the day.\"",
+      "offerDetails": "Free hot or iced coffee reward.",
+      "reportedDates": "September 24, 2026",
+      "membershipRequirement": "Only for Dunkin' Rewards members",
+      "reportedStartsOn": "2026-09-24",
+      "reportedEndsOn": "2026-09-24",
+      "detailNotes": [
+        "September 24, 2026: Free hot or iced coffee reward.",
+        "Claim promo code JUST4U in the Dunkin app today, September 24.",
+        "Dunkin Rewards membership required.",
+        "Limited to the first one million claims, while supplies last.",
+        "Participating locations.",
+        "Promo codes will available to the first one Million Dunkin' Rewards members who claim it from the time it drops (mid-day) through the end of the day.",
+        "Claiming instructions: https://studentrecipes.com/news/dunkin-free-coffee-sept-24-2026/",
+        "Code captured from @thefreebieguy on 2026-09-24T16:11:26.096709+00:00. Source post: https://thefreebieguy.com/best-dunkin-deals-freebies/"
+      ],
+      "code": "JUST4U",
+      "redemptionReady": true
     }
   ],
   "happyHours": [

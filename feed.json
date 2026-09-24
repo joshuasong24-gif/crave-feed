@@ -185,43 +185,6 @@
       ]
     },
     {
-      "id": "scraped-9de371f795e3c17cb423",
-      "restaurant": "Five Guys",
-      "title": "Buy one Burger, get one Free",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Qualifying purchase required"
-      ],
-      "redemptionSteps": [
-        "If so, through September 18th, Five Guys is offering Buy One Burger, Get One FREE when you use promo code BOGOBURGER at checkout!",
-        "Source instructions: Do you have a Five Guys location around? If so, through September 18th, Five Guys is offering Buy One Burger, Get One FREE when you use promo code BOGOBURGER at checkout! It's extremely rare for Five Guys to offer a promo code, so grab a deal while you can! Note: This offer only works if you order online; you can't get it in-store.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Use promo code BOGOBURGER as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thefreebieguy.com/free-burger-five-guys/",
-      "lastCheckedAt": "2026-09-18T12:02:20.870081+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Do you have a Five Guys location around? If so, through September 18th, Five Guys is offering Buy One Burger, Get One FREE when you use promo code BOGOBURGER at checkout! It's extremely rare for Five Guys to offer a promo code, so grab a deal while you can! Note: This offer only works if you order online; you can't get it in-store.",
-      "offerDetails": "Buy one Burger, get one Free.",
-      "reportedDates": "through September",
-      "reportedEndsOn": "2026-09-30",
-      "detailNotes": [
-        "Do you have a Five Guys location around?",
-        "It's extremely rare for Five Guys to offer a promo code, so grab a deal while you can!"
-      ],
-      "code": "BOGOBURGER",
-      "redemptionReady": true
-    },
-    {
       "id": "scraped-c9765c0dd7df3c7a34d6",
       "restaurant": "Little Caesars",
       "title": "$2 off a Webberoni pizza",
@@ -475,42 +438,6 @@
       "recurrenceLabel": "Every Sunday",
       "reportedEndsOn": "2026-12-27",
       "code": "CHICKENSUNDAY",
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-8a646bb856a7e808d6fb",
-      "restaurant": "Tropical Smoothie Cafe",
-      "title": "$2 24oz smoothie",
-      "subtitle": "",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online or in the app.",
-        "When you purchase a regular-price food item or Tropic Bowl and enter promo code SCORE during online or in-app checkout at Tropical Smoothie Cafe"
-      ],
-      "redemptionSteps": [
-        "Every Sunday and Monday through Jan. 11, get a 24oz smoothie for $2 when you purchase a regular-price food item or Tropic Bowl and enter promo code SCORE during online or in-app checkout at Tropical Smoothie Cafe.",
-        "Source instructions: Every Sunday and Monday through Jan. 11, get a 24oz smoothie for $2 when you purchase a regular-price food item or Tropic Bowl and enter promo code SCORE during online or in-app checkout at Tropical Smoothie Cafe.",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Use promo code SCORE as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.734550+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Every Sunday and Monday through Jan. 11, get a 24oz smoothie for $2 when you purchase a regular-price food item or Tropic Bowl and enter promo code SCORE during online or in-app checkout at Tropical Smoothie Cafe.",
-      "offerDetails": "$2 24oz smoothie.",
-      "reportedDates": "through Jan. 11",
-      "recurrenceLabel": "Every Sunday and Monday",
-      "reportedEndsOn": "2027-01-11",
-      "code": "SCORE",
       "redemptionReady": true
     },
     {
@@ -16075,58 +16002,6 @@
       }
     },
     {
-      "id": "312deals-2741",
-      "restaurant": "Eden",
-      "title": "sandwiches",
-      "subtitle": "February Sandwich Collab - The Mikey",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available all February at lunch and weekend brunch"
-      ],
-      "redemptionSteps": [
-        "Special collaboration sandwich featuring smoked roast beef, mortadella, confit pork loin with ricotta salata, spicy greens, basil pesto trapanese, smoked carrot giardiniera, and salt & vinegar potato chips on a hoagie roll"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://edeninchicago.com/menus/brunch-lunch-menus/",
-      "lastCheckedAt": "2026-09-23T05:26:07.956495+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "February Sandwich Collab - The Mikey\nSpecial collaboration sandwich featuring smoked roast beef, mortadella, confit pork loin with ricotta salata, spicy greens, basil pesto trapanese, smoked carrot giardiniera, and salt & vinegar potato chips on a hoagie roll\nsandwiches\nAvailable all February at lunch and weekend brunch",
-      "locationDetails": "2734 W ROSCOE ST 1, Chicago, IL 60618",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:07.956495+00:00",
-        "validUntil": "2026-09-30T05:26:07.956495+00:00",
-        "sourceURLs": [
-          "https://edeninchicago.com/menus/brunch-lunch-menus/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Avondale",
-        "kind": "happy_hour",
-        "days": [
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false
-      }
-    },
-    {
       "id": "312deals-2970",
       "restaurant": "Little Bad Wolf",
       "title": "Free Drink with Combo",
@@ -16867,63 +16742,6 @@
       }
     },
     {
-      "id": "312deals-3477",
-      "restaurant": "Smashburger #1745",
-      "title": "$2.50 Mac Cup",
-      "subtitle": "$2.50 Mac Cup",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Limited time offer through 2/26. Terms & conditions apply."
-      ],
-      "redemptionSteps": [
-        "Now through 2/26, add a mac cup to your order for only $2.50. Classic or Scorchin', your call."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://smashburger.com/deals",
-      "lastCheckedAt": "2026-09-23T05:26:07.956495+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$2.50 Mac Cup\nNow through 2/26, add a mac cup to your order for only $2.50. Classic or Scorchin', your call.\n$2.5 Mac Cup (Classic or Scorchin')\nLimited time offer through 2/26. Terms & conditions apply.",
-      "locationDetails": "4709 W FOSTER AVE 1ST A, Chicago, IL 60630",
-      "timeWindow": "12 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:07.956495+00:00",
-        "validUntil": "2026-09-30T05:26:07.956495+00:00",
-        "sourceURLs": [
-          "https://smashburger.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "startTime": "00:00",
-        "endTime": "23:59",
-        "itemPrice": 2.5
-      }
-    },
-    {
       "id": "312deals-3510",
       "restaurant": "Xi'An Cuisine West Loop",
       "title": "$10 OFF Online Order",
@@ -17413,61 +17231,6 @@
         ],
         "allDay": false
       }
-    },
-    {
-      "id": "312deals-8584",
-      "restaurant": "Smashburger #1745",
-      "title": "$4 off $20 Online Only",
-      "subtitle": "$4 off $20 Online Only",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Online only, minimum $20 order, code ONLINE420, valid through 3/12"
-      ],
-      "redemptionSteps": [
-        "$4 off any order over $20 using code ONLINE420"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://smashburger.com/deals",
-      "lastCheckedAt": "2026-09-23T05:26:07.956495+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$4 off $20 Online Only\n$4 off any order over $20 using code ONLINE420\nOnline only, minimum $20 order, code ONLINE420, valid through 3/12",
-      "locationDetails": "4709 W FOSTER AVE 1ST A, Chicago, IL 60630",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:07.956495+00:00",
-        "validUntil": "2026-09-30T05:26:07.956495+00:00",
-        "sourceURLs": [
-          "https://smashburger.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false
-      },
-      "code": "ONLINE420"
     },
     {
       "id": "312deals-8585",
@@ -18179,64 +17942,6 @@
       }
     },
     {
-      "id": "312deals-7759",
-      "restaurant": "Ramen-san - River North",
-      "title": "Spicy Miso Ramen Limited Edition",
-      "subtitle": "Spicy Miso Ramen Limited Edition",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available through 03/11"
-      ],
-      "redemptionSteps": [
-        "Seasonal ramen featuring spicy ground pork, napa cabbage, and szechuan peppercorn."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.ramensan.com/",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Spicy Miso Ramen Limited Edition\nSeasonal ramen featuring spicy ground pork, napa cabbage, and szechuan peppercorn.\n$18 Spicy Miso Ramen\nAvailable through 03/11",
-      "locationDetails": "59 W Hubbard St #2, Chicago, IL 60654",
-      "timeWindow": "11 AM–11 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.ramensan.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "23:00",
-        "itemPrice": 18.0
-      }
-    },
-    {
       "id": "312deals-8894",
       "restaurant": "Ramen-san - River North",
       "title": "$18.95 Maki Express Set",
@@ -18292,64 +17997,6 @@
         "startTime": "11:00",
         "endTime": "15:00",
         "itemPrice": 18.95
-      }
-    },
-    {
-      "id": "312deals-8895",
-      "restaurant": "Ramen-san - River North",
-      "title": "Italian Beef Ramen",
-      "subtitle": "Italian Beef Ramen",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available through March 25th"
-      ],
-      "redemptionSteps": [
-        "Limited edition ramen featuring chicken broth, slow cooked Italian beef, and giardiniera kimchi."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.ramensan.com/",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Italian Beef Ramen\nLimited edition ramen featuring chicken broth, slow cooked Italian beef, and giardiniera kimchi.\n$27 Italian Beef Ramen\nAvailable through March 25th",
-      "locationDetails": "59 W Hubbard St #2, Chicago, IL 60654",
-      "timeWindow": "11 AM–11 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.ramensan.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "23:00",
-        "itemPrice": 27.0
       }
     },
     {
@@ -18539,61 +18186,6 @@
         "endTime": "21:00"
       },
       "eventCondition": "Special wine dinner featuring Piemontese winery Poderi Colla with Pietro Colla"
-    },
-    {
-      "id": "312deals-47157",
-      "restaurant": "RPM Italian",
-      "title": "National Prosecco Week",
-      "subtitle": "National Prosecco Week",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "June 15-21 only"
-      ],
-      "redemptionSteps": [
-        "Special menu of signature cocktails, pours, and more celebrating Giuliana Prosecco during National Prosecco Week"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.rpmrestaurants.com/rpm-italian-chicago/events",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "National Prosecco Week\nSpecial menu of signature cocktails, pours, and more celebrating Giuliana Prosecco during National Prosecco Week\nSpecial Giuliana Prosecco cocktails and pours\nJune 15-21 only",
-      "locationDetails": "52 W Illinois St, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.rpmrestaurants.com/rpm-italian-chicago/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true
-      }
     },
     {
       "id": "312deals-1430",
@@ -19121,63 +18713,6 @@
         "startTime": "07:00",
         "endTime": "09:00",
         "itemPrice": 6.95
-      }
-    },
-    {
-      "id": "312deals-7839",
-      "restaurant": "Beatrix",
-      "title": "Passover Specials",
-      "subtitle": "Passover Specials",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available April 1st – April 7th. Dinner package must be ordered by March 31st."
-      ],
-      "redemptionSteps": [
-        "Seasonal matzo ball soup and a dinner package for two at Fulton Market."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.beatrixrestaurants.com/",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Passover Specials\nSeasonal matzo ball soup and a dinner package for two at Fulton Market.\nMatzo Ball Soup\n$114.95 Passover Dinner For Two To-Go (Fulton Market)\nAvailable April 1st – April 7th. Dinner package must be ordered by March 31st.",
-      "locationDetails": "519 N CLARK ST 1, Chicago, IL 60654",
-      "timeWindow": "12 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.beatrixrestaurants.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "00:00",
-        "endTime": "23:59"
       }
     },
     {
@@ -20279,115 +19814,6 @@
       }
     },
     {
-      "id": "312deals-8890",
-      "restaurant": "Beatrix - River North",
-      "title": "Passover Specials",
-      "subtitle": "Passover Specials",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid April 1st – April 7th; Dinner package available at Fulton Market only and must be ordered by March 31st."
-      ],
-      "redemptionSteps": [
-        "Matzo Ball Soup and a full Passover Dinner For Two To-Go."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.beatrixrestaurants.com/",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Passover Specials\nMatzo Ball Soup and a full Passover Dinner For Two To-Go.\nMatzo Ball Soup\n$114.95 Passover Dinner For Two To-Go\nValid April 1st – April 7th; Dinner package available at Fulton Market only and must be ordered by March 31st.",
-      "locationDetails": "519 N Clark St, Chicago, IL 60654",
-      "timeWindow": "11 AM–10 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.beatrixrestaurants.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "startTime": "11:00",
-        "endTime": "22:00"
-      }
-    },
-    {
-      "id": "312deals-2854",
-      "restaurant": "Ema - River North",
-      "title": "$2 Small Cup of Soup",
-      "subtitle": "Soup's On Fridays at Rotisserie Ema",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid only on Fridays from Jan 9 to Mar 20 for to-go orders at Rotisserie Ema."
-      ],
-      "redemptionSteps": [
-        "Special discounted small and large cups of soup with complimentary fresh-baked house bread at Rotisserie Ema location."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://emarestaurants.com/chicago/happenings/happy-hour",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Soup's On Fridays at Rotisserie Ema\nSpecial discounted small and large cups of soup with complimentary fresh-baked house bread at Rotisserie Ema location.\n$2 Small Cup of Soup\n$4 Large Cup of Soup\nValid only on Fridays from Jan 9 to Mar 20 for to-go orders at Rotisserie Ema.",
-      "locationDetails": "74 W Illinois St, Chicago, IL 60654",
-      "timeWindow": "11 AM–3 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://emarestaurants.com/chicago/happenings/happy-hour"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "daily_special",
-        "days": [
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "15:00",
-        "itemPrice": 2.0
-      }
-    },
-    {
       "id": "312deals-2853",
       "restaurant": "Ema - River North",
       "title": "Sunday Spritzes",
@@ -20487,110 +19913,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 1.0
-      }
-    },
-    {
-      "id": "312deals-7762",
-      "restaurant": "Ema - River North",
-      "title": "Passover Dinner To-Go",
-      "subtitle": "Passover Dinner To-Go",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available April 1st & 2nd; Orders must be placed by March 29th at Noon"
-      ],
-      "redemptionSteps": [
-        "Passover Dinner For Two To-Go including multiple courses."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://emarestaurants.com/chicago/happenings/happy-hour",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Passover Dinner To-Go\nPassover Dinner For Two To-Go including multiple courses.\n$119.95 Passover Dinner For Two To-Go\nAvailable April 1st & 2nd; Orders must be placed by March 29th at Noon",
-      "locationDetails": "74 W Illinois St, Chicago, IL 60654",
-      "timeWindow": "11 AM–6 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://emarestaurants.com/chicago/happenings/happy-hour"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday, Thursday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          3,
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "18:00"
-      }
-    },
-    {
-      "id": "312deals-8909",
-      "restaurant": "Ema - River North",
-      "title": "Passover Specials",
-      "subtitle": "Passover Specials",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available April 1st & 2nd. To-go orders must be placed by Sunday, March 29th at Noon."
-      ],
-      "redemptionSteps": [
-        "Passover Dinner For Two To-Go and dine-in specials featuring Matzo Ball Soup, Beef Brisket, and Roasted Half Chicken."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://emarestaurants.com/chicago/happenings/happy-hour",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Passover Specials\nPassover Dinner For Two To-Go and dine-in specials featuring Matzo Ball Soup, Beef Brisket, and Roasted Half Chicken.\n$119.95 Passover Dinner For Two To-Go\nAvailable April 1st & 2nd. To-go orders must be placed by Sunday, March 29th at Noon.",
-      "locationDetails": "74 W Illinois St, Chicago, IL 60654",
-      "timeWindow": "11 AM–6 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://emarestaurants.com/chicago/happenings/happy-hour"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday, Thursday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          3,
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "18:00"
       }
     },
     {
@@ -20960,63 +20282,6 @@
         "startTime": "17:00",
         "endTime": "23:00",
         "itemPrice": 0.0
-      }
-    },
-    {
-      "id": "312deals-7798",
-      "restaurant": "Hawksmoor",
-      "title": "Holiday Cheers, On Us",
-      "subtitle": "Holiday Cheers, On Us",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must book a January 2026 event by Nov 30, 2025. Gift card valid Feb 1 - April 30, 2026. Applies to specific room bookings."
-      ],
-      "redemptionSteps": [
-        "Promotion for booking January events: receive a $250 gift card and mini signature cocktails."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thehawksmoor.com/us/locations/chicago/?pl=chicago&utm_source=google&utm_medium=organic&utm_campaign=gbp",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Holiday Cheers, On Us\nPromotion for booking January events: receive a $250 gift card and mini signature cocktails.\nBottled mini signature cocktails\nMust book a January 2026 event by Nov 30, 2025. Gift card valid Feb 1 - April 30, 2026. Applies to specific room bookings.",
-      "locationDetails": "500 N La Salle Dr, Chicago, IL 60654",
-      "timeWindow": "12 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://thehawksmoor.com/us/locations/chicago/?pl=chicago&utm_source=google&utm_medium=organic&utm_campaign=gbp"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "00:00",
-        "endTime": "23:59"
       }
     },
     {
@@ -23020,64 +22285,6 @@
         "startTime": "11:00",
         "endTime": "15:00",
         "itemPrice": 8.0
-      }
-    },
-    {
-      "id": "312deals-7906",
-      "restaurant": "Club Gene & Georgetti",
-      "title": "Lent Specials",
-      "subtitle": "Lent Specials",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available through April 2, 2026. A 3.5% surcharge is added to all checks."
-      ],
-      "redemptionSteps": [
-        "Seasonal Italian seafood and vegetarian dishes for Lent."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.geneandgeorgetti.com/",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Lent Specials\nSeasonal Italian seafood and vegetarian dishes for Lent.\n$31 Fritto Misto\n$34 Insalata Polpo e Patate\n$29 Spaghetti alle Acciughe\n$42 Pappardelle con Ragu\n$36 Fish + Chips\n$17 Torta di Limone\n$17 Coffee Infusion Negroni\nAvailable through April 2, 2026. A 3.5% surcharge is added to all checks.",
-      "locationDetails": "500 N FRANKLIN ST 1, Chicago, IL 60654",
-      "timeWindow": "11 AM–9 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.geneandgeorgetti.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "21:00",
-        "itemPrice": 17.0
       }
     },
     {
@@ -25143,64 +24350,6 @@
         "isChain": false,
         "startTime": "11:00",
         "endTime": "17:00"
-      }
-    },
-    {
-      "id": "312deals-7923",
-      "restaurant": "Eataly",
-      "title": "$26 2-course prix-fixe menu",
-      "subtitle": "Restaurant Fest at La Pizza & La Pasta",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available March 5–29, 2026."
-      ],
-      "redemptionSteps": [
-        "A seasonal promotion featuring a 2-course prix-fixe menu with optional small bites and wine flights."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.eataly.com/us_en/stores/chicago",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Restaurant Fest at La Pizza & La Pasta\nA seasonal promotion featuring a 2-course prix-fixe menu with optional small bites and wine flights.\n$26 2-course prix-fixe menu\n$6 Small Bites (exclusive to prix-fixe)\n$14 Wine Flight (two 3oz pours)\n$12 Specialino Spritz\nAvailable March 5–29, 2026.",
-      "locationDetails": "43 E OHIO ST 1 & 2, Chicago, IL 60611",
-      "timeWindow": "11 AM–9 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.eataly.com/us_en/stores/chicago"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "21:00",
-        "itemPrice": 6.0
       }
     },
     {
@@ -28853,50 +28002,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 6.0
-      }
-    },
-    {
-      "id": "312deals-6952",
-      "restaurant": "Itoko / Gg'S Chicken Shop / Little Goat Diner",
-      "title": "Fries with Friends Collab Series",
-      "subtitle": "Fries with Friends Collab Series",
-      "category": "side",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "A new monthly feature where Chef Steph invites a chef friend to put their own spin on some loaded fries! We're kicking things off in March with Joe Flamm's Line Cook Breakfast Fries."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://littlegoatchicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:43.517214+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Fries with Friends Collab Series\nA new monthly feature where Chef Steph invites a chef friend to put their own spin on some loaded fries! We're kicking things off in March with Joe Flamm's Line Cook Breakfast Fries.\nJoe Flamm's Line Cook Breakfast Fries",
-      "locationDetails": "3323-3325 N SOUTHPORT AVE LL-2, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:43.517214+00:00",
-        "validUntil": "2026-09-30T05:50:43.517214+00:00",
-        "sourceURLs": [
-          "https://littlegoatchicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "seasonal_lto",
-        "days": [],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -33911,61 +33016,6 @@
         "allDay": true,
         "isChain": true,
         "itemPrice": 14.99
-      }
-    },
-    {
-      "id": "312deals-51774",
-      "restaurant": "Giordano's - Lakeview",
-      "title": "Reported restaurant special",
-      "subtitle": "Americana Pizza - Honor Flight Fundraiser",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available through July 31st. Parmesan 250 add-on available for dine-in customers only. $1 per pizza sold donated to Honor Flight."
-      ],
-      "redemptionSteps": [
-        "Limited-time Americana Pizza featuring sausage and pepperoni. For every pizza sold, $1 is donated to Honor Flight, supporting Veterans visiting Washington D.C. Available for takeout, delivery, or dine-in. Dine-in customers can add a Parmesan 250 to their deep dish."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.tiktok.com/@giordanos_pizza/video/7649548189040774430",
-      "lastCheckedAt": "2026-09-23T05:50:43.517214+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Americana Pizza - Honor Flight Fundraiser\nLimited-time Americana Pizza featuring sausage and pepperoni. For every pizza sold, $1 is donated to Honor Flight, supporting Veterans visiting Washington D.C. Available for takeout, delivery, or dine-in. Dine-in customers can add a Parmesan 250 to their deep dish.\nAmericana Pizza (sausage & pepperoni deep dish)\nParmesan 250 add-on (dine-in only)\nAvailable through July 31st. Parmesan 250 add-on available for dine-in customers only. $1 per pizza sold donated to Honor Flight.",
-      "locationDetails": "1040 W Belmont Ave, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:43.517214+00:00",
-        "validUntil": "2026-09-30T05:50:43.517214+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@giordanos_pizza/video/7649548189040774430"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true
       }
     },
     {
@@ -39086,57 +38136,6 @@
       }
     },
     {
-      "id": "312deals-15629",
-      "restaurant": "Lm Catering",
-      "title": "Summer Wedding Booking Deal",
-      "subtitle": "Summer Wedding Booking Deal",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid on new events Friday and Sunday in July and August 2026. 50% off venue rental valid only at Lacuna Lofts, LM Studio, and Twenty-Six. No ceremony fee valid only at Sky on Nine Rosemont"
-      ],
-      "redemptionSteps": [
-        "Summer wedding deal offering 50% off venue rental OR no ceremony fee OR complimentary late night snack OR complimentary champagne toast"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.lmcateringchicago.com/specials",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Summer Wedding Booking Deal\nSummer wedding deal offering 50% off venue rental OR no ceremony fee OR complimentary late night snack OR complimentary champagne toast\nFree Complimentary late night snack (option)\nFree Complimentary champagne toast (option)\nValid on new events Friday and Sunday in July and August 2026. 50% off venue rental valid only at Lacuna Lofts, LM Studio, and Twenty-Six. No ceremony fee valid only at Sky on Nine Rosemont",
-      "locationDetails": "808 S MICHIGAN AVE 5 - 6, Chicago, IL 60605",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.lmcateringchicago.com/specials"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday, Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          5,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-2935",
       "restaurant": "Remington'S",
       "title": "Soup of the Day",
@@ -39187,58 +38186,6 @@
         ],
         "allDay": false,
         "isChain": false
-      }
-    },
-    {
-      "id": "312deals-7255",
-      "restaurant": "Solette",
-      "title": "March Martini Madness",
-      "subtitle": "March Martini Madness",
-      "category": "side",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Every Monday in March only"
-      ],
-      "redemptionSteps": [
-        "$10 martinis every Monday in March, plus $5 fries to snack on while you sip. Launches 3/2."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dinesolette.com/",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "March Martini Madness\n$10 martinis every Monday in March, plus $5 fries to snack on while you sip. Launches 3/2.\n$5 Fries\n$10 Martinis\nEvery Monday in March only",
-      "locationDetails": "225 W RANDOLPH ST BSMT,L1,L30,L31,L32, Chicago, IL 60606",
-      "timeWindow": "11 AM–8 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.dinesolette.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "daily_special",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "20:00",
-        "itemPrice": 5.0
       }
     },
     {
@@ -39319,61 +38266,6 @@
       "isSample": false,
       "ratingReason": "Reported by 312Deals; availability unconfirmed.",
       "fullTerms": "Gift Cards for Gratitude\n$50 Bottleneck gift card for $40 for teachers and first responders\nFor teachers and first responders only",
-      "locationDetails": "100 S WACKER DR 100 & 140, Chicago, IL 60606",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.southbranchchicago.com/events"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-20562",
-      "restaurant": "South Branch",
-      "title": "Dry January",
-      "subtitle": "Dry January",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "January only"
-      ],
-      "redemptionSteps": [
-        "January special featuring a limited-time cucumber mocktail and two non-alcoholic beer options from Athletic Brewing"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.southbranchchicago.com/events",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Dry January\nJanuary special featuring a limited-time cucumber mocktail and two non-alcoholic beer options from Athletic Brewing\nLimited-time cucumber mocktail\nAthletic Brewing non-alcoholic beers\nJanuary only",
       "locationDetails": "100 S WACKER DR 100 & 140, Chicago, IL 60606",
       "timeWindow": "Hours not stated",
       "redemptionReady": true,
@@ -39945,64 +38837,6 @@
       }
     },
     {
-      "id": "312deals-8740",
-      "restaurant": "Acanto",
-      "title": "$18 Crostini alla Chietina",
-      "subtitle": "Acanto Passaporto: Abruzzo & Molise Dinner Specials",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Seasonal promotion for February and March. Wine pairing prices are per glass."
-      ],
-      "redemptionSteps": [
-        "Rotating regional specialty menu highlighting food and wine from Abruzzo and Molise."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.acantochicago.com/happy-hour",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Acanto Passaporto: Abruzzo & Molise Dinner Specials\nRotating regional specialty menu highlighting food and wine from Abruzzo and Molise.\n$18 Crostini alla Chietina\n$28 Sagne Ricci all'Abruzzese\n$38 Pampanella Molisana\n$25 Regional Torrone Tasting\n$21 Marramiero Brut Pairing\n$18 Torre dei Beati Pecorino Pairing\n$16 Cirelli - Cerasuolo d'Abruzzo Pairing\n$20 Cipressi SetteVigne Tintilia Pairing\nSeasonal promotion for February and March. Wine pairing prices are per glass.",
-      "locationDetails": "18 S MICHIGAN AVE 1ST, Chicago, IL 60603",
-      "timeWindow": "5 PM–9 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.acantochicago.com/happy-hour"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "17:00",
-        "endTime": "21:00",
-        "itemPrice": 16.0
-      }
-    },
-    {
       "id": "312deals-8360",
       "restaurant": "Brown Bag Seafood Company",
       "title": "Seasonal Specials (LTO)",
@@ -40486,62 +39320,6 @@
         ],
         "allDay": false,
         "isChain": false
-      }
-    },
-    {
-      "id": "312deals-1386",
-      "restaurant": "Morton'S Steakhouse-Wacker Place",
-      "title": "February Three-Course Menu",
-      "subtitle": "February Three-Course Menu",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "February 18–28. Price may vary by location. Tax & gratuity not included. Available while supplies last. Dine-in only. No substitutions. Not valid with any other offers or discounts."
-      ],
-      "redemptionSteps": [
-        "Three-course prix fixe menu featuring choice of starter (Caesar salad, wedge salad, French onion soup, or lobster bisque), entrée (petite filet mignon, NY Manhattan, pork osso buco, chicken Christopher, shrimp Alexander, or lobster ravioli), and dessert (key lime pie, crème brûlée, espresso pot de crème, seasonal cheesecake, or hot chocolate cake)"
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.mortons.com/location/mortons-the-steakhouse-chicago-il-wacker-place/",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "February Three-Course Menu\nThree-course prix fixe menu featuring choice of starter (Caesar salad, wedge salad, French onion soup, or lobster bisque), entrée (petite filet mignon, NY Manhattan, pork osso buco, chicken Christopher, shrimp Alexander, or lobster ravioli), and dessert (key lime pie, crème brûlée, espresso pot de crème, seasonal cheesecake, or hot chocolate cake)\n$65 Three-Course Menu\n$15 Upgrade to 8 oz. Filet\n$20 Add Cold-Water Lobster Tail\n$10 Morton's Legendary Hot Chocolate Cake\nFebruary 18–28. Price may vary by location. Tax & gratuity not included. Available while supplies last. Dine-in only. No substitutions. Not valid with any other offers or discounts.",
-      "locationDetails": "65 E WACKER PL, Chicago, IL 60601",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.mortons.com/location/mortons-the-steakhouse-chicago-il-wacker-place/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 10
       }
     },
     {
@@ -41179,110 +39957,6 @@
       }
     },
     {
-      "id": "312deals-8799",
-      "restaurant": "Forum 55",
-      "title": "Fish Fridays at Flame",
-      "subtitle": "Fish Fridays at Flame",
-      "category": "side",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available every Friday from Feb. 28 to April 10"
-      ],
-      "redemptionSteps": [
-        "Fried fish and chips basket with 100% sustainable beer-battered cod, French fries, and creamy coleslaw."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.forum55chicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Fish Fridays at Flame\nFried fish and chips basket with 100% sustainable beer-battered cod, French fries, and creamy coleslaw.\n$12 Fried Fish and Chips Basket\nAvailable every Friday from Feb. 28 to April 10",
-      "locationDetails": "55 E MONROE ST LL, Chicago, IL 60603",
-      "timeWindow": "11 AM–2 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.forum55chicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "14:00",
-        "itemPrice": 12.0
-      }
-    },
-    {
-      "id": "312deals-8800",
-      "restaurant": "Forum 55",
-      "title": "Fish Fridays at Flash Taco",
-      "subtitle": "Fish Fridays at Flash Taco",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available every Friday from Feb. 28 to April 10"
-      ],
-      "redemptionSteps": [
-        "Fish Burrito Bowl with grilled and marinated tilapia, white garlic-based rice, black beans, pico de gallo, and mango sauce."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.forum55chicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Fish Fridays at Flash Taco\nFish Burrito Bowl with grilled and marinated tilapia, white garlic-based rice, black beans, pico de gallo, and mango sauce.\n$10 Fish Burrito Bowl\nAvailable every Friday from Feb. 28 to April 10",
-      "locationDetails": "55 E MONROE ST LL, Chicago, IL 60603",
-      "timeWindow": "11 AM–2 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.forum55chicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "14:00",
-        "itemPrice": 10.0
-      }
-    },
-    {
       "id": "312deals-8801",
       "restaurant": "Forum 55",
       "title": "Omelet Combo",
@@ -41442,113 +40116,6 @@
         "startTime": "07:30",
         "endTime": "09:30",
         "itemPrice": 11.0
-      }
-    },
-    {
-      "id": "312deals-8370",
-      "restaurant": "Palm Restaurant",
-      "title": "$19.26 Commemorative Dish",
-      "subtitle": "$19.26 Commemorative Dish",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available on Sundays only during the month of March."
-      ],
-      "redemptionSteps": [
-        "Half portion of signature Veal Martini (tender veal, savory sauce) offered at a commemorative price to celebrate 100 years."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.thepalm.com/restaurants/chicago/",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$19.26 Commemorative Dish\nHalf portion of signature Veal Martini (tender veal, savory sauce) offered at a commemorative price to celebrate 100 years.\n$19.26 Veal Martini (Half Portion)\nAvailable on Sundays only during the month of March.",
-      "locationDetails": "323 E WACKER DR 1, Chicago, IL 60601",
-      "timeWindow": "5 PM–9 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.thepalm.com/restaurants/chicago/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "17:00",
-        "endTime": "21:00",
-        "itemPrice": 19.26
-      }
-    },
-    {
-      "id": "312deals-9780",
-      "restaurant": "The Fairmont Chicago",
-      "title": "Special Starts Here",
-      "subtitle": "Special Starts Here",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Book by March 30th, 2026 for stays through May 31, 2026"
-      ],
-      "redemptionSteps": [
-        "Luxurious accommodations up to 20% off the best available rate"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.fairmont.com/chicago/?goto=fiche_hotel&code_hotel=A557&merchantid=seo-maps-US-A557&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Special Starts Here\nLuxurious accommodations up to 20% off the best available rate\nBook by March 30th, 2026 for stays through May 31, 2026",
-      "locationDetails": "200 N COLUMBUS DR, Chicago, IL 60601",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.fairmont.com/chicago/?goto=fiche_hotel&code_hotel=A557&merchantid=seo-maps-US-A557&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -42055,58 +40622,6 @@
         "startTime": "07:00",
         "endTime": "15:00",
         "itemPrice": 5.29
-      }
-    },
-    {
-      "id": "312deals-3459",
-      "restaurant": "Town House Restaurant & Wine Bar",
-      "title": "Reported restaurant special",
-      "subtitle": "Friday Summer Special - Burger & A Beer",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Combo deal - burger and beer together for $12"
-      ],
-      "redemptionSteps": [
-        "Every Friday all day long - grass fed ground beef burger with choice of cheese and a domestic beer for $12"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.townhousewinebar.com/specials",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Friday Summer Special - Burger & A Beer\nEvery Friday all day long - grass fed ground beef burger with choice of cheese and a domestic beer for $12\n$12 Burger with lettuce, tomato, onion, mayo, and choice of cheddar or swiss\n$12 Domestic beer (Bud, Bud Light, Coors Light, Miller Lite)\nCombo deal - burger and beer together for $12",
-      "locationDetails": "111 S WACKER DR, Chicago, IL 60606",
-      "timeWindow": "11 AM–11 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://www.townhousewinebar.com/specials"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "daily_special",
-        "days": [
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "23:00",
-        "itemPrice": 12.0
       }
     },
     {
@@ -43033,64 +41548,6 @@
       }
     },
     {
-      "id": "312deals-3455",
-      "restaurant": "Smashburger #1733",
-      "title": "$2.50 Mac Cup",
-      "subtitle": "$2.50 Mac Cup",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Through 2/26, participating locations only"
-      ],
-      "redemptionSteps": [
-        "Add a mac cup to your order for only $2.50. Classic or Scorchin', your call."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://smashburger.com/deals",
-      "lastCheckedAt": "2026-09-23T05:50:49.327043+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$2.50 Mac Cup\nAdd a mac cup to your order for only $2.50. Classic or Scorchin', your call.\n$2.5 Mac Cup (Classic or Scorchin')\nThrough 2/26, participating locations only",
-      "locationDetails": "360 N MICHIGAN AVE GROUND, Chicago, IL 60601",
-      "timeWindow": "12 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:49.327043+00:00",
-        "validUntil": "2026-09-30T05:50:49.327043+00:00",
-        "sourceURLs": [
-          "https://smashburger.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "00:00",
-        "endTime": "23:59",
-        "itemPrice": 2.5
-      }
-    },
-    {
       "id": "312deals-20297",
       "restaurant": "Smashburger #1733",
       "title": "$4.99 All Day, Every Day Menu",
@@ -43143,120 +41600,6 @@
         "isChain": false,
         "itemPrice": 4.99
       }
-    },
-    {
-      "id": "312deals-20298",
-      "restaurant": "Smashburger #1733",
-      "title": "$6 Big Dogs Special",
-      "subtitle": "$6 Big Dogs Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid through 4/25, use code BIGDOG6 for online orders or mention to cashier when dining in"
-      ],
-      "redemptionSteps": [
-        "National Picnic Day special - $6 Big Dogs through 4/25"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://smashburger.com/deals",
-      "lastCheckedAt": "2026-09-23T05:50:49.327043+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$6 Big Dogs Special\nNational Picnic Day special - $6 Big Dogs through 4/25\n$6 Big Dogs\nValid through 4/25, use code BIGDOG6 for online orders or mention to cashier when dining in",
-      "locationDetails": "360 N MICHIGAN AVE GROUND, Chicago, IL 60601",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:49.327043+00:00",
-        "validUntil": "2026-09-30T05:50:49.327043+00:00",
-        "sourceURLs": [
-          "https://smashburger.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 6.0
-      },
-      "code": "BIGDOG6"
-    },
-    {
-      "id": "312deals-20299",
-      "restaurant": "Smashburger #1733",
-      "title": "Shrimp Lovers Deal",
-      "subtitle": "Shrimp Lovers Deal",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid through 4/29, use code ROLL6 for shrimp rolls or BASKET10 for shrimp baskets, while supplies last"
-      ],
-      "redemptionSteps": [
-        "Shrimp special - $6 shrimp rolls or $10 shrimp baskets through 4/29"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://smashburger.com/deals",
-      "lastCheckedAt": "2026-09-23T05:50:49.327043+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Shrimp Lovers Deal\nShrimp special - $6 shrimp rolls or $10 shrimp baskets through 4/29\n$6 Any Shrimp Roll\n$10 Any Shrimp Basket\nValid through 4/29, use code ROLL6 for shrimp rolls or BASKET10 for shrimp baskets, while supplies last",
-      "locationDetails": "360 N MICHIGAN AVE GROUND, Chicago, IL 60601",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:49.327043+00:00",
-        "validUntil": "2026-09-30T05:50:49.327043+00:00",
-        "sourceURLs": [
-          "https://smashburger.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 6.0
-      },
-      "code": "ROLL6"
     },
     {
       "id": "312deals-42624",
@@ -43312,62 +41655,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 0.0
-      }
-    },
-    {
-      "id": "312deals-42625",
-      "restaurant": "Smashburger #1733",
-      "title": "Burger + Beer Combo",
-      "subtitle": "Burger + Beer Combo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "In-restaurant only, through May 31st, must be 21+ for alcohol, ID required"
-      ],
-      "redemptionSteps": [
-        "Jalapeño Crema Smash paired with a 24 oz Modelo for $11.99"
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://smashburger.com/deals",
-      "lastCheckedAt": "2026-09-23T05:50:49.327043+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Burger + Beer Combo\nJalapeño Crema Smash paired with a 24 oz Modelo for $11.99\n$11.99 Jalapeño Crema Smash + 24oz Modelo\n24oz Modelo (included in combo)\nIn-restaurant only, through May 31st, must be 21+ for alcohol, ID required",
-      "locationDetails": "360 N MICHIGAN AVE GROUND, Chicago, IL 60601",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:49.327043+00:00",
-        "validUntil": "2026-09-30T05:50:49.327043+00:00",
-        "sourceURLs": [
-          "https://smashburger.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 11.99
       }
     },
     {
@@ -47903,64 +46190,6 @@
       }
     },
     {
-      "id": "312deals-8118",
-      "restaurant": "Floriole Bakery",
-      "title": "Passover Pre-Orders",
-      "subtitle": "Passover Pre-Orders",
-      "category": "dessert",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Preorder for Apr 1 - Apr 9"
-      ],
-      "redemptionSteps": [
-        "Seasonal Passover treats."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://floriole.com/",
-      "lastCheckedAt": "2026-09-23T05:50:51.490690+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Passover Pre-Orders\nSeasonal Passover treats.\n$54 Flourless Chocolate Hazelnut Praline Cake\n$38 Coconut Macaroon (pack of 12)\nPreorder for Apr 1 - Apr 9",
-      "locationDetails": "1220 W WEBSTER AVE, Chicago, IL 60614",
-      "timeWindow": "8 AM–5 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:51.490690+00:00",
-        "validUntil": "2026-09-30T05:50:51.490690+00:00",
-        "sourceURLs": [
-          "https://floriole.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "08:00",
-        "endTime": "17:00",
-        "itemPrice": 54.0
-      }
-    },
-    {
       "id": "312deals-8198",
       "restaurant": "Mon Ami Gabi",
       "title": "Chicago Passover Dinner",
@@ -49717,63 +47946,6 @@
         ],
         "allDay": false,
         "isChain": false
-      }
-    },
-    {
-      "id": "312deals-8210",
-      "restaurant": "Peggy Notebaert Nature Museum",
-      "title": "Mug Club Membership",
-      "subtitle": "Mug Club Membership",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Annual fee of $120 ($59.99 promotional price available through March 31)"
-      ],
-      "redemptionSteps": [
-        "Annual membership offering 24 oz pours for the price of a pint all day, one free crowler every month, and a free birthday pint."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.perchchicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:51.490690+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Mug Club Membership\nAnnual membership offering 24 oz pours for the price of a pint all day, one free crowler every month, and a free birthday pint.\n24 oz Draft Pour\nAnnual fee of $120 ($59.99 promotional price available through March 31)",
-      "locationDetails": "2430 N CANNON DR 1ST, Chicago, IL 60614",
-      "timeWindow": "11 AM–9 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:51.490690+00:00",
-        "validUntil": "2026-09-30T05:50:51.490690+00:00",
-        "sourceURLs": [
-          "https://www.perchchicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "daily_special",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "21:00"
       }
     },
     {
@@ -55077,60 +53249,6 @@
       }
     },
     {
-      "id": "312deals-7035",
-      "restaurant": "Ravens",
-      "title": "$4 Brooklyn Lager Pint",
-      "subtitle": "February Specials - Brooklyn Lager",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Brooklyn Lager pints for $4 - February special"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://ravenschicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:53.303887+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "February Specials - Brooklyn Lager\nBrooklyn Lager pints for $4 - February special\n$4 Brooklyn Lager Pint",
-      "locationDetails": "2326 N CLARK ST BASEM #, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:53.303887+00:00",
-        "validUntil": "2026-09-30T05:50:53.303887+00:00",
-        "sourceURLs": [
-          "https://ravenschicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 4.0
-      }
-    },
-    {
       "id": "312deals-7333",
       "restaurant": "Las Fuentas",
       "title": "Wednesday Special",
@@ -55180,57 +53298,6 @@
         "startTime": "11:00",
         "endTime": "22:00",
         "itemPrice": 2.5
-      }
-    },
-    {
-      "id": "312deals-8174",
-      "restaurant": "Lakeshore Sport & Fitness",
-      "title": "Friday Fish Fry",
-      "subtitle": "Friday Fish Fry",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Summer season only; typically 16:00-21:00"
-      ],
-      "redemptionSteps": [
-        "Seasonal summer promotion offered on Friday nights."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.lakeshoresf.com/lincoln-park/",
-      "lastCheckedAt": "2026-09-23T05:50:53.303887+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Friday Fish Fry\nSeasonal summer promotion offered on Friday nights.\nFish Fry\nSummer season only; typically 16:00-21:00",
-      "locationDetails": "1320 W FULLERTON AVE 2, Chicago, IL 60614",
-      "timeWindow": "4 PM–9 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:53.303887+00:00",
-        "validUntil": "2026-09-30T05:50:53.303887+00:00",
-        "sourceURLs": [
-          "https://www.lakeshoresf.com/lincoln-park/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "seasonal_lto",
-        "days": [
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "16:00",
-        "endTime": "21:00"
       }
     },
     {
@@ -56245,58 +54312,6 @@
         "startTime": "10:00",
         "endTime": "15:00",
         "itemPrice": 15.0
-      }
-    },
-    {
-      "id": "312deals-8989",
-      "restaurant": "Aba",
-      "title": "Austin Passover Dinner To-Go",
-      "subtitle": "Austin Passover Dinner To-Go",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "To-go only. Orders must be placed by Monday, March 30th at Noon for carryout on April 1st - April 2nd. Items served cold with reheating instructions."
-      ],
-      "redemptionSteps": [
-        "Passover Dinner For Two To-Go including Classic Hummus, Leafy Green Salad, Potato Latkes, Slow-Braised Short Rib, Heirloom Chicken Thigh, and Sticky Date Cake."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.abarestaurants.com/",
-      "lastCheckedAt": "2026-09-23T05:50:55.508709+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Austin Passover Dinner To-Go\nPassover Dinner For Two To-Go including Classic Hummus, Leafy Green Salad, Potato Latkes, Slow-Braised Short Rib, Heirloom Chicken Thigh, and Sticky Date Cake.\n$117.95 Passover Dinner For Two To-Go\nTo-go only. Orders must be placed by Monday, March 30th at Noon for carryout on April 1st - April 2nd. Items served cold with reheating instructions.",
-      "locationDetails": "302 N Green St, Chicago, IL 60607",
-      "timeWindow": "11 AM–4 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:55.508709+00:00",
-        "validUntil": "2026-09-30T05:50:55.508709+00:00",
-        "sourceURLs": [
-          "https://www.abarestaurants.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday, Thursday",
-      "discovery": {
-        "neighborhood": "West Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          3,
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "16:00"
       }
     },
     {
@@ -59304,64 +57319,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 10.0
-      }
-    },
-    {
-      "id": "312deals-9004",
-      "restaurant": "Bandit",
-      "title": "Gameday Specials",
-      "subtitle": "Gameday Specials",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Availability corresponds with game schedules (e.g. March Madness, Ohio State football)."
-      ],
-      "redemptionSteps": [
-        "Specials available during March Madness and other game days featuring bucket deals, themed shots, and shareable plates."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.banditliquors.com/",
-      "lastCheckedAt": "2026-09-23T05:50:55.508709+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Gameday Specials\nSpecials available during March Madness and other game days featuring bucket deals, themed shots, and shareable plates.\n$15.99 The Coney (3 mini dogs)\n$16.99 Crispy Wings\n$13.99 Barrio Queso\n$16.99 Nachos\n$25.99 City Dipper\n$35.99 Beer Buckets (Coors Light, Mich Ultra, Modelo, Stella, Miller High Life)\n$45.99 Seltzer Buckets (High Noon, Mamitas, Nutrl, White Claw)\n$4.99 Brutus Shot (Ohio State Games)\n$5.99 Malort Shot\n$4.99 Shot Wheel\nAvailability corresponds with game schedules (e.g. March Madness, Ohio State football).",
-      "locationDetails": "841 W Randolph St, Chicago, IL 60607",
-      "timeWindow": "12 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:55.508709+00:00",
-        "validUntil": "2026-09-30T05:50:55.508709+00:00",
-        "sourceURLs": [
-          "https://www.banditliquors.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "West Loop",
-        "kind": "late_night",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "00:00",
-        "endTime": "23:59",
-        "itemPrice": 4.99
       }
     },
     {
@@ -62988,61 +60945,6 @@
         "isChain": false,
         "startTime": "11:00",
         "endTime": "21:30"
-      }
-    },
-    {
-      "id": "312deals-31378",
-      "restaurant": "BELLA LUNA BAR",
-      "title": "Anti-Inflation Special",
-      "subtitle": "Anti-Inflation Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Dine-in only. Not valid with other offers. Good through 6/30/2022"
-      ],
-      "redemptionSteps": [
-        "Get a 16-inch cheese pizza AND two domestic beers OR two glasses of house wine for $29 (was $44)"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.chicagobellaluna.com/specials",
-      "lastCheckedAt": "2026-09-23T05:50:59.658538+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Anti-Inflation Special\nGet a 16-inch cheese pizza AND two domestic beers OR two glasses of house wine for $29 (was $44)\n16-inch cheese pizza\nTwo domestic beers OR two glasses house wine\nDine-in only. Not valid with other offers. Good through 6/30/2022",
-      "locationDetails": "6136 S PULASKI RD LL AND 1, CHICAGO, IL 60629",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:59.658538+00:00",
-        "validUntil": "2026-09-30T05:50:59.658538+00:00",
-        "sourceURLs": [
-          "https://www.chicagobellaluna.com/specials"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Gage Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -66967,62 +64869,6 @@
         ],
         "allDay": false,
         "isChain": true
-      }
-    },
-    {
-      "id": "312deals-18155",
-      "restaurant": "Domino's Pizza",
-      "title": "Parmesan Stuffed Crust Deal",
-      "subtitle": "Parmesan Stuffed Crust Deal",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "2-item minimum. Bone-in Wings and Handmade Pan will cost extra. Online only for free Slice Sauce. Valid 4/7 through 6/14."
-      ],
-      "redemptionSteps": [
-        "Mix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get Domino's NEW Slice Sauce for FREE!"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "lastCheckedAt": "2026-09-23T05:51:01.458041+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Parmesan Stuffed Crust Deal\nMix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get Domino's NEW Slice Sauce for FREE!\n$10.99 2-topping Parmesan Stuffed Crust Pizza\nFree FREE Slice Sauce\n2-item minimum. Bone-in Wings and Handmade Pan will cost extra. Online only for free Slice Sauce. Valid 4/7 through 6/14.",
-      "locationDetails": "5016 S Pulaski Rd, Chicago, IL 60632",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:01.458041+00:00",
-        "validUntil": "2026-09-30T05:51:01.458041+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Gage Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
       }
     },
     {
@@ -74423,62 +72269,6 @@
       }
     },
     {
-      "id": "312deals-87808",
-      "restaurant": "Union Padel",
-      "title": "Intro to Padel Free Session",
-      "subtitle": "Intro to Padel Free Session",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Use code INTRO2PADEL. First Padel Intro session only. Summer promotion."
-      ],
-      "redemptionSteps": [
-        "Use code INTRO2PADEL to book your first Padel Intro session for free this summer."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.unionpadelclub.com/",
-      "lastCheckedAt": "2026-09-23T05:51:05.475823+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Intro to Padel Free Session\nUse code INTRO2PADEL to book your first Padel Intro session for free this summer.\nUse code INTRO2PADEL. First Padel Intro session only. Summer promotion.",
-      "locationDetails": "207 N PAULINA ST, Chicago, IL 60612",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:05.475823+00:00",
-        "validUntil": "2026-09-30T05:51:05.475823+00:00",
-        "sourceURLs": [
-          "https://www.unionpadelclub.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "West Town",
-        "kind": "new_opening",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "code": "INTRO2PADEL"
-    },
-    {
       "id": "312deals-87810",
       "restaurant": "Union Padel",
       "title": "Reported restaurant special",
@@ -80608,56 +78398,6 @@
       }
     },
     {
-      "id": "312deals-60636",
-      "restaurant": "Stolen Saddle",
-      "title": "Dollar Beer Fridays",
-      "subtitle": "Dollar Beer Fridays",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Summer promotion only"
-      ],
-      "redemptionSteps": [
-        "Dollar Beer Fridays every Friday all summer long — $1 Michelob Ultras and $2 Nutrls, with the World Cup on every TV. Located in Wrigleyville."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.tiktok.com/@stolensaddlechi/video/7655730072510352671",
-      "lastCheckedAt": "2026-09-23T05:51:07.699059+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Dollar Beer Fridays\nDollar Beer Fridays every Friday all summer long — $1 Michelob Ultras and $2 Nutrls, with the World Cup on every TV. Located in Wrigleyville.\n$1 Michelob Ultra\n$2 Nutrl Vodka Seltzer\nSummer promotion only",
-      "locationDetails": "Wrigleyville, Chicago, IL",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:07.699059+00:00",
-        "validUntil": "2026-09-30T05:51:07.699059+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@stolensaddlechi/video/7655730072510352671"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday",
-      "discovery": {
-        "neighborhood": "Wrigleyville",
-        "kind": "happy_hour",
-        "days": [
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 1.0
-      }
-    },
-    {
       "id": "312deals-20904",
       "restaurant": "Draftkings Sportsbook",
       "title": "Cubs Game Day Special",
@@ -81414,61 +79154,6 @@
       }
     },
     {
-      "id": "312deals-1685",
-      "restaurant": "Funeral Potatoes",
-      "title": "Monthly Food Specials",
-      "subtitle": "Monthly Food Specials",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "April monthly specials mentioned"
-      ],
-      "redemptionSteps": [
-        "Rotating monthly food specials including elote funeral potatoes and Sloppy Joanne sandwich"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.chicagotribune.com/2025/04/22/restaurant-review-funeral-potatoes-midwestern-comfort-food-moonflower-cocktail-bar-chicago/",
-      "lastCheckedAt": "2026-09-23T05:51:09.552388+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Monthly Food Specials\nRotating monthly food specials including elote funeral potatoes and Sloppy Joanne sandwich\nElote funeral potatoes\nSloppy Joanne\nApril monthly specials mentioned",
-      "locationDetails": "4359 N Milwaukee Ave, Chicago, IL 60641, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:09.552388+00:00",
-        "validUntil": "2026-09-30T05:51:09.552388+00:00",
-        "sourceURLs": [
-          "https://www.chicagotribune.com/2025/04/22/restaurant-review-funeral-potatoes-midwestern-comfort-food-moonflower-cocktail-bar-chicago/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Portage Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-1687",
       "restaurant": "Funeral Potatoes",
       "title": "Saturday Brunch",
@@ -81516,116 +79201,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 10.0
-      }
-    },
-    {
-      "id": "312deals-9702",
-      "restaurant": "Funeral Potatoes",
-      "title": "Elote funeral potatoes",
-      "subtitle": "Elote Funeral Potatoes Monthly Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available throughout April"
-      ],
-      "redemptionSteps": [
-        "Monthly special featuring cheesy hot potato casserole with sweet corn, melted Monterey Jack, Tajín spiced panko, and Valentina hot sauce crema. Takes 20 minutes to bake to order."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.chicagotribune.com/2025/04/22/restaurant-review-funeral-potatoes-midwestern-comfort-food-moonflower-cocktail-bar-chicago/",
-      "lastCheckedAt": "2026-09-23T05:51:09.552388+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Elote Funeral Potatoes Monthly Special\nMonthly special featuring cheesy hot potato casserole with sweet corn, melted Monterey Jack, Tajín spiced panko, and Valentina hot sauce crema. Takes 20 minutes to bake to order.\nElote funeral potatoes\nAvailable throughout April",
-      "locationDetails": "4359 N Milwaukee Ave, Chicago, IL 60641, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:09.552388+00:00",
-        "validUntil": "2026-09-30T05:51:09.552388+00:00",
-        "sourceURLs": [
-          "https://www.chicagotribune.com/2025/04/22/restaurant-review-funeral-potatoes-midwestern-comfort-food-moonflower-cocktail-bar-chicago/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Portage Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-9703",
-      "restaurant": "Funeral Potatoes",
-      "title": "Sloppy Joanne April Special",
-      "subtitle": "Sloppy Joanne April Special",
-      "category": "side",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "April monthly special"
-      ],
-      "redemptionSteps": [
-        "Ground beef with house-made brown sugar barbecue sauce and jalapeño ranch potato chips."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.chicagotribune.com/2025/04/22/restaurant-review-funeral-potatoes-midwestern-comfort-food-moonflower-cocktail-bar-chicago/",
-      "lastCheckedAt": "2026-09-23T05:51:09.552388+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Sloppy Joanne April Special\nGround beef with house-made brown sugar barbecue sauce and jalapeño ranch potato chips.\nSloppy Joanne\nApril monthly special",
-      "locationDetails": "4359 N Milwaukee Ave, Chicago, IL 60641, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:09.552388+00:00",
-        "validUntil": "2026-09-30T05:51:09.552388+00:00",
-        "sourceURLs": [
-          "https://www.chicagotribune.com/2025/04/22/restaurant-review-funeral-potatoes-midwestern-comfort-food-moonflower-cocktail-bar-chicago/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Portage Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -84124,61 +81699,6 @@
         "isChain": false,
         "startTime": "12:00",
         "endTime": "21:00"
-      }
-    },
-    {
-      "id": "312deals-20330",
-      "restaurant": "Lido",
-      "title": "Winter Banquet Package Discount",
-      "subtitle": "Winter Banquet Package Discount",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must mention promotion at time of booking"
-      ],
-      "redemptionSteps": [
-        "10% discount on all banquet packages during January-March, includes free digital video monograms ($150 value) and free color LED up-lighting"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://lidobanquets.com/specials/",
-      "lastCheckedAt": "2026-09-23T05:51:09.552388+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Winter Banquet Package Discount\n10% discount on all banquet packages during January-March, includes free digital video monograms ($150 value) and free color LED up-lighting\nMust mention promotion at time of booking",
-      "locationDetails": "5504 N MILWAUKEE AVE 1ST F, Chicago, IL 60630",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:09.552388+00:00",
-        "validUntil": "2026-09-30T05:51:09.552388+00:00",
-        "sourceURLs": [
-          "https://lidobanquets.com/specials/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Portage Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -86898,117 +84418,6 @@
       }
     },
     {
-      "id": "312deals-42389",
-      "restaurant": "Domino's",
-      "title": "50% Off All Menu-Priced Pizzas",
-      "subtitle": "50% Off All Menu-Priced Pizzas",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Menu-priced pizzas only"
-      ],
-      "redemptionSteps": [
-        "50% off all menu-priced pizzas, limited time offer through 6/7"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.tiktok.com/@dominos/video/7646559545724095774",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "50% Off All Menu-Priced Pizzas\n50% off all menu-priced pizzas, limited time offer through 6/7\nAll menu-priced pizzas\nMenu-priced pizzas only",
-      "locationDetails": "3531 N Western Ave, Chicago, IL 60618",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@dominos/video/7646559545724095774"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true
-      }
-    },
-    {
-      "id": "312deals-53364",
-      "restaurant": "Domino's",
-      "title": "Reported restaurant special",
-      "subtitle": "Best Deal Ever – Any Pizza Any Toppings",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Online only. Select offer 6/15–7/26. Max 7 toppings (6 for Pan and NY Style). Prices higher for some locations."
-      ],
-      "redemptionSteps": [
-        "Any pizza, any crust, any size, up to 7 toppings for $9.99 each. Now includes Stuffed Crust option. Online order only, available through 7/26."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/deals",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Best Deal Ever – Any Pizza Any Toppings\nAny pizza, any crust, any size, up to 7 toppings for $9.99 each. Now includes Stuffed Crust option. Online order only, available through 7/26.\n$9.99 Any pizza, any size, up to 7 toppings (6 for Pan and NY Style Crust), now includes Stuffed Crust\nOnline only. Select offer 6/15–7/26. Max 7 toppings (6 for Pan and NY Style). Prices higher for some locations.",
-      "locationDetails": "3531 N Western Ave, Chicago, IL 60618",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 9.99
-      }
-    },
-    {
       "id": "312deals-53365",
       "restaurant": "Domino's",
       "title": "Reported restaurant special",
@@ -87777,62 +85186,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 9.0
-      }
-    },
-    {
-      "id": "312deals-17130",
-      "restaurant": "Nighthawk",
-      "title": "$15 Girl, You Know It's Blue",
-      "subtitle": "Girl, You Know It's Blue - Cocktail for a Cause",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available during March only"
-      ],
-      "redemptionSteps": [
-        "El Mayor Tequila, Blue Curacao, Fruitful Coco, Pineapple, Lime. 10% of proceeds donated to Chicago Women's Health Center"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://nighthawkchicago.com/hawk-menu/",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Girl, You Know It's Blue - Cocktail for a Cause\nEl Mayor Tequila, Blue Curacao, Fruitful Coco, Pineapple, Lime. 10% of proceeds donated to Chicago Women's Health Center\n$15 Girl, You Know It's Blue\nAvailable during March only",
-      "locationDetails": "4744 N KIMBALL AVE 1, Chicago, IL 60625",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://nighthawkchicago.com/hawk-menu/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 15.0
       }
     },
     {
@@ -89130,63 +86483,6 @@
       }
     },
     {
-      "id": "312deals-19818",
-      "restaurant": "Smashburger #1745",
-      "title": "Shrimp Lovers Deal",
-      "subtitle": "Shrimp Lovers Deal",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Use code ROLL6 for shrimp rolls, BASKET10 for shrimp baskets. While supplies last. Valid through 4/29"
-      ],
-      "redemptionSteps": [
-        "Limited time shrimp promotion with $6 shrimp rolls or $10 shrimp baskets"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://smashburger.com/deals",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Shrimp Lovers Deal\nLimited time shrimp promotion with $6 shrimp rolls or $10 shrimp baskets\n$6 Any shrimp roll\n$10 Any shrimp basket\nUse code ROLL6 for shrimp rolls, BASKET10 for shrimp baskets. While supplies last. Valid through 4/29",
-      "locationDetails": "4709 W FOSTER AVE 1ST A, Chicago, IL 60630",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://smashburger.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 6.0
-      },
-      "code": "ROLL6"
-    },
-    {
       "id": "312deals-19819",
       "restaurant": "Smashburger #1745",
       "title": "Rockies Home Run Free Burger",
@@ -89296,62 +86592,6 @@
         ],
         "allDay": false,
         "isChain": false
-      }
-    },
-    {
-      "id": "312deals-41938",
-      "restaurant": "Smashburger #1745",
-      "title": "Burger + Beer Combo",
-      "subtitle": "Burger + Beer Combo",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "In-restaurant only, through May 31st, must be 21+ for alcohol"
-      ],
-      "redemptionSteps": [
-        "Jalapeño Crema Smash paired with a 24 oz Modelo for $11.99"
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://smashburger.com/deals",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Burger + Beer Combo\nJalapeño Crema Smash paired with a 24 oz Modelo for $11.99\n$11.99 Jalapeño Crema Smash + 24 oz Modelo\nIn-restaurant only, through May 31st, must be 21+ for alcohol",
-      "locationDetails": "4709 W FOSTER AVE 1ST A, Chicago, IL 60630",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://smashburger.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 11.99
       }
     },
     {
@@ -89947,61 +87187,6 @@
       }
     },
     {
-      "id": "312deals-87730",
-      "restaurant": "Wendy's",
-      "title": "Paze® Spend $10, Earn $10 Back",
-      "subtitle": "Paze® Spend $10, Earn $10 Back",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must use Paze® payment in Wendy's app. Offer runs through 9/10/26. Up to 10 times per card. Wendy's account registration required. $10 returned as statement credit. Terms apply."
-      ],
-      "redemptionSteps": [
-        "Paze® users who spend $10 or more in the Wendy's app earn $10 back as a statement credit, up to 10 times per card."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://www.wendys.com/deals",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Paze® Spend $10, Earn $10 Back\nPaze® users who spend $10 or more in the Wendy's app earn $10 back as a statement credit, up to 10 times per card.\nMust use Paze® payment in Wendy's app. Offer runs through 9/10/26. Up to 10 times per card. Wendy's account registration required. $10 returned as statement credit. Terms apply.",
-      "locationDetails": "3610 N Western Ave, Chicago, IL 60618",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://www.wendys.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "chain_app_deal",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true
-      }
-    },
-    {
       "id": "312deals-87731",
       "restaurant": "Wendy's",
       "title": "$1 Off Premium Combo",
@@ -90539,61 +87724,6 @@
         "startTime": "10:00",
         "endTime": "15:00",
         "itemPrice": 3.0
-      }
-    },
-    {
-      "id": "312deals-6891",
-      "restaurant": "Eden",
-      "title": "March Sandwich Collab",
-      "subtitle": "March Sandwich Collab",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available during lunch and weekend brunch hours only, March only"
-      ],
-      "redemptionSteps": [
-        "Special collaboration featuring hickory and cherry wood-smoked ham with Roth Käse Grand Cru Gruyère, portion of proceeds benefits Soul & Smoke Foundation"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://edeninchicago.com/menus/brunch-lunch-menus/",
-      "lastCheckedAt": "2026-09-23T05:51:13.507938+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "March Sandwich Collab\nSpecial collaboration featuring hickory and cherry wood-smoked ham with Roth Käse Grand Cru Gruyère, portion of proceeds benefits Soul & Smoke Foundation\nHam & Cheese Melt with Soul & Smoke\nAvailable during lunch and weekend brunch hours only, March only",
-      "locationDetails": "2734 W ROSCOE ST 1, Chicago, IL 60618",
-      "timeWindow": "10 AM–3 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:13.507938+00:00",
-        "validUntil": "2026-09-30T05:51:13.507938+00:00",
-        "sourceURLs": [
-          "https://edeninchicago.com/menus/brunch-lunch-menus/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Avondale",
-        "kind": "seasonal_lto",
-        "days": [
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "10:00",
-        "endTime": "15:00"
       }
     },
     {
@@ -92377,63 +89507,6 @@
       }
     },
     {
-      "id": "312deals-8320",
-      "restaurant": "Honey Butter Fried Chicken",
-      "title": "Fried Chicken Fried Rice Week",
-      "subtitle": "Fried Chicken Fried Rice Week",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Dinner only (5pm-8pm). Available for In-house dining, takeout, and delivery. Event dates: March 3 - March 8, 2026."
-      ],
-      "redemptionSteps": [
-        "Special dinner-only event featuring HBFC Fried Chicken Fried Rice (Sansho Tangerine Glazed Fried Chicken, Roasted Edamame, Toasted Seaweed Sesame Crunch, Egg, Ginger, Scallions) and Pimento Cheese Rangoon."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.honeybutter.com/",
-      "lastCheckedAt": "2026-09-23T05:51:13.507938+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Fried Chicken Fried Rice Week\nSpecial dinner-only event featuring HBFC Fried Chicken Fried Rice (Sansho Tangerine Glazed Fried Chicken, Roasted Edamame, Toasted Seaweed Sesame Crunch, Egg, Ginger, Scallions) and Pimento Cheese Rangoon.\nHBFC Fried Chicken Fried Rice\nPimento Cheese Rangoon\nDinner only (5pm-8pm). Available for In-house dining, takeout, and delivery. Event dates: March 3 - March 8, 2026.",
-      "locationDetails": "3355-3361 N ELSTON AVE 1, Chicago, IL 60618",
-      "timeWindow": "5 PM–8 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:13.507938+00:00",
-        "validUntil": "2026-09-30T05:51:13.507938+00:00",
-        "sourceURLs": [
-          "https://www.honeybutter.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Avondale",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "17:00",
-        "endTime": "20:00"
-      }
-    },
-    {
       "id": "312deals-8323",
       "restaurant": "Honey Butter Fried Chicken",
       "title": "Monthly Specials",
@@ -93935,62 +91008,6 @@
         "startTime": "10:00",
         "endTime": "15:00",
         "itemPrice": 3.0
-      }
-    },
-    {
-      "id": "312deals-6900",
-      "restaurant": "N",
-      "title": "Reported restaurant special",
-      "subtitle": "March Sandwich Collab - Soul & Smoke Ham & Cheese Melt",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available at lunch and weekend brunch only. A portion of proceeds benefits the Soul & Smoke Foundation."
-      ],
-      "redemptionSteps": [
-        "March Sandwich Collab featuring D'Andre Carter of Soul & Smoke, made with hickory and cherry wood–smoked Niman Ranch ham, available all March"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://edeninchicago.com/menus/brunch-lunch-menus/",
-      "lastCheckedAt": "2026-09-23T05:51:13.507938+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "March Sandwich Collab - Soul & Smoke Ham & Cheese Melt\nMarch Sandwich Collab featuring D'Andre Carter of Soul & Smoke, made with hickory and cherry wood–smoked Niman Ranch ham, available all March\n$23 Soul and Smoke Wood Fired Ham and Cheese Melt - rothcase grand cru gruyere, tart cherry mostarda, ruby streaks mustard greens, baguette\nAvailable at lunch and weekend brunch only. A portion of proceeds benefits the Soul & Smoke Foundation.",
-      "locationDetails": "2977 N ELSTON AVE 1, Chicago, IL 60618",
-      "timeWindow": "11 AM–3 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:13.507938+00:00",
-        "validUntil": "2026-09-30T05:51:13.507938+00:00",
-        "sourceURLs": [
-          "https://edeninchicago.com/menus/brunch-lunch-menus/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Avondale",
-        "kind": "seasonal_lto",
-        "days": [
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "15:00",
-        "itemPrice": 23.0
       }
     },
     {
@@ -96550,56 +93567,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 8.0
-      }
-    },
-    {
-      "id": "312deals-10065",
-      "restaurant": "Bistro Campagne",
-      "title": "Txakolina Wine Special",
-      "subtitle": "Txakolina Wine Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "One day only special, limited bottles available"
-      ],
-      "redemptionSteps": [
-        "Special pricing on Txakolina wines - naturally effervescent with dry minerality from Atlantic sea air"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.bistrocampagne.com/news/category/Specials",
-      "lastCheckedAt": "2026-09-23T05:51:15.755460+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Txakolina Wine Special\nSpecial pricing on Txakolina wines - naturally effervescent with dry minerality from Atlantic sea air\n$30 Rosé Txakolina\n$56 White Txakolina with FREE Porron\nOne day only special, limited bottles available",
-      "locationDetails": "4518 N LINCOLN AVE 1ST, Chicago, IL 60625",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:15.755460+00:00",
-        "validUntil": "2026-09-30T05:51:15.755460+00:00",
-        "sourceURLs": [
-          "https://www.bistrocampagne.com/news/category/Specials"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Saturday",
-      "discovery": {
-        "neighborhood": "Lincoln Square",
-        "kind": "daily_special",
-        "days": [
-          6
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 30.0
       }
     },
     {
@@ -105694,62 +102661,6 @@
       }
     },
     {
-      "id": "312deals-18305",
-      "restaurant": "The Cheesecake Factory",
-      "title": "Free Slice App Download",
-      "subtitle": "Free Slice App Download",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must download app and sign up or log in to Cheesecake Rewards account through 4/30, free slice redeemable through 5/7"
-      ],
-      "redemptionSteps": [
-        "Free slice with any purchase when you download the app and sign up for rewards"
-      ],
-      "purchaseRequired": true,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://locations.thecheesecakefactory.com/il/chicago-12.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places",
-      "lastCheckedAt": "2026-09-23T05:51:19.611618+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Slice App Download\nFree slice with any purchase when you download the app and sign up for rewards\nFree Free slice of cheesecake with any purchase\nMust download app and sign up or log in to Cheesecake Rewards account through 4/30, free slice redeemable through 5/7",
-      "locationDetails": "875 N MICHIGAN AVE, Chicago, IL 60611",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:19.611618+00:00",
-        "validUntil": "2026-09-30T05:51:19.611618+00:00",
-        "sourceURLs": [
-          "https://locations.thecheesecakefactory.com/il/chicago-12.html?utm_source=Google&utm_medium=Maps&utm_campaign=Google+Places"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Streeterville",
-        "kind": "chain_app_deal",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-2179",
       "restaurant": "CHICK-FIL-A MICHIGAN AVE",
       "title": "Icedream cone",
@@ -106285,64 +103196,6 @@
         "isChain": false,
         "startTime": "17:00",
         "endTime": "20:00"
-      }
-    },
-    {
-      "id": "312deals-7196",
-      "restaurant": "Beat Kitchen'S Bar Sol",
-      "title": "$7 Green Tea Shot",
-      "subtitle": "Shamrockin' at the Pier - Shot Specials",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Limited time: March 9-17, 2026"
-      ],
-      "redemptionSteps": [
-        "St. Patrick's themed shot specials and Jameson features"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://barsolnavypier.com/",
-      "lastCheckedAt": "2026-09-23T05:51:19.611618+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Shamrockin' at the Pier - Shot Specials\nSt. Patrick's themed shot specials and Jameson features\n$7 Green Tea Shot\n$7 Shamrock Shot\n$7 Patty's Bomb\nJameson specials\nLimited time: March 9-17, 2026",
-      "locationDetails": "600 E GRAND AVE 1-2 FR-1, Chicago, IL 60611",
-      "timeWindow": "11 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:19.611618+00:00",
-        "validUntil": "2026-09-30T05:51:19.611618+00:00",
-        "sourceURLs": [
-          "https://barsolnavypier.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Streeterville",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:00",
-        "endTime": "23:59",
-        "itemPrice": 7.0
       }
     },
     {
@@ -109739,105 +106592,6 @@
       }
     },
     {
-      "id": "312deals-51532",
-      "restaurant": "Cafe Latteaa",
-      "title": "Thursday Refreshers Special",
-      "subtitle": "Thursday Refreshers Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must show TikTok post to validate coupon. Offer expires 7/16/26."
-      ],
-      "redemptionSteps": [
-        "Every Thursday from 12pm to 5pm, any Refresher is $5. Available flavors include Strawberry, Mango, Lavender, Passion Fruit, and more. Located at 3536 W. 26th St. in Little Village."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.tiktok.com/@cafe.latteaa/video/7652786221449530654",
-      "lastCheckedAt": "2026-09-23T05:51:23.673110+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Thursday Refreshers Special\nEvery Thursday from 12pm to 5pm, any Refresher is $5. Available flavors include Strawberry, Mango, Lavender, Passion Fruit, and more. Located at 3536 W. 26th St. in Little Village.\n$5 Refreshers (any flavor — Strawberry, Mango, Lavender, Passion Fruit, and more)\nMust show TikTok post to validate coupon. Offer expires 7/16/26.",
-      "locationDetails": "3536 W 26TH ST 1W, CHICAGO, IL 60623",
-      "timeWindow": "12 PM–5 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:23.673110+00:00",
-        "validUntil": "2026-09-30T05:51:23.673110+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@cafe.latteaa/video/7652786221449530654"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Pilsen",
-        "kind": "daily_special",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "12:00",
-        "endTime": "17:00",
-        "itemPrice": 5.0
-      }
-    },
-    {
-      "id": "312deals-51571",
-      "restaurant": "Cafe Latteaa",
-      "title": "Mexico Win Celebration — 20% Off",
-      "subtitle": "Mexico Win Celebration — 20% Off",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid only on the day of posting, immediately following a Mexico win. Cannot be combined with other promotions."
-      ],
-      "redemptionSteps": [
-        "If Mexico wins today's match, all customers receive 20% off their entire purchase for the remainder of that day only. Contingent on a Mexico victory. Not combinable with other promotions."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.tiktok.com/@cafe.latteaa/video/7650242238936665375",
-      "lastCheckedAt": "2026-09-23T05:51:23.673110+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Mexico Win Celebration — 20% Off\nIf Mexico wins today's match, all customers receive 20% off their entire purchase for the remainder of that day only. Contingent on a Mexico victory. Not combinable with other promotions.\n20% off entire purchase (all food items)\n20% off entire purchase (all drinks)\nValid only on the day of posting, immediately following a Mexico win. Cannot be combined with other promotions.",
-      "locationDetails": "3536 W 26TH ST 1W, CHICAGO, IL 60623",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:23.673110+00:00",
-        "validUntil": "2026-09-30T05:51:23.673110+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@cafe.latteaa/video/7650242238936665375"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "discovery": {
-        "neighborhood": "Pilsen",
-        "kind": "game_day",
-        "days": [],
-        "allDay": false,
-        "isChain": false
-      },
-      "eventCondition": "If Mexico wins today's match, all customers receive 20% off their entire purchase for the remainder of that day only. Contingent on a Mexico victory. Not combinable with other promotions."
-    },
-    {
       "id": "312deals-41194",
       "restaurant": "Rice and Noodles",
       "title": "Reported restaurant special",
@@ -111831,61 +108585,6 @@
         "isChain": false
       },
       "code": "WEDELIVER"
-    },
-    {
-      "id": "312deals-30122",
-      "restaurant": "Dunkin' Baskin",
-      "title": "$5 off cake purchase $35+",
-      "subtitle": "Baskin-Robbins Rewards $5 Off Cake",
-      "category": "dessert",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be Baskin-Robbins Rewards member, valid on cake purchase $35+ pre-tax, single-use, expires 5/31/2026"
-      ],
-      "redemptionSteps": [
-        "Rewards members get $5 off any cake purchase of $35 or more"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://www.baskinrobbins.com/?utm_source=google&utm_medium=organic&utm_campaign=Yext",
-      "lastCheckedAt": "2026-09-23T05:51:23.673110+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Baskin-Robbins Rewards $5 Off Cake\nRewards members get $5 off any cake purchase of $35 or more\n$5 off cake purchase $35+\nMust be Baskin-Robbins Rewards member, valid on cake purchase $35+ pre-tax, single-use, expires 5/31/2026",
-      "locationDetails": "2400 W 24TH ST, CHICAGO, IL 60608",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:23.673110+00:00",
-        "validUntil": "2026-09-30T05:51:23.673110+00:00",
-        "sourceURLs": [
-          "https://www.baskinrobbins.com/?utm_source=google&utm_medium=organic&utm_campaign=Yext"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Pilsen",
-        "kind": "loyalty_reward",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true
-      }
     },
     {
       "id": "312deals-88810",
@@ -114552,62 +111251,6 @@
       }
     },
     {
-      "id": "312deals-53380",
-      "restaurant": "Domino's Pizza",
-      "title": "Reported restaurant special",
-      "subtitle": "Best Deal Ever – Any Pizza Any Toppings",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Online only. Select offer 6/15–7/26. Max 7 toppings (6 for Pan and NY Style). Prices higher for some locations."
-      ],
-      "redemptionSteps": [
-        "Any pizza, any crust, any size with up to 7 toppings for $9.99 each. Now includes stuffed crust option. Online order only, limited time through 7/26."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/deals",
-      "lastCheckedAt": "2026-09-23T05:51:25.531735+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Best Deal Ever – Any Pizza Any Toppings\nAny pizza, any crust, any size with up to 7 toppings for $9.99 each. Now includes stuffed crust option. Online order only, limited time through 7/26.\n$9.99 Any pizza, any size, up to 7 toppings (6 for Pan and NY Style Crust), now includes Stuffed Crust\nOnline only. Select offer 6/15–7/26. Max 7 toppings (6 for Pan and NY Style). Prices higher for some locations.",
-      "locationDetails": "6607 N CLARK ST, CHICAGO, IL 60626",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:25.531735+00:00",
-        "validUntil": "2026-09-30T05:51:25.531735+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Rogers Park",
-        "kind": "chain_app_deal",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 9.99
-      }
-    },
-    {
       "id": "312deals-53381",
       "restaurant": "Domino's Pizza",
       "title": "Reported restaurant special",
@@ -116957,62 +113600,6 @@
         ],
         "allDay": false,
         "isChain": false
-      }
-    },
-    {
-      "id": "312deals-60292",
-      "restaurant": "Domino's Pizza",
-      "title": "Best Deal Ever – Any Pizza $9.99",
-      "subtitle": "Best Deal Ever – Any Pizza $9.99",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Online only. Available 6/15–7/26. Prices higher for some locations. Max 7 toppings (6 for Pan and NY Style Crust). Now includes Stuffed Crust option."
-      ],
-      "redemptionSteps": [
-        "Any pizza, any size, any crust with up to 7 toppings for $9.99 each. Online order only, limited time offer through 7/26."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/deals",
-      "lastCheckedAt": "2026-09-23T05:51:27.449649+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Best Deal Ever – Any Pizza $9.99\nAny pizza, any size, any crust with up to 7 toppings for $9.99 each. Online order only, limited time offer through 7/26.\n$9.99 Any pizza, any size, any crust, up to 7 toppings (6 for Pan and NY Style)\nOnline only. Available 6/15–7/26. Prices higher for some locations. Max 7 toppings (6 for Pan and NY Style Crust). Now includes Stuffed Crust option.",
-      "locationDetails": "1453 E Hyde Park Blvd, Chicago, IL 60615",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:27.449649+00:00",
-        "validUntil": "2026-09-30T05:51:27.449649+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Hyde Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 9.99
       }
     },
     {
@@ -120206,61 +116793,6 @@
       }
     },
     {
-      "id": "312deals-13052",
-      "restaurant": "Calabria Imports",
-      "title": "Weekly Specials",
-      "subtitle": "Weekly Specials",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Weekly specials March 23rd - March 28th"
-      ],
-      "redemptionSteps": [
-        "Weekly rotating specials featuring pasta dishes, wraps, paninis and sandwiches"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.calabria-imports.com/specials",
-      "lastCheckedAt": "2026-09-23T05:51:31.514746+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Weekly Specials\nWeekly rotating specials featuring pasta dishes, wraps, paninis and sandwiches\n$12 Chef's Dinner - Sauteed Grilled Chicken with garlic breadstick\n$12 Sausage Arrabiata with garlic breadstick\n$12 Honey Chicken Wrap with homemade chips\n$12 Bambini Panini with homemade chips\n$11 Sandwich Special - Turkey sandwich with chips and water\nFree Bottle of water (with sandwich special)\nWeekly specials March 23rd - March 28th",
-      "locationDetails": "1905 W 103rd St, Chicago, IL 60643, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:31.514746+00:00",
-        "validUntil": "2026-09-30T05:51:31.514746+00:00",
-        "sourceURLs": [
-          "https://www.calabria-imports.com/specials"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday",
-      "discovery": {
-        "neighborhood": "Beverly",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 11.0
-      }
-    },
-    {
       "id": "312deals-1499",
       "restaurant": "Open Outcry Brewing Company",
       "title": "Triple B Thursday",
@@ -120806,62 +117338,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 5.0
-      }
-    },
-    {
-      "id": "312deals-24438",
-      "restaurant": "Buona",
-      "title": "Reported restaurant special",
-      "subtitle": "Beef Month - Buy One Get One Free Beef",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buona Rewards members only, valid May 1-22"
-      ],
-      "redemptionSteps": [
-        "Buy one beef sandwich, get one free for Buona Rewards members during Beef Month celebration"
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://www.tiktok.com/@buonabeef/video/7635796353192365325",
-      "lastCheckedAt": "2026-09-23T05:51:31.514746+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Beef Month - Buy One Get One Free Beef\nBuy one beef sandwich, get one free for Buona Rewards members during Beef Month celebration\nFree Free beef sandwich with beef purchase\nBuona Rewards members only, valid May 1-22",
-      "locationDetails": "10633 S Western Ave, Chicago, IL 60643",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:31.514746+00:00",
-        "validUntil": "2026-09-30T05:51:31.514746+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@buonabeef/video/7635796353192365325"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Beverly",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
       }
     },
     {
@@ -122789,61 +119265,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 20.0
-      }
-    },
-    {
-      "id": "312deals-28625",
-      "restaurant": "Entree Global",
-      "title": "Reported restaurant special",
-      "subtitle": "Pride Month Coffee Buddies Charity Special",
-      "category": "dessert",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available all June, $1 from each sale donated to Howard Brown Health"
-      ],
-      "redemptionSteps": [
-        "New bite-sized shortbread cookies served with specialty lattes or available a la carte, with $1 from each sale going to Howard Brown Health during Pride Month"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.tiktok.com/@nettarechi/video/7512938882846133550",
-      "lastCheckedAt": "2026-09-23T05:51:33.578575+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Pride Month Coffee Buddies Charity Special\nNew bite-sized shortbread cookies served with specialty lattes or available a la carte, with $1 from each sale going to Howard Brown Health during Pride Month\nCoffee Buddies shortbread cookies\nSpecialty lattes with Coffee Buddies\nAvailable all June, $1 from each sale donated to Howard Brown Health",
-      "locationDetails": "1639 S WABASH AVE, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:33.578575+00:00",
-        "validUntil": "2026-09-30T05:51:33.578575+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@nettarechi/video/7512938882846133550"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "South Loop",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
       }
     },
     {
@@ -134727,61 +131148,6 @@
       }
     },
     {
-      "id": "312deals-3211",
-      "restaurant": "Phoenix Restaurant",
-      "title": "CHoP Summer Prix Fixe",
-      "subtitle": "CHoP Summer Prix Fixe",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available through August 31"
-      ],
-      "redemptionSteps": [
-        "$68 three-course prix fixe menu with wood-fired dishes"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "CHoP Summer Prix Fixe\n$68 three-course prix fixe menu with wood-fired dishes\nthree-course menu\nAvailable through August 31",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
       "id": "312deals-3212",
       "restaurant": "Phoenix Restaurant",
       "title": "Elvira's Summer Prix Fixe",
@@ -144456,62 +140822,6 @@
       }
     },
     {
-      "id": "312deals-17067",
-      "restaurant": "Domino's Pizza",
-      "title": "Parmesan Stuffed Crust Special",
-      "subtitle": "Parmesan Stuffed Crust Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "2-item minimum. Bone-in Wings and Handmade Pan will cost extra. Online only for free Slice Sauce. Valid 4/7 through 6/14."
-      ],
-      "redemptionSteps": [
-        "Mix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get FREE Slice Sauce"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "lastCheckedAt": "2026-09-23T05:51:57.500524+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Parmesan Stuffed Crust Special\nMix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get FREE Slice Sauce\n$10.99 2-topping Parmesan Stuffed Crust Pizza\nFree Free Slice Sauce\n2-item minimum. Bone-in Wings and Handmade Pan will cost extra. Online only for free Slice Sauce. Valid 4/7 through 6/14.",
-      "locationDetails": "5008 N Pulaski Rd, Chicago, IL 60630",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:57.500524+00:00",
-        "validUntil": "2026-09-30T05:51:57.500524+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Albany Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-17068",
       "restaurant": "Domino's Pizza",
       "title": "Weeklong Carryout Special",
@@ -145002,62 +141312,6 @@
       }
     },
     {
-      "id": "312deals-21018",
-      "restaurant": "Domino's Pizza",
-      "title": "Parmesan Stuffed Crust Deal",
-      "subtitle": "Parmesan Stuffed Crust Deal",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "2-item minimum. Bone-in Wings and Handmade Pan will cost extra. Online only for free Slice Sauce. Valid 4/7 through 6/14."
-      ],
-      "redemptionSteps": [
-        "Mix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get FREE Slice Sauce"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "lastCheckedAt": "2026-09-23T05:51:59.507607+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Parmesan Stuffed Crust Deal\nMix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get FREE Slice Sauce\n$10.99 2-topping Parmesan Stuffed Crust Pizza\nFree FREE Slice Sauce\n2-item minimum. Bone-in Wings and Handmade Pan will cost extra. Online only for free Slice Sauce. Valid 4/7 through 6/14.",
-      "locationDetails": "8357 S Cottage Grove Ave, Chicago, IL 60619",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:59.507607+00:00",
-        "validUntil": "2026-09-30T05:51:59.507607+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Chatham",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-73221",
       "restaurant": "Domino's Pizza",
       "title": "Reported restaurant special",
@@ -145511,61 +141765,6 @@
         "validUntil": "2026-09-30T05:52:01.512965+00:00",
         "sourceURLs": [
           "https://www.tiktok.com/@gathersteabar/video/7631721667399666975"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "University Village",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      }
-    },
-    {
-      "id": "312deals-28846",
-      "restaurant": "GATHERS TEA BAR",
-      "title": "Reported restaurant special",
-      "subtitle": "Mint Green Thai Tea - March Special",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available March 1-31 only, sweetness set at 100% and cannot be adjusted"
-      ],
-      "redemptionSteps": [
-        "Limited time seasonal drink featuring jasmine green tea from Thailand with fresh muddled mint leaves, available only during March"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.tiktok.com/@gathersteabar/video/7477383196850523435",
-      "lastCheckedAt": "2026-09-23T05:52:01.512965+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Mint Green Thai Tea - March Special\nLimited time seasonal drink featuring jasmine green tea from Thailand with fresh muddled mint leaves, available only during March\nMint Green Thai Tea with half & half or oat milk\nAvailable March 1-31 only, sweetness set at 100% and cannot be adjusted",
-      "locationDetails": "1214 W TAYLOR ST 1ST, CHICAGO, IL 60607",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:52:01.512965+00:00",
-        "validUntil": "2026-09-30T05:52:01.512965+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@gathersteabar/video/7477383196850523435"
         ],
         "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
       },
@@ -148789,65 +144988,6 @@
       }
     },
     {
-      "id": "312deals-42484",
-      "restaurant": "Soulé",
-      "title": "$5.27 Lemon drop",
-      "subtitle": "Birthday Special - Lemon Drop Deal",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Birthday special for one day only"
-      ],
-      "redemptionSteps": [
-        "Birthday celebration special featuring $5.27 lemon drops all day long"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.tiktok.com/@soulechicago/video/7644646689566887182",
-      "lastCheckedAt": "2026-09-23T05:52:11.542798+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Birthday Special - Lemon Drop Deal\nBirthday celebration special featuring $5.27 lemon drops all day long\n$5.27 Lemon drop\nBirthday special for one day only",
-      "locationDetails": "3615 W Roosevelt Rd, Chicago, IL 60624, USA",
-      "timeWindow": "12 AM–11:59 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:52:11.542798+00:00",
-        "validUntil": "2026-09-30T05:52:11.542798+00:00",
-        "sourceURLs": [
-          "https://www.tiktok.com/@soulechicago/video/7644646689566887182"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Lawndale",
-        "kind": "event_driven",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "00:00",
-        "endTime": "23:59",
-        "itemPrice": 5.27
-      },
-      "eventCondition": "Birthday celebration special featuring $5.27 lemon drops all day long"
-    },
-    {
       "id": "312deals-42651",
       "restaurant": "De Arcos Pizza",
       "title": "Special #1 - Pizza Slice Combo",
@@ -149655,58 +145795,6 @@
         ],
         "allDay": false,
         "isChain": false
-      }
-    },
-    {
-      "id": "312deals-41375",
-      "restaurant": "Jim's Original",
-      "title": "Founder's Day Special",
-      "subtitle": "Founder's Day Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "2nd Monday in July only"
-      ],
-      "redemptionSteps": [
-        "Annual Founder's Day celebration with $3 Polish Sausage sandwiches"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.jimsoriginal.com/",
-      "lastCheckedAt": "2026-09-23T05:52:15.501084+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Founder's Day Special\nAnnual Founder's Day celebration with $3 Polish Sausage sandwiches\n$3 Polish Sausage\n2nd Monday in July only",
-      "locationDetails": "1250 S Union Ave, Chicago, IL 60607",
-      "timeWindow": "3 PM–5 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:52:15.501084+00:00",
-        "validUntil": "2026-09-30T05:52:15.501084+00:00",
-        "sourceURLs": [
-          "http://www.jimsoriginal.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Near West Side",
-        "kind": "seasonal_lto",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "15:00",
-        "endTime": "17:00",
-        "itemPrice": 3.0
       }
     },
     {
@@ -153937,62 +150025,6 @@
         ],
         "allDay": false,
         "isChain": false
-      }
-    },
-    {
-      "id": "312deals-60309",
-      "restaurant": "Domino's Pizza",
-      "title": "Reported restaurant special",
-      "subtitle": "Best Deal Ever – Any Pizza Any Toppings",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Online only. Select offer 6/15–7/26. Max 7 toppings (6 for Pan and NY Style). Prices higher at some locations."
-      ],
-      "redemptionSteps": [
-        "Any pizza, any crust, any size, up to 7 toppings for $9.99 each. Now includes stuffed crust option. Online order only, limited time through 7/26."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/deals",
-      "lastCheckedAt": "2026-09-23T05:52:57.686535+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Best Deal Ever – Any Pizza Any Toppings\nAny pizza, any crust, any size, up to 7 toppings for $9.99 each. Now includes stuffed crust option. Online order only, limited time through 7/26.\n$9.99 Any pizza, any size, up to 7 toppings (6 for Pan and NY Style Crust), now includes Stuffed Crust\nOnline only. Select offer 6/15–7/26. Max 7 toppings (6 for Pan and NY Style). Prices higher at some locations.",
-      "locationDetails": "5410 W Devon Ave, Chicago, IL 60646",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:52:57.686535+00:00",
-        "validUntil": "2026-09-30T05:52:57.686535+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Forest Glen",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 9.99
       }
     },
     {
@@ -164016,42 +160048,6 @@
       "sourceName": "312Deals"
     },
     {
-      "id": "312deals-60168",
-      "venue": "Goose Island Salt Shed Pub",
-      "address": "1221 W Blackhawk St, Chicago, IL 60642",
-      "sourceURL": "https://www.gooseisland.com/saltshedpub",
-      "neighborhood": "West Town",
-      "promotionName": "Summer Fridays",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
-      "days": [
-        5
-      ],
-      "startTime": "12:00",
-      "endTime": "16:00",
-      "foodOffers": [
-        "Half off appetizers"
-      ],
-      "drinkOffers": [
-        "$3 312 Urban Wheat Ale"
-      ],
-      "terms": [
-        "$3 312s and half-off apps every Friday from noon to 4PM"
-      ],
-      "sourceText": "Summer Fridays\n$3 312s and half-off apps every Friday from noon to 4PM\nHalf off appetizers\n$3 312 Urban Wheat Ale",
-      "checkedAt": "2026-09-23T05:51:05.475823+00:00",
-      "validUntil": "2026-09-30T05:51:05.475823+00:00",
-      "status": "unconfirmed",
-      "budgetDrinks": [
-        {
-          "label": "$3 312 Urban Wheat Ale",
-          "price": 3.0,
-          "kind": "beer"
-        }
-      ],
-      "sourceName": "312Deals"
-    },
-    {
       "id": "312deals-349",
       "venue": "Roots Handmade Pizza",
       "address": "1922-1924 W CHICAGO AVE 1ST, Chicago, IL 60622",
@@ -169245,34 +165241,6 @@
       "sourceName": "312Deals"
     },
     {
-      "id": "312deals-17121",
-      "venue": "Clover Sports Bar",
-      "address": "722-724 W GRAND AVE, Chicago, IL 60654",
-      "sourceURL": "https://cloverchicago.com/",
-      "neighborhood": "West Town",
-      "promotionName": "Yappy Hour",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
-      "days": [
-        4
-      ],
-      "startTime": "15:00",
-      "endTime": "18:00",
-      "foodOffers": [],
-      "drinkOffers": [
-        "50% off all drinks"
-      ],
-      "terms": [
-        "Thursday Yappy Hour with 50% off drinks from 3-6 PM during April PAWS charity series"
-      ],
-      "sourceText": "Yappy Hour\nThursday Yappy Hour with 50% off drinks from 3-6 PM during April PAWS charity series\n50% off all drinks",
-      "checkedAt": "2026-09-23T05:47:50.233619+00:00",
-      "validUntil": "2026-09-30T05:47:50.233619+00:00",
-      "status": "unconfirmed",
-      "budgetDrinks": [],
-      "sourceName": "312Deals"
-    },
-    {
       "id": "312deals-3116",
       "venue": "Kasama",
       "address": "1001 N WINCHESTER AVE 1-2, Chicago, IL 60622",
@@ -169721,38 +165689,6 @@
         "$5 Ketel One cocktails, $5 Lagunitas"
       ],
       "sourceText": "AceBounce Happy Hour\n$5 Ketel One cocktails, $5 Lagunitas\nketel one cocktails\nlagunitas beer",
-      "checkedAt": "2026-09-23T05:51:13.507938+00:00",
-      "validUntil": "2026-09-30T05:51:13.507938+00:00",
-      "status": "unconfirmed",
-      "budgetDrinks": [],
-      "sourceName": "312Deals"
-    },
-    {
-      "id": "312deals-3193",
-      "venue": "N",
-      "address": "2977 N ELSTON AVE 1, Chicago, IL 60618",
-      "sourceURL": "https://edeninchicago.com/menus/brunch-lunch-menus/",
-      "neighborhood": "Avondale",
-      "promotionName": "February Sandwich Collab - The Mikey",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
-      "days": [
-        3,
-        4,
-        5,
-        6,
-        7
-      ],
-      "startTime": "11:00",
-      "endTime": "15:00",
-      "foodOffers": [
-        "sandwiches"
-      ],
-      "drinkOffers": [],
-      "terms": [
-        "Available all February at lunch and weekend brunch"
-      ],
-      "sourceText": "February Sandwich Collab - The Mikey\nSpecial collaboration sandwich with Chef Mike Kubiesa featuring smoked roast beef, mortadella, confit pork loin, ricotta salata, spicy greens, basil pesto trapanese, smoked carrot giardiniera, and salt & vinegar potato chips on hoagie roll\nsandwiches\nAvailable all February at lunch and weekend brunch",
       "checkedAt": "2026-09-23T05:51:13.507938+00:00",
       "validUntil": "2026-09-30T05:51:13.507938+00:00",
       "status": "unconfirmed",
@@ -170428,41 +166364,6 @@
         "Lunch buffet special"
       ],
       "sourceText": "Tuesday Lunch Buffet\nLunch buffet special\nlunch buffet",
-      "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-      "validUntil": "2026-09-30T05:51:45.464475+00:00",
-      "status": "unconfirmed",
-      "budgetDrinks": [],
-      "sourceName": "312Deals"
-    },
-    {
-      "id": "312deals-3218",
-      "venue": "Phoenix Restaurant",
-      "address": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "neighborhood": "Chinatown",
-      "promotionName": "Miracle Mile Deli Combo",
-      "city": "Chicago",
-      "timezone": "America/Chicago",
-      "days": [
-        1,
-        2,
-        3,
-        4,
-        5,
-        6
-      ],
-      "startTime": "11:00",
-      "endTime": "19:00",
-      "foodOffers": [
-        "sandwiches",
-        "pickles",
-        "pie"
-      ],
-      "drinkOffers": [],
-      "terms": [
-        "August 5-31"
-      ],
-      "sourceText": "Miracle Mile Deli Combo\nSignature sandwich with side kosher dill pickle and pie slice for $19.49\nsandwiches\npickles\npie\nAugust 5-31",
       "checkedAt": "2026-09-23T05:51:45.464475+00:00",
       "validUntil": "2026-09-30T05:51:45.464475+00:00",
       "status": "unconfirmed",

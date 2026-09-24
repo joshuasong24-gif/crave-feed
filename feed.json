@@ -321,7 +321,6 @@
       "fullTerms": "$2 breakfast sandwich deal in the app through 10/4/26",
       "offerDetails": "$2 breakfast sandwich.",
       "reportedDates": "10/4/26",
-      "reportedStartsOn": "2026-10-04",
       "reportedEndsOn": "2026-10-04",
       "detailNotes": [
         "$2 breakfast sandwich deal in the app through 10/4/26"
@@ -16740,62 +16739,6 @@
         "allDay": false,
         "itemPrice": 4.99
       }
-    },
-    {
-      "id": "312deals-3510",
-      "restaurant": "Xi'An Cuisine West Loop",
-      "title": "$10 OFF Online Order",
-      "subtitle": "$10 OFF Online Order",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Cannot combine with other offers. Tax charges excluded. Some restrictions may apply. Online orders only."
-      ],
-      "redemptionSteps": [
-        "$10 off online orders with promo code. Valid until 03/31/2027."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.xiancuisinechicago.com/promotions",
-      "lastCheckedAt": "2026-09-23T05:26:07.956495+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$10 OFF Online Order\n$10 off online orders with promo code. Valid until 03/31/2027.\nCannot combine with other offers. Tax charges excluded. Some restrictions may apply. Online orders only.",
-      "locationDetails": "769 W JACKSON BLVD 103, Chicago, IL 60661",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:07.956495+00:00",
-        "validUntil": "2026-09-30T05:26:07.956495+00:00",
-        "sourceURLs": [
-          "https://www.xiancuisinechicago.com/promotions"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "West Loop",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false
-      },
-      "reportedStartsOn": "2027-03-31",
-      "reportedEndsOn": "2027-03-31"
     },
     {
       "id": "312deals-4579",
@@ -50303,7 +50246,6 @@
         "allDay": false,
         "isChain": false
       },
-      "reportedStartsOn": "2030-08-21",
       "reportedEndsOn": "2030-08-21"
     },
     {
@@ -50360,7 +50302,6 @@
         "allDay": false,
         "isChain": false
       },
-      "reportedStartsOn": "2030-08-21",
       "reportedEndsOn": "2030-08-21"
     },
     {
@@ -51066,7 +51007,6 @@
         "isChain": false,
         "itemPrice": 0.0
       },
-      "reportedStartsOn": "2124-09-08",
       "reportedEndsOn": "2124-09-08"
     },
     {
@@ -51124,7 +51064,6 @@
         "isChain": false,
         "itemPrice": 0.0
       },
-      "reportedStartsOn": "2124-09-09",
       "reportedEndsOn": "2124-09-09"
     },
     {
@@ -57899,7 +57838,6 @@
         "allDay": false,
         "isChain": false
       },
-      "reportedStartsOn": "2027-03-31",
       "reportedEndsOn": "2027-03-31",
       "code": "YYDS"
     },
@@ -108806,7 +108744,6 @@
         "allDay": false,
         "isChain": true
       },
-      "reportedStartsOn": "2026-09-30",
       "reportedEndsOn": "2026-09-30"
     },
     {
@@ -129726,7 +129663,6 @@
         "allDay": false,
         "isChain": false
       },
-      "reportedStartsOn": "2120-10-14",
       "reportedEndsOn": "2120-10-14"
     },
     {
@@ -131587,118 +131523,6 @@
         "allDay": false,
         "isChain": false
       }
-    },
-    {
-      "id": "312deals-73217",
-      "restaurant": "YEE HEUNG XIAN CUISINE",
-      "title": "$5 Off Online Order",
-      "subtitle": "$5 Off Online Order",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Use promo code XIAN2026. Cannot combine with other offers. Tax charges excluded. Some restrictions may apply. Expires 07/14/2126."
-      ],
-      "redemptionSteps": [
-        "$5 off online order placed via SlickMenus using promo code XIAN2026."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.xiancuisinechicago.com/promotions",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$5 Off Online Order\n$5 off online order placed via SlickMenus using promo code XIAN2026.\nUse promo code XIAN2026. Cannot combine with other offers. Tax charges excluded. Some restrictions may apply. Expires 07/14/2126.",
-      "locationDetails": "225 W CERMAK RD 1ST, CHICAGO, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://www.xiancuisinechicago.com/promotions"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "chain_app_deal",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "code": "XIAN2026"
-    },
-    {
-      "id": "312deals-73218",
-      "restaurant": "YEE HEUNG XIAN CUISINE",
-      "title": "$15 Off Online Order",
-      "subtitle": "$15 Off Online Order",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Use promo code YYDS. Cannot combine with other offers. Tax charges excluded. Some restrictions may apply. Expires 03/31/2027."
-      ],
-      "redemptionSteps": [
-        "$15 off online order placed via SlickMenus using promo code YYDS."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.xiancuisinechicago.com/promotions",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "$15 Off Online Order\n$15 off online order placed via SlickMenus using promo code YYDS.\nUse promo code YYDS. Cannot combine with other offers. Tax charges excluded. Some restrictions may apply. Expires 03/31/2027.",
-      "locationDetails": "225 W CERMAK RD 1ST, CHICAGO, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://www.xiancuisinechicago.com/promotions"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "chain_app_deal",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "code": "YYDS"
     },
     {
       "id": "312deals-8343",

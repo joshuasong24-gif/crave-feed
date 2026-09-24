@@ -26943,62 +26943,6 @@
       "eventCondition": "Special collaboration dinner with Chef John Manion and Off Color Brewing featuring a full feast and beverages, with portion of proceeds going to Pilot Light"
     },
     {
-      "id": "312deals-17100",
-      "restaurant": "Hawksmoor",
-      "title": "Complimentary Beef Scratchings",
-      "subtitle": "Complimentary Beef Scratchings",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "On the house before ordering"
-      ],
-      "redemptionSteps": [
-        "Complimentary bowl of beef scratchings served on the house before you order"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thehawksmoor.com/us/locations/chicago/?pl=chicago&utm_source=google&utm_medium=organic&utm_campaign=gbp",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Complimentary Beef Scratchings\nComplimentary bowl of beef scratchings served on the house before you order\nFree Bowl of beef scratchings\nOn the house before ordering",
-      "locationDetails": "500 N La Salle Dr, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://thehawksmoor.com/us/locations/chicago/?pl=chicago&utm_source=google&utm_medium=organic&utm_campaign=gbp"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-7797",
       "restaurant": "Hawksmoor",
       "title": "Fry-Day",
@@ -35990,62 +35934,6 @@
         "itemPrice": 165.0
       },
       "eventCondition": "Special dinner collaboration with Chef John Manion and Off Color Brewing celebrating beef, with portion of proceeds going to Pilot Light charity"
-    },
-    {
-      "id": "312deals-16983",
-      "restaurant": "Hawksmoor Chicago",
-      "title": "Complimentary Beef Scratchings",
-      "subtitle": "Complimentary Beef Scratchings",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "On the house before ordering"
-      ],
-      "redemptionSteps": [
-        "Complimentary bowl of beef scratchings provided to every table before ordering"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thehawksmoor.com/us/locations/chicago/?pl=chicago&utm_source=google&utm_medium=organic&utm_campaign=gbp",
-      "lastCheckedAt": "2026-09-23T05:50:41.534288+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Complimentary Beef Scratchings\nComplimentary bowl of beef scratchings provided to every table before ordering\nFree Bowl of beef scratchings\nOn the house before ordering",
-      "locationDetails": "500 N La Salle Dr, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:41.534288+00:00",
-        "validUntil": "2026-09-30T05:50:41.534288+00:00",
-        "sourceURLs": [
-          "https://thehawksmoor.com/us/locations/chicago/?pl=chicago&utm_source=google&utm_medium=organic&utm_campaign=gbp"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
-      }
     },
     {
       "id": "312deals-16984",
@@ -45653,62 +45541,6 @@
       }
     },
     {
-      "id": "312deals-6972",
-      "restaurant": "Monsignor Murphy'S",
-      "title": "Free Popcorn",
-      "subtitle": "Free Popcorn",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "No kitchen available - neighboring restaurant delivers"
-      ],
-      "redemptionSteps": [
-        "Free popcorn offered daily. Outside food welcome and neighboring restaurant offers full menu with free delivery."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.murphysonbroadway.com/",
-      "lastCheckedAt": "2026-09-23T05:50:45.379541+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Popcorn\nFree popcorn offered daily. Outside food welcome and neighboring restaurant offers full menu with free delivery.\nFree Popcorn\nNo kitchen available - neighboring restaurant delivers",
-      "locationDetails": "3019 N BROADWAY 1, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:45.379541+00:00",
-        "validUntil": "2026-09-30T05:50:45.379541+00:00",
-        "sourceURLs": [
-          "https://www.murphysonbroadway.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-1354",
       "restaurant": "Nancy'S Home Of Stuffed Pizza",
       "title": "Tuesday Pizza Special",
@@ -47011,62 +46843,6 @@
       }
     },
     {
-      "id": "312deals-15981",
-      "restaurant": "Domino's - Lakeview",
-      "title": "Free Slice Sauce Promotion",
-      "subtitle": "Free Slice Sauce Promotion",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid 4/7-6/14. Online orders only."
-      ],
-      "redemptionSteps": [
-        "FREE SLICE SAUCE when you order Handmade Pan or Parmesan Stuffed Crust pizza"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com",
-      "lastCheckedAt": "2026-09-23T05:50:45.379541+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Slice Sauce Promotion\nFREE SLICE SAUCE when you order Handmade Pan or Parmesan Stuffed Crust pizza\nFree FREE Slice Sauce with Handmade Pan or Parmesan Stuffed Crust\nValid 4/7-6/14. Online orders only.",
-      "locationDetails": "3462 N Broadway, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:45.379541+00:00",
-        "validUntil": "2026-09-30T05:50:45.379541+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-20939",
       "restaurant": "Domino's - Lakeview",
       "title": "Mix & Match Deal",
@@ -47120,62 +46896,6 @@
         "allDay": false,
         "isChain": true,
         "itemPrice": 6.99
-      }
-    },
-    {
-      "id": "312deals-20940",
-      "restaurant": "Domino's - Lakeview",
-      "title": "Free FREE Slice Sauce",
-      "subtitle": "Parmesan Stuffed Crust Mix & Match",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "2-item minimum, limited time offer through 6/14, must ask for offer, bone-in wings and handmade pan cost extra, online only for free sauce, prices higher for some locations"
-      ],
-      "redemptionSteps": [
-        "Mix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get FREE Slice Sauce with Handmade Pan or Parmesan Stuffed Crust Pizza orders."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/deals",
-      "lastCheckedAt": "2026-09-23T05:50:45.379541+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Parmesan Stuffed Crust Mix & Match\nMix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get FREE Slice Sauce with Handmade Pan or Parmesan Stuffed Crust Pizza orders.\n$10.99 2-topping Parmesan Stuffed Crust Pizza\nFree FREE Slice Sauce\n2-item minimum, limited time offer through 6/14, must ask for offer, bone-in wings and handmade pan cost extra, online only for free sauce, prices higher for some locations",
-      "locationDetails": "3462 N Broadway, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:45.379541+00:00",
-        "validUntil": "2026-09-30T05:50:45.379541+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
       }
     },
     {
@@ -67368,60 +67088,6 @@
       }
     },
     {
-      "id": "312deals-7036",
-      "restaurant": "Ravens",
-      "title": "Free Popcorn",
-      "subtitle": "Free Popcorn",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Complimentary popcorn available anytime"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://ravenschicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:53.303887+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Popcorn\nComplimentary popcorn available anytime\nFree Popcorn",
-      "locationDetails": "2326 N CLARK ST BASEM #, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:53.303887+00:00",
-        "validUntil": "2026-09-30T05:50:53.303887+00:00",
-        "sourceURLs": [
-          "https://ravenschicago.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-7047",
       "restaurant": "Willie Lill'S",
       "title": "Brunch & Bubbly",
@@ -78483,62 +78149,6 @@
         ],
         "allDay": false,
         "isChain": true
-      }
-    },
-    {
-      "id": "312deals-22554",
-      "restaurant": "Domino's Pizza",
-      "title": "Free Slice Sauce Promotion",
-      "subtitle": "Free Slice Sauce Promotion",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Online only. Valid 4/7-6/14. Must order Handmade Pan or Parmesan Stuffed Crust Pizza."
-      ],
-      "redemptionSteps": [
-        "Free Slice Sauce dip cup when ordering Handmade Pan or Parmesan Stuffed Crust Pizza online"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "lastCheckedAt": "2026-09-23T05:50:59.658538+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Slice Sauce Promotion\nFree Slice Sauce dip cup when ordering Handmade Pan or Parmesan Stuffed Crust Pizza online\nFree FREE Slice Sauce with Handmade Pan or Parmesan Stuffed Crust\nOnline only. Valid 4/7-6/14. Must order Handmade Pan or Parmesan Stuffed Crust Pizza.",
-      "locationDetails": "4323 S Ashland Ave, Chicago, IL 60609",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:59.658538+00:00",
-        "validUntil": "2026-09-30T05:50:59.658538+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Gage Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
       }
     },
     {
@@ -106255,106 +105865,6 @@
       }
     },
     {
-      "id": "312deals-1585",
-      "restaurant": "Burning Bush Brewery / River Room At Burning Bush Brewery",
-      "title": "Free Popcorn Monday",
-      "subtitle": "Free Popcorn Monday",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Free popcorn all day on Mondays"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.burningbushbrewery.com",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Popcorn Monday\nFree popcorn all day on Mondays\nFree Free Popcorn",
-      "locationDetails": "4014-4018 N ROCKWELL ST, Chicago, IL 60618",
-      "timeWindow": "4 PM–10 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://www.burningbushbrewery.com"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "daily_special",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "16:00",
-        "endTime": "22:00",
-        "itemPrice": 0.0
-      }
-    },
-    {
-      "id": "312deals-1586",
-      "restaurant": "Burning Bush Brewery / River Room At Burning Bush Brewery",
-      "title": "Free Popcorn Tuesday",
-      "subtitle": "Free Popcorn Tuesday",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Free popcorn all day on Tuesdays"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.burningbushbrewery.com",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Popcorn Tuesday\nFree popcorn all day on Tuesdays\nFree Free Popcorn",
-      "locationDetails": "4014-4018 N ROCKWELL ST, Chicago, IL 60618",
-      "timeWindow": "4 PM–10 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://www.burningbushbrewery.com"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "daily_special",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "16:00",
-        "endTime": "22:00",
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-17419",
       "restaurant": "Nice Flautas",
       "title": "Nice Flautas Food Pop-Up",
@@ -106849,62 +106359,6 @@
         "allDay": false,
         "isChain": true,
         "itemPrice": 4.0
-      }
-    },
-    {
-      "id": "312deals-20947",
-      "restaurant": "Domino's",
-      "title": "Free FREE Slice Sauce",
-      "subtitle": "Parmesan Stuffed Crust Pizza Deal",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "2-item minimum, must ask for limited time offer, online only, from 4/7 through 6/14, prices higher for some locations"
-      ],
-      "redemptionSteps": [
-        "Mix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get Domino's NEW Slice Sauce for FREE"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/deals",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Parmesan Stuffed Crust Pizza Deal\nMix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get Domino's NEW Slice Sauce for FREE\n$10.99 2-topping Parmesan Stuffed Crust Pizzas\nFree FREE Slice Sauce\n2-item minimum, must ask for limited time offer, online only, from 4/7 through 6/14, prices higher for some locations",
-      "locationDetails": "3531 N Western Ave, Chicago, IL 60618",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/deals"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
       }
     },
     {
@@ -108757,60 +108211,6 @@
         "allDay": false,
         "isChain": false,
         "itemPrice": 10.0
-      }
-    },
-    {
-      "id": "312deals-41751",
-      "restaurant": "Taqueria El Asadero",
-      "title": "Free Chips and Salsa",
-      "subtitle": "Free Chips and Salsa",
-      "category": "side",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Complimentary chips and salsa served to all customers"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://taqueriaelasadero.shop/",
-      "lastCheckedAt": "2026-09-23T05:51:11.566285+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Chips and Salsa\nComplimentary chips and salsa served to all customers\nFree Chips and Salsa",
-      "locationDetails": "2213 W Montrose Ave, Chicago, IL 60618",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:11.566285+00:00",
-        "validUntil": "2026-09-30T05:51:11.566285+00:00",
-        "sourceURLs": [
-          "https://taqueriaelasadero.shop/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "North Center",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
       }
     },
     {
@@ -120180,63 +119580,6 @@
       "eventCondition": "Weekly turtle racing entertainment event on Friday nights from 9:30ish to 12:30ish"
     },
     {
-      "id": "312deals-10747",
-      "restaurant": "Sushi Tokoro",
-      "title": "BYOB with Free Corkage",
-      "subtitle": "BYOB with Free Corkage",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must bring your own alcoholic beverages"
-      ],
-      "redemptionSteps": [
-        "Bring your own alcoholic beverages with no corkage fee"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.sushitokorochicago1.com/",
-      "lastCheckedAt": "2026-09-23T05:51:15.755460+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "BYOB with Free Corkage\nBring your own alcoholic beverages with no corkage fee\nFree Free corkage fee\nMust bring your own alcoholic beverages",
-      "locationDetails": "4750 N Western Ave, Chicago, IL 60625",
-      "timeWindow": "11:30 AM–10 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:15.755460+00:00",
-        "validUntil": "2026-09-30T05:51:15.755460+00:00",
-        "sourceURLs": [
-          "http://www.sushitokorochicago1.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Lincoln Square",
-        "kind": "other",
-        "days": [
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:30",
-        "endTime": "22:00",
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-95987",
       "restaurant": "Sushi Tokoro",
       "title": "All You Can Eat Sushi",
@@ -130877,62 +130220,6 @@
       }
     },
     {
-      "id": "312deals-8865",
-      "restaurant": "Starbucks - Michigan Ave",
-      "title": "Free Refills While You Stay",
-      "subtitle": "Free Refills While You Stay",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must stay in café for same store visit. Excludes Cold Brew, Nitro Cold Brew, Iced Tea Lemonade, flavored Iced Tea and Starbucks Refreshers. At participating stores only."
-      ],
-      "redemptionSteps": [
-        "Free refills of hot and iced brewed coffee and tea during same store visit when you enjoy your handcrafted or brewed drink in the café"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.starbucks.com",
-      "lastCheckedAt": "2026-09-23T05:51:19.611618+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Refills While You Stay\nFree refills of hot and iced brewed coffee and tea during same store visit when you enjoy your handcrafted or brewed drink in the café\nFree Hot brewed coffee refill (same visit)\nFree Iced brewed coffee refill (same visit)\nFree Hot tea refill (same visit)\nFree Iced tea refill (same visit)\nMust stay in café for same store visit. Excludes Cold Brew, Nitro Cold Brew, Iced Tea Lemonade, flavored Iced Tea and Starbucks Refreshers. At participating stores only.",
-      "locationDetails": "401 N Michigan Ave, Chicago, IL 60611",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:19.611618+00:00",
-        "validUntil": "2026-09-30T05:51:19.611618+00:00",
-        "sourceURLs": [
-          "https://www.starbucks.com"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Streeterville",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-10041",
       "restaurant": "Beatrix",
       "title": "Monday Half-Price Wine Bottles",
@@ -140029,62 +139316,6 @@
       }
     },
     {
-      "id": "312deals-17038",
-      "restaurant": "Domino's Pizza",
-      "title": "FREE Slice Sauce Promotion",
-      "subtitle": "FREE Slice Sauce Promotion",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid 4/7-6/14. Online orders only."
-      ],
-      "redemptionSteps": [
-        "Free Slice Sauce when you order Handmade Pan or Parmesan Stuffed Crust pizza"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "lastCheckedAt": "2026-09-23T05:51:25.531735+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "FREE Slice Sauce Promotion\nFree Slice Sauce when you order Handmade Pan or Parmesan Stuffed Crust pizza\nFree FREE Slice Sauce with Handmade Pan or Parmesan Stuffed Crust\nValid 4/7-6/14. Online orders only.",
-      "locationDetails": "6607 N CLARK ST, CHICAGO, IL 60626",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:25.531735+00:00",
-        "validUntil": "2026-09-30T05:51:25.531735+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Rogers Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-20985",
       "restaurant": "Domino's Pizza",
       "title": "Reported restaurant special",
@@ -140304,62 +139535,6 @@
         ],
         "allDay": false,
         "isChain": true
-      }
-    },
-    {
-      "id": "312deals-28374",
-      "restaurant": "Domino's Pizza",
-      "title": "FREE Slice Sauce",
-      "subtitle": "FREE Slice Sauce",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Online only. Valid 4/7-6/14 when ordering Handmade Pan or Parmesan Stuffed Crust Pizza."
-      ],
-      "redemptionSteps": [
-        "Free Slice Sauce dip cup with Handmade Pan or Parmesan Stuffed Crust Pizza orders online"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "lastCheckedAt": "2026-09-23T05:51:25.531735+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "FREE Slice Sauce\nFree Slice Sauce dip cup with Handmade Pan or Parmesan Stuffed Crust Pizza orders online\nFree FREE Slice Sauce with Handmade Pan or Parmesan Stuffed Crust\nOnline only. Valid 4/7-6/14 when ordering Handmade Pan or Parmesan Stuffed Crust Pizza.",
-      "locationDetails": "6607 N CLARK ST, CHICAGO, IL 60626",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:25.531735+00:00",
-        "validUntil": "2026-09-30T05:51:25.531735+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Rogers Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
       }
     },
     {
@@ -142743,60 +141918,6 @@
       }
     },
     {
-      "id": "312deals-30116",
-      "restaurant": "Jet's Pizza",
-      "title": "Free Crust Flavorization",
-      "subtitle": "Free Crust Flavorization",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Free crust flavorization available on all pizzas with choice of Turbo Crust, butter, romano, poppy seed, sesame seed, garlic, or cajun"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.jetspizza.com/stores/illinois/chicago/1348-e-55th-st/?utm-source=GMB&utm_medium=Yext&utm_campaign=IL-031&utm_content=Website",
-      "lastCheckedAt": "2026-09-23T05:51:27.449649+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Crust Flavorization\nFree crust flavorization available on all pizzas with choice of Turbo Crust, butter, romano, poppy seed, sesame seed, garlic, or cajun\nFree Flavorized Crust (Turbo, butter, romano, poppy seed, sesame seed, garlic, or cajun)",
-      "locationDetails": "1348 E 55th St, Chicago, IL 60615",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:27.449649+00:00",
-        "validUntil": "2026-09-30T05:51:27.449649+00:00",
-        "sourceURLs": [
-          "https://www.jetspizza.com/stores/illinois/chicago/1348-e-55th-st/?utm-source=GMB&utm_medium=Yext&utm_campaign=IL-031&utm_content=Website"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Hyde Park",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-60290",
       "restaurant": "Jet's Pizza",
       "title": "Crunch E-Club Email Deals",
@@ -143591,62 +142712,6 @@
         ],
         "allDay": false,
         "isChain": false
-      }
-    },
-    {
-      "id": "312deals-30121",
-      "restaurant": "Domino's Pizza",
-      "title": "FREE Slice Sauce Promotion",
-      "subtitle": "FREE Slice Sauce Promotion",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "When you order Handmade Pan or Parmesan Stuffed Crust. Valid 4/7-6/14. Online orders only"
-      ],
-      "redemptionSteps": [
-        "Free Slice Sauce dip cup when you order Handmade Pan or Parmesan Stuffed Crust Pizza"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "lastCheckedAt": "2026-09-23T05:51:27.449649+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "FREE Slice Sauce Promotion\nFree Slice Sauce dip cup when you order Handmade Pan or Parmesan Stuffed Crust Pizza\nFree FREE Slice Sauce\nWhen you order Handmade Pan or Parmesan Stuffed Crust. Valid 4/7-6/14. Online orders only",
-      "locationDetails": "1453 E Hyde Park Blvd, Chicago, IL 60615",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:27.449649+00:00",
-        "validUntil": "2026-09-30T05:51:27.449649+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Hyde Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
       }
     },
     {
@@ -145038,110 +144103,6 @@
         "isChain": false,
         "startTime": "15:00",
         "endTime": "17:00"
-      }
-    },
-    {
-      "id": "312deals-6620",
-      "restaurant": "Indie Cafe",
-      "title": "BYOB Corkage Fee",
-      "subtitle": "BYOB Corkage Fee",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Wine and Beer only. No hard liquor or mixers allowed. Restaurant does not warm BYOB sake."
-      ],
-      "redemptionSteps": [
-        "Bring your own wine and beer with reduced corkage fee Monday through Thursday"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.indiesushinewasian.com/",
-      "lastCheckedAt": "2026-09-23T05:51:29.468726+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "BYOB Corkage Fee\nBring your own wine and beer with reduced corkage fee Monday through Thursday\n$2.5 BYOB Wine and Beer Corkage\nWine and Beer only. No hard liquor or mixers allowed. Restaurant does not warm BYOB sake.",
-      "locationDetails": "5951-5953 N BROADWAY 1ST, Chicago, IL 60660",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:29.468726+00:00",
-        "validUntil": "2026-09-30T05:51:29.468726+00:00",
-        "sourceURLs": [
-          "https://www.indiesushinewasian.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday",
-      "discovery": {
-        "neighborhood": "Edgewater",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 2.5
-      }
-    },
-    {
-      "id": "312deals-6621",
-      "restaurant": "Indie Cafe",
-      "title": "BYOB Corkage Fee Weekend",
-      "subtitle": "BYOB Corkage Fee Weekend",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Wine and Beer only. No hard liquor or mixers allowed. Restaurant does not warm BYOB sake."
-      ],
-      "redemptionSteps": [
-        "Bring your own wine and beer with weekend corkage fee Friday and Saturday"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.indiesushinewasian.com/",
-      "lastCheckedAt": "2026-09-23T05:51:29.468726+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "BYOB Corkage Fee Weekend\nBring your own wine and beer with weekend corkage fee Friday and Saturday\n$3.5 BYOB Wine and Beer Corkage\nWine and Beer only. No hard liquor or mixers allowed. Restaurant does not warm BYOB sake.",
-      "locationDetails": "5951-5953 N BROADWAY 1ST, Chicago, IL 60660",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:29.468726+00:00",
-        "validUntil": "2026-09-30T05:51:29.468726+00:00",
-        "sourceURLs": [
-          "https://www.indiesushinewasian.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Friday, Saturday",
-      "discovery": {
-        "neighborhood": "Edgewater",
-        "kind": "happy_hour",
-        "days": [
-          5,
-          6
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 3.5
       }
     },
     {
@@ -154930,60 +153891,6 @@
       }
     },
     {
-      "id": "312deals-16818",
-      "restaurant": "Jet's Pizza",
-      "title": "Free Crust Flavorization",
-      "subtitle": "Free Crust Flavorization",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Free crust flavorization available on all pizzas with choice of Turbo Crust, butter, romano, poppy seed, sesame seed, garlic, and cajun flavors"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.jetspizza.com/stores/illinois/chicago/749-w-31st-street/",
-      "lastCheckedAt": "2026-09-23T05:51:37.450085+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Crust Flavorization\nFree crust flavorization available on all pizzas with choice of Turbo Crust, butter, romano, poppy seed, sesame seed, garlic, and cajun flavors\nFree Flavorized crust (Turbo, butter, romano, poppy seed, sesame seed, garlic, cajun)",
-      "locationDetails": "749 W 31st St, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:37.450085+00:00",
-        "validUntil": "2026-09-30T05:51:37.450085+00:00",
-        "sourceURLs": [
-          "https://www.jetspizza.com/stores/illinois/chicago/749-w-31st-street/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Bridgeport",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-17023",
       "restaurant": "Jet's Pizza",
       "title": "Text to Order Discount",
@@ -155036,60 +153943,6 @@
         ],
         "allDay": false,
         "isChain": false
-      }
-    },
-    {
-      "id": "312deals-28369",
-      "restaurant": "Jet's Pizza",
-      "title": "Free Crust Flavorizing",
-      "subtitle": "Free Crust Flavorizing",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Free crust flavorizing with any pizza order - choose from Turbo Crust, butter, romano, poppy seed, sesame seed, garlic, or cajun"
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.jetspizza.com/stores/illinois/chicago/749-w-31st-street/",
-      "lastCheckedAt": "2026-09-23T05:51:37.450085+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Crust Flavorizing\nFree crust flavorizing with any pizza order - choose from Turbo Crust, butter, romano, poppy seed, sesame seed, garlic, or cajun\nFree Flavorize your crust (Turbo Crust, butter, romano, poppy seed, sesame seed, garlic, cajun)",
-      "locationDetails": "749 W 31st St, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:37.450085+00:00",
-        "validUntil": "2026-09-30T05:51:37.450085+00:00",
-        "sourceURLs": [
-          "https://www.jetspizza.com/stores/illinois/chicago/749-w-31st-street/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Bridgeport",
-        "kind": "daily_special",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
       }
     },
     {
@@ -159487,60 +158340,6 @@
       }
     },
     {
-      "id": "312deals-10326",
-      "restaurant": "Bucktown Pub",
-      "title": "Free Popcorn",
-      "subtitle": "Free Popcorn",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Complimentary big basket of delicious popcorn"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://www.bucktownpub.com/",
-      "lastCheckedAt": "2026-09-23T05:51:41.458837+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Popcorn\nComplimentary big basket of delicious popcorn\nFree Big basket of delicious popcorn",
-      "locationDetails": "1658 W Cortland St, Chicago, IL 60622, USA",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:41.458837+00:00",
-        "validUntil": "2026-09-30T05:51:41.458837+00:00",
-        "sourceURLs": [
-          "http://www.bucktownpub.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Bucktown",
-        "kind": "other",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-6590",
       "restaurant": "Diversey River Bowl Lounge",
       "title": "Cosmic Bowl",
@@ -163514,63 +162313,6 @@
         "startTime": "11:30",
         "endTime": "22:00",
         "itemPrice": 47.0
-      }
-    },
-    {
-      "id": "312deals-8355",
-      "restaurant": "Sushi + Chinatown",
-      "title": "Free Green Tea Refills",
-      "subtitle": "Free Green Tea Refills",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Dine-in only."
-      ],
-      "redemptionSteps": [
-        "Hot or Iced Unsweetened Green Tea includes free refills."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.rotarysushi.com/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Green Tea Refills\nHot or Iced Unsweetened Green Tea includes free refills.\nGreen Tea\nDine-in only.",
-      "locationDetails": "2131 S ARCHER AVE 1, Chicago, IL 60616",
-      "timeWindow": "11:30 AM–10 PM",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://www.rotarysushi.com/"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "daily_special",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "11:30",
-        "endTime": "22:00"
       }
     },
     {
@@ -176563,62 +175305,6 @@
       }
     },
     {
-      "id": "312deals-21024",
-      "restaurant": "Domino's Pizza",
-      "title": "Free Slice Sauce Promotion",
-      "subtitle": "Free Slice Sauce Promotion",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Online only. Valid 4/7-6/14. Must order Handmade Pan or Parmesan Stuffed Crust Pizza."
-      ],
-      "redemptionSteps": [
-        "Free Slice Sauce when you order Handmade Pan or Parmesan Stuffed Crust pizza online"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "lastCheckedAt": "2026-09-23T05:51:57.500524+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "Free Slice Sauce Promotion\nFree Slice Sauce when you order Handmade Pan or Parmesan Stuffed Crust pizza online\nFree Free Slice Sauce with Handmade Pan or Parmesan Stuffed Crust order\nOnline only. Valid 4/7-6/14. Must order Handmade Pan or Parmesan Stuffed Crust Pizza.",
-      "locationDetails": "5008 N Pulaski Rd, Chicago, IL 60630",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:57.500524+00:00",
-        "validUntil": "2026-09-30T05:51:57.500524+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Albany Park",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
-      }
-    },
-    {
       "id": "312deals-73231",
       "restaurant": "Domino's Pizza",
       "title": "Reported restaurant special",
@@ -177175,62 +175861,6 @@
       "isSample": false,
       "ratingReason": "Reported by 312Deals; availability unconfirmed.",
       "fullTerms": "Parmesan Stuffed Crust Deal\nMix and Match any two or more 2-topping Parmesan Stuffed Crust Pizzas for $10.99 each and get FREE Slice Sauce\n$10.99 2-topping Parmesan Stuffed Crust Pizza\nFree FREE Slice Sauce\n2-item minimum. Bone-in Wings and Handmade Pan will cost extra. Online only for free Slice Sauce. Valid 4/7 through 6/14.",
-      "locationDetails": "8357 S Cottage Grove Ave, Chicago, IL 60619",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [
-        "312Deals reports these terms. The source link was checked for access; the promotion was not independently verified."
-      ],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:59.507607+00:00",
-        "validUntil": "2026-09-30T05:51:59.507607+00:00",
-        "sourceURLs": [
-          "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps"
-        ],
-        "reason": "312Deals reports the description and terms; linked source is reachable. Availability is unconfirmed."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Chatham",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true,
-        "itemPrice": 0.0
-      }
-    },
-    {
-      "id": "312deals-21020",
-      "restaurant": "Domino's Pizza",
-      "title": "FREE Slice Sauce Promotion",
-      "subtitle": "FREE Slice Sauce Promotion",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid 4/7-6/14. Online orders only."
-      ],
-      "redemptionSteps": [
-        "Free Slice Sauce when you order Handmade Pan or Parmesan Stuffed Crust pizza"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.dominos.com/en/?utm_source=google&utm_medium=loclist&utm_campaign=localmaps",
-      "lastCheckedAt": "2026-09-23T05:51:59.507607+00:00",
-      "isSample": false,
-      "ratingReason": "Reported by 312Deals; availability unconfirmed.",
-      "fullTerms": "FREE Slice Sauce Promotion\nFree Slice Sauce when you order Handmade Pan or Parmesan Stuffed Crust pizza\nFree FREE Slice Sauce with Handmade Pan or Parmesan Stuffed Crust\nValid 4/7-6/14. Online orders only.",
       "locationDetails": "8357 S Cottage Grove Ave, Chicago, IL 60619",
       "timeWindow": "Hours not stated",
       "redemptionReady": true,

@@ -21919,7 +21919,7 @@
       },
       "discovery": {
         "neighborhood": "The Loop",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [],
         "allDay": false
       }
@@ -22238,7 +22238,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Lincoln Park",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -22567,7 +22567,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Lakeview",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -22728,7 +22728,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "North Center",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -32273,7 +32273,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "River North",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -36451,7 +36451,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Lakeview",
-        "kind": "happy_hour",
+        "kind": "chain_app_deal",
         "days": [
           1,
           2,
@@ -49073,7 +49073,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "The Loop",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -70166,7 +70166,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "West Loop",
-        "kind": "happy_hour",
+        "kind": "loyalty_reward",
         "days": [
           1,
           2,
@@ -71691,7 +71691,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "West Loop",
-        "kind": "happy_hour",
+        "kind": "chain_app_deal",
         "days": [
           1,
           2,
@@ -74845,7 +74845,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "West Loop",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -85887,7 +85887,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Logan Square",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -92507,7 +92507,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "West Town",
-        "kind": "happy_hour",
+        "kind": "chain_app_deal",
         "days": [
           1,
           2,
@@ -110045,7 +110045,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "North Center",
-        "kind": "happy_hour",
+        "kind": "loyalty_reward",
         "days": [
           1,
           2,
@@ -120228,7 +120228,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Lincoln Square",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -124972,7 +124972,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Humboldt Park",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -133885,7 +133885,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Wicker Park",
-        "kind": "happy_hour",
+        "kind": "chain_app_deal",
         "days": [
           1,
           2,
@@ -134776,7 +134776,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Pilsen",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -149210,7 +149210,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Beverly",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -149319,7 +149319,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Beverly",
-        "kind": "happy_hour",
+        "kind": "other",
         "days": [
           1,
           2,
@@ -158325,7 +158325,7 @@
       "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
       "discovery": {
         "neighborhood": "Bucktown",
-        "kind": "happy_hour",
+        "kind": "chain_app_deal",
         "days": [
           1,
           2,

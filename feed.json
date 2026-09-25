@@ -9506,124 +9506,6 @@
       ]
     },
     {
-      "id": "312deals-106661",
-      "restaurant": "La Lunita",
-      "title": "Happy Hour",
-      "subtitle": "Happy Hour",
-      "category": "side",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Happy hour Tuesday through Friday from open to 6pm with $8 margaritas and palomas, $4 cerveza, $10 wine glasses, $8 guacamole and chips, and $10 esquites"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.lalunitachicago.com/happy-hour",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Happy Hour\nHappy hour Tuesday through Friday from open to 6pm with $8 margaritas and palomas, $4 cerveza, $10 wine glasses, $8 guacamole and chips, and $10 esquites\n$8 Guacamole and Chips\n$10 Esquites\n$8 Margarita\n$8 Palomas\n$4 Estrella Jalisco Cerveza\n$10 Wine glasses",
-      "locationDetails": "2539 N MILWAUKEE AVE 1, Chicago, IL 60647",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://www.lalunitachicago.com/happy-hour"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Tuesday, Wednesday, Thursday, Friday",
-      "discovery": {
-        "neighborhood": "Logan Square",
-        "kind": "happy_hour",
-        "days": [
-          2,
-          3,
-          4,
-          5
-        ],
-        "allDay": false,
-        "itemPrice": 4.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Guacamole and Chips",
-          "kind": "snack",
-          "unitPrice": 8.0,
-          "quantity": 1,
-          "totalPrice": 8.0,
-          "tags": [
-            "sides"
-          ],
-          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
-          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
-        },
-        {
-          "name": "Esquites",
-          "kind": "food",
-          "unitPrice": 10.0,
-          "quantity": 1,
-          "totalPrice": 10.0,
-          "tags": [],
-          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
-          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
-        },
-        {
-          "name": "Margarita",
-          "kind": "drink",
-          "unitPrice": 8.0,
-          "quantity": 1,
-          "totalPrice": 8.0,
-          "tags": [],
-          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
-          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
-        },
-        {
-          "name": "Palomas",
-          "kind": "drink",
-          "unitPrice": 8.0,
-          "quantity": 1,
-          "totalPrice": 8.0,
-          "tags": [],
-          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
-          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
-        },
-        {
-          "name": "Estrella Jalisco Cerveza",
-          "kind": "drink",
-          "unitPrice": 4.0,
-          "quantity": 1,
-          "totalPrice": 4.0,
-          "tags": [],
-          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
-          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
-        },
-        {
-          "name": "Wine glasses",
-          "kind": "drink",
-          "unitPrice": 10.0,
-          "quantity": 1,
-          "totalPrice": 10.0,
-          "tags": [],
-          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
-          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
-        }
-      ]
-    },
-    {
       "id": "312deals-106662",
       "restaurant": "La Lunita",
       "title": "Taco Tuesday",
@@ -9754,58 +9636,6 @@
           "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
         }
       ]
-    },
-    {
-      "id": "312deals-106664",
-      "restaurant": "La Lunita",
-      "title": "Half-Price Wine Thursday",
-      "subtitle": "Half-Price Wine Thursday",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Half-price bottle wines Thursday 4pm-6pm"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.lalunitachicago.com/happy-hour",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Half-Price Wine Thursday\nHalf-price bottle wines Thursday 4pm-6pm\nBottle Wines (half off)",
-      "locationDetails": "2539 N MILWAUKEE AVE 1, Chicago, IL 60647",
-      "timeWindow": "4 PM–6 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://www.lalunitachicago.com/happy-hour"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Logan Square",
-        "kind": "daily_special",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "startTime": "16:00",
-        "endTime": "18:00"
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
     },
     {
       "id": "312deals-106656",
@@ -14397,100 +14227,6 @@
           ],
           "sourceURL": "https://www.swiftandsonstavern.com/happy-hour",
           "sourceCheckedAt": "2026-09-23T05:51:07.699059+00:00"
-        }
-      ]
-    },
-    {
-      "id": "312deals-106324",
-      "restaurant": "Fireside Tavern And Grill",
-      "title": "Reverse Happy Hour",
-      "subtitle": "Reverse Happy Hour",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Sunday and Monday 10pm-midnight reverse happy hour with $3 domestics, $7 wells, $9 rum punch, and $10 Chicago Handshake"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.firesidechicago.com/specials",
-      "lastCheckedAt": "2026-09-23T05:26:03.988816+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Reverse Happy Hour\nSunday and Monday 10pm-midnight reverse happy hour with $3 domestics, $7 wells, $9 rum punch, and $10 Chicago Handshake\n$3 Domestic beers (Bud, Bud Light, MGD, Miller Lite, High Life, Coors Light)\n$7 Well cocktails (vodka, gin, rum, tequila, whiskey)\n$9 Rum punch on the rocks\n$10 Chicago Handshake (Old Style tall boy and Malort shot)",
-      "locationDetails": "5739-5741 N RAVENSWOOD AVE 1ST, Chicago, IL 60660",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:03.988816+00:00",
-        "validUntil": "2026-09-30T05:26:03.988816+00:00",
-        "sourceURLs": [
-          "https://www.firesidechicago.com/specials"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Sunday",
-      "discovery": {
-        "neighborhood": "Edgewater",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          7
-        ],
-        "allDay": false,
-        "itemPrice": 3.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Domestic beers (Bud, Bud Light, MGD, Miller Lite, High Life, Coors Light)",
-          "kind": "drink",
-          "unitPrice": 3.0,
-          "quantity": 1,
-          "totalPrice": 3.0,
-          "tags": [],
-          "sourceURL": "https://www.firesidechicago.com/specials",
-          "sourceCheckedAt": "2026-09-23T05:51:29.468726+00:00"
-        },
-        {
-          "name": "Well cocktails (vodka, gin, rum, tequila, whiskey)",
-          "kind": "drink",
-          "unitPrice": 7.0,
-          "quantity": 1,
-          "totalPrice": 7.0,
-          "tags": [],
-          "sourceURL": "https://www.firesidechicago.com/specials",
-          "sourceCheckedAt": "2026-09-23T05:51:29.468726+00:00"
-        },
-        {
-          "name": "Rum punch on the rocks",
-          "kind": "drink",
-          "unitPrice": 9.0,
-          "quantity": 1,
-          "totalPrice": 9.0,
-          "tags": [],
-          "sourceURL": "https://www.firesidechicago.com/specials",
-          "sourceCheckedAt": "2026-09-23T05:51:29.468726+00:00"
-        },
-        {
-          "name": "Chicago Handshake (Old Style tall boy and Malort shot)",
-          "kind": "drink",
-          "unitPrice": 10.0,
-          "quantity": 1,
-          "totalPrice": 10.0,
-          "tags": [],
-          "sourceURL": "https://www.firesidechicago.com/specials",
-          "sourceCheckedAt": "2026-09-23T05:51:29.468726+00:00"
         }
       ]
     },
@@ -20559,7 +20295,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Late Night Happy Hour\nLate night happy hour from 10pm until close with $3, $6 and $9 bites including oysters, wagyu items, and STK favorites alongside signature cocktails\n$3 Oysters on the half shell\n$3 Crab & corn fritters\n$6 Lil' BRGs with truffle fries\n$6 Wagyu meatballs\n$9 Short rib quesadillas\n$9 A5 wagyu tacos\n$9 Tartares\n$6 Calamari\n$6 Popcorn chicken\n$3 STK frites\n$9 STK cheeseburger\nSignature cocktails\nWine\nBeer\nBar, lounge and patio areas only",
       "locationDetails": "9 W KINZIE ST 1ST, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -21346,78 +21082,6 @@
             "sides"
           ],
           "sourceURL": "https://thehawksmoor.com/us/locations/chicago/?pl=chicago&utm_source=google&utm_medium=organic&utm_campaign=gbp",
-          "sourceCheckedAt": "2026-09-23T05:50:39.851220+00:00"
-        }
-      ]
-    },
-    {
-      "id": "312deals-7813",
-      "restaurant": "Arbella",
-      "title": "From the Vault",
-      "subtitle": "From the Vault",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available only on the 10th of each month during happy hour."
-      ],
-      "redemptionSteps": [
-        "Each month on the 10th, a throwback favorite cocktail is featured for a special price during happy hour."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://arbellachicago.com/",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "From the Vault\nEach month on the 10th, a throwback favorite cocktail is featured for a special price during happy hour.\n$10 Throwback Favorite Cocktail\nAvailable only on the 10th of each month during happy hour.",
-      "locationDetails": "112-114 W GRAND AVE, Chicago, IL 60654",
-      "timeWindow": "4 PM–6 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://arbellachicago.com/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "daily_special",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "16:00",
-        "endTime": "18:00",
-        "itemPrice": 10.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Throwback Favorite Cocktail",
-          "kind": "drink",
-          "unitPrice": 10.0,
-          "quantity": 1,
-          "totalPrice": 10.0,
-          "tags": [],
-          "sourceURL": "https://arbellachicago.com/",
           "sourceCheckedAt": "2026-09-23T05:50:39.851220+00:00"
         }
       ]
@@ -28123,7 +27787,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Happy Hour\nThursday through Sunday happy hour featuring 50% off wells, $10 select cocktails, $7 Patron shots, $6 draft beer and margaritas, plus food specials including $4 clasico tacos, $5 chips & guac, and $6 nachos\n$4 Clasico Tacos\n$5 Chips & Guac\n$6 Nachos\nWells\n$10 Select Cocktails\n$7 Patron Shots\n$6 Draft Beer\n$6 Margarita",
       "locationDetails": "407 N CLARK ST, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -31905,172 +31569,6 @@
       "newCustomer": false
     },
     {
-      "id": "312deals-14141",
-      "restaurant": "Bites",
-      "title": "BITES Happy Hour",
-      "subtitle": "BITES Happy Hour",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Dine-in only"
-      ],
-      "redemptionSteps": [
-        "Happy Hour deals on small bites, wine, beer, and handcrafted cocktails."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://biteskitchen.com/",
-      "lastCheckedAt": "2026-09-23T05:50:43.517214+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "BITES Happy Hour\nHappy Hour deals on small bites, wine, beer, and handcrafted cocktails.\n$8 Seaweed Salad\n$8 Tofu Satay\n$8 Jumbo Shrimp Shumai\n$8 Emerald Gyoza\n$10 BITES Wings (Garlic Chili Paow or Tso)\n$6 House Wine (by the glass)\n$4 Sake Bomb\n$7 Sangria (Glass)\n$30 Sangria (Pitcher)\n$11 BITES Cocktails (handcrafted)\nDine-in only",
-      "locationDetails": "3313 N CLARK ST 1, Chicago, IL 60657",
-      "timeWindow": "4 PM–6 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:43.517214+00:00",
-        "validUntil": "2026-09-30T05:50:43.517214+00:00",
-        "sourceURLs": [
-          "http://biteskitchen.com/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "16:00",
-        "endTime": "18:00",
-        "itemPrice": 4.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Seaweed Salad",
-          "kind": "meal",
-          "unitPrice": 8.0,
-          "quantity": 1,
-          "totalPrice": 8.0,
-          "tags": [],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Tofu Satay",
-          "kind": "food",
-          "unitPrice": 8.0,
-          "quantity": 1,
-          "totalPrice": 8.0,
-          "tags": [],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Jumbo Shrimp Shumai",
-          "kind": "food",
-          "unitPrice": 8.0,
-          "quantity": 1,
-          "totalPrice": 8.0,
-          "tags": [
-            "seafood"
-          ],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Emerald Gyoza",
-          "kind": "food",
-          "unitPrice": 8.0,
-          "quantity": 1,
-          "totalPrice": 8.0,
-          "tags": [],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "BITES Wings (Garlic Chili Paow or Tso)",
-          "kind": "food",
-          "unitPrice": 10.0,
-          "quantity": 1,
-          "totalPrice": 10.0,
-          "tags": [
-            "wings"
-          ],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "House Wine (by the glass)",
-          "kind": "drink",
-          "unitPrice": 6.0,
-          "quantity": 1,
-          "totalPrice": 6.0,
-          "tags": [],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Sake Bomb",
-          "kind": "drink",
-          "unitPrice": 4.0,
-          "quantity": 1,
-          "totalPrice": 4.0,
-          "tags": [],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Sangria (Glass)",
-          "kind": "drink",
-          "unitPrice": 7.0,
-          "quantity": 1,
-          "totalPrice": 7.0,
-          "tags": [],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Sangria (Pitcher)",
-          "kind": "drink",
-          "unitPrice": 30.0,
-          "quantity": 1,
-          "totalPrice": 30.0,
-          "tags": [],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "BITES Cocktails (handcrafted)",
-          "kind": "drink",
-          "unitPrice": 11.0,
-          "quantity": 1,
-          "totalPrice": 11.0,
-          "tags": [],
-          "sourceURL": "http://biteskitchen.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        }
-      ]
-    },
-    {
       "id": "312deals-2960",
       "restaurant": "Bluebird",
       "title": "Lunch Specials",
@@ -35703,116 +35201,6 @@
       ]
     },
     {
-      "id": "312deals-3153",
-      "restaurant": "Ping Pong",
-      "title": "Happy Hour",
-      "subtitle": "Happy Hour",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Only available on in-venue purchases, cocktails and mocktails are 2-for-1 (same drink only)"
-      ],
-      "redemptionSteps": [
-        "Weekday happy hour until 6pm with 2-for-1 cocktails and mocktails plus £5 pints, wine and Prosecco"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.bouncepingpong.com/events/happy-hour/",
-      "lastCheckedAt": "2026-09-23T05:50:43.517214+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Happy Hour\nWeekday happy hour until 6pm with 2-for-1 cocktails and mocktails plus £5 pints, wine and Prosecco\nHouse Cocktails\nHouse Mocktails\n$5 Draught beers (pint)\n$5 House wine (175ml)\n$5 Prosecco (125ml)\n$20 Wine bottles\n$20 Prosecco bottles\nOnly available on in-venue purchases, cocktails and mocktails are 2-for-1 (same drink only)",
-      "locationDetails": "3322-3326 N BROADWAY 1ST, Chicago, IL 60657",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:43.517214+00:00",
-        "validUntil": "2026-09-30T05:50:43.517214+00:00",
-        "sourceURLs": [
-          "https://www.bouncepingpong.com/events/happy-hour/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 5.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Draught beers (pint)",
-          "kind": "drink",
-          "unitPrice": 5.0,
-          "quantity": 1,
-          "totalPrice": 5.0,
-          "tags": [],
-          "sourceURL": "https://www.bouncepingpong.com/events/happy-hour/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "House wine (175ml)",
-          "kind": "drink",
-          "unitPrice": 5.0,
-          "quantity": 1,
-          "totalPrice": 5.0,
-          "tags": [],
-          "sourceURL": "https://www.bouncepingpong.com/events/happy-hour/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Prosecco (125ml)",
-          "kind": "drink",
-          "unitPrice": 5.0,
-          "quantity": 1,
-          "totalPrice": 5.0,
-          "tags": [],
-          "sourceURL": "https://www.bouncepingpong.com/events/happy-hour/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Wine bottles",
-          "kind": "drink",
-          "unitPrice": 20.0,
-          "quantity": 1,
-          "totalPrice": 20.0,
-          "tags": [],
-          "sourceURL": "https://www.bouncepingpong.com/events/happy-hour/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Prosecco bottles",
-          "kind": "drink",
-          "unitPrice": 20.0,
-          "quantity": 1,
-          "totalPrice": 20.0,
-          "tags": [],
-          "sourceURL": "https://www.bouncepingpong.com/events/happy-hour/",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        }
-      ]
-    },
-    {
       "id": "312deals-18148",
       "restaurant": "Clover Lincoln Park",
       "title": "Well drinks",
@@ -36498,80 +35886,6 @@
         "purchase": "unknown"
       },
       "newCustomer": false
-    },
-    {
-      "id": "312deals-1364",
-      "restaurant": "Scarlet",
-      "title": "Thursday Happy Hour",
-      "subtitle": "Thursday Happy Hour",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$3 well drinks 8-8:30pm, $5 wells rest of night"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://lakevieweast.com/lakeview-east-happy-hour-guide/",
-      "lastCheckedAt": "2026-09-23T05:50:45.379541+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Thursday Happy Hour\n$3 well drinks 8-8:30pm, $5 wells rest of night\n$3 well drinks (8-8:30pm)\n$5 well drinks (after 8:30pm)",
-      "locationDetails": "Northalsted, Chicago, IL",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:45.379541+00:00",
-        "validUntil": "2026-09-30T05:50:45.379541+00:00",
-        "sourceURLs": [
-          "https://lakevieweast.com/lakeview-east-happy-hour-guide/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "happy_hour",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 3.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "well drinks (8-8:30pm)",
-          "kind": "drink",
-          "unitPrice": 3.0,
-          "quantity": 1,
-          "totalPrice": 3.0,
-          "tags": [],
-          "sourceURL": "https://lakevieweast.com/lakeview-east-happy-hour-guide/",
-          "sourceCheckedAt": "2026-09-23T05:50:45.379541+00:00"
-        },
-        {
-          "name": "well drinks (after 8:30pm)",
-          "kind": "drink",
-          "unitPrice": 5.0,
-          "quantity": 1,
-          "totalPrice": 5.0,
-          "tags": [],
-          "sourceURL": "https://lakevieweast.com/lakeview-east-happy-hour-guide/",
-          "sourceCheckedAt": "2026-09-23T05:50:45.379541+00:00"
-        }
-      ]
     },
     {
       "id": "312deals-14060",
@@ -48571,7 +47885,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Sunday All Day Happy Hour\nHappy Hour sushi, share plates, and drinks available all day long.\nVarious Maki Rolls\nSpecialty Nigiri\n$6.5 House Wines\nCocktails\nDine-in only",
       "locationDetails": "2351 N Lincoln Ave, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -53846,62 +53160,6 @@
           "sourceCheckedAt": "2026-09-23T05:50:51.490690+00:00"
         }
       ]
-    },
-    {
-      "id": "312deals-3396",
-      "restaurant": "Cm Chicken",
-      "title": "Happy hour specials",
-      "subtitle": "2024 Customer Appreciation Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Valid for Dine-In Only. Not Valid for To-Go & Delivery Orders. Cannot Be Combined With Other Offers. Voucher Has No Cash Value. Subtotal Must Equal $50 & Up to Receive Discount. Limited Time Only. One-time use only. Excludes tax and gratuity. Limited one coupon per table. Multiple coupons cannot be combined."
-      ],
-      "redemptionSteps": [
-        "Spend $50 & up get $10 off, spend $100 & up get $25 off. Must show coupon to server."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.cmchickenchicago.com/specials",
-      "lastCheckedAt": "2026-09-23T05:50:51.490690+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "2024 Customer Appreciation Special\nSpend $50 & up get $10 off, spend $100 & up get $25 off. Must show coupon to server.\nValid for Dine-In Only. Not Valid for To-Go & Delivery Orders. Cannot Be Combined With Other Offers. Voucher Has No Cash Value. Subtotal Must Equal $50 & Up to Receive Discount. Limited Time Only. One-time use only. Excludes tax and gratuity. Limited one coupon per table. Multiple coupons cannot be combined.",
-      "locationDetails": "2439 N CLARK ST, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:51.490690+00:00",
-        "validUntil": "2026-09-30T05:50:51.490690+00:00",
-        "sourceURLs": [
-          "https://www.cmchickenchicago.com/specials"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday",
-      "discovery": {
-        "neighborhood": "Lincoln Park",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
     },
     {
       "id": "312deals-8105",
@@ -63277,7 +62535,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Lark After Dark Happy Hour\nNutrl & Beer Buckets on Special\nnutrl\nbeer buckets",
       "locationDetails": "1338 W FULTON ST 1, Chicago, IL 60607",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -64722,7 +63980,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Happy Hour Food & Drinks\nMonday-Friday happy hour with discounted food and drinks starting at $5, plus 50% off all games\n$5 Queso Dip\n$5 Thai Chili Edamame\n$5 Rosemary Fries\n$7 Guacamole, Salsa & Chips\n$8 Hummus & Tzatziki\n$7 Pretzel Bites\n$7 BBQ Pork Sliders\n$10 Chicken Teriyaki Potstickers\n$11 Bang Bang Shrimp Bao\n$5 Main Squeeze Punch\n$5 Highway 66 Hibiscus Punch\n$6 The Margarita\n$6 Old Fashioned\n$6 Cosmopolitan\n$5 Well Cocktail\n$5 Select Wine\n$5 Draft Beer\nTimes vary per location. Excludes Atlanta for drink specials",
       "locationDetails": "310 N Green St, Chicago, IL 60607",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -73728,7 +72986,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Happy Hour\nHappy hour featuring discounted sake and tofu bun appetizer\n$4 sweet chili tofu bun\n$7 glass of sake",
       "locationDetails": "1146 N MILWAUKEE AVE 1ST, Chicago, IL 60642",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -84503,61 +83761,6 @@
       "newCustomer": false
     },
     {
-      "id": "312deals-20951",
-      "restaurant": "Legno by Suparossa",
-      "title": "Tuesday Wine Special",
-      "subtitle": "Tuesday Wine Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Dine in only"
-      ],
-      "redemptionSteps": [
-        "Half off wine bottles during Tuesday happy hour"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.legnochicago.com/daily-specials/",
-      "lastCheckedAt": "2026-09-23T05:51:09.552388+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Tuesday Wine Special\nHalf off wine bottles during Tuesday happy hour\nWine Bottles (half off)\nDine in only",
-      "locationDetails": "4250 N Central Ave, Chicago, IL 60634, USA",
-      "timeWindow": "4 PM–6 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:09.552388+00:00",
-        "validUntil": "2026-09-30T05:51:09.552388+00:00",
-        "sourceURLs": [
-          "https://www.legnochicago.com/daily-specials/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Portage Park",
-        "kind": "daily_special",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "16:00",
-        "endTime": "18:00"
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "312deals-20952",
       "restaurant": "Legno by Suparossa",
       "title": "Wednesday Pizza Special",
@@ -88146,63 +87349,6 @@
           "sourceCheckedAt": "2026-09-23T05:51:13.507938+00:00"
         }
       ]
-    },
-    {
-      "id": "312deals-2750",
-      "restaurant": "Revolution Beer",
-      "title": "well drinks",
-      "subtitle": "Earl's Kitchen + Bar Late Night Happy Hour",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Until close"
-      ],
-      "redemptionSteps": [
-        "$5 well drinks, select craft pints & select wines, along with several other drink and food specials"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.themusictrust.com/blog/10-best-happy-hour-hot-spots-in-chicago",
-      "lastCheckedAt": "2026-09-23T05:51:13.507938+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Earl's Kitchen + Bar Late Night Happy Hour\n$5 well drinks, select craft pints & select wines, along with several other drink and food specials\nwell drinks\ncraft pints\nwines\nfood specials\nUntil close",
-      "locationDetails": "3340 N KEDZIE AVE, Chicago, IL 60618",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:13.507938+00:00",
-        "validUntil": "2026-09-30T05:51:13.507938+00:00",
-        "sourceURLs": [
-          "https://www.themusictrust.com/blog/10-best-happy-hour-hot-spots-in-chicago"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday",
-      "discovery": {
-        "neighborhood": "Avondale",
-        "kind": "late_night",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
     },
     {
       "id": "312deals-20994",
@@ -121038,57 +120184,6 @@
       ]
     },
     {
-      "id": "312deals-296",
-      "restaurant": "Le Bouchon",
-      "title": "Happy Hour",
-      "subtitle": "Happy Hour",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Wine service featuring Morgon 2019, a French red wine from Beaujolais region, served by the glass in an intimate bistro setting"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://hhrevolution.com/happy-hour/le-bouchon/",
-      "lastCheckedAt": "2026-09-23T05:51:41.458837+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Happy Hour\nWine service featuring Morgon 2019, a French red wine from Beaujolais region, served by the glass in an intimate bistro setting\nbottles of wine\nmorgon 2019",
-      "locationDetails": "1958 N DAMEN AVE, Chicago, IL 60647",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:41.458837+00:00",
-        "validUntil": "2026-09-30T05:51:41.458837+00:00",
-        "sourceURLs": [
-          "https://hhrevolution.com/happy-hour/le-bouchon/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Bucktown",
-        "kind": "happy_hour",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "312deals-6598",
       "restaurant": "The Map Room",
       "title": "Pizza Tuesday",
@@ -125859,600 +124954,6 @@
       "newCustomer": false
     },
     {
-      "id": "312deals-3207",
-      "restaurant": "Phoenix Restaurant",
-      "title": "$2 Oysters at CIELO",
-      "subtitle": "$2 Oysters at CIELO",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$2 oysters during elevated brunch"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "$2 Oysters at CIELO\n$2 oysters during elevated brunch\noysters",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "7 AM–2 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "brunch_deal",
-        "days": [
-          7
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "07:00",
-        "endTime": "14:00"
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3210",
-      "restaurant": "Phoenix Restaurant",
-      "title": "All-Day Taco Tuesday Happy Hour",
-      "subtitle": "All-Day Taco Tuesday Happy Hour",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$6 tacos including Carnitas Ground Beef Chicken Pastor Grilled Avocado, $8 Frozen Margaritas and Palomas, shareable sangria pitchers"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "All-Day Taco Tuesday Happy Hour\n$6 tacos including Carnitas Ground Beef Chicken Pastor Grilled Avocado, $8 Frozen Margaritas and Palomas, shareable sangria pitchers\ntacos\nfrozen margaritas\npalomas\nsangria",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3208",
-      "restaurant": "Phoenix Restaurant",
-      "title": "Taco Tuesdays",
-      "subtitle": "Taco Tuesdays",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$5 rotating tacos, $12 chips and salsa/guac, $5 Mexican lagers and margaritas"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Taco Tuesdays\n$5 rotating tacos, $12 chips and salsa/guac, $5 Mexican lagers and margaritas\ntacos\nchips and salsa\nguac\nmexican lagers\nmargaritas",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "daily_special",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3209",
-      "restaurant": "Phoenix Restaurant",
-      "title": "Burger Thursdays",
-      "subtitle": "Burger Thursdays",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Off-menu double stack grass-fed beef burgers with bacon and cheese served with fries for $20 plus local beer pairings"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Burger Thursdays\nOff-menu double stack grass-fed beef burgers with bacon and cheese served with fries for $20 plus local beer pairings\nburgers",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "daily_special",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3213",
-      "restaurant": "Phoenix Restaurant",
-      "title": "Jade Bar Wine Special",
-      "subtitle": "Jade Bar Wine Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Through September 30"
-      ],
-      "redemptionSteps": [
-        "50% off sommelier-selected wines"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Jade Bar Wine Special\n50% off sommelier-selected wines\nwines\nThrough September 30",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3214",
-      "restaurant": "Phoenix Restaurant",
-      "title": "Jade Bar Burger & Bourbon",
-      "subtitle": "Jade Bar Burger & Bourbon",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Through September 30"
-      ],
-      "redemptionSteps": [
-        "$10 signature burgers with bourbon flights"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Jade Bar Burger & Bourbon\n$10 signature burgers with bourbon flights\nburgers\nbourbon flights\nThrough September 30",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3215",
-      "restaurant": "Phoenix Restaurant",
-      "title": "Jade Bar Champagne & Oysters",
-      "subtitle": "Jade Bar Champagne & Oysters",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Through September 30"
-      ],
-      "redemptionSteps": [
-        "Champagne and oysters for $20"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Jade Bar Champagne & Oysters\nChampagne and oysters for $20\nchampagne\noysters\nThrough September 30",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3216",
-      "restaurant": "Phoenix Restaurant",
-      "title": "Jade Bar Charcuterie & Wine",
-      "subtitle": "Jade Bar Charcuterie & Wine",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Through September 30"
-      ],
-      "redemptionSteps": [
-        "Charcuterie and wine boards for $30"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Jade Bar Charcuterie & Wine\nCharcuterie and wine boards for $30\ncharcuterie\nwine\nThrough September 30",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3217",
-      "restaurant": "Phoenix Restaurant",
-      "title": "Jade Bar Sushi & Sake",
-      "subtitle": "Jade Bar Sushi & Sake",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Through September 30"
-      ],
-      "redemptionSteps": [
-        "Sushi and sake for two at $40"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Jade Bar Sushi & Sake\nSushi and sake for two at $40\nsushi\nsake\nThrough September 30",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3212",
-      "restaurant": "Phoenix Restaurant",
-      "title": "Elvira's Summer Prix Fixe",
-      "subtitle": "Elvira's Summer Prix Fixe",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available select days through August"
-      ],
-      "redemptionSteps": [
-        "$49 Summer Prix fixe three-course menu featuring modern Mexican dishes"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Elvira's Summer Prix Fixe\n$49 Summer Prix fixe three-course menu featuring modern Mexican dishes\nthree-course menu\nAvailable select days through August",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3219",
-      "restaurant": "Phoenix Restaurant",
-      "title": "pizzas",
-      "subtitle": "Organ Stop 50th Anniversary Meal Deal",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "dine_in_only"
-      ],
-      "redemptionSteps": [
-        "Two large pizzas with unlimited toppings, two appetizers, two pitchers of soft drinks for $60"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Organ Stop 50th Anniversary Meal Deal\nTwo large pizzas with unlimited toppings, two appetizers, two pitchers of soft drinks for $60\npizzas\nappetizers\nsoft drinks\ndine_in_only",
-      "locationDetails": "2129-2139 S ARCHER AVE 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://thebestofthesouthwest.com/dining/arizona-dining/20-plus-phoenix-restaurants-with-new-summer-menus-happy-hour-deals-seasonal-dining-discounts/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "312deals-6612",
       "restaurant": "Zero Degrees Karaoke Bar",
       "title": "Open Mic Night",
@@ -129414,96 +127915,6 @@
       ]
     },
     {
-      "id": "312deals-31364",
-      "restaurant": "Chalet",
-      "title": "Taco Tuesday",
-      "subtitle": "Taco Tuesday",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Minimum 3 tacos, drink purchase required"
-      ],
-      "redemptionSteps": [
-        "$1 Taco Tuesdays during Happy Hour 4-7PM with $7 reposado shots and $10 margaritas"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.chaletchi.com/events",
-      "lastCheckedAt": "2026-09-23T05:51:51.470990+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Taco Tuesday\n$1 Taco Tuesdays during Happy Hour 4-7PM with $7 reposado shots and $10 margaritas\n$1 Tacos (mix and match)\n$7 Reposado shots\n$10 Margaritas\nMinimum 3 tacos, drink purchase required",
-      "locationDetails": "228 W Chicago Ave, Chicago, IL 60654",
-      "timeWindow": "4 PM–7 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:51.470990+00:00",
-        "validUntil": "2026-09-30T05:51:51.470990+00:00",
-        "sourceURLs": [
-          "https://www.chaletchi.com/events"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Ukrainian Village",
-        "kind": "daily_special",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "16:00",
-        "endTime": "19:00",
-        "itemPrice": 1.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "required"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Tacos (mix and match)",
-          "kind": "snack",
-          "unitPrice": 1.0,
-          "quantity": 1,
-          "totalPrice": 1.0,
-          "tags": [
-            "tacos"
-          ],
-          "sourceURL": "https://www.chaletchi.com/events",
-          "sourceCheckedAt": "2026-09-23T05:51:51.470990+00:00"
-        },
-        {
-          "name": "Reposado shots",
-          "kind": "drink",
-          "unitPrice": 7.0,
-          "quantity": 1,
-          "totalPrice": 7.0,
-          "tags": [],
-          "sourceURL": "https://www.chaletchi.com/events",
-          "sourceCheckedAt": "2026-09-23T05:51:51.470990+00:00"
-        },
-        {
-          "name": "Margaritas",
-          "kind": "drink",
-          "unitPrice": 10.0,
-          "quantity": 1,
-          "totalPrice": 10.0,
-          "tags": [],
-          "sourceURL": "https://www.chaletchi.com/events",
-          "sourceCheckedAt": "2026-09-23T05:51:51.470990+00:00"
-        }
-      ]
-    },
-    {
       "id": "312deals-31365",
       "restaurant": "Chalet",
       "title": "Ladies Love Brunch",
@@ -129631,7 +128042,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Monday Extended Happy Hour\nHappy hour from 5pm to close with half off bottles of wine\nBottles of wine",
       "locationDetails": "2455 N Clark St, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -169622,6 +168033,516 @@
         "purchase": "unknown"
       },
       "newCustomer": false
+    },
+    {
+      "id": "312deals-106661",
+      "venue": "La Lunita",
+      "address": "2539 N MILWAUKEE AVE 1, Chicago, IL 60647",
+      "sourceURL": "https://www.lalunitachicago.com/happy-hour",
+      "neighborhood": "Logan Square",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "$8 Guacamole and Chips",
+        "$10 Esquites"
+      ],
+      "drinkOffers": [
+        "$8 Margarita",
+        "$8 Palomas",
+        "$4 Estrella Jalisco Cerveza",
+        "$10 Wine glasses"
+      ],
+      "terms": [
+        "Happy hour Tuesday through Friday from open to 6pm with $8 margaritas and palomas, $4 cerveza, $10 wine glasses, $8 guacamole and chips, and $10 esquites"
+      ],
+      "sourceText": "Happy Hour\nHappy hour Tuesday through Friday from open to 6pm with $8 margaritas and palomas, $4 cerveza, $10 wine glasses, $8 guacamole and chips, and $10 esquites\n$8 Guacamole and Chips\n$10 Esquites\n$8 Margarita\n$8 Palomas\n$4 Estrella Jalisco Cerveza\n$10 Wine glasses",
+      "checkedAt": "2026-09-23T05:25:59.942069+00:00",
+      "validUntil": "2026-09-30T05:25:59.942069+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [
+        {
+          "label": "$8 Margarita",
+          "price": 8.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "$10 Wine glasses",
+          "price": 10.0,
+          "kind": "wine"
+        }
+      ],
+      "sourceName": "312Deals",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false,
+      "pricedItems": [
+        {
+          "name": "Guacamole and Chips",
+          "kind": "snack",
+          "unitPrice": 8.0,
+          "quantity": 1,
+          "totalPrice": 8.0,
+          "tags": [
+            "sides"
+          ],
+          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
+          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
+        },
+        {
+          "name": "Esquites",
+          "kind": "food",
+          "unitPrice": 10.0,
+          "quantity": 1,
+          "totalPrice": 10.0,
+          "tags": [],
+          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
+          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
+        },
+        {
+          "name": "Margarita",
+          "kind": "drink",
+          "unitPrice": 8.0,
+          "quantity": 1,
+          "totalPrice": 8.0,
+          "tags": [],
+          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
+          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
+        },
+        {
+          "name": "Palomas",
+          "kind": "drink",
+          "unitPrice": 8.0,
+          "quantity": 1,
+          "totalPrice": 8.0,
+          "tags": [],
+          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
+          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
+        },
+        {
+          "name": "Estrella Jalisco Cerveza",
+          "kind": "drink",
+          "unitPrice": 4.0,
+          "quantity": 1,
+          "totalPrice": 4.0,
+          "tags": [],
+          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
+          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
+        },
+        {
+          "name": "Wine glasses",
+          "kind": "drink",
+          "unitPrice": 10.0,
+          "quantity": 1,
+          "totalPrice": 10.0,
+          "tags": [],
+          "sourceURL": "https://www.lalunitachicago.com/happy-hour",
+          "sourceCheckedAt": "2026-09-23T05:51:03.646847+00:00"
+        }
+      ]
+    },
+    {
+      "id": "312deals-106664",
+      "venue": "La Lunita",
+      "address": "2539 N MILWAUKEE AVE 1, Chicago, IL 60647",
+      "sourceURL": "https://www.lalunitachicago.com/happy-hour",
+      "neighborhood": "Logan Square",
+      "promotionName": "Half-Price Wine Thursday",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Bottle Wines (half off)"
+      ],
+      "terms": [
+        "Half-price bottle wines Thursday 4pm-6pm"
+      ],
+      "sourceText": "Half-Price Wine Thursday\nHalf-price bottle wines Thursday 4pm-6pm\nBottle Wines (half off)",
+      "checkedAt": "2026-09-23T05:25:59.942069+00:00",
+      "validUntil": "2026-09-30T05:25:59.942069+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [],
+      "sourceName": "312Deals",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "312deals-14141",
+      "venue": "Bites",
+      "address": "3313 N CLARK ST 1, Chicago, IL 60657",
+      "sourceURL": "https://biteskitchen.com/",
+      "neighborhood": "Lakeview",
+      "promotionName": "BITES Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "$8 Seaweed Salad",
+        "$8 Tofu Satay",
+        "$8 Jumbo Shrimp Shumai",
+        "$8 Emerald Gyoza",
+        "$10 BITES Wings (Garlic Chili Paow or Tso)"
+      ],
+      "drinkOffers": [
+        "$6 House Wine (by the glass)",
+        "$4 Sake Bomb",
+        "$7 Sangria (Glass)",
+        "$30 Sangria (Pitcher)",
+        "$11 BITES Cocktails (handcrafted)"
+      ],
+      "terms": [
+        "Dine-in only"
+      ],
+      "sourceText": "BITES Happy Hour\nHappy Hour deals on small bites, wine, beer, and handcrafted cocktails.\n$8 Seaweed Salad\n$8 Tofu Satay\n$8 Jumbo Shrimp Shumai\n$8 Emerald Gyoza\n$10 BITES Wings (Garlic Chili Paow or Tso)\n$6 House Wine (by the glass)\n$4 Sake Bomb\n$7 Sangria (Glass)\n$30 Sangria (Pitcher)\n$11 BITES Cocktails (handcrafted)\nDine-in only",
+      "checkedAt": "2026-09-23T05:50:43.517214+00:00",
+      "validUntil": "2026-09-30T05:50:43.517214+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [
+        {
+          "label": "$6 House Wine (by the glass)",
+          "price": 6.0,
+          "kind": "wine"
+        },
+        {
+          "label": "$7 Sangria (Glass)",
+          "price": 7.0,
+          "kind": "wine"
+        },
+        {
+          "label": "$30 Sangria (Pitcher)",
+          "price": 30.0,
+          "kind": "wine"
+        },
+        {
+          "label": "$11 BITES Cocktails (handcrafted)",
+          "price": 11.0,
+          "kind": "cocktail"
+        }
+      ],
+      "sourceName": "312Deals",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false,
+      "pricedItems": [
+        {
+          "name": "Seaweed Salad",
+          "kind": "meal",
+          "unitPrice": 8.0,
+          "quantity": 1,
+          "totalPrice": 8.0,
+          "tags": [],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        },
+        {
+          "name": "Tofu Satay",
+          "kind": "food",
+          "unitPrice": 8.0,
+          "quantity": 1,
+          "totalPrice": 8.0,
+          "tags": [],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        },
+        {
+          "name": "Jumbo Shrimp Shumai",
+          "kind": "food",
+          "unitPrice": 8.0,
+          "quantity": 1,
+          "totalPrice": 8.0,
+          "tags": [
+            "seafood"
+          ],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        },
+        {
+          "name": "Emerald Gyoza",
+          "kind": "food",
+          "unitPrice": 8.0,
+          "quantity": 1,
+          "totalPrice": 8.0,
+          "tags": [],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        },
+        {
+          "name": "BITES Wings (Garlic Chili Paow or Tso)",
+          "kind": "food",
+          "unitPrice": 10.0,
+          "quantity": 1,
+          "totalPrice": 10.0,
+          "tags": [
+            "wings"
+          ],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        },
+        {
+          "name": "House Wine (by the glass)",
+          "kind": "drink",
+          "unitPrice": 6.0,
+          "quantity": 1,
+          "totalPrice": 6.0,
+          "tags": [],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        },
+        {
+          "name": "Sake Bomb",
+          "kind": "drink",
+          "unitPrice": 4.0,
+          "quantity": 1,
+          "totalPrice": 4.0,
+          "tags": [],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        },
+        {
+          "name": "Sangria (Glass)",
+          "kind": "drink",
+          "unitPrice": 7.0,
+          "quantity": 1,
+          "totalPrice": 7.0,
+          "tags": [],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        },
+        {
+          "name": "Sangria (Pitcher)",
+          "kind": "drink",
+          "unitPrice": 30.0,
+          "quantity": 1,
+          "totalPrice": 30.0,
+          "tags": [],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        },
+        {
+          "name": "BITES Cocktails (handcrafted)",
+          "kind": "drink",
+          "unitPrice": 11.0,
+          "quantity": 1,
+          "totalPrice": 11.0,
+          "tags": [],
+          "sourceURL": "http://biteskitchen.com/",
+          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
+        }
+      ],
+      "isChain": false
+    },
+    {
+      "id": "312deals-1364",
+      "venue": "Scarlet",
+      "address": "Northalsted, Chicago, IL",
+      "sourceURL": "https://lakevieweast.com/lakeview-east-happy-hour-guide/",
+      "neighborhood": "Lakeview",
+      "promotionName": "Thursday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        4
+      ],
+      "startTime": "20:00",
+      "endTime": "20:30",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$3 well drinks (8-8:30pm)",
+        "$5 well drinks (after 8:30pm)"
+      ],
+      "terms": [
+        "$3 well drinks 8-8:30pm, $5 wells rest of night"
+      ],
+      "sourceText": "Thursday Happy Hour\n$3 well drinks 8-8:30pm, $5 wells rest of night\n$3 well drinks (8-8:30pm)\n$5 well drinks (after 8:30pm)",
+      "checkedAt": "2026-09-23T05:50:45.379541+00:00",
+      "validUntil": "2026-09-30T05:50:45.379541+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [
+        {
+          "label": "$3 well drinks (8-8:30pm)",
+          "price": 3.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "$5 well drinks (after 8:30pm)",
+          "price": 5.0,
+          "kind": "cocktail"
+        }
+      ],
+      "sourceName": "312Deals",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false,
+      "pricedItems": [
+        {
+          "name": "well drinks (8-8:30pm)",
+          "kind": "drink",
+          "unitPrice": 3.0,
+          "quantity": 1,
+          "totalPrice": 3.0,
+          "tags": [],
+          "sourceURL": "https://lakevieweast.com/lakeview-east-happy-hour-guide/",
+          "sourceCheckedAt": "2026-09-23T05:50:45.379541+00:00"
+        },
+        {
+          "name": "well drinks (after 8:30pm)",
+          "kind": "drink",
+          "unitPrice": 5.0,
+          "quantity": 1,
+          "totalPrice": 5.0,
+          "tags": [],
+          "sourceURL": "https://lakevieweast.com/lakeview-east-happy-hour-guide/",
+          "sourceCheckedAt": "2026-09-23T05:50:45.379541+00:00"
+        }
+      ],
+      "isChain": false
+    },
+    {
+      "id": "312deals-20951",
+      "venue": "Legno by Suparossa",
+      "address": "4250 N Central Ave, Chicago, IL 60634, USA",
+      "sourceURL": "https://www.legnochicago.com/daily-specials/",
+      "neighborhood": "Portage Park",
+      "promotionName": "Tuesday Wine Special",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        2
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Wine Bottles (half off)"
+      ],
+      "terms": [
+        "Dine in only"
+      ],
+      "sourceText": "Tuesday Wine Special\nHalf off wine bottles during Tuesday happy hour\nWine Bottles (half off)\nDine in only",
+      "checkedAt": "2026-09-23T05:51:09.552388+00:00",
+      "validUntil": "2026-09-30T05:51:09.552388+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [],
+      "sourceName": "312Deals",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false,
+      "isChain": false
+    },
+    {
+      "id": "312deals-31364",
+      "venue": "Chalet",
+      "address": "228 W Chicago Ave, Chicago, IL 60654",
+      "sourceURL": "https://www.chaletchi.com/events",
+      "neighborhood": "Ukrainian Village",
+      "promotionName": "Taco Tuesday",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        2
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "$1 Tacos (mix and match)"
+      ],
+      "drinkOffers": [
+        "$7 Reposado shots",
+        "$10 Margaritas"
+      ],
+      "terms": [
+        "Minimum 3 tacos, drink purchase required"
+      ],
+      "sourceText": "Taco Tuesday\n$1 Taco Tuesdays during Happy Hour 4-7PM with $7 reposado shots and $10 margaritas\n$1 Tacos (mix and match)\n$7 Reposado shots\n$10 Margaritas\nMinimum 3 tacos, drink purchase required",
+      "checkedAt": "2026-09-23T05:51:51.470990+00:00",
+      "validUntil": "2026-09-30T05:51:51.470990+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [
+        {
+          "label": "$7 Reposado shots",
+          "price": 7.0,
+          "kind": "shot"
+        }
+      ],
+      "sourceName": "312Deals",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false,
+      "pricedItems": [
+        {
+          "name": "Tacos (mix and match)",
+          "kind": "snack",
+          "unitPrice": 1.0,
+          "quantity": 1,
+          "totalPrice": 1.0,
+          "tags": [
+            "tacos"
+          ],
+          "sourceURL": "https://www.chaletchi.com/events",
+          "sourceCheckedAt": "2026-09-23T05:51:51.470990+00:00"
+        },
+        {
+          "name": "Reposado shots",
+          "kind": "drink",
+          "unitPrice": 7.0,
+          "quantity": 1,
+          "totalPrice": 7.0,
+          "tags": [],
+          "sourceURL": "https://www.chaletchi.com/events",
+          "sourceCheckedAt": "2026-09-23T05:51:51.470990+00:00"
+        },
+        {
+          "name": "Margaritas",
+          "kind": "drink",
+          "unitPrice": 10.0,
+          "quantity": 1,
+          "totalPrice": 10.0,
+          "tags": [],
+          "sourceURL": "https://www.chaletchi.com/events",
+          "sourceCheckedAt": "2026-09-23T05:51:51.470990+00:00"
+        }
+      ],
+      "isChain": false
     }
   ]
 }

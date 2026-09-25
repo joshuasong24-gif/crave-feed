@@ -2059,109 +2059,6 @@
       "redemptionReady": true
     },
     {
-      "id": "scraped-17b56bffac4ed7811886",
-      "restaurant": "Uvae Kitchen & Wine Bar",
-      "title": "Half-price wine bottles",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available 5 pm to 10 pm",
-        "Applies to bottles of wine"
-      ],
-      "redemptionSteps": [
-        "Visit Uvae Kitchen & Wine Bar on a Tuesday between 5 and 10 pm.",
-        "Order a bottle of wine and confirm the half-price rate before paying."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uvaechicago.com/chicago-andersonville-uvae-kitchen-and-wine-bar-specials",
-      "lastCheckedAt": "2026-09-12T18:06:12.559817+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Every Tuesday from 5 to 10 pm, bottles of wine are half price. Uvae Kitchen & Wine Bar, 5553 North Clark Street, Chicago, IL.",
-      "offerDetails": "Bottles of wine are half price.",
-      "reportedDates": "Every Tuesday",
-      "recurrenceLabel": "Every Tuesday",
-      "detailNotes": [
-        "Official specials page reviewed September 12, 2026; no end date is stated."
-      ],
-      "locationDetails": "5553 North Clark Street, Chicago, IL",
-      "savings": "Half off the regular price",
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-b1ed23c8652b63d5306b",
-      "restaurant": "Uvae Kitchen & Wine Bar",
-      "title": "$15 build-your-own wine flight",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available 5 pm to 10 pm"
-      ],
-      "redemptionSteps": [
-        "Visit Uvae Kitchen & Wine Bar on a Wednesday between 5 and 10 pm.",
-        "Order a build-your-own wine flight and confirm the $15 price before paying."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uvaechicago.com/chicago-andersonville-uvae-kitchen-and-wine-bar-specials",
-      "lastCheckedAt": "2026-09-12T18:06:12.559817+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Every Wednesday from 5 to 10 pm, build your own wine flight for $15. Uvae Kitchen & Wine Bar, 5553 North Clark Street, Chicago, IL.",
-      "offerDetails": "$15 Build your own wine flight.",
-      "reportedDates": "Every Wednesday",
-      "recurrenceLabel": "Every Wednesday",
-      "detailNotes": [
-        "Official specials page reviewed September 12, 2026; no end date is stated."
-      ],
-      "locationDetails": "5553 North Clark Street, Chicago, IL",
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-6fd904dcc7259c2c4711",
-      "restaurant": "Uvae Kitchen & Wine Bar",
-      "title": "Half-price cocktails",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available 5 pm to 10 pm",
-        "Applies to Uvae cocktails"
-      ],
-      "redemptionSteps": [
-        "Visit Uvae Kitchen & Wine Bar on a Thursday between 5 and 10 pm.",
-        "Order a Uvae cocktail and confirm the half-price rate before paying."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uvaechicago.com/chicago-andersonville-uvae-kitchen-and-wine-bar-specials",
-      "lastCheckedAt": "2026-09-12T18:06:12.559817+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Every Thursday from 5 to 10 pm, Uvae cocktails are half price. Uvae Kitchen & Wine Bar, 5553 North Clark Street, Chicago, IL.",
-      "offerDetails": "Uvae cocktails are half price.",
-      "reportedDates": "Every Thursday",
-      "recurrenceLabel": "Every Thursday",
-      "detailNotes": [
-        "Official specials page reviewed September 12, 2026; no end date is stated."
-      ],
-      "locationDetails": "5553 North Clark Street, Chicago, IL",
-      "savings": "Save $6.00 · example: Da-Des-Dem-Dos cocktail, $12.00 → $6.00",
-      "redemptionReady": true
-    },
-    {
       "id": "scraped-9a9951d887e92c83ab79",
       "restaurant": "Drew's on Halsted",
       "title": "Half-off wine bottles",
@@ -2471,39 +2368,6 @@
       ],
       "locationDetails": "201 North Clinton Street, Chicago, IL 60661",
       "savings": "Save $27.00 · example: Whitehaven Sauvignon Blanc bottle, $54.00 → $27.00",
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-5a4639224913895aae03",
-      "restaurant": "New Line Tavern",
-      "title": "$9 flavor margaritas",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Available 11 am to 1 am"
-      ],
-      "redemptionSteps": [
-        "Visit New Line Tavern on a Thursday.",
-        "Order a flavor margarita and confirm the $9 price before paying."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://newlinetavern.com/chicago-fulton-river-district-new-line-tavern-happy-hours-specials",
-      "lastCheckedAt": "2026-09-12T18:17:02.457704+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Every Thursday, flavor margaritas are $9. Available 11 am to 1 am. New Line Tavern, 201 North Clinton Street, Chicago, IL 60661.",
-      "offerDetails": "$9 Flavor margaritas.",
-      "reportedDates": "Every Thursday",
-      "recurrenceLabel": "Every Thursday",
-      "detailNotes": [
-        "Official specials page reviewed September 12, 2026; no end date is stated."
-      ],
-      "locationDetails": "201 North Clinton Street, Chicago, IL 60661",
       "redemptionReady": true
     },
     {
@@ -3737,7 +3601,7 @@
     {
       "id": "scraped-bf396ea9f07a3c0e3567",
       "restaurant": "Tropical Smoothie Cafe",
-      "title": "Free smoothie with food or bowl purchase",
+      "title": "Free smoothie with food purchase",
       "subtitle": "",
       "category": "drink",
       "tier": "unrated",
@@ -7263,7 +7127,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Sunday & Monday Cocktail Specials\n$11 daiquiris and old fashioneds on Sundays and Mondays\n$11 Daiquiris\n$11 Old Fashioneds",
       "locationDetails": "2758 W Fullerton Ave, Chicago, IL 60647",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -7337,7 +7201,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Sunday Wine Bottle Special\nHalf-off wine bottles on Sundays\nWine bottles",
       "locationDetails": "2758 W Fullerton Ave, Chicago, IL 60647",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -8275,221 +8139,6 @@
           "unitPrice": 19.99,
           "quantity": 1,
           "totalPrice": 19.99,
-          "tags": [],
-          "sourceURL": "https://elmariachitequilabar.com/specials",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        }
-      ]
-    },
-    {
-      "id": "312deals-106979",
-      "restaurant": "El Mariachi Restaurant",
-      "title": "$7 House Lime Margaritas",
-      "subtitle": "Monday All-Day Margarita Specials",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "House Lime Margaritas $7, Flavored House Margaritas $9 all day Monday 4pm-11pm"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://elmariachitequilabar.com/specials",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Monday All-Day Margarita Specials\nHouse Lime Margaritas $7, Flavored House Margaritas $9 all day Monday 4pm-11pm\n$7 House Lime Margaritas\n$9 Flavored House Margaritas",
-      "locationDetails": "3420 N Broadway, Chicago, IL 60657",
-      "timeWindow": "4 PM–11 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://elmariachitequilabar.com/specials"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "daily_special",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "startTime": "16:00",
-        "endTime": "23:00",
-        "itemPrice": 7.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "House Lime Margaritas",
-          "kind": "drink",
-          "unitPrice": 7.0,
-          "quantity": 1,
-          "totalPrice": 7.0,
-          "tags": [],
-          "sourceURL": "https://elmariachitequilabar.com/specials",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Flavored House Margaritas",
-          "kind": "drink",
-          "unitPrice": 9.0,
-          "quantity": 1,
-          "totalPrice": 9.0,
-          "tags": [],
-          "sourceURL": "https://elmariachitequilabar.com/specials",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        }
-      ]
-    },
-    {
-      "id": "312deals-106981",
-      "restaurant": "El Mariachi Restaurant",
-      "title": "Tuesday All-Day Sangria Special",
-      "subtitle": "Tuesday All-Day Sangria Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Sangria $7 all day Tuesday 4pm-11pm"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://elmariachitequilabar.com/specials",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Tuesday All-Day Sangria Special\nSangria $7 all day Tuesday 4pm-11pm\n$7 Sangria",
-      "locationDetails": "3420 N Broadway, Chicago, IL 60657",
-      "timeWindow": "4 PM–11 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://elmariachitequilabar.com/specials"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "daily_special",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "startTime": "16:00",
-        "endTime": "23:00",
-        "itemPrice": 7.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Sangria",
-          "kind": "drink",
-          "unitPrice": 7.0,
-          "quantity": 1,
-          "totalPrice": 7.0,
-          "tags": [],
-          "sourceURL": "https://elmariachitequilabar.com/specials",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        }
-      ]
-    },
-    {
-      "id": "312deals-106982",
-      "restaurant": "El Mariachi Restaurant",
-      "title": "$7 House Lime Margaritas",
-      "subtitle": "Wednesday All-Day Margarita Specials",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "House Lime Margaritas $7, Flavored House Margaritas $9 all day Wednesday 4pm-11pm"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://elmariachitequilabar.com/specials",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Wednesday All-Day Margarita Specials\nHouse Lime Margaritas $7, Flavored House Margaritas $9 all day Wednesday 4pm-11pm\n$7 House Lime Margaritas\n$9 Flavored House Margaritas",
-      "locationDetails": "3420 N Broadway, Chicago, IL 60657",
-      "timeWindow": "4 PM–11 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://elmariachitequilabar.com/specials"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "daily_special",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "startTime": "16:00",
-        "endTime": "23:00",
-        "itemPrice": 7.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "House Lime Margaritas",
-          "kind": "drink",
-          "unitPrice": 7.0,
-          "quantity": 1,
-          "totalPrice": 7.0,
-          "tags": [],
-          "sourceURL": "https://elmariachitequilabar.com/specials",
-          "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
-        },
-        {
-          "name": "Flavored House Margaritas",
-          "kind": "drink",
-          "unitPrice": 9.0,
-          "quantity": 1,
-          "totalPrice": 9.0,
           "tags": [],
           "sourceURL": "https://elmariachitequilabar.com/specials",
           "sourceCheckedAt": "2026-09-23T05:50:43.517214+00:00"
@@ -17561,109 +17210,6 @@
       "newCustomer": false
     },
     {
-      "id": "312deals-3001",
-      "restaurant": "Sepia",
-      "title": "cocktails",
-      "subtitle": "Women & POC-Owned Spirits Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$2 off all women- or POC-owned cocktails and spirits"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://chicago.eater.com/maps/chicago-happy-hour-drink-specials-deals-affordable-cocktails",
-      "lastCheckedAt": "2026-09-23T05:26:07.956495+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Women & POC-Owned Spirits Special\n$2 off all women- or POC-owned cocktails and spirits\ncocktails\nspirits",
-      "locationDetails": "123 N JEFFERSON ST, Chicago, IL 60661",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:07.956495+00:00",
-        "validUntil": "2026-09-30T05:26:07.956495+00:00",
-        "sourceURLs": [
-          "https://chicago.eater.com/maps/chicago-happy-hour-drink-specials-deals-affordable-cocktails"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "West Loop",
-        "kind": "happy_hour",
-        "days": [
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3100",
-      "restaurant": "Turtles",
-      "title": "Sunday $5 Bloody Marys",
-      "subtitle": "Sunday $5 Bloody Marys",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$5 Bloody Mary cocktails"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://turtlestapbarandgrill.com/specials/",
-      "lastCheckedAt": "2026-09-23T05:26:07.956495+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Sunday $5 Bloody Marys\n$5 Bloody Mary cocktails\nbloody marys",
-      "locationDetails": "238 W 33RD ST 1ST & 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:07.956495+00:00",
-        "validUntil": "2026-09-30T05:26:07.956495+00:00",
-        "sourceURLs": [
-          "https://turtlestapbarandgrill.com/specials/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          7
-        ],
-        "allDay": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "312deals-3134",
       "restaurant": "The Store",
       "title": "$6 Value Menu",
@@ -24277,82 +23823,6 @@
           "totalPrice": 26.95,
           "tags": [],
           "sourceURL": "https://webergrillrestaurant.com/promotions/",
-          "sourceCheckedAt": "2026-09-23T05:50:39.851220+00:00"
-        }
-      ]
-    },
-    {
-      "id": "312deals-20923",
-      "restaurant": "Moneygun",
-      "title": "Sip Happens Tuesday Special",
-      "subtitle": "Sip Happens Tuesday Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Late night special - goes until late"
-      ],
-      "redemptionSteps": [
-        "Tuesday late night specials with $5 boilermakers and $10 Palomas starting at 10pm"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.moneygunchicago.com/happyhour",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Sip Happens Tuesday Special\nTuesday late night specials with $5 boilermakers and $10 Palomas starting at 10pm\n$5 Boilermakers with rotating shot\n$10 Sweet, Sour and Salty Paloma\nLate night special - goes until late",
-      "locationDetails": "660 W Lake St, Chicago, IL 60661",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.moneygunchicago.com/happyhour"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "late_night",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false,
-        "itemPrice": 5.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Boilermakers with rotating shot",
-          "kind": "drink",
-          "unitPrice": 5.0,
-          "quantity": 1,
-          "totalPrice": 5.0,
-          "tags": [],
-          "sourceURL": "https://www.moneygunchicago.com/happyhour",
-          "sourceCheckedAt": "2026-09-23T05:50:39.851220+00:00"
-        },
-        {
-          "name": "Sweet, Sour and Salty Paloma",
-          "kind": "drink",
-          "unitPrice": 10.0,
-          "quantity": 1,
-          "totalPrice": 10.0,
-          "tags": [],
-          "sourceURL": "https://www.moneygunchicago.com/happyhour",
           "sourceCheckedAt": "2026-09-23T05:50:39.851220+00:00"
         }
       ]
@@ -40329,72 +39799,6 @@
             "sandwiches"
           ],
           "sourceURL": "https://www.beatrixrestaurants.com/beatrix-market/depaul-loop/",
-          "sourceCheckedAt": "2026-09-23T05:50:47.463157+00:00"
-        }
-      ]
-    },
-    {
-      "id": "312deals-1176",
-      "restaurant": "The Village",
-      "title": "Three-Martini Lunch Thursday",
-      "subtitle": "Three-Martini Lunch Thursday",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$8 martinis every Thursday from 12-4pm"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://loopchicago.com/in-the-loop/chicago-loop-happy-hour-guide/",
-      "lastCheckedAt": "2026-09-23T05:50:47.463157+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Three-Martini Lunch Thursday\n$8 martinis every Thursday from 12-4pm\n$8 martinis",
-      "locationDetails": "71 W Monroe St, Chicago, IL 60603",
-      "timeWindow": "12 PM–4 PM",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:47.463157+00:00",
-        "validUntil": "2026-09-30T05:50:47.463157+00:00",
-        "sourceURLs": [
-          "https://loopchicago.com/in-the-loop/chicago-loop-happy-hour-guide/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "The Loop",
-        "kind": "daily_special",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false,
-        "startTime": "12:00",
-        "endTime": "16:00",
-        "itemPrice": 8.0
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "martinis",
-          "kind": "drink",
-          "unitPrice": 8.0,
-          "quantity": 1,
-          "totalPrice": 8.0,
-          "tags": [],
-          "sourceURL": "https://loopchicago.com/in-the-loop/chicago-loop-happy-hour-guide/",
           "sourceCheckedAt": "2026-09-23T05:50:47.463157+00:00"
         }
       ]
@@ -59583,160 +58987,6 @@
           "sourceCheckedAt": "2026-09-23T05:50:55.508709+00:00"
         }
       ]
-    },
-    {
-      "id": "312deals-3007",
-      "restaurant": "Sepia",
-      "title": "cocktails",
-      "subtitle": "Sunday and Monday Cocktail Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$11 daiquiris and old fashioneds"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://chicago.eater.com/maps/chicago-happy-hour-drink-specials-deals-affordable-cocktails",
-      "lastCheckedAt": "2026-09-23T05:50:55.508709+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Sunday and Monday Cocktail Special\n$11 daiquiris and old fashioneds\ncocktails",
-      "locationDetails": "123 N JEFFERSON ST, Chicago, IL 60661",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:55.508709+00:00",
-        "validUntil": "2026-09-30T05:50:55.508709+00:00",
-        "sourceURLs": [
-          "https://chicago.eater.com/maps/chicago-happy-hour-drink-specials-deals-affordable-cocktails"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Sunday",
-      "discovery": {
-        "neighborhood": "West Loop",
-        "kind": "happy_hour",
-        "days": [
-          1,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3008",
-      "restaurant": "Sepia",
-      "title": "Sunday Wine Special",
-      "subtitle": "Sunday Wine Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Half off bottles of wine"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://chicago.eater.com/maps/chicago-happy-hour-drink-specials-deals-affordable-cocktails",
-      "lastCheckedAt": "2026-09-23T05:50:55.508709+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Sunday Wine Special\nHalf off bottles of wine\nwine",
-      "locationDetails": "123 N JEFFERSON ST, Chicago, IL 60661",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:55.508709+00:00",
-        "validUntil": "2026-09-30T05:50:55.508709+00:00",
-        "sourceURLs": [
-          "https://chicago.eater.com/maps/chicago-happy-hour-drink-specials-deals-affordable-cocktails"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "West Loop",
-        "kind": "happy_hour",
-        "days": [
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3009",
-      "restaurant": "Sepia",
-      "title": "Classic Cocktails Special",
-      "subtitle": "Classic Cocktails Special",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$9 classic cocktails all night Tuesday and 6-8pm Wednesday-Sunday"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://chicago.eater.com/maps/chicago-happy-hour-drink-specials-deals-affordable-cocktails",
-      "lastCheckedAt": "2026-09-23T05:50:55.508709+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Classic Cocktails Special\n$9 classic cocktails all night Tuesday and 6-8pm Wednesday-Sunday\ncocktails",
-      "locationDetails": "123 N JEFFERSON ST, Chicago, IL 60661",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:55.508709+00:00",
-        "validUntil": "2026-09-30T05:50:55.508709+00:00",
-        "sourceURLs": [
-          "https://chicago.eater.com/maps/chicago-happy-hour-drink-specials-deals-affordable-cocktails"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Tuesday",
-      "discovery": {
-        "neighborhood": "West Loop",
-        "kind": "happy_hour",
-        "days": [
-          2
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
     },
     {
       "id": "312deals-3011",
@@ -97847,7 +97097,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Weekly Drink Specials\nWeekly drink specials available Sunday through Thursday featuring beer and spirit combo deals\n$10 Old Style & Whiskey\n$12 Perla Polish Lager & Zubrowka Bison Grass Vodka\n$9 Chicago Handshake\n$12 Modelo & Tequila",
       "locationDetails": "2403 W Homer St, Chicago, IL 60647",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -105327,57 +104577,6 @@
           "sourceCheckedAt": "2026-09-23T05:51:23.673110+00:00"
         }
       ]
-    },
-    {
-      "id": "312deals-6724",
-      "restaurant": "Emiliano'S Restaurant",
-      "title": "Margarita Monday",
-      "subtitle": "Margarita Monday",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Margarita Monday special all day"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.emilianosrestaurant.com/",
-      "lastCheckedAt": "2026-09-23T05:51:23.673110+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Margarita Monday\nMargarita Monday special all day\nmargaritas",
-      "locationDetails": "3322-3324 W 26TH ST 1, Chicago, IL 60623",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:23.673110+00:00",
-        "validUntil": "2026-09-30T05:51:23.673110+00:00",
-        "sourceURLs": [
-          "https://www.emilianosrestaurant.com/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Pilsen",
-        "kind": "happy_hour",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
     },
     {
       "id": "312deals-6726",
@@ -120376,7 +119575,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Weekly Drink Specials\nWeekly drink specials featuring beer and shot combinations available Sunday through Thursday\n$10 Old Style & Whiskey\n$12 Perla Polish Lager & Zubrowka Bison Grass Vodka\n$9 Chicago Handshake\n$12 Modelo & Tequila\nSunday through Thursday only",
       "locationDetails": "1850 N Damen Ave, Chicago, IL 60647, USA",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -123914,57 +123113,6 @@
       "newCustomer": false
     },
     {
-      "id": "312deals-3098",
-      "restaurant": "Turtles",
-      "title": "Thursday $2 Domestic Draft Pints",
-      "subtitle": "Thursday $2 Domestic Draft Pints",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "$2 pints of domestic draft beer"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://turtlestapbarandgrill.com/specials/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Thursday $2 Domestic Draft Pints\n$2 pints of domestic draft beer\ndomestic draft beer",
-      "locationDetails": "238 W 33RD ST 1ST & 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://turtlestapbarandgrill.com/specials/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Thursday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          4
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "312deals-3087",
       "restaurant": "Turtles",
       "title": "Monday Steak Specials",
@@ -124280,108 +123428,6 @@
         "kind": "happy_hour",
         "days": [
           3
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3097",
-      "restaurant": "Turtles",
-      "title": "Wednesday Half-Price Margaritas",
-      "subtitle": "Wednesday Half-Price Margaritas",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Half-priced margaritas"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://turtlestapbarandgrill.com/specials/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Wednesday Half-Price Margaritas\nHalf-priced margaritas\nmargaritas",
-      "locationDetails": "238 W 33RD ST 1ST & 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://turtlestapbarandgrill.com/specials/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          3
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "312deals-3099",
-      "restaurant": "Turtles",
-      "title": "Saturday Half-Price Margaritas",
-      "subtitle": "Saturday Half-Price Margaritas",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Half-priced margaritas"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://turtlestapbarandgrill.com/specials/",
-      "lastCheckedAt": "2026-09-23T05:51:45.464475+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Saturday Half-Price Margaritas\nHalf-priced margaritas\nmargaritas",
-      "locationDetails": "238 W 33RD ST 1ST & 2ND, Chicago, IL 60616",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:45.464475+00:00",
-        "validUntil": "2026-09-30T05:51:45.464475+00:00",
-        "sourceURLs": [
-          "https://turtlestapbarandgrill.com/specials/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Saturday",
-      "discovery": {
-        "neighborhood": "Chinatown",
-        "kind": "happy_hour",
-        "days": [
-          6
         ],
         "allDay": false,
         "isChain": false
@@ -127786,7 +126832,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Hamm It Up\nWednesday Hamm It Up specials with $2 Hamm's and $5 Hamm's + Bourbon Shot combo from 5PM til close\n$2 Hamm's\n$5 Hamm's + Bourbon Shot",
       "locationDetails": "921 N Western Ave, Chicago, IL 60622, USA",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "5 PM–2 AM",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -127862,7 +126908,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Fuck It, it's Almost Friday!\nThursday specials with $3 PBR and $3 Fernet shots from 5PM til close, featuring rotating DJs\n$3 PBR\n$3 Fernet Shot\nFeatures rotating DJs",
       "locationDetails": "921 N Western Ave, Chicago, IL 60622, USA",
-      "timeWindow": "Hours not stated",
+      "timeWindow": "5 PM–2 AM",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -129489,7 +128535,7 @@
       "ratingReason": "Availability unconfirmed.",
       "fullTerms": "Wednesday Specials\nWednesday drink specials with half off wine bottles and Stewpendous Trivia starting at 7PM\n$6 Select Drafts\n$6 Select Shots\nWine Bottles - half off",
       "locationDetails": "5356-5358 N CLARK ST 1, Chicago, IL 60640",
-      "timeWindow": "12 AM–11:59 PM",
+      "timeWindow": "Time TBD",
       "redemptionReady": true,
       "detailNotes": [],
       "offerEvidence": {
@@ -129510,8 +128556,6 @@
         ],
         "allDay": false,
         "isChain": false,
-        "startTime": "00:00",
-        "endTime": "23:59",
         "itemPrice": 6.0
       },
       "requirementStates": {
@@ -136187,57 +135231,6 @@
           "sourceCheckedAt": "2026-09-23T05:52:21.510402+00:00"
         }
       ]
-    },
-    {
-      "id": "312deals-84113",
-      "restaurant": "COUNTRY HOUSE",
-      "title": "Bottles of Wine (half price)",
-      "subtitle": "Monday Half Price Bottles of Wine",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Every Monday, all bottles of wine are half price. No time window specified."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "http://burgerone.com/",
-      "lastCheckedAt": "2026-09-23T05:52:21.510402+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Monday Half Price Bottles of Wine\nEvery Monday, all bottles of wine are half price. No time window specified.\nBottles of Wine (half price)",
-      "locationDetails": "10200 S CENTRAL PARK AVE 1ST, CHICAGO, IL 60655",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:52:21.510402+00:00",
-        "validUntil": "2026-09-30T05:52:21.510402+00:00",
-        "sourceURLs": [
-          "http://burgerone.com/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday",
-      "discovery": {
-        "neighborhood": "Mount Greenwood",
-        "kind": "happy_hour",
-        "days": [
-          1
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
     },
     {
       "id": "312deals-28375",
@@ -168542,6 +167535,263 @@
           "sourceCheckedAt": "2026-09-23T05:51:51.470990+00:00"
         }
       ],
+      "isChain": false
+    },
+    {
+      "id": "scraped-17b56bffac4ed7811886",
+      "venue": "Uvae Kitchen & Wine Bar",
+      "address": "5553 North Clark Street, Chicago, IL",
+      "sourceURL": "https://uvaechicago.com/chicago-andersonville-uvae-kitchen-and-wine-bar-specials",
+      "neighborhood": "Andersonville",
+      "promotionName": "Half-price wine bottles",
+      "reviewedDrinkNight": true,
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        2
+      ],
+      "startTime": "17:00",
+      "endTime": "22:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Half Price Bottles of Wine"
+      ],
+      "terms": [
+        "Available 5 pm to 10 pm",
+        "Applies to bottles of wine"
+      ],
+      "sourceText": "Half-price wine bottles\nEvery Tuesday from 5 to 10 pm, bottles of wine are half price. Uvae Kitchen & Wine Bar, 5553 North Clark Street, Chicago, IL.",
+      "checkedAt": "2026-09-25T22:18:20.600343+00:00",
+      "validUntil": "2026-10-02T22:18:20.600343+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [],
+      "sourceName": "Official venue",
+      "isChain": false
+    },
+    {
+      "id": "scraped-b1ed23c8652b63d5306b",
+      "venue": "Uvae Kitchen & Wine Bar",
+      "address": "5553 North Clark Street, Chicago, IL",
+      "sourceURL": "https://uvaechicago.com/chicago-andersonville-uvae-kitchen-and-wine-bar-specials",
+      "neighborhood": "Andersonville",
+      "promotionName": "$15 build-your-own wine flight",
+      "reviewedDrinkNight": true,
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        3
+      ],
+      "startTime": "17:00",
+      "endTime": "22:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$15 Build Your Own Wine Flight"
+      ],
+      "terms": [
+        "Available 5 pm to 10 pm"
+      ],
+      "sourceText": "$15 build-your-own wine flight\nEvery Wednesday from 5 to 10 pm, build your own wine flight for $15. Uvae Kitchen & Wine Bar, 5553 North Clark Street, Chicago, IL.",
+      "checkedAt": "2026-09-25T22:18:20.600343+00:00",
+      "validUntil": "2026-10-02T22:18:20.600343+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [
+        {
+          "label": "$15 Build Your Own Wine Flight",
+          "price": 15.0,
+          "kind": "wine"
+        }
+      ],
+      "sourceName": "Official venue",
+      "isChain": false
+    },
+    {
+      "id": "scraped-6fd904dcc7259c2c4711",
+      "venue": "Uvae Kitchen & Wine Bar",
+      "address": "5553 North Clark Street, Chicago, IL",
+      "sourceURL": "https://uvaechicago.com/chicago-andersonville-uvae-kitchen-and-wine-bar-specials",
+      "neighborhood": "Andersonville",
+      "promotionName": "Half-price cocktails",
+      "reviewedDrinkNight": true,
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        4
+      ],
+      "startTime": "17:00",
+      "endTime": "22:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Half Price Uvae Cocktails"
+      ],
+      "terms": [
+        "Available 5 pm to 10 pm",
+        "Applies to Uvae cocktails"
+      ],
+      "sourceText": "Half-price cocktails\nEvery Thursday from 5 to 10 pm, Uvae cocktails are half price. Uvae Kitchen & Wine Bar, 5553 North Clark Street, Chicago, IL.",
+      "checkedAt": "2026-09-25T22:18:20.600343+00:00",
+      "validUntil": "2026-10-02T22:18:20.600343+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [],
+      "sourceName": "Official venue",
+      "isChain": false
+    },
+    {
+      "id": "scraped-5a4639224913895aae03",
+      "venue": "New Line Tavern",
+      "address": "201 North Clinton Street, Chicago, IL 60661",
+      "sourceURL": "https://newlinetavern.com/chicago-fulton-river-district-new-line-tavern-happy-hours-specials",
+      "neighborhood": "Fulton River District",
+      "promotionName": "$9 flavor margaritas",
+      "reviewedDrinkNight": true,
+      "allowsOvernight": true,
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        4
+      ],
+      "startTime": "11:00",
+      "endTime": "01:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$9 Flavor Margaritas"
+      ],
+      "terms": [
+        "Available 11 am to 1 am"
+      ],
+      "sourceText": "$9 flavor margaritas\nEvery Thursday, flavor margaritas are $9. Available 11 am to 1 am. New Line Tavern, 201 North Clinton Street, Chicago, IL 60661.",
+      "checkedAt": "2026-09-25T22:18:20.599157+00:00",
+      "validUntil": "2026-10-02T22:18:20.599157+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [],
+      "sourceName": "Official venue",
+      "isChain": false
+    },
+    {
+      "id": "312deals-106979",
+      "venue": "El Mariachi Restaurant",
+      "address": "3420 N Broadway, Chicago, IL 60657",
+      "sourceURL": "https://elmariachitequilabar.com/specials",
+      "neighborhood": "Lakeview",
+      "promotionName": "$7 House Lime Margaritas",
+      "reviewedDrinkNight": true,
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        1
+      ],
+      "startTime": "16:00",
+      "endTime": "23:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$7 House Lime Margaritas",
+        "$9 Flavored House Margaritas"
+      ],
+      "terms": [
+        "Monday All-Day Margarita Specials\nHouse Lime Margaritas $7, Flavored House Margaritas $9 all day Monday 4pm-11pm\n$7 House Lime Margaritas\n$9 Flavored House Margaritas"
+      ],
+      "sourceText": "$7 House Lime Margaritas\nMonday All-Day Margarita Specials\nHouse Lime Margaritas $7, Flavored House Margaritas $9 all day Monday 4pm-11pm\n$7 House Lime Margaritas\n$9 Flavored House Margaritas",
+      "checkedAt": "2026-09-25T22:18:20.606939+00:00",
+      "validUntil": "2026-10-02T22:18:20.606939+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [],
+      "sourceName": "312Deals",
+      "isChain": false
+    },
+    {
+      "id": "312deals-106981",
+      "venue": "El Mariachi Restaurant",
+      "address": "3420 N Broadway, Chicago, IL 60657",
+      "sourceURL": "https://elmariachitequilabar.com/specials",
+      "neighborhood": "Lakeview",
+      "promotionName": "Tuesday All-Day Sangria Special",
+      "reviewedDrinkNight": true,
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        2
+      ],
+      "startTime": "16:00",
+      "endTime": "23:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$7 Sangria"
+      ],
+      "terms": [
+        "Tuesday All-Day Sangria Special\nSangria $7 all day Tuesday 4pm-11pm\n$7 Sangria"
+      ],
+      "sourceText": "Tuesday All-Day Sangria Special\nTuesday All-Day Sangria Special\nSangria $7 all day Tuesday 4pm-11pm\n$7 Sangria",
+      "checkedAt": "2026-09-25T22:18:20.606939+00:00",
+      "validUntil": "2026-10-02T22:18:20.606939+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [
+        {
+          "label": "$7 Sangria",
+          "price": 7.0,
+          "kind": "wine"
+        }
+      ],
+      "sourceName": "312Deals",
+      "isChain": false
+    },
+    {
+      "id": "312deals-106982",
+      "venue": "El Mariachi Restaurant",
+      "address": "3420 N Broadway, Chicago, IL 60657",
+      "sourceURL": "https://elmariachitequilabar.com/specials",
+      "neighborhood": "Lakeview",
+      "promotionName": "$7 House Lime Margaritas",
+      "reviewedDrinkNight": true,
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        3
+      ],
+      "startTime": "16:00",
+      "endTime": "23:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$7 House Lime Margaritas",
+        "$9 Flavored House Margaritas"
+      ],
+      "terms": [
+        "Wednesday All-Day Margarita Specials\nHouse Lime Margaritas $7, Flavored House Margaritas $9 all day Wednesday 4pm-11pm\n$7 House Lime Margaritas\n$9 Flavored House Margaritas"
+      ],
+      "sourceText": "$7 House Lime Margaritas\nWednesday All-Day Margarita Specials\nHouse Lime Margaritas $7, Flavored House Margaritas $9 all day Wednesday 4pm-11pm\n$7 House Lime Margaritas\n$9 Flavored House Margaritas",
+      "checkedAt": "2026-09-25T22:18:20.606939+00:00",
+      "validUntil": "2026-10-02T22:18:20.606939+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [],
+      "sourceName": "312Deals",
+      "isChain": false
+    },
+    {
+      "id": "312deals-1176",
+      "venue": "The Village",
+      "address": "71 W Monroe St, Chicago, IL 60603",
+      "sourceURL": "https://www.thevillage-chicago.com/event/bring-them-back-martini-lunch/",
+      "neighborhood": "Loop",
+      "promotionName": "Three-Martini Lunch Thursday",
+      "reviewedDrinkNight": true,
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "days": [
+        4
+      ],
+      "startTime": "12:00",
+      "endTime": "16:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$8 martinis each"
+      ],
+      "terms": [
+        "At The Village bar. $8 per martini."
+      ],
+      "sourceText": "Three-Martini Lunch Thursday\nThree-Martini Lunch Thursday\n$8 martinis every Thursday from 12-4pm\n$8 martinis",
+      "checkedAt": "2026-09-25T22:20:30.101049+00:00",
+      "validUntil": "2026-10-02T22:20:30.101049+00:00",
+      "status": "unconfirmed",
+      "budgetDrinks": [],
+      "sourceName": "312Deals",
       "isChain": false
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T22:03:54.151175+00:00",
+  "generatedAt": "2026-09-29T19:27:24.804331+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -391,7 +391,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.770605+00:00",
+      "lastCheckedAt": "2026-09-29T19:26:48.446108+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Every day from 2 - 5 p.m., you can enjoy BOGO cookies, regular tots, and chips at Quiznos when you use the promo code SHBOGO at checkout.",
@@ -399,7 +399,13 @@
       "recurrenceLabel": "Every day",
       "timeWindow": "2–5 PM",
       "code": "SHBOGO",
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-1d8b4532fe9eba1b818c",
@@ -134373,7 +134379,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://www.instagram.com/p/Dd1-VcOoPDb/",
-      "lastCheckedAt": "2026-09-29T22:14:48.821324+00:00",
+      "lastCheckedAt": "2026-09-29T22:19:23.299542+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "FREE KFC BUCKET ALERT!! Use code KFSPEED to score a FREE bucket with a $15+ online purchase! Choose from chicken, tenders, wings or nuggets! KFC Rewards members only Code: KFSPEED Ends October 11th Participating locations LINK IN BIO @ thefreebieguy - click the link at the top of my profile and scroll to KFC FREEBIE",
@@ -134489,7 +134495,7 @@
     {
       "id": "scraped-725877f18aa9a75cdf59",
       "restaurant": "Scooter's Coffee",
-      "title": "Free drinks",
+      "title": "Free medium brewed coffee",
       "subtitle": "",
       "category": "drink",
       "tier": "unrated",
@@ -134511,17 +134517,284 @@
       "requiresApp": true,
       "requiresRewards": false,
       "sourceURL": "https://www.instagram.com/p/Dd4B67sxR6F/",
-      "lastCheckedAt": "2026-09-29T22:14:48.169714+00:00",
+      "lastCheckedAt": "2026-09-29T22:19:22.528298+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "FREE medium brewed coffee Sept. 27–29 — no purchase needed! Just download the Scooter's Coffee app and redeem the offer. Limit 1 per customer per day.",
-      "offerDetails": "Free drinks.",
+      "offerDetails": "Free medium brewed coffee.",
       "reportedDates": "Sept. 27–29",
       "reportedStartsOn": "2026-09-27",
       "reportedEndsOn": "2026-09-29",
       "redemptionReady": true,
       "requirementStates": {
         "app": "required",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-811a35ecfddea44daeb3",
+      "restaurant": "Dickey's Barbecue Pit",
+      "title": "$8.85 Build Your Own Smoke Stack",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Limit one per person per transaction"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Monday, get a Build Your Own Smoke Stack for $8.85 when you order online or in the Dickey's Barbecue Pit app. Find the offer under the Deals section; limit one per person per transaction.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
+      "lastCheckedAt": "2026-09-29T19:26:48.435204+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Monday, get a Build Your Own Smoke Stack for $8.85 when you order online or in the Dickey's Barbecue Pit app. Find the offer under the Deals section; limit one per person per transaction.",
+      "offerDetails": "$8.85 Build Your Own Smoke Stack.",
+      "recurrenceLabel": "Every Monday",
+      "detailNotes": [
+        "Every Monday, get a Build Your Own Smoke Stack for $8.85 when you order online or in the Dickey's Barbecue Pit app."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-ccd2155fa6ee79214b6b",
+      "restaurant": "Dickey's Barbecue Pit",
+      "title": "$10 10 bone-in classic wings",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "While supplies last",
+        "Offer valid while supplies last."
+      ],
+      "redemptionSteps": [
+        "Source instructions: Every Wednesday, you can get 10 bone-in classic wings for $10 at Dickey's Barbecue Pit when you order online or in app. Offer valid while supplies last.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
+      "lastCheckedAt": "2026-09-29T19:26:48.389964+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Wednesday, you can get 10 bone-in classic wings for $10 at Dickey's Barbecue Pit when you order online or in app. Offer valid while supplies last.",
+      "offerDetails": "$10 10 bone-in classic wings.",
+      "recurrenceLabel": "Every Wednesday",
+      "detailNotes": [
+        "Every Wednesday, you can get 10 bone-in classic wings for $10 at Dickey's Barbecue Pit when you order online or in app."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-da20380225d43f322102",
+      "restaurant": "Hardee's",
+      "title": "25% off drinks & sides",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Rewards membership required",
+        "Limit one redemption per registered user per day",
+        "My Rewards members",
+        "Limit one redemption per registered user per day."
+      ],
+      "redemptionSteps": [
+        "Source instructions: From 2 - 5 p.m. daily, My Rewards members can get 25% off up to four select sips, shakes, and sides at Hardee's when you order in the app or online at order.hardees.com. Eligible items include any size fountain drinks, Hand-Crafted Lemonades, Hand-Scooped Ice Cream Shakes, fries, and Apple Turnovers. Limit one redemption per registered user per day.",
+        "Use your rewards membership to access this offer.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
+      "lastCheckedAt": "2026-09-29T19:26:48.444513+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "From 2 - 5 p.m. daily, My Rewards members can get 25% off up to four select sips, shakes, and sides at Hardee's when you order in the app or online at order.hardees.com. Eligible items include any size fountain drinks, Hand-Crafted Lemonades, Hand-Scooped Ice Cream Shakes, fries, and Apple Turnovers. Limit one redemption per registered user per day.",
+      "offerDetails": "25% off drinks & sides.",
+      "eligibleItems": [
+        "any size fountain drinks",
+        "Hand-Crafted Lemonades",
+        "Hand-Scooped Ice Cream Shakes",
+        "fries",
+        "Apple Turnovers"
+      ],
+      "membershipRequirement": "Rewards membership required",
+      "recurrenceLabel": "Daily",
+      "timeWindow": "2–5 PM",
+      "detailNotes": [
+        "From 2 - 5 p.m. daily, My Rewards members can get 25% off up to four select sips, shakes, and sides at Hardee's when you order in the app or online at order.hardees.com."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-9ec9ed33c053edc9efc6",
+      "restaurant": "RA Sushi",
+      "title": "BOGO Wagyu Fried Rice",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Qualifying purchase required",
+        "Buy one Wagyu Fried Rice",
+        "Limit one offer per order",
+        "Limit one offer per order."
+      ],
+      "redemptionSteps": [
+        "Through Oct. 31, buy one Wagyu Fried Rice and get a second free at RA Sushi when you enter promo code WAGYU26O at online checkout.",
+        "Source instructions: Through Oct. 31, buy one Wagyu Fried Rice and get a second free at RA Sushi when you enter promo code WAGYU26O at online checkout. Limit one offer per order.",
+        "Buy one Wagyu Fried Rice; the second is free under this offer. Check the source for quantity and item restrictions.",
+        "Use promo code WAGYU26O as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
+      "lastCheckedAt": "2026-09-29T19:26:48.413182+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Through Oct. 31, buy one Wagyu Fried Rice and get a second free at RA Sushi when you enter promo code WAGYU26O at online checkout. Limit one offer per order.",
+      "offerDetails": "BOGO Wagyu Fried Rice.",
+      "reportedDates": "Through Oct. 31",
+      "reportedEndsOn": "2026-10-31",
+      "code": "WAGYU26O",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-eac7995148c7e8a0e932",
+      "restaurant": "Smashburger",
+      "title": "$2 off a Meal Deal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "App required — access this offer in the app.",
+        "Rewards membership required",
+        "Smash Rewards members"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Through Oct. 31, Smash Rewards members can get $2 off a Meal Deal in app at Smashburger. Meal Deal options include an All-American Smash, Deluxe Smash, or Classic Smash with fries and a 20 oz Coca-Cola.",
+        "Use your rewards membership to access this offer.",
+        "App required — access this offer in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
+      "lastCheckedAt": "2026-09-29T19:26:48.416863+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Through Oct. 31, Smash Rewards members can get $2 off a Meal Deal in app at Smashburger. Meal Deal options include an All-American Smash, Deluxe Smash, or Classic Smash with fries and a 20 oz Coca-Cola.",
+      "offerDetails": "$2 off a Meal Deal.",
+      "eligibleItems": [
+        "an All-American Smash",
+        "Deluxe Smash",
+        "or Classic Smash with fries and a 20 oz Coca-Cola"
+      ],
+      "reportedDates": "Through Oct. 31",
+      "membershipRequirement": "Rewards membership required",
+      "reportedEndsOn": "2026-10-31",
+      "detailNotes": [
+        "Through Oct. 31, Smash Rewards members can get $2 off a Meal Deal in app at Smashburger."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "required",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-57865bb2b1167bcce2b8",
+      "restaurant": "Wayback Burgers",
+      "title": "Food & drink specials",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app."
+      ],
+      "redemptionSteps": [
+        "Every Sunday from Sept. 13 - Dec. 27, get $20 off an order of $100 or more at Wayback Burgers when you enter promo code FOOTBALL20 during online or in-app checkout.",
+        "Source instructions: Every Sunday from Sept. 13 - Dec. 27, get $20 off an order of $100 or more at Wayback Burgers when you enter promo code FOOTBALL20 during online or in-app checkout.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Use promo code FOOTBALL20 as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
+      "lastCheckedAt": "2026-09-29T19:26:48.424178+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Every Sunday from Sept. 13 - Dec. 27, get $20 off an order of $100 or more at Wayback Burgers when you enter promo code FOOTBALL20 during online or in-app checkout.",
+      "offerDetails": "Food & drink specials.",
+      "reportedDates": "Sept. 13 - Dec. 27",
+      "recurrenceLabel": "Every Sunday",
+      "reportedStartsOn": "2026-09-13",
+      "reportedEndsOn": "2026-12-27",
+      "code": "FOOTBALL20",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
         "account": "unknown",
         "purchase": "unknown"
       },

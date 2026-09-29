@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-29T18:25:14.077626+00:00",
+  "generatedAt": "2026-09-29T18:51:26.640526+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -27,7 +27,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.755145+00:00",
+      "lastCheckedAt": "2026-09-29T18:50:49.592669+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Royal Perks members can get a $3.99 Whopper every Wednesday online or through the BK app.",
@@ -37,7 +37,13 @@
       "detailNotes": [
         "Royal Perks members can get a $3.99 Whopper every Wednesday online or through the BK app."
       ],
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-69fcbeb8bc6309c71af9",
@@ -60,7 +66,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.755884+00:00",
+      "lastCheckedAt": "2026-09-29T18:50:49.593576+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Get BOGO 50% off large pizzas every Tuesday at Chuck E. Cheese. Offer is for dine-in and carryout orders. Just be sure to mention \"Topping Tuesday\" to get this deal.",
@@ -72,7 +78,13 @@
         "Offer is for dine-in and carryout orders.",
         "Just be sure to mention \"Topping Tuesday\" to get this deal."
       ],
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-349827ddaa8ab46a5675",
@@ -98,7 +110,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.756140+00:00",
+      "lastCheckedAt": "2026-09-29T18:50:49.593893+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Every Saturday and Sunday in September, Cinnabon Rewards members can get a small MiniBon for $2.99 at Cinnabon. Apply the reward during checkout. Limit one per weekend.",
@@ -109,7 +121,13 @@
         "Every Saturday and Sunday in September, Cinnabon Rewards members can get a small MiniBon for $2.99 at Cinnabon.",
         "Apply the reward during checkout."
       ],
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-16089b22eff3119b8822",
@@ -136,7 +154,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.684057+00:00",
+      "lastCheckedAt": "2026-09-29T18:50:49.517765+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Every Tuesday, Cinnabon Rewards members can get $7 off any CinnaPack at Cinnabon when you order online or in app.",
@@ -147,7 +165,12 @@
         "Every Tuesday, Cinnabon Rewards members can get $7 off any CinnaPack at Cinnabon when you order online or in app."
       ],
       "redemptionReady": true,
-      "savings": "Save $7.00 · any CinnaPack; Rewards order online/app"
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-c9765c0dd7df3c7a34d6",
@@ -172,7 +195,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.706027+00:00",
+      "lastCheckedAt": "2026-09-29T18:50:49.543152+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Through Oct. 9, get $2 off a Webberoni pizza when you order total is $10 or more (including your Webberoni pizza) at Little Caesars. Enter promo code WEBBERONI during checkout. Limit one per person per day.",
@@ -183,7 +206,13 @@
       "reportedDates": "Through Oct. 9",
       "reportedEndsOn": "2026-10-09",
       "code": "WEBBERONI",
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-d7bc35a96586fe188ec1",
@@ -208,7 +237,7 @@
       "requiresApp": true,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.709420+00:00",
+      "lastCheckedAt": "2026-09-29T18:50:49.547325+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Rewards members can get free medium fries with an in-app purchase of $1 or more at McDonald's through Oct. 4.\n\nCross-checked terms: Opt in to MyMcDonald’s Rewards. Free medium fries require at least $1 in qualifying purchases before tax, once per week through October 4, 2026. Participating restaurants only; McDelivery excluded. One deal per person per visit. Estimated medium-fries value: about $3 before tax; restaurant prices vary. This is an estimate of the fries value, not the total order price or a verified price for your selected restaurant.\nOpen the fries deal in the McDonald’s app. Activate the offer by selecting Add Deal to Mobile Order when that option is available, customize your items, then choose Add to Order. Add your qualifying purchase and confirm the fries discount before paying. If the deal is missing or unavailable for your restaurant, do not assume it applies.",
@@ -220,7 +249,13 @@
         "Cross-checked 2026-09-09. Supporting sources: https://www.mcdonalds.com/us/en-us/deals.html • https://www.mcdonalds.com/us/en-us/faq/deals.html"
       ],
       "savings": "Save about $3 · with $1+ purchase",
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "required",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-499ca134626bdf2fc2e0",
@@ -393,7 +428,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.762040+00:00",
+      "lastCheckedAt": "2026-09-29T18:50:49.601448+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Every Sunday, Shake Shack is offering a FREE Chicken Shack with any purchase of $10 or more when you use promo code CHICKENSUNDAY at checkout online, in-app, or at an in-store kiosk. Offer valid through Dec. 27.",
@@ -402,7 +437,13 @@
       "recurrenceLabel": "Every Sunday",
       "reportedEndsOn": "2026-12-27",
       "code": "CHICKENSUNDAY",
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-651a906c8a154aa41b16",
@@ -427,7 +468,7 @@
       "requiresApp": true,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.763662+00:00",
+      "lastCheckedAt": "2026-09-29T18:50:49.603437+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Score a free 6-piece Nuggs at Wendy's every Wednesday when you make an in-app purchase of $5 or more.",
@@ -436,7 +477,13 @@
       "detailNotes": [
         "Score a free 6-piece Nuggs at Wendy's every Wednesday when you make an in-app purchase of $5 or more."
       ],
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "required",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-71a64eda77db828ee2cb",
@@ -467,7 +514,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-22T22:52:15.736580+00:00",
+      "lastCheckedAt": "2026-09-29T18:50:49.578792+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Through Dec. 4: Rewards members can get 50% off a Dave's Single with purchase when you enter promo code FOXBIGNOON online or in app. Offer valid once per week.",
@@ -476,7 +523,13 @@
       "membershipRequirement": "Rewards membership required",
       "reportedEndsOn": "2026-12-04",
       "code": "FOXBIGNOON",
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "required"
+      },
+      "newCustomer": false
     },
     {
       "id": "scraped-1833b013f90a9a806c7c",
@@ -3474,7 +3527,13 @@
       "detailNotes": [
         "Dunkin' Rewards members can score free coffee."
       ],
-      "redemptionReady": true
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "required",
+        "account": "required",
+        "purchase": "required"
+      },
+      "newCustomer": false
     },
     {
       "id": "312deals-107468",
@@ -134314,7 +134373,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://www.instagram.com/p/Dd1-VcOoPDb/",
-      "lastCheckedAt": "2026-09-29T18:25:14.591986+00:00",
+      "lastCheckedAt": "2026-09-29T18:51:27.489115+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "FREE KFC BUCKET ALERT!! Use code KFSPEED to score a FREE bucket with a $15+ online purchase! Choose from chicken, tenders, wings or nuggets! KFC Rewards members only Code: KFSPEED Ends October 11th Participating locations LINK IN BIO @ thefreebieguy - click the link at the top of my profile and scroll to KFC FREEBIE",
@@ -134332,6 +134391,49 @@
       "requirementStates": {
         "app": "unknown",
         "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-f76652de1a4bc2fc5512",
+      "restaurant": "Shake Shack",
+      "title": "Free single ShackBurger",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online, in the app or at a kiosk.",
+        "With a Shake Shack food and drink purchase of $10 or more from Sept",
+        "Valid online, in app, and at in-store kiosks."
+      ],
+      "redemptionSteps": [
+        "Get a free single ShackBurger with a Shake Shack food and drink purchase of $10 or more from Sept. 22 - 30 when you enter promo code BURGERTIME at checkout.",
+        "Source instructions: Get a free single ShackBurger with a Shake Shack food and drink purchase of $10 or more from Sept. 22 - 30 when you enter promo code BURGERTIME at checkout. Valid online, in app, and at in-store kiosks.",
+        "Available online, in the app or at a kiosk.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Use promo code BURGERTIME as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
+      "lastCheckedAt": "2026-09-29T18:50:49.564573+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Get a free single ShackBurger with a Shake Shack food and drink purchase of $10 or more from Sept. 22 - 30 when you enter promo code BURGERTIME at checkout. Valid online, in app, and at in-store kiosks.",
+      "offerDetails": "Free single ShackBurger.",
+      "reportedDates": "Sept. 22 - 30",
+      "reportedStartsOn": "2026-09-22",
+      "reportedEndsOn": "2026-09-30",
+      "code": "BURGERTIME",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
         "purchase": "unknown"
       },
       "newCustomer": false
@@ -162796,14 +162898,6 @@
       "match": "exact"
     },
     {
-      "address": "1235 W Lake St Chicago, IL 60607",
-      "sourceAddress": "1235 W LAKE ST",
-      "latitude": 41.88537249282454,
-      "longitude": -87.65821234045592,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "1235 W Lake St, Chicago, IL 60607",
       "sourceAddress": "1235 W LAKE ST",
       "latitude": 41.88537249282454,
@@ -163004,14 +163098,6 @@
       "match": "exact"
     },
     {
-      "address": "135 West Madison St., Chicago, IL 60602",
-      "sourceAddress": "135 W MADISON ST",
-      "latitude": 41.88185674363783,
-      "longitude": -87.63189616155178,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "1351 W ADDISON ST LL-1, Chicago, IL 60613",
       "sourceAddress": "1351 W ADDISON ST",
       "latitude": 41.94696420186995,
@@ -163164,14 +163250,6 @@
       "match": "exact"
     },
     {
-      "address": "1415 W. Randolph St. Chicago IL 60607",
-      "sourceAddress": "1415 W RANDOLPH ST",
-      "latitude": 41.884048725151324,
-      "longitude": -87.66305613344618,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "1417 W FULLERTON AVE 1ST, Chicago, IL 60614",
       "sourceAddress": "1417 W FULLERTON AVE",
       "latitude": 41.925097198369585,
@@ -163232,14 +163310,6 @@
       "sourceAddress": "149 W KINZIE ST",
       "latitude": 41.88907283800213,
       "longitude": -87.6329504665191,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "15 w division st",
-      "sourceAddress": "15 W DIVISION ST",
-      "latitude": 41.90382087918895,
-      "longitude": -87.62932852980815,
       "checkedAt": "2026-09-28T16:30:08Z",
       "match": "exact"
     },
@@ -163412,14 +163482,6 @@
       "match": "exact"
     },
     {
-      "address": "155 N. Wacker, Chicago, IL 60606",
-      "sourceAddress": "155 N WACKER DR",
-      "latitude": 41.88461561705127,
-      "longitude": -87.63668235780031,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "155 W VAN BUREN ST MEZZ & 1, Chicago, IL 60605",
       "sourceAddress": "155 W VAN BUREN ST",
       "latitude": 41.87675970566223,
@@ -163437,14 +163499,6 @@
     },
     {
       "address": "1559 N MILWAUKEE AVE 1ST, Chicago, IL 60622",
-      "sourceAddress": "1559 N MILWAUKEE AVE",
-      "latitude": 41.90992611156009,
-      "longitude": -87.67653435662255,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "1559 N Milwaukee Ave, Chicago, IL 60622",
       "sourceAddress": "1559 N MILWAUKEE AVE",
       "latitude": 41.90992611156009,
       "longitude": -87.67653435662255,
@@ -163620,14 +163674,6 @@
       "match": "exact"
     },
     {
-      "address": "1727 W 18th St, Chicago, IL 60608",
-      "sourceAddress": "1727 W 18TH ST",
-      "latitude": 41.857631417796846,
-      "longitude": -87.66984672316963,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "1746 W Chicago Ave, Chicago, IL 60622",
       "sourceAddress": "1746 W CHICAGO AVE",
       "latitude": 41.89622293315,
@@ -163704,14 +163750,6 @@
       "sourceAddress": "1800 N HALSTED ST",
       "latitude": 41.913961512931,
       "longitude": -87.648658606993,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "1800 S Carpenter Street Chicago, IL 60608",
-      "sourceAddress": "1800 S CARPENTER ST",
-      "latitude": 41.8579631274509,
-      "longitude": -87.6533577347641,
       "checkedAt": "2026-09-28T16:30:08Z",
       "match": "exact"
     },
@@ -164100,14 +164138,6 @@
       "match": "exact"
     },
     {
-      "address": "201 North Clinton Street Chicago, IL 60661",
-      "sourceAddress": "201 N CLINTON ST",
-      "latitude": 41.885752607166296,
-      "longitude": -87.64116457925334,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "201 North Clinton Street, Chicago, IL 60661",
       "sourceAddress": "201 N CLINTON ST",
       "latitude": 41.885752607166296,
@@ -164412,14 +164442,6 @@
       "match": "exact"
     },
     {
-      "address": "2142 N Clybourn Ave",
-      "sourceAddress": "2142 N CLYBOURN AVE",
-      "latitude": 41.920080499210265,
-      "longitude": -87.66248016891137,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "2147 W Roscoe St, Chicago, IL 60618",
       "sourceAddress": "2147 W ROSCOE ST",
       "latitude": 41.94305483117927,
@@ -164516,14 +164538,6 @@
       "match": "exact"
     },
     {
-      "address": "219 N. Green Street Chicago, IL",
-      "sourceAddress": "219 N GREEN ST",
-      "latitude": 41.88628211684129,
-      "longitude": -87.64851477973815,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "2200 N MILWAUKEE AVE 1, Chicago, IL 60647",
       "sourceAddress": "2200 N MILWAUKEE AVE",
       "latitude": 41.920684637468,
@@ -164581,14 +164595,6 @@
     },
     {
       "address": "222 N LA SALLE ST 1-2, Chicago, IL 60601",
-      "sourceAddress": "222 N LA SALLE ST",
-      "latitude": 41.886351604488574,
-      "longitude": -87.63261394551859,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "222 North LaSalle St, Chicago, IL 60601",
       "sourceAddress": "222 N LA SALLE ST",
       "latitude": 41.886351604488574,
       "longitude": -87.63261394551859,
@@ -164684,14 +164690,6 @@
       "match": "exact"
     },
     {
-      "address": "230 S. Wabash",
-      "sourceAddress": "230 S WABASH AVE",
-      "latitude": 41.878443743048,
-      "longitude": -87.626489646561,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "230 W ERIE ST, Chicago, IL 60654",
       "sourceAddress": "230 W ERIE ST",
       "latitude": 41.89408271775828,
@@ -164709,14 +164707,6 @@
     },
     {
       "address": "2300 N LINCOLN PARK WEST, Chicago, IL 60614",
-      "sourceAddress": "2300 N LINCOLN PARK W",
-      "latitude": 41.92390845485592,
-      "longitude": -87.63666316560742,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "2300 N Lincoln Park W",
       "sourceAddress": "2300 N LINCOLN PARK W",
       "latitude": 41.92390845485592,
       "longitude": -87.63666316560742,
@@ -165876,26 +165866,10 @@
       "match": "exact"
     },
     {
-      "address": "3201 N Halsted St",
-      "sourceAddress": "3201 N HALSTED ST",
-      "latitude": 41.94003766235826,
-      "longitude": -87.64912125109214,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "3201 N Halsted St, Chicago, IL",
       "sourceAddress": "3201 N HALSTED ST",
       "latitude": 41.94003766235826,
       "longitude": -87.64912125109214,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "3201 W Armitage Ave, Chicago 60647",
-      "sourceAddress": "3201 W ARMITAGE AVE",
-      "latitude": 41.91729149564559,
-      "longitude": -87.70705160149535,
       "checkedAt": "2026-09-28T16:30:08Z",
       "match": "exact"
     },
@@ -166332,14 +166306,6 @@
       "match": "exact"
     },
     {
-      "address": "3458 N Clark St",
-      "sourceAddress": "3458 N CLARK ST",
-      "latitude": 41.94493958323155,
-      "longitude": -87.65486419395602,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "3458 N LINCOLN AVE 1, Chicago, IL 60657",
       "sourceAddress": "3458 N LINCOLN AVE",
       "latitude": 41.94480001870207,
@@ -166400,14 +166366,6 @@
       "sourceAddress": "3485 N CLARK ST",
       "latitude": 41.94573785128392,
       "longitude": -87.65516503901405,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "350 N State St",
-      "sourceAddress": "350 N STATE ST",
-      "latitude": 41.888895927694364,
-      "longitude": -87.62820008276263,
       "checkedAt": "2026-09-28T16:30:08Z",
       "match": "exact"
     },
@@ -166956,14 +166914,6 @@
       "match": "exact"
     },
     {
-      "address": "4038 North Milwaukee Avenue, Chicago, IL, 60641",
-      "sourceAddress": "4038 N MILWAUKEE AVE",
-      "latitude": 41.95407051177266,
-      "longitude": -87.74863162872255,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "405 N DEARBORN ST 1 AND MEZZ, Chicago, IL 60654",
       "sourceAddress": "405 N DEARBORN ST",
       "latitude": 41.889419804559985,
@@ -167204,26 +167154,10 @@
       "match": "exact"
     },
     {
-      "address": "4415-4419 W MONTROSE AVE 1, Chicago, IL 60641",
-      "sourceAddress": "4415 W MONTROSE AVE",
-      "latitude": 41.9607110119789,
-      "longitude": -87.73912092293949,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "4416 N MILWAUKEE AVE 1ST, Chicago, IL 60630",
       "sourceAddress": "4416 N MILWAUKEE AVE",
       "latitude": 41.96105283168443,
       "longitude": -87.75501546564084,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "4419 W Montrose Ave Chicago IL 60641",
-      "sourceAddress": "4419 W MONTROSE AVE",
-      "latitude": 41.960568750261,
-      "longitude": -87.739366808787,
       "checkedAt": "2026-09-28T16:30:08Z",
       "match": "exact"
     },
@@ -167804,14 +167738,6 @@
       "match": "exact"
     },
     {
-      "address": "5401 N Broadway Ave",
-      "sourceAddress": "5401 N BROADWAY AVE",
-      "latitude": 41.980065199084535,
-      "longitude": -87.65982411288756,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "5401 N Clark St, Chicago, IL 60640",
       "sourceAddress": "5401 N CLARK ST",
       "latitude": 41.9798953557881,
@@ -167920,14 +167846,6 @@
       "sourceAddress": "5540 N LINCOLN AVE",
       "latitude": 41.98222979264743,
       "longitude": -87.69383949704255,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "5553 North Clark Street",
-      "sourceAddress": "5553 N CLARK ST",
-      "latitude": 41.98327949189041,
-      "longitude": -87.66856310731372,
       "checkedAt": "2026-09-28T16:30:08Z",
       "match": "exact"
     },
@@ -168332,14 +168250,6 @@
       "match": "exact"
     },
     {
-      "address": "6341 North Clark Street",
-      "sourceAddress": "6341 N CLARK ST",
-      "latitude": 41.997636459769,
-      "longitude": -87.670142849756,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "6341 North Clark Street, Chicago, IL",
       "sourceAddress": "6341 N CLARK ST",
       "latitude": 41.997636459769,
@@ -168676,14 +168586,6 @@
       "match": "exact"
     },
     {
-      "address": "702 W. Fulton Market Chicago, IL 60661",
-      "sourceAddress": "702 W FULTON ST",
-      "latitude": 41.886911350737506,
-      "longitude": -87.64586376051244,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "7031 S Western Ave, Chicago, IL 60636",
       "sourceAddress": "7031 S WESTERN AVE",
       "latitude": 41.765601198082,
@@ -168940,14 +168842,6 @@
       "match": "nearest"
     },
     {
-      "address": "81 East Wacker Drive, Chicago, IL",
-      "sourceAddress": "81 E WACKER DR",
-      "latitude": 41.88801985580601,
-      "longitude": -87.6252556757758,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "810 W Diversey Pkwy, Chicago, IL 60614",
       "sourceAddress": "810 W DIVERSEY PKWY",
       "latitude": 41.93281943965434,
@@ -169020,14 +168914,6 @@
       "match": "nearest"
     },
     {
-      "address": "838 W Kinzie St",
-      "sourceAddress": "838 W KINZIE ST",
-      "latitude": 41.88913510926819,
-      "longitude": -87.64905166297672,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
       "address": "838 W RANDOLPH ST BASEMENT, FLOORS 1&2, Chicago, IL 60607",
       "sourceAddress": "838 W RANDOLPH ST",
       "latitude": 41.88449216404889,
@@ -169037,14 +168923,6 @@
     },
     {
       "address": "841 W Randolph St, Chicago, IL 60607",
-      "sourceAddress": "841 W RANDOLPH ST",
-      "latitude": 41.88427122892852,
-      "longitude": -87.6490087243122,
-      "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "841 W Randolph Street, Chicago, IL 60607",
       "sourceAddress": "841 W RANDOLPH ST",
       "latitude": 41.88427122892852,
       "longitude": -87.6490087243122,

@@ -134288,48 +134288,6 @@
           "sourceCheckedAt": "2026-09-23T05:52:47.636799+00:00"
         }
       ]
-    },
-    {
-      "id": "scraped-352c78d3271f65f3b74a",
-      "restaurant": "Dunkin'",
-      "title": "Free medium hot or iced coffee",
-      "subtitle": "",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "With purchase in the app for reward members krispy kreme: get a free small or medium coffee with any purchase when you order in-store tim hortons: free any size coffee available in the app (no purchase necessary) paris baguette: free medium coffee with purchase for pb reward members scooter's: free medium brewed coffee in the app from sept 27-29(limit",
-        "Rewards membership required"
-      ],
-      "redemptionSteps": [
-        "Source instructions: ️ Dunkin: Get a free medium hot or iced coffee with purchase in the app for reward members Krispy Kreme: Get a FREE small or medium coffee with any purchase when you order in-store Tim Hortons: FREE any size coffee available in the app (no purchase necessary) Paris Baguette: FREE medium coffee with purchase for pb reward members Scooter's: FREE medium brewed coffee in the app from Sept 27-29(limit",
-        "Use your rewards membership to access this offer.",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://www.instagram.com/p/Dd0MATAAKpn/",
-      "lastCheckedAt": "2026-09-29T17:20:47.424241+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "️ Dunkin: Get a free medium hot or iced coffee with purchase in the app for reward members Krispy Kreme: Get a FREE small or medium coffee with any purchase when you order in-store Tim Hortons: FREE any size coffee available in the app (no purchase necessary) Paris Baguette: FREE medium coffee with purchase for pb reward members Scooter's: FREE medium brewed coffee in the app from Sept 27-29(limit",
-      "offerDetails": "Free medium hot or iced coffee.",
-      "reportedDates": "Sept 27-29",
-      "reportedStartsOn": "2026-09-27",
-      "reportedEndsOn": "2026-09-29",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "required",
-        "account": "required",
-        "purchase": "required"
-      },
-      "newCustomer": false
     }
   ],
   "happyHours": [

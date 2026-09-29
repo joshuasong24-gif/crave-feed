@@ -134437,6 +134437,54 @@
         "purchase": "unknown"
       },
       "newCustomer": false
+    },
+    {
+      "id": "scraped-96cf17d46064e6cd7865",
+      "restaurant": "Wendy's",
+      "title": "Five Jr. Frosty coupons for $1",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Qualifying purchase required",
+        "While supplies last",
+        "Buy a $1 Boo! Book at a participating Wendy's by November 1, 2026.",
+        "Present each physical Jr. Frosty coupon in person by December 31, 2026; no additional purchase required."
+      ],
+      "redemptionSteps": [
+        "No additional purchase is needed to redeem a Jr. Frosty coupon.",
+        "Source instructions: Buy a $1 Wendy's Boo! Books coupon book in-restaurant at participating U.S. Wendy's locations August 31 through November 1, 2026, while supplies last. Each book contains five coupons for a free Jr. Frosty treat and one $1.99 Kids' Meal with-purchase coupon. Present your coupon during checkout in person at a Wendy's restaurant by December 31, 2026 to get one free Jr. Frosty. No additional purchase is needed to redeem a Jr. Frosty coupon. Coupons are valid only for orders placed in person and cannot be combined with other offers.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.wendys.com/adoption/frosty-boo-books",
+      "lastCheckedAt": "2026-09-29T19:52:48.915698+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Buy a $1 Wendy's Boo! Books coupon book in-restaurant at participating U.S. Wendy's locations August 31 through November 1, 2026, while supplies last. Each book contains five coupons for a free Jr. Frosty treat and one $1.99 Kids' Meal with-purchase coupon. Present your coupon during checkout in person at a Wendy's restaurant by December 31, 2026 to get one free Jr. Frosty. No additional purchase is needed to redeem a Jr. Frosty coupon. Coupons are valid only for orders placed in person and cannot be combined with other offers.",
+      "offerDetails": "Five Jr. Frosty coupons for $1.",
+      "reportedDates": "August 31-November 1, 2026",
+      "reportedStartsOn": "2026-08-31",
+      "reportedEndsOn": "2026-11-01",
+      "detailNotes": [
+        "Buy a $1 Wendy's Boo!",
+        "Books coupon book in-restaurant at participating U.S.",
+        "Wendy's locations August 31 through November 1, 2026, while supplies last.",
+        "Present your coupon during checkout in person at a Wendy's restaurant by December 31, 2026 to get one free Jr. Frosty.",
+        "Sources reviewed 2026-09-29: https://www.wendys.com/adoption/frosty-boo-books • https://www.instagram.com/p/Dd373Jkmsif/"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
     }
   ],
   "happyHours": [

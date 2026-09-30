@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T03:05:41.455721+00:00",
+  "generatedAt": "2026-09-30T04:13:25.826862+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -134379,7 +134379,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://www.instagram.com/p/Dd1-VcOoPDb/",
-      "lastCheckedAt": "2026-09-30T03:05:42.318381+00:00",
+      "lastCheckedAt": "2026-09-30T04:13:26.773578+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "FREE KFC BUCKET ALERT!! Use code KFSPEED to score a FREE bucket with a $15+ online purchase! Choose from chicken, tenders, wings or nuggets! KFC Rewards members only Code: KFSPEED Ends October 11th Participating locations LINK IN BIO @ thefreebieguy - click the link at the top of my profile and scroll to KFC FREEBIE",
@@ -134823,7 +134823,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.instagram.com/p/Dd0MATAAKpn/",
-      "lastCheckedAt": "2026-09-30T03:05:41.986371+00:00",
+      "lastCheckedAt": "2026-09-30T04:13:26.428155+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Offer date: September 29th. Krispy Kreme: Get a FREE small or medium coffee with any purchase when you order in-store",
@@ -134866,7 +134866,7 @@
       "requiresApp": true,
       "requiresRewards": false,
       "sourceURL": "https://www.instagram.com/p/Dd1fwr9lUa8/",
-      "lastCheckedAt": "2026-09-30T03:05:43.110722+00:00",
+      "lastCheckedAt": "2026-09-30T04:13:27.586202+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Offer date: Sep 29. Circle K: Free medium iced or hot coffe in app - no purchase required.",
@@ -134926,6 +134926,46 @@
         "app": "unknown",
         "account": "required",
         "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-db22b934ea5109095541",
+      "restaurant": "Einstein Bros. Bagels",
+      "title": "Free any size iced coffee",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "With purchase (mention offer in-store)"
+      ],
+      "redemptionSteps": [
+        "Source instructions: Offer date: Sep 29. Einstein Bros: Free any size iced coffee with purchase (mention offer in-store)",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/Dd1fwr9lUa8/",
+      "lastCheckedAt": "2026-09-30T04:13:27.587383+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Offer date: Sep 29. Einstein Bros: Free any size iced coffee with purchase (mention offer in-store)",
+      "offerDetails": "Free any size iced coffee.",
+      "reportedDates": "Sep 29",
+      "reportedStartsOn": "2026-09-29",
+      "reportedEndsOn": "2026-09-29",
+      "detailNotes": [
+        "Offer date: Sep 29."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
       },
       "newCustomer": false
     }

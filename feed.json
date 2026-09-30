@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T01:56:42.379466+00:00",
+  "generatedAt": "2026-09-30T03:05:41.455721+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -134379,7 +134379,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://www.instagram.com/p/Dd1-VcOoPDb/",
-      "lastCheckedAt": "2026-09-30T02:11:51.118604+00:00",
+      "lastCheckedAt": "2026-09-30T03:05:42.318381+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "FREE KFC BUCKET ALERT!! Use code KFSPEED to score a FREE bucket with a $15+ online purchase! Choose from chicken, tenders, wings or nuggets! KFC Rewards members only Code: KFSPEED Ends October 11th Participating locations LINK IN BIO @ thefreebieguy - click the link at the top of my profile and scroll to KFC FREEBIE",
@@ -134517,7 +134517,7 @@
       "requiresApp": true,
       "requiresRewards": false,
       "sourceURL": "https://www.instagram.com/p/Dd4B67sxR6F/",
-      "lastCheckedAt": "2026-09-30T02:11:50.303410+00:00",
+      "lastCheckedAt": "2026-09-30T03:05:41.528661+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "FREE medium brewed coffee Sept. 27–29 — no purchase needed! Just download the Scooter's Coffee app and redeem the offer. Limit 1 per customer per day.",
@@ -134810,7 +134810,8 @@
       "status": "unconfirmed",
       "timezone": "UTC",
       "requirements": [
-        "With any purchase when you order in-store"
+        "With any purchase when you order in-store",
+        "WITH in-shop purchase"
       ],
       "redemptionSteps": [
         "Source instructions: Offer date: September 29th. Krispy Kreme: Get a FREE small or medium coffee with any purchase when you order in-store",
@@ -134822,7 +134823,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.instagram.com/p/Dd0MATAAKpn/",
-      "lastCheckedAt": "2026-09-30T02:11:50.781420+00:00",
+      "lastCheckedAt": "2026-09-30T03:05:41.986371+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Offer date: September 29th. Krispy Kreme: Get a FREE small or medium coffee with any purchase when you order in-store",
@@ -134831,7 +134832,9 @@
       "reportedStartsOn": "2026-09-29",
       "reportedEndsOn": "2026-09-29",
       "detailNotes": [
-        "Offer date: September 29th."
+        "Offer date: September 29th.",
+        "Shared campaign terms: Offer date: SEPTEMBER 29. Krispy Kreme: FREE small/medium coffee WITH in-shop purchase.",
+        "Corroborating Instagram posts: https://www.instagram.com/p/Dd2ox__DNmX/"
       ],
       "redemptionReady": true,
       "requirementStates": {
@@ -134863,7 +134866,7 @@
       "requiresApp": true,
       "requiresRewards": false,
       "sourceURL": "https://www.instagram.com/p/Dd1fwr9lUa8/",
-      "lastCheckedAt": "2026-09-30T02:11:51.918297+00:00",
+      "lastCheckedAt": "2026-09-30T03:05:43.110722+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Offer date: Sep 29. Circle K: Free medium iced or hot coffe in app - no purchase required.",
@@ -134879,6 +134882,50 @@
         "app": "required",
         "account": "unknown",
         "purchase": "not_required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-c65dcbb5affca5f62ef0",
+      "restaurant": "Cinnabon",
+      "title": "$1 Classic Roll",
+      "subtitle": "",
+      "category": "dessert",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Rewards membership required",
+        "Participating locations only",
+        "Cinnabon Rewards members"
+      ],
+      "redemptionSteps": [
+        "Source instructions: On October 4, 2026, Cinnabon Rewards members can enjoy a Classic Roll for $1, all day. The offer is available in-bakery at participating locations only.",
+        "Use your rewards membership to access this offer.",
+        "Redeem in store as described in the source terms; check that your location accepts the offer.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.cinnabon.com/newsroom/cinnabon-ncrd",
+      "lastCheckedAt": "2026-09-30T02:34:11+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "On October 4, 2026, Cinnabon Rewards members can enjoy a Classic Roll for $1, all day. The offer is available in-bakery at participating locations only.",
+      "offerDetails": "$1 Classic Roll.",
+      "reportedDates": "October 4, 2026",
+      "membershipRequirement": "Rewards membership required",
+      "reportedStartsOn": "2026-10-04",
+      "reportedEndsOn": "2026-10-04",
+      "detailNotes": [
+        "On October 4, 2026, Cinnabon Rewards members can enjoy a Classic Roll for $1, all day."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
       },
       "newCustomer": false
     }

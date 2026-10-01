@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-30T19:34:18.483571+00:00",
+  "generatedAt": "2026-10-01T17:41:32.720591+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -83,49 +83,6 @@
         "app": "unknown",
         "account": "unknown",
         "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-349827ddaa8ab46a5675",
-      "restaurant": "Cinnabon",
-      "title": "$2.99 Small MiniBon",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Rewards membership required",
-        "Limit one per weekend",
-        "Cinnabon Rewards members",
-        "Limit one per weekend."
-      ],
-      "redemptionSteps": [
-        "Source instructions: Every Saturday and Sunday in September, Cinnabon Rewards members can get a small MiniBon for $2.99 at Cinnabon. Apply the reward during checkout. Limit one per weekend.",
-        "Use your rewards membership to access this offer.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-30T19:33:39.957477+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Every Saturday and Sunday in September, Cinnabon Rewards members can get a small MiniBon for $2.99 at Cinnabon. Apply the reward during checkout. Limit one per weekend.",
-      "offerDetails": "$2.99 Small MiniBon.",
-      "membershipRequirement": "Rewards membership required",
-      "recurrenceLabel": "Every Saturday and Sunday",
-      "detailNotes": [
-        "Every Saturday and Sunday in September, Cinnabon Rewards members can get a small MiniBon for $2.99 at Cinnabon.",
-        "Apply the reward during checkout."
-      ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "required",
-        "purchase": "unknown"
       },
       "newCustomer": false
     },
@@ -325,47 +282,6 @@
       "detailNotes": [
         "$2 breakfast sandwich deal in the app through 10/4/26"
       ],
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-4fedf223d66be18fbc63",
-      "restaurant": "Peet's Coffee",
-      "title": "$30 Cold Brew Pass",
-      "subtitle": "",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Rewards membership required",
-        "Qualifying purchase required",
-        "Buy a $30 Cold Brew Pass from Peet's Coffee",
-        "Peetnik Rewards members",
-        "Offer valid through Sept. 30.",
-        "Peetnik Rewards membership required. Buy the pass online at peets.com; it runs 30 days for $30 and includes one cold brew per day, plus 2x bonus rewards points on orders with warm food or baked-good add-ons."
-      ],
-      "redemptionSteps": [
-        "Sign in as a Peetnik Rewards member and buy the Cold Brew Pass online at peets.com.",
-        "Show your Peetnik Rewards account in the Peet's app or online order to claim one cold brew per day for 30 days."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-20T16:46:53.050973+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Peetnik Rewards members can buy a $30 Cold Brew Pass from Peet's Coffee and get one free medium Cold Brew per day for 30 consecutive days. The pass also rewards 2X bonus points each time you order a warm food or pastry item throughout the month. Offer valid through Sept. 30.\n\nCross-checked terms: Peetnik Rewards membership required. Buy the pass online at peets.com; it runs 30 days for $30 and includes one cold brew per day, plus 2x bonus rewards points on orders with warm food or baked-good add-ons.\nSign in as a Peetnik Rewards member and buy the Cold Brew Pass online at peets.com. Show your Peetnik Rewards account in the Peet's app or online order to claim one cold brew per day for 30 days.",
-      "offerDetails": "$30 Cold Brew Pass.",
-      "reportedDates": "through Sept. 30",
-      "membershipRequirement": "Rewards membership required",
-      "reportedEndsOn": "2026-09-30",
-      "detailNotes": [
-        "Peetnik Rewards members can buy a $30 Cold Brew Pass from Peet's Coffee and get one free medium Cold Brew per day for 30 consecutive days.",
-        "The pass also rewards 2X bonus points each time you order a warm food or pastry item throughout the month.",
-        "Cross-checked 2026-09-13. Supporting sources: https://www.peets.com/"
-      ],
-      "savings": "30 daily cold brews for $30 — $1 each",
       "redemptionReady": true
     },
     {
@@ -7081,61 +6997,6 @@
           "sourceCheckedAt": "2026-09-23T05:51:47.484703+00:00"
         }
       ]
-    },
-    {
-      "id": "312deals-107093",
-      "restaurant": "Fogo De Chao Churrascaria (Chicago)",
-      "title": "Silver Oak Wine Dinner",
-      "subtitle": "Silver Oak Wine Dinner",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Reservation required, limited capacity"
-      ],
-      "redemptionSteps": [
-        "Four-course Churrasco menu paired with premium Silver Oak wines on Wednesday September 30th"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://fogodechao.com/location/chicago/",
-      "lastCheckedAt": "2026-09-23T05:25:59.942069+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Silver Oak Wine Dinner\nFour-course Churrasco menu paired with premium Silver Oak wines on Wednesday September 30th\nFour-course chef-curated Churrasco menu\nSilver Oak wine pairings\nReservation required, limited capacity",
-      "locationDetails": "661 N LA SALLE DR, Chicago, IL 60610",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:25:59.942069+00:00",
-        "validUntil": "2026-09-30T05:25:59.942069+00:00",
-        "sourceURLs": [
-          "https://fogodechao.com/location/chicago/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Wednesday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "event_driven",
-        "days": [
-          3
-        ],
-        "allDay": false
-      },
-      "reportedStartsOn": "2026-09-30",
-      "reportedEndsOn": "2026-09-30",
-      "eventCondition": "Four-course Churrasco menu paired with premium Silver Oak wines on Wednesday September 30th",
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
     },
     {
       "id": "312deals-106209",
@@ -17250,65 +17111,6 @@
           "sourceCheckedAt": "2026-09-23T05:50:39.851220+00:00"
         }
       ]
-    },
-    {
-      "id": "312deals-91586",
-      "restaurant": "Lil Ba-Ba-Reeba!",
-      "title": "Reported restaurant special",
-      "subtitle": "86 Hunger Campaign — Ibérico Ham Croquetas",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Dine-in only; available during September only; portion of proceeds supports Greater Chicago Food Depository's 86 Hunger Campaign"
-      ],
-      "redemptionSteps": [
-        "Order the Ibérico Ham Croquetas when dining in during September to support the Greater Chicago Food Depository's 86 Hunger Campaign for Hunger Action Month."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.lilbabareeba.com/events-offers",
-      "lastCheckedAt": "2026-09-23T05:50:39.851220+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "86 Hunger Campaign — Ibérico Ham Croquetas\nOrder the Ibérico Ham Croquetas when dining in during September to support the Greater Chicago Food Depository's 86 Hunger Campaign for Hunger Action Month.\nIbérico Ham Croquetas (charitable promotion)\nDine-in only; available during September only; portion of proceeds supports Greater Chicago Food Depository's 86 Hunger Campaign",
-      "locationDetails": "441 N Clark St, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:50:39.851220+00:00",
-        "validUntil": "2026-09-30T05:50:39.851220+00:00",
-        "sourceURLs": [
-          "https://www.lilbabareeba.com/events-offers"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "River North",
-        "kind": "seasonal_lto",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": false
-      },
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
     },
     {
       "id": "312deals-7946",
@@ -102971,66 +102773,6 @@
       ]
     },
     {
-      "id": "312deals-106133",
-      "restaurant": "Dunkin' Baskin",
-      "title": "Reported restaurant special",
-      "subtitle": "$5 Off Cake $35+ – Rewards Member Birthday Deal",
-      "category": "dessert",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Must be a Baskin-Robbins Rewards® member. Valid on cake purchases $35+ pre-tax. Single-use. Expires 9/30/2026. Exclusions apply. Redeem via BR App."
-      ],
-      "redemptionSteps": [
-        "Baskin-Robbins Rewards® members save $5 on a cake purchase of $35 or more. Offer expires 9/30/2026."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://www.baskinrobbins.com/?utm_source=google&utm_medium=organic&utm_campaign=Yext",
-      "lastCheckedAt": "2026-09-23T05:51:23.673110+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "$5 Off Cake $35+ – Rewards Member Birthday Deal\nBaskin-Robbins Rewards® members save $5 on a cake purchase of $35 or more. Offer expires 9/30/2026.\n$5 off Cake purchase of $35 or more (pre-tax)\nMust be a Baskin-Robbins Rewards® member. Valid on cake purchases $35+ pre-tax. Single-use. Expires 9/30/2026. Exclusions apply. Redeem via BR App.",
-      "locationDetails": "2400 W 24TH ST, CHICAGO, IL 60608",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:51:23.673110+00:00",
-        "validUntil": "2026-09-30T05:51:23.673110+00:00",
-        "sourceURLs": [
-          "https://www.baskinrobbins.com/?utm_source=google&utm_medium=organic&utm_campaign=Yext"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Pilsen",
-        "kind": "loyalty_reward",
-        "days": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "allDay": false,
-        "isChain": true
-      },
-      "reportedEndsOn": "2026-09-30",
-      "requirementStates": {
-        "app": "required",
-        "account": "required",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "312deals-568",
       "restaurant": "Smack Dab Chicago",
       "title": "Monthly Community Meal",
@@ -134351,49 +134093,6 @@
       "requirementStates": {
         "app": "unknown",
         "account": "required",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-f76652de1a4bc2fc5512",
-      "restaurant": "Shake Shack",
-      "title": "Free single ShackBurger",
-      "subtitle": "",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online, in the app or at a kiosk.",
-        "With a Shake Shack food and drink purchase of $10 or more from Sept",
-        "Valid online, in app, and at in-store kiosks."
-      ],
-      "redemptionSteps": [
-        "Get a free single ShackBurger with a Shake Shack food and drink purchase of $10 or more from Sept. 22 - 30 when you enter promo code BURGERTIME at checkout.",
-        "Source instructions: Get a free single ShackBurger with a Shake Shack food and drink purchase of $10 or more from Sept. 22 - 30 when you enter promo code BURGERTIME at checkout. Valid online, in app, and at in-store kiosks.",
-        "Available online, in the app or at a kiosk.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Use promo code BURGERTIME as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-30T19:33:39.914234+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Get a free single ShackBurger with a Shake Shack food and drink purchase of $10 or more from Sept. 22 - 30 when you enter promo code BURGERTIME at checkout. Valid online, in app, and at in-store kiosks.",
-      "offerDetails": "Free single ShackBurger.",
-      "reportedDates": "Sept. 22 - 30",
-      "reportedStartsOn": "2026-09-22",
-      "reportedEndsOn": "2026-09-30",
-      "code": "BURGERTIME",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
         "purchase": "unknown"
       },
       "newCustomer": false

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-04T18:16:40.613344+00:00",
+  "generatedAt": "2026-10-05T13:03:01.445460+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -172,49 +172,6 @@
       "newCustomer": false
     },
     {
-      "id": "scraped-d7bc35a96586fe188ec1",
-      "restaurant": "McDonald's",
-      "title": "Free medium fries",
-      "subtitle": "",
-      "category": "side",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "Rewards membership required",
-        "With an in-app purchase of $1 or more at McDonald's through Oct",
-        "Opt in to MyMcDonald’s Rewards. Free medium fries require at least $1 in qualifying purchases before tax, once per week through October 4, 2026. Participating restaurants only; McDelivery excluded. One deal per person per visit. Estimated medium-fries value: about $3 before tax; restaurant prices vary. This is an estimate of the fries value, not the total order price or a verified price for your selected restaurant."
-      ],
-      "redemptionSteps": [
-        "Open the fries deal in the McDonald’s app. Activate the offer by selecting Add Deal to Mobile Order when that option is available, customize your items, then choose Add to Order.",
-        "Add your qualifying purchase and confirm the fries discount before paying. If the deal is missing or unavailable for your restaurant, do not assume it applies."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-09-30T19:33:39.888400+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Rewards members can get free medium fries with an in-app purchase of $1 or more at McDonald's through Oct. 4.\n\nCross-checked terms: Opt in to MyMcDonald’s Rewards. Free medium fries require at least $1 in qualifying purchases before tax, once per week through October 4, 2026. Participating restaurants only; McDelivery excluded. One deal per person per visit. Estimated medium-fries value: about $3 before tax; restaurant prices vary. This is an estimate of the fries value, not the total order price or a verified price for your selected restaurant.\nOpen the fries deal in the McDonald’s app. Activate the offer by selecting Add Deal to Mobile Order when that option is available, customize your items, then choose Add to Order. Add your qualifying purchase and confirm the fries discount before paying. If the deal is missing or unavailable for your restaurant, do not assume it applies.",
-      "offerDetails": "Free medium fries.",
-      "reportedDates": "through Oct. 4",
-      "membershipRequirement": "Rewards membership required",
-      "reportedEndsOn": "2026-10-04",
-      "detailNotes": [
-        "Cross-checked 2026-09-09. Supporting sources: https://www.mcdonalds.com/us/en-us/deals.html • https://www.mcdonalds.com/us/en-us/faq/deals.html"
-      ],
-      "savings": "Save about $3 · with $1+ purchase",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "required",
-        "account": "required",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "scraped-499ca134626bdf2fc2e0",
       "restaurant": "McDonald's",
       "title": "Free Double Cheeseburger",
@@ -248,40 +205,6 @@
       "fullTerms": "Here are some of the best ones: McDonald's: FREE Double Cheeseburger with a $1+ app purchase Burger King: FREE Bacon Cheeseburger with a $3+ purchase + Royal Perks Smashburger: Any single burger for $1 with an in-app order Wayback Burgers: Classic burgers for $3.50 Farmer Boys: $3.99 Big Cheeseburger for VIF members Applebee's: Cheeseburger + fries for $8.99 Wendy's: FREE Baconator with a $20+ pur",
       "offerDetails": "Free Double Cheeseburger.",
       "reportedStartsOn": "2026-09-15",
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-c2110b768d73a4f68867",
-      "restaurant": "McDonald's",
-      "title": "$2 breakfast sandwich",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app."
-      ],
-      "redemptionSteps": [
-        "Source instructions: $2 breakfast sandwich deal in the app through 10/4/26",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://www.brandeating.com/p/current-menu-promotions.html",
-      "lastCheckedAt": "2026-09-22T22:52:12.344713+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "$2 breakfast sandwich deal in the app through 10/4/26",
-      "offerDetails": "$2 breakfast sandwich.",
-      "reportedDates": "10/4/26",
-      "reportedEndsOn": "2026-10-04",
-      "detailNotes": [
-        "$2 breakfast sandwich deal in the app through 10/4/26"
-      ],
       "redemptionReady": true
     },
     {
@@ -9443,72 +9366,6 @@
       ]
     },
     {
-      "id": "312deals-106598",
-      "restaurant": "Clover Lincoln Park",
-      "title": "Bears vs. Jets Watch Party",
-      "subtitle": "Bears vs. Jets Watch Party",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Chicago Bears vs. New York Jets on October 4 with live sound, Chicago-style hot dogs, and drink specials"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://cloverlincolnpark.com/",
-      "lastCheckedAt": "2026-09-23T05:26:02.007878+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Bears vs. Jets Watch Party\nChicago Bears vs. New York Jets on October 4 with live sound, Chicago-style hot dogs, and drink specials\n$7 Game Day Hot Dogs",
-      "locationDetails": "810 W Diversey Pkwy, Chicago, IL 60614",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:02.007878+00:00",
-        "validUntil": "2026-09-30T05:26:02.007878+00:00",
-        "sourceURLs": [
-          "https://cloverlincolnpark.com/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "Lakeview",
-        "kind": "game_day",
-        "days": [
-          7
-        ],
-        "allDay": false,
-        "itemPrice": 7.0
-      },
-      "reportedStartsOn": "2026-10-04",
-      "reportedEndsOn": "2026-10-04",
-      "eventCondition": "Chicago Bears vs. New York Jets on October 4 with live sound, Chicago-style hot dogs, and drink specials",
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Game Day Hot Dogs",
-          "kind": "food",
-          "unitPrice": 7.0,
-          "quantity": 1,
-          "totalPrice": 7.0,
-          "tags": [],
-          "sourceURL": "https://cloverlincolnpark.com/",
-          "sourceCheckedAt": "2026-09-23T05:50:45.379541+00:00"
-        }
-      ]
-    },
-    {
       "id": "312deals-106600",
       "restaurant": "Clover Lincoln Park",
       "title": "Boilermaker Tuesdays",
@@ -11222,59 +11079,6 @@
           "sourceCheckedAt": "2026-09-23T05:51:05.475823+00:00"
         }
       ]
-    },
-    {
-      "id": "312deals-106513",
-      "restaurant": "Clover Sports Bar",
-      "title": "Chicago-Style Hot Dogs",
-      "subtitle": "Chicago Bears vs. New York Jets Game Day",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Bears vs. Jets game day on Sunday, October 4 at noon with Chicago-style hot dogs and game-day specials"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://cloverchicago.com/",
-      "lastCheckedAt": "2026-09-23T05:26:02.007878+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Chicago Bears vs. New York Jets Game Day\nBears vs. Jets game day on Sunday, October 4 at noon with Chicago-style hot dogs and game-day specials\nChicago-Style Hot Dogs",
-      "locationDetails": "722-724 W GRAND AVE, Chicago, IL 60654",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:02.007878+00:00",
-        "validUntil": "2026-09-30T05:26:02.007878+00:00",
-        "sourceURLs": [
-          "https://cloverchicago.com/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Sunday",
-      "discovery": {
-        "neighborhood": "West Town",
-        "kind": "game_day",
-        "days": [
-          7
-        ],
-        "allDay": false
-      },
-      "reportedStartsOn": "2026-10-04",
-      "reportedEndsOn": "2026-10-04",
-      "eventCondition": "Bears vs. Jets game day on Sunday, October 4 at noon with Chicago-style hot dogs and game-day specials",
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
     },
     {
       "id": "312deals-106480",
@@ -134314,50 +134118,6 @@
       "newCustomer": false
     },
     {
-      "id": "scraped-c65dcbb5affca5f62ef0",
-      "restaurant": "Cinnabon",
-      "title": "$1 Classic Roll",
-      "subtitle": "",
-      "category": "dessert",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Rewards membership required",
-        "Participating locations only",
-        "Cinnabon Rewards members"
-      ],
-      "redemptionSteps": [
-        "Source instructions: On October 4, 2026, Cinnabon Rewards members can enjoy a Classic Roll for $1, all day. The offer is available in-bakery at participating locations only.",
-        "Use your rewards membership to access this offer.",
-        "Redeem in store as described in the source terms; check that your location accepts the offer.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://www.cinnabon.com/newsroom/cinnabon-ncrd",
-      "lastCheckedAt": "2026-09-30T02:34:11+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "On October 4, 2026, Cinnabon Rewards members can enjoy a Classic Roll for $1, all day. The offer is available in-bakery at participating locations only.",
-      "offerDetails": "$1 Classic Roll.",
-      "reportedDates": "October 4, 2026",
-      "membershipRequirement": "Rewards membership required",
-      "reportedStartsOn": "2026-10-04",
-      "reportedEndsOn": "2026-10-04",
-      "detailNotes": [
-        "On October 4, 2026, Cinnabon Rewards members can enjoy a Classic Roll for $1, all day."
-      ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "required",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "scraped-eb42d6b13bc6671fceb1",
       "restaurant": "Paris Baguette",
       "title": "BOGO Free pastry for Boss's Day",
@@ -134542,6 +134302,55 @@
       "redemptionReady": true,
       "requirementStates": {
         "app": "required",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-710884b20a38ff022105",
+      "restaurant": "Moe's",
+      "title": "$2 TACOS ARE COMING TO MOE'S!",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Rewards membership required",
+        "Limit 3 per person Mention the offer at checkout in-store OCTOBER 6–11 Moe Rewards members can grab $2 Single Tacos through the Moe's app or online Limit 3 Apply the Reward at checkout No promo code is listed in Moe's official terms"
+      ],
+      "redemptionSteps": [
+        "Source instructions: $2 TACOS ARE COMING TO MOE'S! Starting Tuesday, October 6, Moe's Southwest Grill is serving up $2 tacos for National Taco Day, and Rewards members get extra time to cash in. OCTOBER 6 $2 tacos at participating Moe's locations Limit 3 per person Mention the offer at checkout in-store OCTOBER 6–11 Moe Rewards members can grab $2 Single Tacos through the Moe's app or online Limit 3 Apply the Reward at checkout No promo code is listed in Moe's official terms. That means Taco Day doesn't have to end Tuesday. Tag your Moe's buddy and save this one for October 6! The Frugal Foodie ️ We Never Pay Full Price",
+        "Use your rewards membership to access this offer.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/p/DeFodHBjwlx/",
+      "lastCheckedAt": "2026-10-05T13:03:02.687406+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "$2 TACOS ARE COMING TO MOE'S! Starting Tuesday, October 6, Moe's Southwest Grill is serving up $2 tacos for National Taco Day, and Rewards members get extra time to cash in. OCTOBER 6 $2 tacos at participating Moe's locations Limit 3 per person Mention the offer at checkout in-store OCTOBER 6–11 Moe Rewards members can grab $2 Single Tacos through the Moe's app or online Limit 3 Apply the Reward at checkout No promo code is listed in Moe's official terms. That means Taco Day doesn't have to end Tuesday. Tag your Moe's buddy and save this one for October 6! The Frugal Foodie ️ We Never Pay Full Price",
+      "offerDetails": "$2 TACOS ARE COMING TO MOE'S!.",
+      "reportedDates": "OCTOBER 6–11",
+      "membershipRequirement": "Rewards membership required",
+      "reportedStartsOn": "2026-10-06",
+      "reportedEndsOn": "2026-10-11",
+      "detailNotes": [
+        "$2 TACOS ARE COMING TO MOE'S!",
+        "Starting Tuesday, October 6, Moe's Southwest Grill is serving up $2 tacos for National Taco Day, and Rewards members get extra time to cash in.",
+        "That means Taco Day doesn't have to end Tuesday.",
+        "Tag your Moe's buddy and save this one for October 6!",
+        "The Frugal Foodie ️ We Never Pay Full Price"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
         "account": "required",
         "purchase": "unknown"
       },

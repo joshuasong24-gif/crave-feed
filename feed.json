@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-05T13:03:31.119446+00:00",
+  "generatedAt": "2026-10-05T13:15:47.185796+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -11633,91 +11633,6 @@
         "purchase": "unknown"
       },
       "newCustomer": false
-    },
-    {
-      "id": "312deals-106373",
-      "restaurant": "Easy Street Pizza",
-      "title": "$30 Michelob Ultra Towers",
-      "subtitle": "Game Day Specials - Iowa Hawkeye Football & NFL Red Zone",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "conditional",
-      "timezone": "America/Chicago",
-      "requirements": [],
-      "redemptionSteps": [
-        "Weekend game day specials for Iowa Hawkeye Football and NFL Red Zone with tower and bucket drink specials"
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://easystreetpizzachicago.com/daily-specials/",
-      "lastCheckedAt": "2026-09-23T05:26:02.007878+00:00",
-      "isSample": false,
-      "ratingReason": "Availability unconfirmed.",
-      "fullTerms": "Game Day Specials - Iowa Hawkeye Football & NFL Red Zone\nWeekend game day specials for Iowa Hawkeye Football and NFL Red Zone with tower and bucket drink specials\n$30 Michelob Ultra Towers\n$30 Surfside Buckets\n$35 Modelo Towers",
-      "locationDetails": "3750-3754 N CENTRAL AVE 1, Chicago, IL 60634",
-      "timeWindow": "Hours not stated",
-      "redemptionReady": true,
-      "detailNotes": [],
-      "offerEvidence": {
-        "level": "reported",
-        "checkedAt": "2026-09-23T05:26:02.007878+00:00",
-        "validUntil": "2026-09-30T05:26:02.007878+00:00",
-        "sourceURLs": [
-          "https://easystreetpizzachicago.com/daily-specials/"
-        ],
-        "reason": "The linked source was reachable when checked; offer terms still need source review."
-      },
-      "recurrenceLabel": "Saturday, Sunday",
-      "discovery": {
-        "neighborhood": "Portage Park",
-        "kind": "game_day",
-        "days": [
-          6,
-          7
-        ],
-        "allDay": false,
-        "itemPrice": 30.0
-      },
-      "eventCondition": "Weekend game day specials for Iowa Hawkeye Football and NFL Red Zone with tower and bucket drink specials",
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false,
-      "pricedItems": [
-        {
-          "name": "Michelob Ultra Towers",
-          "kind": "drink",
-          "unitPrice": 30.0,
-          "quantity": 1,
-          "totalPrice": 30.0,
-          "tags": [],
-          "sourceURL": "https://easystreetpizzachicago.com/daily-specials/",
-          "sourceCheckedAt": "2026-09-23T05:51:09.552388+00:00"
-        },
-        {
-          "name": "Surfside Buckets",
-          "kind": "drink",
-          "unitPrice": 30.0,
-          "quantity": 1,
-          "totalPrice": 30.0,
-          "tags": [],
-          "sourceURL": "https://easystreetpizzachicago.com/daily-specials/",
-          "sourceCheckedAt": "2026-09-23T05:51:09.552388+00:00"
-        },
-        {
-          "name": "Modelo Towers",
-          "kind": "drink",
-          "unitPrice": 35.0,
-          "quantity": 1,
-          "totalPrice": 35.0,
-          "tags": [],
-          "sourceURL": "https://easystreetpizzachicago.com/daily-specials/",
-          "sourceCheckedAt": "2026-09-23T05:51:09.552388+00:00"
-        }
-      ]
     },
     {
       "id": "312deals-106364",

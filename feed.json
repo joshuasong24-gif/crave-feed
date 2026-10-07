@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-06T19:40:02.849375+00:00",
+  "generatedAt": "2026-10-07T13:02:39.416546+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -134390,6 +134390,99 @@
       "reportedEndsOn": "2027-01-04",
       "detailNotes": [
         "Choose Classic, Honey BBQ, Ghost Pepper, or Sweet 'N Spicy."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-1fc001d3577c87a895c7",
+      "restaurant": "KFC",
+      "title": "Free KFC fried chicken buckets!!",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "When you make a $15 minimum order online or in the app, you can get a FREE bucket with promo KFSPEED"
+      ],
+      "redemptionSteps": [
+        "Source instructions: FREE KFC fried chicken buckets!! Until October 11, when you make a $15 minimum order online or in the app, you can get a FREE bucket with promo KFSPEED. You can get nuggets, fried chicken, tenders or wings in your bucket",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/DeLA3gPMLVh/",
+      "lastCheckedAt": "2026-10-07T13:02:40.145310+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "FREE KFC fried chicken buckets!! Until October 11, when you make a $15 minimum order online or in the app, you can get a FREE bucket with promo KFSPEED. You can get nuggets, fried chicken, tenders or wings in your bucket",
+      "offerDetails": "Free KFC fried chicken buckets!!.",
+      "reportedDates": "Until October 11",
+      "reportedStartsOn": "2026-10-06",
+      "reportedEndsOn": "2026-10-11",
+      "detailNotes": [
+        "FREE KFC fried chicken buckets!!",
+        "You can get nuggets, fried chicken, tenders or wings in your bucket"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-365574a99def0280b6a4",
+      "restaurant": "Taco Bell",
+      "title": "$4 tacos",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online, in the app or in store.",
+        "Participating locations only",
+        "Available at participating locations"
+      ],
+      "redemptionSteps": [
+        "Source instructions: $4 TACO BELL!!! Get the Duolingo and Taco Bell meal collab for just $4 until October 12. It includes 2 tacos, cinnamon twists and a medium drink for just $4! For tacos, you'll get the iconic Doritos Locos taco and the beef soft taco. You can get this deal online, in app or in store at participating locations.",
+        "Available online, in the app or in store.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/DeLMytdMUvT/",
+      "lastCheckedAt": "2026-10-07T13:02:40.265431+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "$4 TACO BELL!!! Get the Duolingo and Taco Bell meal collab for just $4 until October 12. It includes 2 tacos, cinnamon twists and a medium drink for just $4! For tacos, you'll get the iconic Doritos Locos taco and the beef soft taco. You can get this deal online, in app or in store at participating locations.",
+      "offerDetails": "$4 tacos.",
+      "eligibleItems": [
+        "2 tacos",
+        "cinnamon twists and a medium drink for just $4!"
+      ],
+      "reportedDates": "until October 12",
+      "reportedStartsOn": "2026-10-07",
+      "reportedEndsOn": "2026-10-12",
+      "detailNotes": [
+        "$4 TACO BELL!!!",
+        "Get the Duolingo and Taco Bell meal collab for just $4 until October 12.",
+        "For tacos, you'll get the iconic Doritos Locos taco and the beef soft taco.",
+        "You can get this deal online, in app or in store at participating locations."
       ],
       "redemptionReady": true,
       "requirementStates": {

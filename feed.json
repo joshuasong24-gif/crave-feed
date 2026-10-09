@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-08T20:03:43.491489+00:00",
+  "generatedAt": "2026-10-09T13:02:45.521714+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -134624,6 +134624,105 @@
         "app": "required",
         "account": "required",
         "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-ecdda2f31207287b7cb8",
+      "restaurant": "California Pizza Kitchen",
+      "title": "Free 7\" PIZZA",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "While supplies last No rewards account required"
+      ],
+      "redemptionSteps": [
+        "Spend $20+ on a qualifying online or app order Add one of the 7\" Apology Pizzas ️ Use code: APOLOGYPIZZA The qualifying 7\" pizza comes off FREE CPK currently has a whole \"Apology Pizzas\" section with options including: Original BBQ Chicken Margherita Wild Mushroom Mushroom Pepperoni Sausage Hawaiian Pepperoni Order online at CPK.com or through the CPK app Participating U.S. locations ⏰ Valid through November 10, 2026 ️ While supplies last No rewards account required.",
+        "Just add a qualifying Apology Pizza and use code APOLOGYPIZZA at checkout.",
+        "Source instructions: FREE 7\" PIZZA AT CALIFORNIA PIZZA KITCHEN! This one is open to EVERYONE. No rewards account, no membership, no signup required. Spend $20+ on a qualifying online or app order Add one of the 7\" Apology Pizzas ️ Use code: APOLOGYPIZZA The qualifying 7\" pizza comes off FREE CPK currently has a whole \"Apology Pizzas\" section with options including: Original BBQ Chicken Margherita Wild Mushroom Mushroom Pepperoni Sausage Hawaiian Pepperoni Order online at CPK.com or through the CPK app Participating U.S. locations ⏰ Valid through November 10, 2026 ️ While supplies last No rewards account required. No comment or DM step required. Just add a qualifying Apology Pizza and use code APOLOGYPIZZA at checkout. The Frugal Foodie Eat More, Spend Less. We Never Pay Full Price",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Use promo code APOLOGYPIZZA as directed in the source terms.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/DePwsjjFC4H/",
+      "lastCheckedAt": "2026-10-09T13:00:10.676000+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "FREE 7\" PIZZA AT CALIFORNIA PIZZA KITCHEN! This one is open to EVERYONE. No rewards account, no membership, no signup required. Spend $20+ on a qualifying online or app order Add one of the 7\" Apology Pizzas ️ Use code: APOLOGYPIZZA The qualifying 7\" pizza comes off FREE CPK currently has a whole \"Apology Pizzas\" section with options including: Original BBQ Chicken Margherita Wild Mushroom Mushroom Pepperoni Sausage Hawaiian Pepperoni Order online at CPK.com or through the CPK app Participating U.S. locations ⏰ Valid through November 10, 2026 ️ While supplies last No rewards account required. No comment or DM step required. Just add a qualifying Apology Pizza and use code APOLOGYPIZZA at checkout. The Frugal Foodie Eat More, Spend Less. We Never Pay Full Price",
+      "offerDetails": "Free 7\" PIZZA.",
+      "reportedDates": "through November 10",
+      "reportedStartsOn": "2026-10-08",
+      "reportedEndsOn": "2026-11-10",
+      "detailNotes": [
+        "FREE 7\" PIZZA AT CALIFORNIA PIZZA KITCHEN!",
+        "This one is open to EVERYONE.",
+        "No rewards account, no membership, no signup required.",
+        "No comment or DM step required.",
+        "The Frugal Foodie Eat More, Spend Less.",
+        "We Never Pay Full Price"
+      ],
+      "code": "APOLOGYPIZZA",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "not_required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-17d87b8da62c01e7f23d",
+      "restaurant": "KFC",
+      "title": "BOGO sandwiches",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Rewards membership required",
+        "Participating locations only",
+        "Purchase required for BOGO offer"
+      ],
+      "redemptionSteps": [
+        "BOGO Spicy Chicken Sandwich Combo Through Dec. 25, Rewards Members can redeem the offer in the KFC app or online.",
+        "Source instructions: BOGO Spicy Chicken Sandwich Combo Through Dec. 25, Rewards Members can redeem the offer in the KFC app or online. Just log in and apply the coupon before ordering. Participating locations only.",
+        "Use your rewards membership to access this offer.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Buy one sandwiches; the second is free under this offer. Check the source for quantity and item restrictions.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/p/DeM2DHrxSjZ/",
+      "lastCheckedAt": "2026-10-09T13:00:10.676000+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "BOGO Spicy Chicken Sandwich Combo Through Dec. 25, Rewards Members can redeem the offer in the KFC app or online. Just log in and apply the coupon before ordering. Participating locations only.",
+      "offerDetails": "BOGO sandwiches.",
+      "reportedDates": "Through Dec. 25",
+      "membershipRequirement": "Rewards membership required",
+      "reportedStartsOn": "2026-10-07",
+      "reportedEndsOn": "2026-12-25",
+      "detailNotes": [
+        "Just log in and apply the coupon before ordering."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "required"
       },
       "newCustomer": false
     }

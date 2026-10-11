@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T19:05:37.125431+00:00",
+  "generatedAt": "2026-10-11T21:19:38.539882+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -134679,49 +134679,6 @@
         "app": "unknown",
         "account": "unknown",
         "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-62c8ef69a66207a7be09",
-      "restaurant": "BIGGBY Coffee",
-      "title": "$25 WING BUNDLE",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "Participating locations only"
-      ],
-      "redemptionSteps": [
-        "Source instructions: <> coo) at U{ THE SAT URDAY MASS IVE. SLIDE FRUGAL (uve fn FO Ont ROUNDUP 40F 7; z Sr aaa Packer CARRABB4's ITALIAN GRILL' a Pg el > 3] ae | SN . i, née as ee ye bs SS re iz 3-COURSE Cz $25 WING BUNDLE CRISPY HOMESTYLE } DINNER FOR TWO BIG 99 in SPP\" THRU 10/18 Ee L CHICK BURGER DEAL FRI - SUN THRU 11/1 THRU 10/18 PARTICIPATING LOCATIONS DINE-IN rn PF. CHANG'S Cheddars TCHEN * a | = + $= HL \"hy ABS Ree 3-COURSE Mina $8 =!\" CHOOSE 2 | ALL-AMERICAN CHEF'S FEAST \\ * CHICKEN TENDER BUNDLE ' MEAL DEAL + HONEY-BUTTER CROISSANTS 16 TENDERS + 2 FAMILY SIDES PARTICIPATING LOCATIONS 2 CHILI ne # cats cee FRIES MINIMUM 2 ™ TO GO / DIRECT DELIVERY CA CAPPORATE STORES $9.99 BUFFALO ) Foco DE, BRUSSTER'S BIGGBY CHAO, 'Capriotti's ice cream IB CORFEE on WINGS as Baas eo | = ae i) 6 a) ga MS FREE KIDS AB) g KIDS 6 & UNDER : i GRILLED CHEESE 4 4 FREE DELIVERY WITH FULL-PRICE FREE BABY CONE | FREE KIDS DRINK DINE FREE 3° ADULT ENTREE FOR KIDS UNDER 40 FOR CHILDREN IN COSTUME DIRECT APP / WEBSITE FULL CHURRASCO PARTICIPATING LOCATIONS THRU 10/31 PARTICIPATING LOCATIONS ' EXPERIENCE PARTICIPATING LOCATIONS PARTICIPATING LOCATIONS PES 'em 1",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": false,
-      "sourceURL": "https://www.instagram.com/p/DeUEUccj8NN/",
-      "lastCheckedAt": "2026-10-11T13:00:25.219000+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "<> coo) at U{ THE SAT URDAY MASS IVE. SLIDE FRUGAL (uve fn FO Ont ROUNDUP 40F 7; z Sr aaa Packer CARRABB4's ITALIAN GRILL' a Pg el > 3] ae | SN . i, née as ee ye bs SS re iz 3-COURSE Cz $25 WING BUNDLE CRISPY HOMESTYLE } DINNER FOR TWO BIG 99 in SPP\" THRU 10/18 Ee L CHICK BURGER DEAL FRI - SUN THRU 11/1 THRU 10/18 PARTICIPATING LOCATIONS DINE-IN rn PF. CHANG'S Cheddars TCHEN * a | = + $= HL \"hy ABS Ree 3-COURSE Mina $8 =!\" CHOOSE 2 | ALL-AMERICAN CHEF'S FEAST \\ * CHICKEN TENDER BUNDLE ' MEAL DEAL + HONEY-BUTTER CROISSANTS 16 TENDERS + 2 FAMILY SIDES PARTICIPATING LOCATIONS 2 CHILI ne # cats cee FRIES MINIMUM 2 ™ TO GO / DIRECT DELIVERY CA CAPPORATE STORES $9.99 BUFFALO ) Foco DE, BRUSSTER'S BIGGBY CHAO, 'Capriotti's ice cream IB CORFEE on WINGS as Baas eo | = ae i) 6 a) ga MS FREE KIDS AB) g KIDS 6 & UNDER : i GRILLED CHEESE 4 4 FREE DELIVERY WITH FULL-PRICE FREE BABY CONE | FREE KIDS DRINK DINE FREE 3° ADULT ENTREE FOR KIDS UNDER 40 FOR CHILDREN IN COSTUME DIRECT APP / WEBSITE FULL CHURRASCO PARTICIPATING LOCATIONS THRU 10/31 PARTICIPATING LOCATIONS ' EXPERIENCE PARTICIPATING LOCATIONS PARTICIPATING LOCATIONS PES 'em 1",
-      "offerDetails": "$25 WING BUNDLE.",
-      "reportedDates": "10/18",
-      "reportedStartsOn": "2026-10-10",
-      "reportedEndsOn": "2026-10-18",
-      "detailNotes": [
-        "<> coo) at U{ THE SAT URDAY MASS IVE.",
-        "SLIDE FRUGAL (uve fn FO Ont ROUNDUP 40F 7; z Sr aaa Packer CARRABB4's ITALIAN GRILL' a Pg el > 3] ae | SN . i, née as ee ye bs SS re iz 3-COURSE Cz $25 WING BUNDLE CRISPY HOMESTYLE } DINNER FOR TWO BIG 99 in SPP\" THRU 10/18 Ee L CHICK BURGER DEAL FRI - SUN THRU 11/1 THRU 10/18 PARTICIPATING LOCATIONS DINE-IN rn PF."
-      ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "required",
-        "account": "unknown",
-        "purchase": "unknown"
       },
       "newCustomer": false
     }

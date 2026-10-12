@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-11T21:19:38.539882+00:00",
+  "generatedAt": "2026-10-12T02:41:23.424189+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4493,7 +4493,7 @@
     },
     {
       "category": "drink",
-      "fullTerms": "MONDAY: $10 Jameson, Malort, & Tullamore D.E.W. & $12 Domestic Pitchers",
+      "fullTerms": "MONDAY: $10 Jameson or Tullamore D.E.W.; $12 Domestic Pitchers.",
       "id": "312deals-60272",
       "isSample": false,
       "lastCheckedAt": "2026-10-11T15:26:36.309192+00:00",
@@ -4528,7 +4528,8 @@
       "detailNotes": [
         "Savings unknown; no numerical comparison is claimed in this release.",
         "App/account and additional-purchase requirements are not stated in this source.",
-        "Spirit pour sizes and bucket/pitcher quantities are not stated; no multi-drink quantity is inferred."
+        "Spirit pour sizes and bucket/pitcher quantities are not stated; no multi-drink quantity is inferred.",
+        "The special does not name eligible domestic beer brands; confirm the pitcher selection with the venue."
       ],
       "discovery": {
         "neighborhood": "Gold Coast",
@@ -4549,11 +4550,16 @@
           "https://she-nannigans.com/events/daily-specials/"
         ],
         "reason": "Current owner-published terms and exact branch were reviewed. Times, unposted requirements and savings remain unknown; redemption was not tested."
-      }
+      },
+      "eligibleItems": [
+        "Jameson",
+        "Tullamore D.E.W.",
+        "Domestic Pitchers"
+      ]
     },
     {
       "category": "drink",
-      "fullTerms": "TUESDAY: $7 Goose Island Drafts & $10 Grey Goose",
+      "fullTerms": "TUESDAY: $7 Goose Island Drafts.",
       "id": "312deals-60273",
       "isSample": false,
       "lastCheckedAt": "2026-10-11T15:26:36.309192+00:00",
@@ -4609,7 +4615,10 @@
           "https://she-nannigans.com/events/daily-specials/"
         ],
         "reason": "Current owner-published terms and exact branch were reviewed. Times, unposted requirements and savings remain unknown; redemption was not tested."
-      }
+      },
+      "eligibleItems": [
+        "Goose Island Drafts"
+      ]
     },
     {
       "category": "drink",
@@ -4708,7 +4717,8 @@
       "detailNotes": [
         "Savings unknown; no numerical comparison is claimed in this release.",
         "App/account and additional-purchase requirements are not stated in this source.",
-        "Spirit pour sizes and bucket/pitcher quantities are not stated; no multi-drink quantity is inferred."
+        "Spirit pour sizes and bucket/pitcher quantities are not stated; no multi-drink quantity is inferred.",
+        "The special does not name eligible domestic beer brands; confirm the pitcher selection with the venue."
       ],
       "discovery": {
         "neighborhood": "Gold Coast",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-12T22:14:59.139943+00:00",
+  "generatedAt": "2026-10-13T04:41:28.283531+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4348,6 +4348,507 @@
         "purchase": "required"
       },
       "newCustomer": false
+    },
+    {
+      "category": "meal",
+      "discovery": {
+        "allDay": false,
+        "days": [
+          3
+        ],
+        "endTime": "18:00",
+        "kind": "happy_hour",
+        "neighborhood": "Portage Park",
+        "startTime": "16:00"
+      },
+      "fullTerms": "Buy one wood-burning pizza and get the second one half off during Wednesday happy hour, 4–6pm. Dine-in only at 4250 N Central Avenue, Chicago. The discount applies only to the second pizza.",
+      "id": "312deals-20952",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T01:12:03+00:00",
+      "locationDetails": "4250 N Central Ave, Chicago, IL 60634",
+      "purchaseRequired": true,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "recurrenceLabel": "Wednesday happy hour weekly, 16:00–18:00 America/Chicago",
+      "redemptionReady": true,
+      "redemptionSteps": [
+        "Visit Legno at 4250 N Central Avenue, Chicago, on Wednesday between 4pm and 6pm.",
+        "Request the buy-one, second-wood-burning-pizza-half-off special for dine-in.",
+        "Confirm eligible pizzas and any additional unposted charges before paying."
+      ],
+      "requirementStates": {
+        "account": "unknown",
+        "app": "unknown",
+        "purchase": "required"
+      },
+      "requirements": [
+        "Buy one wood-burning pizza to qualify for half off the second wood-burning pizza.",
+        "Wednesday happy hour 4–6pm America/Chicago.",
+        "Dine-in only."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "Legno by Suparossa",
+      "savings": "Half off the second wood-burning pizza",
+      "sourceURL": "https://www.legnochicago.com/daily-specials/",
+      "status": "unconfirmed",
+      "subtitle": "Wednesday second wood-burning pizza half off",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Wednesday second wood-burning pizza half off",
+      "timeWindow": "4–6pm",
+      "detailNotes": [
+        "Second-pizza size, handling of different pizza prices, toppings and any additional charges are not stated; confirm with the restaurant."
+      ]
+    },
+    {
+      "category": "meal",
+      "fullTerms": "Weekly Specials. Dine-In Only. Monday: $10 Burger, all afternoon/evening. Exact offer start time is not listed.",
+      "id": "312deals-1264",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T08:24:33.264453+00:00",
+      "locationDetails": "910 W Buena Avenue, Chicago, IL 60613",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "recurrenceLabel": "Monday afternoon/evening; weekly. Exact clocks not listed.",
+      "redemptionReady": true,
+      "redemptionSteps": [
+        "Visit The Bar on Buena at 910 W Buena Avenue, Chicago on Monday afternoon/evening.",
+        "Request the advertised $10 burger dine-in special.",
+        "Confirm the applicable price and any additional terms or charges before paying."
+      ],
+      "requirementStates": {
+        "account": "unknown",
+        "app": "unknown",
+        "purchase": "unknown"
+      },
+      "requirements": [
+        "Dine-in only.",
+        "Monday $10 burger is advertised for all afternoon/evening."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "The Bar on Buena",
+      "savings": "Savings unknown",
+      "sourceURL": "https://www.baronbuena.com/",
+      "status": "unconfirmed",
+      "subtitle": "Monday $10 burger",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Monday $10 burger",
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "days": [
+          1
+        ],
+        "allDay": false,
+        "neighborhood": ""
+      },
+      "detailNotes": [
+        "Savings unknown.",
+        "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
+      ]
+    },
+    {
+      "category": "meal",
+      "fullTerms": "Weekly Specials. Dine-In Only. Tuesday: $3 A la carte specialty Taco, while they last. Exact offer start time is not listed.",
+      "id": "312deals-6831",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T08:24:33.264453+00:00",
+      "locationDetails": "910 W Buena Avenue, Chicago, IL 60613",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "recurrenceLabel": "Tuesday weekly; while supplies last. Exact clocks not listed.",
+      "redemptionReady": true,
+      "redemptionSteps": [
+        "Visit The Bar on Buena at 910 W Buena Avenue, Chicago on Tuesday.",
+        "Ask if the advertised $3 a la carte specialty taco dine-in special is still available.",
+        "Confirm the applicable price and any additional terms or charges before paying."
+      ],
+      "requirementStates": {
+        "account": "unknown",
+        "app": "unknown",
+        "purchase": "unknown"
+      },
+      "requirements": [
+        "Dine-in only.",
+        "Tuesday $3 a la carte specialty taco, while they last."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "The Bar on Buena",
+      "savings": "Savings unknown",
+      "sourceURL": "https://www.baronbuena.com/",
+      "status": "unconfirmed",
+      "subtitle": "Tuesday $3 specialty taco",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Tuesday $3 specialty taco",
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "days": [
+          2
+        ],
+        "allDay": false,
+        "neighborhood": ""
+      },
+      "detailNotes": [
+        "Savings unknown.",
+        "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
+      ]
+    },
+    {
+      "category": "meal",
+      "fullTerms": "Sunday special: two fried avocado tacos, one can of Tecate and one shot of silver tequila for $10. Serving sizes, tequila brand and offer hours are not listed.",
+      "id": "312deals-106749",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T13:43:26.978395+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "redemptionSteps": [
+        "Visit Handlebar at 2311 W North Ave, Chicago on Sunday.",
+        "Request the advertised two fried-avocado tacos, Tecate can and silver-tequila shot package for $10.",
+        "Confirm the stated price and any additional terms or charges before paying."
+      ],
+      "requirements": [
+        "Sunday only",
+        "Exact promotion clocks, serving sizes, tequila brand and additional eligibility are unposted."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "Handlebar",
+      "sourceURL": "https://www.handlebarchicago.com/",
+      "status": "unconfirmed",
+      "subtitle": "Sunday taco, Tecate and tequila package; $10; Times not listed",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "locationDetails": "2311 W North Ave, Chicago, IL 60647",
+      "savings": "Savings unknown",
+      "title": "Sunday two-taco, Tecate and tequila package",
+      "recurrenceLabel": "Sunday weekly; Times not listed",
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "days": [
+          7
+        ],
+        "allDay": false,
+        "neighborhood": ""
+      },
+      "detailNotes": [
+        "Savings unknown.",
+        "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
+      ]
+    },
+    {
+      "category": "drink",
+      "fullTerms": "Weekly Drink Specials, available Sunday–Thursday: Old Style & Whiskey $10; Perla Polish Lager & Zubrowka Bison Grass Vodka $12; Chicago Handshake $9; Modelo & Tequila $12. At 2403 W Homer St, Chicago. Offer hours and serving sizes are not listed.",
+      "id": "312deals-12817",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T07:36:17.746191+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "redemptionSteps": [
+        "Visit Green Eye Lounge at 2403 W Homer St, Chicago on Sunday–Thursday.",
+        "Choose one of the four named advertised combinations from the source-supported terms.",
+        "Confirm the stated price and any additional terms or charges before paying."
+      ],
+      "requirements": [
+        "No code/app/rewards requirement stated.",
+        "Exact offer-specific clock not listed; venue operating hours are not converted into an all-day promotion window."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "Green Eye Lounge",
+      "sourceURL": "https://greeneyelounge.com/",
+      "status": "unconfirmed",
+      "subtitle": "Sunday–Thursday weekly drink specials: Old Style&Whiskey$10; Perla Polish Lager&Zubrowka Bison Grass Vodka$12; Chicago Handshake$9; Modelo&Tequila$12.",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "locationDetails": "2403 W Homer St, Chicago, IL 60647",
+      "savings": "Savings unknown",
+      "title": "Sunday–Thursday named beer-and-spirit combinations",
+      "recurrenceLabel": "Sunday, Monday, Tuesday, Wednesday and Thursday weekly; Times not listed",
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "days": [
+          7,
+          1,
+          2,
+          3,
+          4
+        ],
+        "allDay": false,
+        "neighborhood": ""
+      },
+      "detailNotes": [
+        "Savings unknown.",
+        "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
+      ]
+    },
+    {
+      "category": "drink",
+      "fullTerms": "Monday: $3 Rumplemintz shots and $4 craft beers on tap at The Oasis Tavern, 6809 N Sheridan Road, Chicago. Offer hours are not listed.",
+      "id": "312deals-20959",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T09:05:50.746996+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "redemptionSteps": [
+        "Visit The Oasis Tavern at 6809 N Sheridan Road, Chicago on Monday.",
+        "Request a named advertised selection: $3 Rumplemintz shots and $4 craft beers on tap.",
+        "Confirm availability, the advertised price and any additional terms or charges before paying."
+      ],
+      "requirements": [
+        "Monday only.",
+        "Only the named selections and prices in this exact day-specific offer are included.",
+        "Offer clock and unspecified serving sizes are unposted."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "The Oasis Tavern",
+      "sourceURL": "https://sites.google.com/site/rogersparkoasis/specials",
+      "status": "unconfirmed",
+      "subtitle": "Monday: $3 Rumplemintz shots and $4 craft beers on tap",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Monday drink specials",
+      "locationDetails": "6809 North Sheridan Road, Chicago, IL60626",
+      "recurrenceLabel": "Monday weekly; Times not listed",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "savings": "Savings unknown",
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "days": [
+          1
+        ],
+        "allDay": false,
+        "neighborhood": ""
+      },
+      "detailNotes": [
+        "Savings unknown.",
+        "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
+      ]
+    },
+    {
+      "category": "drink",
+      "fullTerms": "Tuesday: $3 Jameson shots and $3 Guinness at The Oasis Tavern, 6809 N Sheridan Road, Chicago. Offer hours are not listed.",
+      "id": "312deals-20960",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T09:05:50.746996+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "redemptionSteps": [
+        "Visit The Oasis Tavern at 6809 N Sheridan Road, Chicago on Tuesday.",
+        "Request a named advertised selection: $3 Jameson shots and $3 Guinness.",
+        "Confirm availability, the advertised price and any additional terms or charges before paying."
+      ],
+      "requirements": [
+        "Tuesday only.",
+        "Only the named selections and prices in this exact day-specific offer are included.",
+        "Offer clock and unspecified serving sizes are unposted."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "The Oasis Tavern",
+      "sourceURL": "https://sites.google.com/site/rogersparkoasis/specials",
+      "status": "unconfirmed",
+      "subtitle": "Tuesday: $3 Jameson shots and $3 Guinness",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Tuesday drink specials",
+      "locationDetails": "6809 North Sheridan Road, Chicago, IL60626",
+      "recurrenceLabel": "Tuesday weekly; Times not listed",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "savings": "Savings unknown",
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "days": [
+          2
+        ],
+        "allDay": false,
+        "neighborhood": ""
+      },
+      "detailNotes": [
+        "Savings unknown.",
+        "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
+      ]
+    },
+    {
+      "category": "drink",
+      "fullTerms": "Wednesday: $3 Fireball shots and $3 Miller Lite pints at The Oasis Tavern, 6809 N Sheridan Road, Chicago. Offer hours are not listed.",
+      "id": "312deals-20961",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T09:05:50.746996+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "redemptionSteps": [
+        "Visit The Oasis Tavern at 6809 N Sheridan Road, Chicago on Wednesday.",
+        "Request a named advertised selection: $3 Fireball shots and $3 Miller Lite pints.",
+        "Confirm availability, the advertised price and any additional terms or charges before paying."
+      ],
+      "requirements": [
+        "Wednesday only.",
+        "Only the named selections and prices in this exact day-specific offer are included.",
+        "Offer clock and unspecified serving sizes are unposted."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "The Oasis Tavern",
+      "sourceURL": "https://sites.google.com/site/rogersparkoasis/specials",
+      "status": "unconfirmed",
+      "subtitle": "Wednesday: $3 Fireball shots and $3 Miller Lite pints",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Wednesday drink specials",
+      "locationDetails": "6809 North Sheridan Road, Chicago, IL60626",
+      "recurrenceLabel": "Wednesday weekly; Times not listed",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "savings": "Savings unknown",
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "days": [
+          3
+        ],
+        "allDay": false,
+        "neighborhood": ""
+      },
+      "detailNotes": [
+        "Savings unknown.",
+        "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
+      ]
+    },
+    {
+      "category": "drink",
+      "fullTerms": "Thursday: $3 Jack shots and $3 PBR at The Oasis Tavern, 6809 N Sheridan Road, Chicago. Offer hours are not listed.",
+      "id": "312deals-20962",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T09:05:50.746996+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "redemptionSteps": [
+        "Visit The Oasis Tavern at 6809 N Sheridan Road, Chicago on Thursday.",
+        "Request a named advertised selection: $3 Jack shots and $3 PBR.",
+        "Confirm availability, the advertised price and any additional terms or charges before paying."
+      ],
+      "requirements": [
+        "Thursday only.",
+        "Only the named selections and prices in this exact day-specific offer are included.",
+        "Offer clock and unspecified serving sizes are unposted."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "The Oasis Tavern",
+      "sourceURL": "https://sites.google.com/site/rogersparkoasis/specials",
+      "status": "unconfirmed",
+      "subtitle": "Thursday: $3 Jack shots and $3 PBR",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Thursday drink specials",
+      "locationDetails": "6809 North Sheridan Road, Chicago, IL60626",
+      "recurrenceLabel": "Thursday weekly; Times not listed",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "savings": "Savings unknown",
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "days": [
+          4
+        ],
+        "allDay": false,
+        "neighborhood": ""
+      },
+      "detailNotes": [
+        "Savings unknown.",
+        "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
+      ]
+    },
+    {
+      "category": "drink",
+      "fullTerms": "Sunday: $3 well drinks and $3 sangrias at The Oasis Tavern, 6809 N Sheridan Road, Chicago. Offer hours are not listed.",
+      "id": "312deals-20963",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T09:05:50.746996+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "redemptionSteps": [
+        "Visit The Oasis Tavern at 6809 N Sheridan Road, Chicago on Sunday.",
+        "Request a named advertised selection: $3 well drinks and $3 sangrias.",
+        "Confirm availability, the advertised price and any additional terms or charges before paying."
+      ],
+      "requirements": [
+        "Sunday only.",
+        "Only the named selections and prices in this exact day-specific offer are included.",
+        "Offer clock and unspecified serving sizes are unposted."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "The Oasis Tavern",
+      "sourceURL": "https://sites.google.com/site/rogersparkoasis/specials",
+      "status": "unconfirmed",
+      "subtitle": "Sunday: $3 well drinks and $3 sangrias",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Sunday drink specials",
+      "locationDetails": "6809 North Sheridan Road, Chicago, IL60626",
+      "recurrenceLabel": "Sunday weekly; Times not listed",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "savings": "Savings unknown",
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "days": [
+          7
+        ],
+        "allDay": false,
+        "neighborhood": ""
+      },
+      "detailNotes": [
+        "Savings unknown.",
+        "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
+      ]
     }
   ],
   "happyHours": [],

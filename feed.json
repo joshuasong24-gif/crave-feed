@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T04:41:28.283531+00:00",
+  "generatedAt": "2026-10-13T13:02:06.646871+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -3655,56 +3655,6 @@
       "newCustomer": false
     },
     {
-      "id": "scraped-365574a99def0280b6a4",
-      "restaurant": "Taco Bell",
-      "title": "$4 tacos",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online, in the app or in store.",
-        "Participating locations only",
-        "Available at participating locations"
-      ],
-      "redemptionSteps": [
-        "Source instructions: $4 TACO BELL!!! Get the Duolingo and Taco Bell meal collab for just $4 until October 12. It includes 2 tacos, cinnamon twists and a medium drink for just $4! For tacos, you'll get the iconic Doritos Locos taco and the beef soft taco. You can get this deal online, in app or in store at participating locations.",
-        "Available online, in the app or in store.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.instagram.com/p/DeLMytdMUvT/",
-      "lastCheckedAt": "2026-10-07T13:13:50.430514+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "$4 TACO BELL!!! Get the Duolingo and Taco Bell meal collab for just $4 until October 12. It includes 2 tacos, cinnamon twists and a medium drink for just $4! For tacos, you'll get the iconic Doritos Locos taco and the beef soft taco. You can get this deal online, in app or in store at participating locations.",
-      "offerDetails": "$4 tacos.",
-      "eligibleItems": [
-        "2 tacos",
-        "cinnamon twists and a medium drink for just $4!"
-      ],
-      "reportedDates": "until October 12",
-      "reportedStartsOn": "2026-10-07",
-      "reportedEndsOn": "2026-10-12",
-      "detailNotes": [
-        "$4 TACO BELL!!!",
-        "Get the Duolingo and Taco Bell meal collab for just $4 until October 12.",
-        "For tacos, you'll get the iconic Doritos Locos taco and the beef soft taco.",
-        "You can get this deal online, in app or in store at participating locations."
-      ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "scraped-ca64c0bd298120c29575",
       "restaurant": "Dave's Hot Chicken",
       "title": "Free chicken slider",
@@ -4849,6 +4799,60 @@
         "Savings unknown.",
         "Serving sizes and any additional unposted requirements or charges should be confirmed with the restaurant."
       ]
+    },
+    {
+      "id": "scraped-5a6395182453222ca2a9",
+      "restaurant": "Taco Bell",
+      "title": "$4 taco meal",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "App required — access this offer in the app.",
+        "Only for Taco Bell Rewards members",
+        "Participating locations only",
+        "While supplies last $1 DROP TODAY The first 10,000 verified Taco Bell Rewards members can claim the exact same meal for just $1",
+        "First come, first served So yes, the play here is pretty obvious: Try for the $1 drop at 4 PM CT"
+      ],
+      "redemptionSteps": [
+        "Source instructions: $4 GETS YOU A BURRITO SUPREME + CRUNCHY TACO + MEDIUM DRINK AT TACO BELL TODAY! And if you're fast enough, that same meal can be just $1. Taco Bell is running Kevin Hart's Usual for National Taco Month: Burrito Supreme Crunchy Taco Medium Fountain Drink $4 DEAL Available 10/13 through 10/19 Participating locations While supplies last $1 DROP TODAY The first 10,000 verified Taco Bell Rewards members can claim the exact same meal for just $1. ⏰ Goes live at 2 PM PT / 4 PM CT Claim it in the Taco Bell app First come, first served So yes, the play here is pretty obvious: Try for the $1 drop at 4 PM CT. If you miss it, you can still grab the burrito + taco + drink for $4 through October 19. Either way, that is a ridiculous amount of food for the money. Tag your Taco Bell person before the $1 drop goes live. The Frugal Foodie ️ Eat More, Spend Less. WE NEVER PAY FULL PRICE.",
+        "Use your Taco Bell Rewards membership to access this offer.",
+        "App required — access this offer in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/p/Deb1YZgINE2/",
+      "lastCheckedAt": "2026-10-13T13:00:02.575000+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "$4 GETS YOU A BURRITO SUPREME + CRUNCHY TACO + MEDIUM DRINK AT TACO BELL TODAY! And if you're fast enough, that same meal can be just $1. Taco Bell is running Kevin Hart's Usual for National Taco Month: Burrito Supreme Crunchy Taco Medium Fountain Drink $4 DEAL Available 10/13 through 10/19 Participating locations While supplies last $1 DROP TODAY The first 10,000 verified Taco Bell Rewards members can claim the exact same meal for just $1. ⏰ Goes live at 2 PM PT / 4 PM CT Claim it in the Taco Bell app First come, first served So yes, the play here is pretty obvious: Try for the $1 drop at 4 PM CT. If you miss it, you can still grab the burrito + taco + drink for $4 through October 19. Either way, that is a ridiculous amount of food for the money. Tag your Taco Bell person before the $1 drop goes live. The Frugal Foodie ️ Eat More, Spend Less. WE NEVER PAY FULL PRICE.",
+      "offerDetails": "$4 taco meal.",
+      "reportedDates": "10/13",
+      "membershipRequirement": "Only for Taco Bell Rewards members",
+      "reportedStartsOn": "2026-10-13",
+      "reportedEndsOn": "2026-10-13",
+      "detailNotes": [
+        "$4 GETS YOU A BURRITO SUPREME + CRUNCHY TACO + MEDIUM DRINK AT TACO BELL TODAY!",
+        "And if you're fast enough, that same meal can be just $1.",
+        "Taco Bell is running Kevin Hart's Usual for National Taco Month: Burrito Supreme Crunchy Taco Medium Fountain Drink $4 DEAL Available 10/13 through 10/19 Participating locations While supplies last $1 DROP TODAY The first 10,000 verified Taco Bell Rewards members can claim the exact same meal for just $1. ⏰ Goes live at 2 PM PT / 4 PM CT Claim it in the Taco Bell app First come, first served So yes, the play here is pretty obvious: Try for the $1 drop at 4 PM CT.",
+        "If you miss it, you can still grab the burrito + taco + drink for $4 through October 19.",
+        "Either way, that is a ridiculous amount of food for the money.",
+        "Tag your Taco Bell person before the $1 drop goes live.",
+        "The Frugal Foodie ️ Eat More, Spend Less.",
+        "WE NEVER PAY FULL PRICE."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "required",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
     }
   ],
   "happyHours": [],

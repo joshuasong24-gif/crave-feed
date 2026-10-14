@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-13T20:20:27.599958+00:00",
+  "generatedAt": "2026-10-14T09:11:02.308499+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4946,6 +4946,54 @@
         "purchase": "required"
       },
       "newCustomer": true
+    },
+    {
+      "category": "meal",
+      "fullTerms": "TNT Tuesdays at Broken English Taco Pub The Loop, 75 E Lake St: $3 chicken tinga taco and $4 blanco tequila shot. Offer hours and shot brand/size are not listed.",
+      "id": "research-central051_broken_english_loop_tnt_tuesday_refresh",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-11T14:04:48.126871+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "redemptionSteps": [
+        "Order the stated menu option at Broken English Taco Pub The Loop, 75 E Lake Street, Chicago, IL60601, in the posted context: Tuesday; Times not listed.",
+        "Confirm the stated choices, quantities and applicable charges before paying."
+      ],
+      "requirements": [
+        "Tuesday",
+        "Loop 75 E Lake St",
+        "Named blanco shot/chicken tinga taco"
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "Broken English Taco Pub The Loop",
+      "sourceURL": "https://static.wixstatic.com/media/9a62dc_87c7e0f799bd47f4a923e6b7386f9a8b~mv2.jpg/v1/fit/w_980,h_823,q_90,enc_avif,quality_auto/9a62dc_87c7e0f799bd47f4a923e6b7386f9a8b~mv2.jpg",
+      "status": "unconfirmed",
+      "subtitle": "TNT Tuesdays: $3 chicken tinga taco and $4 blanco tequila shot",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "TNT Tuesdays: $3 chicken tinga taco and $4 blanco tequila shot",
+      "locationDetails": "75 E Lake St, Chicago, IL 60601",
+      "recurrenceLabel": "Tuesday; Times not listed",
+      "savings": "Savings unknown.",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "detailNotes": [
+        "Confirm any unposted requirements or charges before ordering."
+      ],
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "weekly_special",
+        "neighborhood": "",
+        "days": [
+          2
+        ],
+        "allDay": false
+      }
     }
   ],
   "happyHours": [],

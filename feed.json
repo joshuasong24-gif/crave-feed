@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T18:48:32.349453+00:00",
+  "generatedAt": "2026-10-14T21:02:52.123067+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4990,6 +4990,97 @@
         "purchase": "required"
       },
       "newCustomer": false
+    },
+    {
+      "category": "drink",
+      "fullTerms": "Buckets of six matching drinks at The Aberdeen Tap, 440 N Aberdeen St: Topo Chico Strawberry Guava $40 ($8 single); Mamitas Tequila Seltzer Paloma $45 ($9 single); Overtime Double Shot Watermelon 10% $50 ($10 single); High Noon Peach or Watermelon $45 ($9 single); Surfside Iced Tea + Vodka, not sparkling, 4.5% $50 ($10 single). The menu states one drink free per six-drink bucket. Stick to the posted matching drink and flavor; container sizes and offer hours are not listed.",
+      "id": "research-west021_aberdeen_six_can_buckets",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-10T20:53:26.644429+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "redemptionSteps": [
+        "Order the stated menu option at The Aberdeen Tap, 440 N Aberdeen St, Chicago IL60642, in the posted context: Current native drink menu; Times not listed.",
+        "Confirm the stated choices, quantities and applicable charges before paying."
+      ],
+      "requirements": [
+        "Six matching drinks in the named bucket",
+        "Posted flavors only"
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "The Aberdeen Tap",
+      "sourceURL": "https://aberdeentap.com/menu",
+      "status": "unconfirmed",
+      "subtitle": "Six named seltzers for the price of five",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Six matching drinks for the price of five",
+      "locationDetails": "440 N Aberdeen St, Chicago, IL 60642",
+      "recurrenceLabel": "Current native drink menu; Times not listed",
+      "savings": "$8–$10 on six matching named drinks versus six singles.",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "detailNotes": [
+        "Confirm any unposted requirements or charges before ordering.",
+        "Savings compare six of the same named drink at its posted single price with the six-drink bucket: $8–$10, before any unposted charges."
+      ],
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "menu_special",
+        "neighborhood": "",
+        "days": [],
+        "allDay": false
+      }
+    },
+    {
+      "category": "drink",
+      "id": "312deals-7427",
+      "restaurant": "Kale My Name",
+      "locationDetails": "3300 W Montrose Ave, Chicago, IL 60618",
+      "title": "Special-price bucket of five same drinks $25",
+      "subtitle": "Special-price bucket of five same drinks $25",
+      "fullTerms": "Kale My Name, 3300 W Montrose Ave: Special Price — bucket of five of the same eligible drink for $25. The offer appears in the beers/cider menu section. Confirm eligible choices; container sizes and offer hours are not listed.",
+      "sourceURL": "https://www.kalemyname.com/",
+      "lastCheckedAt": "2026-10-10T19:54:33.836083+00:00",
+      "isSample": false,
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "status": "unconfirmed",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "ratingReason": "Owner-published offer and exact Chicago branch reviewed. Confirm availability and any additional terms at the restaurant.",
+      "recurrenceLabel": "Posted native drinks-menu special; offer Times not listed",
+      "savings": "Savings unknown",
+      "requirements": [
+        "Five of the same eligible drink",
+        "Posted $25 special bucket"
+      ],
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "detailNotes": [
+        "Confirm any unposted requirements or charges before ordering."
+      ],
+      "redemptionSteps": [
+        "Order the stated menu option at Kale My Name, 3300 W Montrose Ave, Chicago, IL 60618, in this posted context: Posted native drinks-menu special; offer Times not listed.",
+        "Choose the stated eligible variants and confirm the posted limits and applicable charges before paying."
+      ],
+      "redemptionReady": true,
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "menu_special",
+        "neighborhood": "",
+        "days": [],
+        "allDay": false
+      }
     }
   ],
   "happyHours": [],
@@ -5184,6 +5275,22 @@
       "latitude": 41.958550897849705,
       "longitude": -87.65352004893188,
       "checkedAt": "2026-10-14T18:48:44Z",
+      "match": "exact"
+    },
+    {
+      "address": "3300 W Montrose Ave, Chicago, IL 60618",
+      "sourceAddress": "3300 W MONTROSE AVE",
+      "latitude": 41.961268212903974,
+      "longitude": -87.71075304347927,
+      "checkedAt": "2026-09-28T16:30:08Z",
+      "match": "exact"
+    },
+    {
+      "address": "440 N Aberdeen St, Chicago, IL 60642",
+      "sourceAddress": "440 N ABERDEEN ST",
+      "latitude": 41.890159212936,
+      "longitude": -87.654932796796,
+      "checkedAt": "2026-10-15T06:06:17.620034+00:00",
       "match": "exact"
     }
   ],

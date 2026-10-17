@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T15:40:34.516212+00:00",
+  "generatedAt": "2026-10-17T16:01:32.267203+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -128,42 +128,6 @@
         "purchase": "unknown"
       },
       "newCustomer": false
-    },
-    {
-      "id": "scraped-499ca134626bdf2fc2e0",
-      "restaurant": "McDonald's",
-      "title": "Free Double Cheeseburger",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "Qualifying purchase required",
-        "With a $1+ app purchase Burger King: FREE Bacon Cheeseburger with a $3+ purchase + Royal Perks Smashburger: Any single burger for $1 with an in-app order Wayback Bur",
-        "VIF members",
-        "Rewards membership required"
-      ],
-      "redemptionSteps": [
-        "Source instructions: Here are some of the best ones: McDonald's: FREE Double Cheeseburger with a $1+ app purchase Burger King: FREE Bacon Cheeseburger with a $3+ purchase + Royal Perks Smashburger: Any single burger for $1 with an in-app order Wayback Burgers: Classic burgers for $3.50 Farmer Boys: $3.99 Big Cheeseburger for VIF members Applebee's: Cheeseburger + fries for $8.99 Wendy's: FREE Baconator with a $20+ pur",
-        "Use your rewards membership to access this offer.",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://www.instagram.com/p/DdUMs7lR15t/",
-      "lastCheckedAt": "2026-09-18T12:02:20.871425+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Here are some of the best ones: McDonald's: FREE Double Cheeseburger with a $1+ app purchase Burger King: FREE Bacon Cheeseburger with a $3+ purchase + Royal Perks Smashburger: Any single burger for $1 with an in-app order Wayback Burgers: Classic burgers for $3.50 Farmer Boys: $3.99 Big Cheeseburger for VIF members Applebee's: Cheeseburger + fries for $8.99 Wendy's: FREE Baconator with a $20+ pur",
-      "offerDetails": "Free Double Cheeseburger.",
-      "reportedStartsOn": "2026-09-15",
-      "redemptionReady": true
     },
     {
       "id": "scraped-933f914b06e694e8b01f",
@@ -4792,60 +4756,6 @@
         "purchase": "unknown"
       },
       "newCustomer": false
-    },
-    {
-      "id": "scraped-af90e7d3db7b0d0539c3",
-      "restaurant": "Subway",
-      "title": "$2 discount",
-      "subtitle": "",
-      "category": "side",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online or in the app.",
-        "Rewards membership required",
-        "With a purchase on fridays! \"i love the subway app! it's super easy to use promo codes, customize your order, schedule the order, and earn and apply rewards",
-        "Subway MVP Rewards members",
-        "All members"
-      ],
-      "redemptionSteps": [
-        "It's super easy to use promo codes, customize your order, schedule the order, AND earn and apply rewards.",
-        "Source instructions: 5. The Subway app lets you cash in rewards for a $2 discount. If you like to eat a footlong for lunch, give the Subway app a try. Hip2Save's Liz uses this app and hasn't paid full price for food since signing up! Right now, all new Subway MVP Rewards members get 250 points just for joining! When you're a member, you receive at least 10 points for every $1 spent and 5% more if you order through the app or online. When you hit 400 points, you can cash them in for a $2 discount on any menu item. All members receive special offers plus a birthday freebie, and if you spend $400 or more per year, you'll earn FREE chips with a purchase on Fridays! \"I love the Subway app! It's super easy to use promo codes, customize your order, schedule the order, AND earn and apply rewards. If you've earned one, they will have the option to apply it right there in the cart, no need to look around the app to see if you have one or not.\" – Jenna, Hip2Save team",
-        "Use your rewards membership to access this offer.",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://hip2save.com/deals/best-free-food-apps/",
-      "lastCheckedAt": "2026-10-13T20:18:48.352117+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "5. The Subway app lets you cash in rewards for a $2 discount. If you like to eat a footlong for lunch, give the Subway app a try. Hip2Save's Liz uses this app and hasn't paid full price for food since signing up! Right now, all new Subway MVP Rewards members get 250 points just for joining! When you're a member, you receive at least 10 points for every $1 spent and 5% more if you order through the app or online. When you hit 400 points, you can cash them in for a $2 discount on any menu item. All members receive special offers plus a birthday freebie, and if you spend $400 or more per year, you'll earn FREE chips with a purchase on Fridays! \"I love the Subway app! It's super easy to use promo codes, customize your order, schedule the order, AND earn and apply rewards. If you've earned one, they will have the option to apply it right there in the cart, no need to look around the app to see if you have one or not.\" – Jenna, Hip2Save team",
-      "offerDetails": "$2 discount.",
-      "membershipRequirement": "Rewards membership required",
-      "recurrenceLabel": "Every Friday",
-      "detailNotes": [
-        "5.",
-        "The Subway app lets you cash in rewards for a $2 discount.",
-        "If you like to eat a footlong for lunch, give the Subway app a try.",
-        "Hip2Save's Liz uses this app and hasn't paid full price for food since signing up!",
-        "Right now, all new Subway MVP Rewards members get 250 points just for joining!",
-        "When you're a member, you receive at least 10 points for every $1 spent and 5% more if you order through the app or online.",
-        "When you hit 400 points, you can cash them in for a $2 discount on any menu item.",
-        "If you've earned one, they will have the option to apply it right there in the cart, no need to look around the app to see if you have one or not.\" – Jenna, Hip2Save team"
-      ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "required",
-        "purchase": "required"
-      },
-      "newCustomer": true
     },
     {
       "category": "meal",

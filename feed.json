@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-16T18:16:29.135543+00:00",
+  "generatedAt": "2026-10-17T15:40:34.516212+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -5130,48 +5130,6 @@
         "app": "required",
         "account": "required",
         "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-aa637b5fb08b4b9ddac0",
-      "restaurant": "Pizza Hut",
-      "title": "Plus, add",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [],
-      "redemptionSteps": [
-        "Source instructions: Home > Deals > Sponsored Posts Share on Facebook (Opens in new window) Facebook Share on Pinterest (Opens in new window) Pinterest Share on H2S Email (Opens in new window) H2S Email Click to share on SMS (Opens in new window) SMS The Pizza Hut Big Dinner Box is back – starting at just $19.99! Feeding your family just got a whole lot better with this awesome Pizza Hut deal! Available through November 9th, Pizza Hut is bringing back its popular Big Dinner Box starting at just $19.99! Plus, add on a two-liter beverage for just $2 with promo code PEPSISETHUT at checkout! 🙌 *Note that upgrades will increase your final cost This box comes filled with two medium 1-topping pizzas, five breadsticks, and your choice of pasta or wings. With five different varieties of breadsticks, four types of pasta, and your choice of pizza toppings, wing spices, and rubs to choose from, there are lots of ways to upgrade a Big Dinner Box to make it just what your crew will love.",
-        "Use promo code PEPSISETHUT as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://hip2save.com/deals/pizza-hut-big-dinner-box/",
-      "lastCheckedAt": "2026-10-16T18:14:48.932808+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Home > Deals > Sponsored Posts Share on Facebook (Opens in new window) Facebook Share on Pinterest (Opens in new window) Pinterest Share on H2S Email (Opens in new window) H2S Email Click to share on SMS (Opens in new window) SMS The Pizza Hut Big Dinner Box is back – starting at just $19.99! Feeding your family just got a whole lot better with this awesome Pizza Hut deal! Available through November 9th, Pizza Hut is bringing back its popular Big Dinner Box starting at just $19.99! Plus, add on a two-liter beverage for just $2 with promo code PEPSISETHUT at checkout! 🙌 *Note that upgrades will increase your final cost This box comes filled with two medium 1-topping pizzas, five breadsticks, and your choice of pasta or wings. With five different varieties of breadsticks, four types of pasta, and your choice of pizza toppings, wing spices, and rubs to choose from, there are lots of ways to upgrade a Big Dinner Box to make it just what your crew will love.",
-      "offerDetails": "Plus, add.",
-      "reportedDates": "through November 9th",
-      "reportedEndsOn": "2026-11-09",
-      "detailNotes": [
-        "Home > Deals > Sponsored Posts Share on Facebook (Opens in new window) Facebook Share on Pinterest (Opens in new window) Pinterest Share on H2S Email (Opens in new window) H2S Email Click to share on SMS (Opens in new window) SMS The Pizza Hut Big Dinner Box is back – starting at just $19.99!",
-        "Feeding your family just got a whole lot better with this awesome Pizza Hut deal!",
-        "Available through November 9th, Pizza Hut is bringing back its popular Big Dinner Box starting at just $19.99!",
-        "Plus, add on a two-liter beverage for just $2 with promo code PEPSISETHUT at checkout! 🙌 *Note that upgrades will increase your final cost This box comes filled with two medium 1-topping pizzas, five breadsticks, and your choice of pasta or wings.",
-        "With five different varieties of breadsticks, four types of pasta, and your choice of pizza toppings, wing spices, and rubs to choose from, there are lots of ways to upgrade a Big Dinner Box to make it just what your crew will love."
-      ],
-      "code": "PEPSISETHUT",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
       },
       "newCustomer": false
     }

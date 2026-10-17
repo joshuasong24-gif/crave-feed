@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-17T17:25:35.816739+00:00",
+  "generatedAt": "2026-10-17T17:54:56.786476+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -6387,7 +6387,7 @@
       "fullTerms": "Happy hour Monday–Thursday4–6 PM: Sambussas(3 pieces)$8; Sampler Trio(sambussas, ayib gomen or mimita, and kayseer salad)$10; Ethiopian Style Tiramisu$8. The same-named regular Tiramisu is$13; with the user's same-named-serving presumption this is$5 less before taxes or charges. Identical serving is assumed, not explicitly stated. Chicago branch4801 N Broadway Street.",
       "id": "research-north018_demera_happy_hour",
       "isSample": false,
-      "lastCheckedAt": "2026-10-10T17:53:53.587444+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:50.769217+00:00",
       "purchaseRequired": false,
       "ratingReason": "Original owner evidence supports this specific recurring happy-hour offer. No unsupported comparator, selection or legacy fee is added.",
       "redemptionSteps": [
@@ -6427,7 +6427,7 @@
       "subtitle": "Sixteen-ounce Ayib $14 versus two eights $15",
       "fullTerms": "Demera, 4801 N Broadway St, lists Ayib (farmer’s cheese) 8oz $7.50 / 16oz $14. The sixteen-ounce option saves $1 versus two matching eight-ounce orders ($15), on nominal posted cheese quantity. No bread, sauces or duplicated accompaniments are valued. The source does not state whether oz is measured weight or volume. Venue hours: Monday–Thursday 4pm–9pm, Friday/Saturday 11:30am–10pm, Sunday 11:30am–9pm; last seating thirty minutes before close. No separate tier clock is posted. Order the sixteen-ounce named Ayib option; additional charges are unposted.",
       "sourceURL": "https://www.demerachicago.com/menu",
-      "lastCheckedAt": "2026-10-10T17:53:53.587444+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:50.769217+00:00",
       "isSample": false,
       "purchaseRequired": false,
       "requiresApp": false,
@@ -6485,7 +6485,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.demerachicago.com/menu",
-      "lastCheckedAt": "2026-10-10T17:53:53.587444+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:50.769217+00:00",
       "isSample": false,
       "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
       "fullTerms": "Buy Vegetable Bayanetu (Serves 2) for $52 from ordinary restaurant menu: first 9 vegetarian dishes. BAYAYNETU FOR 1 is $26.50, a sampling of all our vegan options excluding veggie sides. Two for-one entries cost $53; conditional nominal same 9 dish core difference $1. The Vegan menu has exactly 9 standalone preparations: MISIR WOT (SPICY), INGUDAI TIBS, KIK ALICHA, SHIRO (SPICY), GOMEN, QUOSTA, TIKLE GOMEN, YATKILT WOT, KAYSEER TIBS. The shared 9 dish mapping is contextual inference, not directly enumerated identity: no separate Vegetarian tab exists and no explicitly different recipe/dish set is stated. Same standard named preparation and for 1/serves 2 capacity presumed under this qualified mapping; physical dish/injera amounts unknown. One-person veggie sides excluded; any two-person side difference unvalued. The separate 6 dish Vegetarian Messob 43, 3 meat/3 veggie Demera Messob 52 and 8 dish 3 + Chef Selection Messob are not comparators. Extra Injera 2, Teff Injera 3/Sub Teff 3 optional, excluded from comparison. Ordinary in-person menu only; no alternate pickup/delivery prices. Offer clock/end, tax, fees, gratuity, stacking and current inventory unknown. Footer/structured restaurant hours conflict; no operating-hour or happy-hour clock is imposed on Bayanetu. Order in-restaurant at 4801 N Broadway Street from the ordinary menu and buy Vegetable Bayanetu (Serves 2), keeping its printed first-nine composition; ask about any optional injera and verify the menu price before paying.",
@@ -6576,7 +6576,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.kusanyacafe.org/",
-      "lastCheckedAt": "2026-10-10T17:38:45.910534+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:48.323835+00:00",
       "isSample": false,
       "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
       "fullTerms": "Buy the bare brewed Coffee dollar cup by ordering for-here at Kusanya Cafe 825 W 69th St. Owner says Coffee 1.59, fresh roasted and expertly brewed (try our \"dollar cup\" by ordering for-here). Dollar cup is interpreted as $1; regular $1.59 baseline shown for 12 oz, conditional same-Coffee standard-serving difference $0.59. No smaller/different coffee is stated. Dollar mug ounce capacity not separately printed; not claimed to be measured 12 oz or 16/20 oz. 12 oz, 16 oz, 20 oz sizes exist; larger prices on cafe menu boards, not online. Optional soy, almond, oat milk each .75; application of milk upcharges to dollar cup unknown and not free. Iced Coffee 1.83 is separate. Monday–Friday 7 am–1 pm service; Saturday/Sunday closed. Separate offer days/clock/end not listed. No companion purchase, coupon, membership or per-person limit stated in retained menu. Refill entitlement, tax/fees/gratuity, total and current availability unknown; no to-go/delivery/online dollar cup. Order the brewed Coffee for-here at the cafe 825 W 69th St and ask for the advertised dollar cup; keep optional upgrades separate and verify the register charge before paying.",
@@ -18722,150 +18722,6 @@
       "title": "Queen Mary Wednesday one-ounce Break-Even Bottle Night"
     },
     {
-      "id": "north022_flaco_group_sixpacks__surf_turf",
-      "restaurant": "Flaco's Tacos Edgewater",
-      "title": "Surf & Turf Six Pack",
-      "subtitle": "Exact six-pack $31.45",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "active",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Purchase the exact named six-pack and quantities"
-      ],
-      "redemptionSteps": [
-        "Order the exact fixed six-pack for delivery or pre-paid express pickup using the owner menu at the Edgewater branch."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://static1.squarespace.com/static/609fd9a84e9cf244cb46dcf2/t/6a6367079a31ba3563f14ea6/1786388792538/Flaco%27s+Takeout+Menu_7-2026.pdf",
-      "lastCheckedAt": "2026-10-10T21:14:52.961618+00:00",
-      "isSample": false,
-      "ratingReason": "Fresh evaluation of complete retained owner source; native installation and publication unexecuted",
-      "fullTerms": "Surf & Turf Six Pack $31.45: three Ground Marinated Steak tacos and three Shrimp tacos. Matching singles $5.45 and $5.45; regular3+3basket $32.70.  Buy the exact named fixed six-pack at the stated Edgewater branch. Owner menu provides delivery or pre-paid express pick-up at FLACOSTACOSONLINE.COM. All tacos are served on warm double corn tortillas. The PDF says Prices good as of 7/2026; this is an as-of label, not a campaign expiry.",
-      "locationDetails": "1116 W Granville Ave, Chicago",
-      "recurrenceLabel": "Owner-posted paid quantity menu; Times not listed; campaign end not posted",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "unknown",
-        "purchase": "required"
-      },
-      "savings": "Estimated menu saving $1.25 before tax, tips and fees",
-      "detailNotes": [
-        "Same named standard taco serving assumed; no explicit smaller/different six-pack taco is posted. Count and fixed recipe mix preserved.",
-        "Owner-posted paid quantity menu; Times not listed; campaign end not posted"
-      ],
-      "eligibleItems": [
-        "3 Ground Marinated Steak tacos",
-        "3 Shrimp tacos"
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "north022_flaco_group_sixpacks__pollo_loco",
-      "restaurant": "Flaco's Tacos Edgewater",
-      "title": "Pollo Loco Six Pack",
-      "subtitle": "Exact six-pack $22.45",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "active",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Purchase the exact named six-pack and quantities"
-      ],
-      "redemptionSteps": [
-        "Order the exact fixed six-pack for delivery or pre-paid express pickup using the owner menu at the Edgewater branch."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://static1.squarespace.com/static/609fd9a84e9cf244cb46dcf2/t/6a6367079a31ba3563f14ea6/1786388792538/Flaco%27s+Takeout+Menu_7-2026.pdf",
-      "lastCheckedAt": "2026-10-10T21:14:52.961618+00:00",
-      "isSample": false,
-      "ratingReason": "Fresh evaluation of complete retained owner source; native installation and publication unexecuted",
-      "fullTerms": "Pollo Loco Six Pack $22.45: three Street Corn Chicken tacos and three Ancho Chicken tacos. Matching singles $4.45 and $3.45; regular3+3basket $23.70.  Buy the exact named fixed six-pack at the stated Edgewater branch. Owner menu provides delivery or pre-paid express pick-up at FLACOSTACOSONLINE.COM. All tacos are served on warm double corn tortillas. The PDF says Prices good as of 7/2026; this is an as-of label, not a campaign expiry.",
-      "locationDetails": "1116 W Granville Ave, Chicago",
-      "recurrenceLabel": "Owner-posted paid quantity menu; Times not listed; campaign end not posted",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "unknown",
-        "purchase": "required"
-      },
-      "savings": "Estimated menu saving $1.25 before tax, tips and fees",
-      "detailNotes": [
-        "Same named standard taco serving assumed; no explicit smaller/different six-pack taco is posted. Count and fixed recipe mix preserved.",
-        "Owner-posted paid quantity menu; Times not listed; campaign end not posted"
-      ],
-      "eligibleItems": [
-        "3 Street Corn Chicken tacos",
-        "3 Ancho Chicken tacos"
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "north022_flaco_group_sixpacks__meatless_mexican",
-      "restaurant": "Flaco's Tacos Edgewater",
-      "title": "Meatless Mexican Six Pack",
-      "subtitle": "Exact six-pack $19.45",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "active",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Purchase the exact named six-pack and quantities"
-      ],
-      "redemptionSteps": [
-        "Order the exact fixed six-pack for delivery or pre-paid express pickup using the owner menu at the Edgewater branch."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://static1.squarespace.com/static/609fd9a84e9cf244cb46dcf2/t/6a6367079a31ba3563f14ea6/1786388792538/Flaco%27s+Takeout+Menu_7-2026.pdf",
-      "lastCheckedAt": "2026-10-10T21:14:52.961618+00:00",
-      "isSample": false,
-      "ratingReason": "Fresh evaluation of complete retained owner source; native installation and publication unexecuted",
-      "fullTerms": "Meatless Mexican Six Pack $19.45: three Poblano tacos and three Black Bean Fajita tacos. Matching singles $3.95 and $2.95; regular3+3basket $20.70.  Buy the exact named fixed six-pack at the stated Edgewater branch. Owner menu provides delivery or pre-paid express pick-up at FLACOSTACOSONLINE.COM. All tacos are served on warm double corn tortillas. The PDF says Prices good as of 7/2026; this is an as-of label, not a campaign expiry.",
-      "locationDetails": "1116 W Granville Ave, Chicago",
-      "recurrenceLabel": "Owner-posted paid quantity menu; Times not listed; campaign end not posted",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "unknown",
-        "purchase": "required"
-      },
-      "savings": "Estimated menu saving $1.25 before tax, tips and fees",
-      "detailNotes": [
-        "Same named standard taco serving assumed; no explicit smaller/different six-pack taco is posted. Count and fixed recipe mix preserved.",
-        "Owner-posted paid quantity menu; Times not listed; campaign end not posted"
-      ],
-      "eligibleItems": [
-        "3 Poblano tacos",
-        "3 Black Bean Fajita tacos"
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
       "id": "312deals-7948",
       "restaurant": "Griddle24",
       "title": "Early Riser Eggs Benedict $10.99",
@@ -23111,7 +22967,7 @@
       "fullTerms": "Tuman’s Tap & Grill, 2159 W Chicago Ave, Chicago. Tequila Tuesdays 6–10pm: additive-free one-ounce pours of Fidencio Espadin Mezcal $6, Real Del Valle Tequila Blanco $5 and Arette Artesanal Reposado $7. Sunday Bourbon Happy Hour 5–9pm: one-ounce Sazerac Straight Rye Whiskey $6 and Buffalo Trace Straight Bourbon Whiskey $7. Prices, brands, one-ounce pours and both windows were actually read from the recovered original owner poster. Savings unknown; no unspecified or two-ounce regular-menu pour is used as a numerical comparator.",
       "id": "research-west018_tumans_tuesday_sunday_pour_happyhour",
       "isSample": false,
-      "lastCheckedAt": "2026-10-10T17:56:41.546753+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:54.080067+00:00",
       "purchaseRequired": false,
       "ratingReason": "Actual original owner material supports the specific prepared on-premise happy-hour subset; retained source reports are distinguished from derived mapping fields.",
       "redemptionSteps": [
@@ -23168,7 +23024,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Angel’s Envy for $18.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 86.6, origin Kentucky, lists 1 oz $10.00 and 2 oz $18.00; two 1 oz pours cost $20.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23214,7 +23070,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Blanton’s Single Barrel for $20.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 93, origin Kentucky, lists 1 oz $12.00 and 2 oz $20.00; two 1 oz pours cost $24.00. Menu saving $4.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23260,7 +23116,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Blue Run Kentucky Straight High Rye Bourbon for $18.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 111, origin Kentucky, lists 1 oz $10.00 and 2 oz $18.00; two 1 oz pours cost $20.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23306,7 +23162,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Buffalo Trace Bourbon for $14.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 90, origin Kentucky, lists 1 oz $8.00 and 2 oz $14.00; two 1 oz pours cost $16.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23352,7 +23208,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Buffalo Trace Kosher Rye Recipe Bourbon for $20.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 94, origin Kentucky, lists 1 oz $12.00 and 2 oz $20.00; two 1 oz pours cost $24.00. Menu saving $4.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23398,7 +23254,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Eagle Rare Single Barrel 10 yr. for $16.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 90, origin Kentucky, lists 1 oz $9.00 and 2 oz $16.00; two 1 oz pours cost $18.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23444,7 +23300,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of High West A Midwinter Night’s Dram for $20.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 98.6, origin Utah, lists 1 oz $12.00 and 2 oz $20.00; two 1 oz pours cost $24.00. Menu saving $4.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23490,7 +23346,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of John J. Bowman Bourbon 100 Proof for $18.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 100, origin Virginia, lists 1 oz $10.00 and 2 oz $18.00; two 1 oz pours cost $20.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23536,7 +23392,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Judson & Moore Rye for $12.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 94, origin Chicago, Illinois, lists 1 oz $7.00 and 2 oz $12.00; two 1 oz pours cost $14.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23582,7 +23438,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Knob Creek Blender’s Edition for $16.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 106, origin Kentucky, lists 1 oz $9.00 and 2 oz $16.00; two 1 oz pours cost $18.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23628,7 +23484,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Mitchell & Son Yellow Spot Pot Still Whiskey 12 yr. for $18.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 92, origin County Cork, Ireland, lists 1 oz $10.00 and 2 oz $18.00; two 1 oz pours cost $20.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23674,7 +23530,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Old Ezra 7 yr. Barrel Strength Bourbon for $18.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 117, origin Kentucky, lists 1 oz $10.00 and 2 oz $18.00; two 1 oz pours cost $20.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23720,7 +23576,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Old Forester Statesmen for $18.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 95, origin Kentucky, lists 1 oz $10.00 and 2 oz $18.00; two 1 oz pours cost $20.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23766,7 +23622,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Peerless Small Batch Bourbon for $27.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 111.5, origin Kentucky, lists 1 oz $15.00 and 2 oz $27.00; two 1 oz pours cost $30.00. Menu saving $3.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23812,7 +23668,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Rebel 100 Wheated Bourbon for $12.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 100, origin Kentucky, lists 1 oz $7.00 and 2 oz $12.00; two 1 oz pours cost $14.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23858,7 +23714,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Redwood Empire Emerald Giant Rye Whiskey for $14.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 90, origin California, lists 1 oz $8.00 and 2 oz $14.00; two 1 oz pours cost $16.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23904,7 +23760,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Redwood Empire Lost Monarch for $14.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 90, origin California, lists 1 oz $8.00 and 2 oz $14.00; two 1 oz pours cost $16.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23950,7 +23806,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Stagg Jr. Straight Bourbon Whiskey for $20.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 125.6, origin Kentucky, lists 1 oz $12.00 and 2 oz $20.00; two 1 oz pours cost $24.00. Menu saving $4.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -23996,7 +23852,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Stranahan's Colorado Single Malt Whiskey for $16.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 94, origin Colorado, lists 1 oz $9.00 and 2 oz $16.00; two 1 oz pours cost $18.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -24042,7 +23898,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of W.L. Weller Antique 107 for $20.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 107, origin Kentucky, lists 1 oz $12.00 and 2 oz $20.00; two 1 oz pours cost $24.00. Menu saving $4.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -24088,7 +23944,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of W.L. Weller Special Reserve Bourbon for $18.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 90, origin Kentucky, lists 1 oz $10.00 and 2 oz $18.00; two 1 oz pours cost $20.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -24134,7 +23990,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/whiskey-list.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:29.324579+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:46.735509+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Westward Single Malt Whiskey Pinot Noir Cask for $18.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 90, origin Oregon, lists 1 oz $10.00 and 2 oz $18.00; two 1 oz pours cost $20.00. Menu saving $2.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -24180,7 +24036,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/cocktail_menu.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:26.007221+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:49.153445+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Casa De Cortes Agave de Cortes Mezcal Joven for $17.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 90, origin Oaxaca, Mexico, lists 1 oz $9.00 and 2 oz $17.00; two 1 oz pours cost $18.00. Menu saving $1.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -24226,7 +24082,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/cocktail_menu.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:26.007221+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:49.153445+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Mijenta Blanco Tequila for $13.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 80, origin Jalisco. Mexico, lists 1 oz $7.00 and 2 oz $13.00; two 1 oz pours cost $14.00. Menu saving $1.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -24272,7 +24128,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/cocktail_menu.pdf",
-      "lastCheckedAt": "2026-10-10T17:56:26.007221+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:49.153445+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one 2 oz pour of Mijenta Reposado Tequila for $19.00 from Tuman’s restaurant menu at 2159 W Chicago Ave, Chicago. The exact same named brand row, proof 80, origin Jalisco, Mexico, lists 1 oz $10.00 and 2 oz $19.00; two 1 oz pours cost $20.00. Menu saving $1.00 for the same 2 oz total. Exact brand/proof and 1 oz/2 oz header are source-backed; usual same named spirit recipe is presumed. Pour measurement and optional mixers are unverified. Specific offer times and calendar end are not listed; only posted menu availability is supported. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown. This comparison is against two regular-menu 1 oz pours, not every separately available Happy Hour route. Existing Tuesday/Sunday 1 oz specials are separate; no stacking or best-price guarantee is claimed.",
@@ -24319,7 +24175,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://www.tumanstapandgrill.com/images/tumans-late-night-menu-aug-2026.jpg",
-      "lastCheckedAt": "2026-10-10T17:56:32.162398+00:00",
+      "lastCheckedAt": "2026-10-17T16:28:51.554548+00:00",
       "isSample": false,
       "ratingReason": "Complete saved owner-menu terms reviewed; live availability and final charges unverified.",
       "fullTerms": "Buy one exact named late-night sandwich with the source “With Hand-Cut Fries: add 3” option at Tuman’s, 2159 W Chicago Ave: Slagel Family Farm Smashburger sandwich $9 + Hand-Cut Fries $3 = $12, versus the same sandwich plus standalone Hand-Cut Fries $7 = $16; Pork Burger sandwich $7 + Hand-Cut Fries $3 = $10, versus the same sandwich plus standalone Hand-Cut Fries $7 = $14; Honey-Rosemary Fried Chicken Sandwich sandwich $12 + Hand-Cut Fries $3 = $15, versus the same sandwich plus standalone Hand-Cut Fries $7 = $19. Each route saves $4 under the same named standard fries serving assumption; fries weights are unposted. Recipes: Slagel Family Farm Smashburger: quarter-pound custom sirloin/short-rib/chuck burger, American cheese, not-secret sauce, pickles, griddled onions, brioche bun; Pork Burger: third-pound Slagel Family Farm pork patty, choice of cheese, spicy mayo slaw with red/green cabbage and carrots, pickles, brioche bun; Honey-Rosemary Fried Chicken Sandwich: Amish chicken breast, special sauce, lettuce, tomatoes, brioche bun. The Pork Burger full regular meal explicitly includes the same third-pound patty, named toppings, brioche and fries for $14, independently confirming $10 versus $14. The regular $20 beef cheeseburger and $16 grilled-chicken sandwich have different recipes and are not baselines. Pork cheese choices: American, Pepper Jack, Gorgonzola, Sharp Cheddar or Swiss from the regular same-named menu; verify the choice with staff. Every Friday and Saturday late-night kitchen 10 pm–midnight America/Chicago; last call 11:40 pm, 20 minutes before close. Orders must be placed by 11:40 pm; no midnight ordering promise. Owner menu footer: “*These items are cooked to order. The Chicago Department of Health advises that consumption of raw or undercooked foods of animal origin, such as beef, eggs, fish, lamb, pork, poultry, or shellfish, may result in an increased risk of foodborne illness. Individuals with certain underlying health conditions should consult their physician or public health official for further information. NOTICE TO CONSUMERS: Please communicate any food allergies to an employee of this establishment and that employee shall communicate that food allergy information to the Person in Charge (PIC) or Certified Food Protection Manager (CFPM) on duty at this restaurant. Illinois Department of Health. This notice is mandated by PA 101-0495 (HB3018) 410 ILCS 625/3.08 effective 08/23/19.” The notice’s effective date is not a menu price-check date or campaign expiry. Amounts are USD menu prices before tax, fees, optional extras and gratuity. Final total, inventory, current restaurant acceptance and calendar end are unverified; unposted charges are unknown.",
@@ -25088,6 +24944,945 @@
         "Currently advertised owner promotion; Times not listed; calendar end unknown"
       ],
       "timeWindow": "Times not listed"
+    },
+    {
+      "id": "southside058_daley_weekday_breakfast_specials",
+      "restaurant": "Daley’s Restaurant",
+      "title": "Two weekday breakfast baskets for $22",
+      "subtitle": "Save $1.90 before tax against two matching single specials",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Monday–Thursday only",
+        "Buy two matching complete poster breakfast baskets",
+        "Tax extra;3%credit-card fee and applicable 18%large-party service charge"
+      ],
+      "redemptionSteps": [
+        "On Monday–Thursday, phone Daley’s at 773.643.6670 for pickup or place the order at the front desk at 6257 S Cottage Grove Ave. Buy two matching advertised breakfast baskets for $22 plus tax, choosing the posted eggs, Pancakes/French Toast/Waffle, Hashbrowns/Rice/Grits and one listed breakfast side for each. Confirm availability, price, tax and payment fees before paying; third-party delivery prices are not part of this comparison."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.daleysrestaurant.com/img/daleys-breakfast-special.jpg",
+      "lastCheckedAt": "2026-10-17T16:28:42.790013+00:00",
+      "isSample": false,
+      "ratingReason": "Complete saved owner-source audit. Native delivery, publication and checkout unexecuted.",
+      "fullTerms": "Daley’s Restaurant, 6257 S Cottage Grove Ave, Chicago, IL 60637. BREAKFAST Specials available Monday–Thursday only: one for $11.95 plus tax; two for $22 plus tax. Buy two matching complete breakfast baskets for $22 plus tax. Each basket contains 2 eggs any style, your choice of Pancakes, French Toast or Waffle, your choice of Hashbrowns, Rice or Grits, and 1 breakfast side from sausage patties, pork links, bacon, hot links, turkey links or turkey bacon. Two same described standard baskets would cost 2 ×  $11.95= $23.90 as individual specials, so the two-for $22 basket saves $1.90 before tax, fees and tip. Matching choices/standard servings assumed unless explicitly different; pancake/side piece counts unposted and unvalued. No independent regular-menu substitution baseline selected. Owner notice says pickup or delivery only until further notice and explicitly permits phone ordering at 773.643.6670 for pickup or ordering at the front desk. This exact scope uses phone/front-desk pickup only; UberEats pricing not verified or transferred. The notice body cites COVID restrictions, so no current dine-in claim is made. Menu prices exclude sales tax, may change without notice;3%fee for credit-card payments, 18%service charge for six or more. Booths reserved for three or more at busy times with minimum $5 charge per person; not responsible for lost items. The special is a two-breakfast basket. Large-party service fees and booth restrictions apply in their stated circumstances. Cooked-to-order items: raw or undercooked meats, poultry, seafood, shellfish or eggs may increase foodborne-illness risk, especially with certain medical conditions. Poster choices govern the special; unlisted substitutions/extras and other regular breakfast meals are not automatically eligible. No stacking stated. Monday–Thursday only; exact breakfast clock and end not listed. Restaurant 7 am–5 pmhours are service context, not an offer window.",
+      "locationDetails": "6257 S Cottage Grove Ave, Chicago, IL 60637",
+      "recurrenceLabel": "Monday–Thursday only; Times not listed; campaign end unposted",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false,
+      "savings": "$1.90 before-tax/fee/tip saving on two matching baskets"
+    },
+    {
+      "id": "southside058_daley_weekday_complete_dinners",
+      "restaurant": "Daley’s Restaurant",
+      "title": "Weekday complete dinner for $16.95",
+      "subtitle": "Soup + two matched sides + dessert support $5.45 component savings",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Monday–Thursday only",
+        "Buy one complete poster dinner for $16.95 plus tax",
+        "Phone/front-desk pickup only",
+        "3% credit-card fee; applicable 18% service charge for six or more"
+      ],
+      "redemptionSteps": [
+        "On Monday–Thursday, phone 773.643.6670 for pickup or order at the front desk. Buy one complete dinner for $16.95 plus tax and choose one posted entrée, soup or salad, two posted sides and one posted dessert. Confirm current availability, applicable card fee and the price before paying. To use the $5.45 component-cost estimate choose soup, two of the eight matched $4.95 sides and either posted dessert; salad or spaghetti numerical saving is unknown."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.daleysrestaurant.com/img/daleys-dinner-special.jpg",
+      "lastCheckedAt": "2026-10-17T16:28:42.790013+00:00",
+      "isSample": false,
+      "ratingReason": "Complete saved owner-source path; native, publication and checkout unexecuted.",
+      "fullTerms": "Daley’s Restaurant, 6257 S Cottage Grove Ave, Chicago, IL 60637. Complete DINNERS Specials available Monday–Thursday only: buy one complete dinner for $16.95 plus tax. Choose one entrée from Meatloaf, Turkey & Dressing, Smothered Pork Chops, Liver & Onions or Baked Chicken, all topped with homemade beef gravy. Includes soup or salad, choose two sides from Mac & Cheese, French Fries, Fresh Collard Greens, Homemade Sweet Potatoes, Red Beans, Mashed Potatoes, Homemade Cornbread Dressing, String Beans with White Potatoes or Spaghetti with Meat Sauce, and choose one dessert from Peach Cobbler or Sweet Potato Pie. Use phone 773.643.6670 to order pickup or place the order at the front desk, as the owner notice explicitly permits. The owner banner/notice states pickup or delivery only until further notice; this source scope uses pickup only and retains the historical COVID explanation without inferring campaign expiry or dine-in availability. For a soup choice, two of the eight matched $4.95 sides (all listed sides except Spaghetti with Meat Sauce) and either matched $6.25 dessert, component regular prices $6.25 + 2 × $4.95 + $6.25 = $22.40 exceed the full $16.95 special by $5.45 before tax/fees/tip. This is a conditional component-cost lower bound with the entrée and bread unvalued, using the same named ordinary soup/side/dessert recipes and standard servings because no different size is stated. Numerical saving is unknown for salad or spaghetti choices; full entrée salads and plain fried/grilled pork chops are not substituted as exact baselines. Regular component recipe qualifiers remain: mac & cheese made in-house, collards with smoked turkey, red beans cooked with pork, mashed potatoes optional gravy, cornbread dressing with cranberry sauce and gravy; French Fries cheese adds $1.25 and is not included in the calculation. Menu prices exclude sales tax, may change without notice; 3% fee applies to credit-card payment and 18% service charge for parties of six or more. Booths reserved for three or more at busy hours with minimum $5 charge per person; not responsible for lost items. Cooked-to-order/raw or undercooked meats, poultry, seafood, shellfish or eggs may increase foodborne-illness risk, especially with certain medical conditions. No stacking stated. No unlisted substitutions/extras guaranteed. Monday–Thursday only; Times not listed and campaign end unknown; restaurant 7am–5pm hours are service context only. No breakfast price, eggs or two-basket quantities enter this dinner benefit. No third-party delivery price equivalence is claimed.",
+      "locationDetails": "6257 S Cottage Grove Ave, Chicago, IL 60637",
+      "recurrenceLabel": "Monday–Thursday only; Times not listed; campaign end unknown",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false,
+      "savings": "Conditional $5.45 component-cost lower bound for soup + two matched $4.95 sides + either $6.25 dessert; otherwise Savings unknown",
+      "timeWindow": "Times not listed"
+    },
+    {
+      "id": "312deals-57123",
+      "restaurant": "Calo Ristorante",
+      "title": "Monday · Fried Chicken · $13.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the named Monday Daily Special at $13.95",
+        "Pickup or delivery only; $5 delivery charge",
+        "Select the exact posted inclusion choices; taxes excluded"
+      ],
+      "redemptionSteps": [
+        "On Monday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Fried Chicken Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/promo/",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Every Monday, buy Fried Chicken for $13.95. Pickup or delivery only. With soup, salad or coleslaw and choice pasta or potato. Savings unknown: Monday amount is unposted; regular Fried Chicken is explicitly Half 15.95 and not assumed the same amount. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. The linked View More detail body is unretained; its possible additional content is unknown and is not represented as read or passed. This row is only the independent complete posted day/price/channel/choice menu scope; wider/unseen detail claims remain held. On Monday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Fried Chicken Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Every Monday; source-advertised Daily Special; separate offer times/end not listed",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "Savings unknown"
+    },
+    {
+      "id": "312deals-57124",
+      "restaurant": "Calo Ristorante",
+      "title": "Tuesday · Full Slab Rib Night · $19.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the named Tuesday Daily Special at $19.95",
+        "Pickup or delivery only; $5 delivery charge",
+        "Select the exact posted inclusion choices; taxes excluded"
+      ],
+      "redemptionSteps": [
+        "On Tuesday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Full Slab Rib Night Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/promo/",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Every Tuesday, buy Full Slab Rib Night for $19.95. Pickup or delivery only. With soup, salad or coleslaw and choice pasta or potato. Conditional named food-core comparison: BBQ Baby Back Ribs Full Slab at $22.95 versus $19.95; difference $3.00, same named standard preparation presumed unless explicitly different. Exact physical weights and counts are unposted beyond named quantities; inclusions/side amounts are not valued or asserted identical. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. The linked View More detail body is unretained; its possible additional content is unknown and is not represented as read or passed. This row is only the independent complete posted day/price/channel/choice menu scope; wider/unseen detail claims remain held. On Tuesday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Full Slab Rib Night Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Every Tuesday; source-advertised Daily Special; separate offer times/end not listed",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$3.00 conditional matching menu saving before tax, fees and tip"
+    },
+    {
+      "id": "312deals-57125",
+      "restaurant": "Calo Ristorante",
+      "title": "Wednesday · Spaghetti With Meatballs Or Sausage · $15.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the named Wednesday Daily Special at $15.95",
+        "Pickup or delivery only; $5 delivery charge",
+        "Select the exact posted inclusion choices; taxes excluded"
+      ],
+      "redemptionSteps": [
+        "On Wednesday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Spaghetti With Meatballs Or Sausage Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/promo/",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Every Wednesday, buy Spaghetti With Meatballs Or Sausage for $15.95. Pickup or delivery only. Choice of soup, salad or cole slaw. With bread and parmesan cheese. Conditional named food-core comparison: Spaghetti with Meat or Marinara Sauce 15.95 + Add Meatball or Italian Sausage 4.00 at $19.95 versus $15.95; difference $4.00, same named standard preparation presumed unless explicitly different. Exact physical weights and counts are unposted beyond named quantities; inclusions/side amounts are not valued or asserted identical. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. The linked View More detail body is unretained; its possible additional content is unknown and is not represented as read or passed. This row is only the independent complete posted day/price/channel/choice menu scope; wider/unseen detail claims remain held. On Wednesday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Spaghetti With Meatballs Or Sausage Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Every Wednesday; source-advertised Daily Special; separate offer times/end not listed",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$4.00 conditional matching menu saving before tax, fees and tip"
+    },
+    {
+      "id": "312deals-57126",
+      "restaurant": "Calo Ristorante",
+      "title": "Thursday · Baked Lasagna (Meat Or Veggie) · $15.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the named Thursday Daily Special at $15.95",
+        "Pickup or delivery only; $5 delivery charge",
+        "Select the exact posted inclusion choices; taxes excluded"
+      ],
+      "redemptionSteps": [
+        "On Thursday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Baked Lasagna (Meat Or Veggie) Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/promo/",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Every Thursday, buy Baked Lasagna (Meat Or Veggie) for $15.95. Pickup or delivery only. Choice of soup, salad or coleslaw. With bread and parmesan cheese. Conditional named food-core comparison: Baked Lasagna Bolognese or Vegetarian Baked Lasagna at $16.95 versus $15.95; difference $1.00, same named standard preparation presumed unless explicitly different. Exact physical weights and counts are unposted beyond named quantities; inclusions/side amounts are not valued or asserted identical. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. The linked View More detail body is unretained; its possible additional content is unknown and is not represented as read or passed. This row is only the independent complete posted day/price/channel/choice menu scope; wider/unseen detail claims remain held. On Thursday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Baked Lasagna (Meat Or Veggie) Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Every Thursday; source-advertised Daily Special; separate offer times/end not listed",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$1.00 conditional matching menu saving before tax, fees and tip"
+    },
+    {
+      "id": "312deals-57127",
+      "restaurant": "Calo Ristorante",
+      "title": "Friday · Grilled Atlantic Salmon · $24.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the named Friday Daily Special at $24.95",
+        "Pickup or delivery only; $5 delivery charge",
+        "Select the exact posted inclusion choices; taxes excluded"
+      ],
+      "redemptionSteps": [
+        "On Friday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Grilled Atlantic Salmon Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/promo/",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Every Friday, buy Grilled Atlantic Salmon for $24.95. Pickup or delivery only. With soup, salad or coleslaw and choice pasta or potato. Conditional named food-core comparison: Grilled Atlantic Salmon at $26.95 versus $24.95; difference $2.00, same named standard preparation presumed unless explicitly different. Exact physical weights and counts are unposted beyond named quantities; inclusions/side amounts are not valued or asserted identical. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. The linked View More detail body is unretained; its possible additional content is unknown and is not represented as read or passed. This row is only the independent complete posted day/price/channel/choice menu scope; wider/unseen detail claims remain held. On Friday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Grilled Atlantic Salmon Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Every Friday; source-advertised Daily Special; separate offer times/end not listed",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$2.00 conditional matching menu saving before tax, fees and tip"
+    },
+    {
+      "id": "312deals-57128",
+      "restaurant": "Calo Ristorante",
+      "title": "Saturday · Gnocchi Gorgonzola · $17.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the named Saturday Daily Special at $17.95",
+        "Pickup or delivery only; $5 delivery charge",
+        "Select the exact posted inclusion choices; taxes excluded"
+      ],
+      "redemptionSteps": [
+        "On Saturday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Gnocchi Gorgonzola Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/promo/",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Every Saturday, buy Gnocchi Gorgonzola for $17.95. Pickup or delivery only. With bread and parmesan cheese. Conditional named food-core comparison: Gnocchi Gorgonzola at $18.95 versus $17.95; difference $1.00, same named standard preparation presumed unless explicitly different. Exact physical weights and counts are unposted beyond named quantities; inclusions/side amounts are not valued or asserted identical. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. The linked View More detail body is unretained; its possible additional content is unknown and is not represented as read or passed. This row is only the independent complete posted day/price/channel/choice menu scope; wider/unseen detail claims remain held. On Saturday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Gnocchi Gorgonzola Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Every Saturday; source-advertised Daily Special; separate offer times/end not listed",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$1.00 conditional matching menu saving before tax, fees and tip"
+    },
+    {
+      "id": "312deals-57129",
+      "restaurant": "Calo Ristorante",
+      "title": "Sunday · Chicken Parmigiana · $17.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the named Sunday Daily Special at $17.95",
+        "Pickup or delivery only; $5 delivery charge",
+        "Select the exact posted inclusion choices; taxes excluded"
+      ],
+      "redemptionSteps": [
+        "On Sunday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Chicken Parmigiana Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/promo/",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Every Sunday, buy Chicken Parmigiana for $17.95. Pickup or delivery only. With soup, salad or coleslaw and choice pasta or potato. Conditional named food-core comparison: Chicken Parmigiana at $19.95 versus $17.95; difference $2.00, same named standard preparation presumed unless explicitly different. Exact physical weights and counts are unposted beyond named quantities; inclusions/side amounts are not valued or asserted identical. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. The linked View More detail body is unretained; its possible additional content is unknown and is not represented as read or passed. This row is only the independent complete posted day/price/channel/choice menu scope; wider/unseen detail claims remain held. On Sunday, use the Calo owner delivery/carryout menu or call 773-271-7782 to buy the named Chicken Parmigiana Daily Special for pickup or delivery at 5343 N Clark St; select only the posted choices and verify the charge before paying.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Every Sunday; source-advertised Daily Special; separate offer times/end not listed",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$2.00 conditional matching menu saving before tax, fees and tip"
+    },
+    {
+      "id": "north017_calo_shared_family_quantity__frutti_pickup_delivery",
+      "restaurant": "Calo Ristorante",
+      "title": "Frutti di Mare Alla Griglia · pickup/delivery · $46.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the exact named menu format at $46.95",
+        "Pickup/delivery menu only; $5 delivery charge",
+        "Same named standard preparation presumed; unposted physical amounts and included extras disclosed"
+      ],
+      "redemptionSteps": [
+        "Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/wp-content/uploads/2024/03/Calo-Catering-and-To-Go-11-06-25-P2.jpg",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Buy Full Frutti di Mare Alla Griglia at $46.95. Full serves 4–6; Half serves 2–3 at $29.95; 2 halves cost $59.90. Grilled shrimp, scallops, octopus, calamari served over rapini & beans. Nominal full/half and combined serving ranges match. Same named standard dish presumed unless explicitly different; seafood counts/weights unknown. No lunch/full substitution or cross-channel comparison. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$12.95 conditional matching menu saving before tax, fees and tip",
+      "detailNotes": [
+        "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted"
+      ],
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "menu_special",
+        "neighborhood": "",
+        "days": [],
+        "allDay": false
+      }
+    },
+    {
+      "id": "north017_calo_shared_family_quantity__frutti_dinner",
+      "restaurant": "Calo Ristorante",
+      "title": "Frutti di Mare Alla Griglia · dine_in_dinner · $54.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the exact named menu format at $54.95",
+        "Dinner dine-in menu only",
+        "Same named standard preparation presumed; unposted physical amounts and included extras disclosed"
+      ],
+      "redemptionSteps": [
+        "Order in-restaurant from the dinner menu after 3 pm at 5343 N Clark St and buy the Full Frutti dish."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/wp-content/uploads/2024/05/Calo-Italian-Restaurant-Dinner-8-29-25-1.jpg",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Buy Full Frutti di Mare Alla Griglia at $54.95. Full serves 4–6; Half serves 2–3 at $34.95; 2 halves cost $69.90. Grilled shrimp, scallops, octopus, calamari over cannellini beans & rapini sautéed in garlic & olive oil. Nominal full/half and combined serving ranges match. Same named standard dish presumed unless explicitly different; seafood counts/weights unknown. No lunch/full substitution or cross-channel comparison. Dinner menu begins 3 pm. Owner dine-in hours Sunday–Thursday 12 pm–9:30 pm and Friday–Saturday 12 pm–10:30 pm; carryout printed brochure shows dine-in close 9:15/10:15, a retained 15 minute discrepancy, not an offer window. Closed Thanksgiving and Christmas. Prices are subject to change without notice. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. Tax, fees, gratuity, stacking, inventory and offer end are unposted/unverified; no all-in comparison. Order in-restaurant from the dinner menu after 3 pm at 5343 N Clark St and buy the Full Frutti dish.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$14.95 conditional matching menu saving before tax, fees and tip",
+      "detailNotes": [
+        "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted"
+      ],
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "menu_special",
+        "neighborhood": "",
+        "days": [],
+        "allDay": false
+      }
+    },
+    {
+      "id": "north017_calo_shared_family_quantity__ribs_two_slabs",
+      "restaurant": "Calo Ristorante",
+      "title": "Tub of BBQ Baby Back Ribs · 2 Full Slabs · $42.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the exact named menu format at $42.95",
+        "Pickup/delivery menu only; $5 delivery charge",
+        "Same named standard preparation presumed; unposted physical amounts and included extras disclosed"
+      ],
+      "redemptionSteps": [
+        "Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/wp-content/uploads/2024/03/Calo-Catering-and-To-Go-11-06-25-P2.jpg",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Buy Tub of BBQ Baby Back Ribs: 2 Full Slabs 42.95 versus 2 ordinary Full Slabs at 22.95 each, total 45.90; matching rib-core difference $ $2.95. Family ribs include choice of pasta or potato, 1 lb cole slaw and bread. Ordinary entrees include pasta/potato choice and bread. Same standard slab presumed; actual weights and side/bread amounts unknown, extras unvalued and whole baskets not asserted identical. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$2.95 conditional matching menu saving before tax, fees and tip",
+      "detailNotes": [
+        "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted"
+      ],
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "menu_special",
+        "neighborhood": "",
+        "days": [],
+        "allDay": false
+      }
+    },
+    {
+      "id": "north017_calo_shared_family_quantity__ribs_four_slabs",
+      "restaurant": "Calo Ristorante",
+      "title": "Double Tub of BBQ Baby Back Ribs · 4 Full Slabs · $79.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the exact named menu format at $79.95",
+        "Pickup/delivery menu only; $5 delivery charge",
+        "Same named standard preparation presumed; unposted physical amounts and included extras disclosed"
+      ],
+      "redemptionSteps": [
+        "Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/wp-content/uploads/2024/03/Calo-Catering-and-To-Go-11-06-25-P2.jpg",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Buy Double Tub of BBQ Baby Back Ribs: 4 Full Slabs 79.95 versus 2 Two Slab Tubs at 42.95 each, total 85.90; matching rib-core difference $ $5.95. Family ribs include choice of pasta or potato, 1 lb cole slaw and bread; whether Double Tub doubles side/slaw/bread amounts is unstated. 2 separate tubs nominally provide 2 one-pound slaw portions. Same standard slab presumed; extras unvalued, whole baskets not asserted identical. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$5.95 conditional matching menu saving before tax, fees and tip",
+      "detailNotes": [
+        "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted"
+      ],
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "menu_special",
+        "neighborhood": "",
+        "days": [],
+        "allDay": false
+      }
+    },
+    {
+      "id": "north017_calo_shared_family_quantity__fried_chicken16_garlic3",
+      "restaurant": "Calo Ristorante",
+      "title": "Family 16 pc Fried Chicken & 3 Garlic Bread · $36.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the exact named menu format at $36.95",
+        "Pickup/delivery menu only; $5 delivery charge",
+        "Same named standard preparation presumed; unposted physical amounts and included extras disclosed"
+      ],
+      "redemptionSteps": [
+        "Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/wp-content/uploads/2024/03/Calo-Catering-and-To-Go-11-06-25-P2.jpg",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Buy Family 16 pc Fried Chicken & 3 Garlic Bread at $36.95, including French Fries and 1 lb Cole Slaw. Matching named chicken-and-bread core: Chicken Only 16 pc fried at $28.95 + 3 × Garlic Bread $4.95 = $43.80, conditional difference $6.85; fries and 1 lb slaw are unvalued in this narrower core. Chicken Only is $28.95, $8 cheaper than family and lacks the specified bread/fries/slaw bundle; family is not a chicken-only discount. Separately, full named component basket including one French Fries $2.95 and 1 lb Cole Slaw $4.95 totals $51.70, conditional difference $14.75. Same named standard Garlic Bread and French Fries serving presumed unless explicitly different; exact bread size/count/weights and family fries amount unknown. Chicken piece count and 1 lb slaw explicit. No measured entire-basket equivalence. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$6.85 conditional matching menu saving before tax, fees and tip",
+      "detailNotes": [
+        "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted"
+      ],
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "menu_special",
+        "neighborhood": "",
+        "days": [],
+        "allDay": false
+      }
+    },
+    {
+      "id": "north017_calo_shared_family_quantity__fried_chicken20_garlic4",
+      "restaurant": "Calo Ristorante",
+      "title": "Family 20 pc Fried Chicken & 4 Garlic Bread · $41.95",
+      "subtitle": "Saved owner-menu scope",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy the exact named menu format at $41.95",
+        "Pickup/delivery menu only; $5 delivery charge",
+        "Same named standard preparation presumed; unposted physical amounts and included extras disclosed"
+      ],
+      "redemptionSteps": [
+        "Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/wp-content/uploads/2024/03/Calo-Catering-and-To-Go-11-06-25-P2.jpg",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Saved owner-source qualification. Native/client integration, publication, current availability and checkout unverified.",
+      "fullTerms": "Buy Family 20 pc Fried Chicken & 4 Garlic Bread at $41.95, including French Fries and 1 lb Cole Slaw. Matching named chicken-and-bread core: Chicken Only 20 pc fried at $33.95 + 4 × Garlic Bread $4.95 = $53.75, conditional difference $11.80; fries and 1 lb slaw are unvalued in this narrower core. Chicken Only is $33.95, $8 cheaper than family and lacks the specified bread/fries/slaw bundle; family is not a chicken-only discount. Separately, full named component basket including one French Fries $2.95 and 1 lb Cole Slaw $4.95 totals $61.65, conditional difference $19.70. Same named standard Garlic Bread and French Fries serving presumed unless explicitly different; exact bread size/count/weights and family fries amount unknown. Chicken piece count and 1 lb slaw explicit. No measured entire-basket equivalence. $5.00 Delivery Charge for All Orders. We do not accept personal checks. Prices subject to change without notice. Taxes are not included in pricing. Any problems or concerns with your order must be addressed with-in 24 hours of placing your order. Please be prepared to present credit card upon delivery. Plates, napkins and utensils available upon request. Pickup/delivery service Sunday–Thursday 11 am–9:15 pm and Friday–Saturday 11 am–10:15 pm; closed Thanksgiving and Christmas. The Illinois Department of Public Health advises that eating raw or undercooked meat, poultry, eggs, or seafood poses a health risk to everyone, but especially, young children under age 4, pregnant women, and other highly susceptible individuals with compromised immune systems. Thorough cooking of such animal foods reduces the risk of illness. No coupon is applied to this comparison. Final tax, other fees, gratuity, inventory and offer end are unposted/unverified; never assumed zero. Use the owner delivery/carryout menu or call 773-271-7782 and buy the exact named format at 5343 N Clark St for pickup or delivery; preserve printed inclusions.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "recurrenceLabel": "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "savings": "$11.80 conditional matching menu saving before tax, fees and tip",
+      "detailNotes": [
+        "Published exact channel quantity/menu choice during restaurant service; separate offer times/end unposted"
+      ],
+      "timeWindow": "Times not listed",
+      "discovery": {
+        "kind": "menu_special",
+        "neighborhood": "",
+        "days": [],
+        "allDay": false
+      }
+    },
+    {
+      "id": "north017_calo_carryout_delivery_coupons__3off",
+      "restaurant": "Calo Ristorante",
+      "title": "$3 off 10-, 12- or 14-inch pizza",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy a qualifying 10-, 12- or 14-inch pizza",
+        "Use code 3OFF at CaloRestaurant.com; carryout or delivery",
+        "One coupon per order; no combining; end unposted",
+        "$5 delivery charge; tax extra; no personal checks"
+      ],
+      "redemptionSteps": [
+        "Use the printed code 3OFF at CaloRestaurant.com when ordering a qualifying carryout or delivery purchase from 5343 N Clark St.",
+        "Check that the pizza is 10, 12 or 14 inches; use code 3OFF only for that size-qualified pizza. Use one coupon per order and do not combine it with other offers or promotions.",
+        "Review tax, $5 delivery charge and the printed order/payment terms before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/wp-content/uploads/2024/03/Calo-Catering-and-To-Go-11-06-25-P1-scaled.jpg",
+      "fullTerms": "Calo Ristorante, 5343 N Clark St, Chicago, IL 60640. Owner-linked full-resolution panels explicitly advertise $3.00 OFF with a qualifying 10-, 12- or 14-inch pizza. USE CODE: 3OFF @CaloRestaurant.com. CARRY-OUT or DELIVERY. One coupon per order. May not combine with any other offer or promotion. Limited time offer; no calendar expiry is printed. Buy the qualifying pizza or order and use code 3OFF at CaloRestaurant.com for a qualifying carryout or delivery purchase from this exact branch. $5.00 delivery charge for all orders. Personal checks are not accepted. Prices are subject to change without notice and tax is not included. Address any order problems or concerns within 24 hours of placing the order. Be prepared to present the credit card upon delivery. Illinois Department of Public Health advisory: eating raw or undercooked meat, poultry, eggs or seafood poses a health risk to everyone, especially young children under age 4, pregnant women and highly susceptible individuals with compromised immune systems; thorough cooking reduces illness risk. Carryout/delivery service hours are Sunday–Thursday 11am–9:15pm and Friday–Saturday 11am–10:15pm. Closed Thanksgiving and Christmas. Printed dine-in close 9:15/10:15pm differs from HTML 9:30/10:30pm; this does not alter the agreeing carryout/delivery hours. No dine-in coupon eligibility is promised. The fixed coupon amount is a food/order discount; delivery charges and taxes are not savings. No percentage saving, completed checkout, physical-coupon presentation requirement or additional app/rewards/account condition is invented. The coupon itself states pizza diameters for the size coupons but no crust-style restriction; no broader style eligibility has been checkout-tested. Printed pan/stuffed cooking time is 30–45 minutes; no-substitution notes belong to named Calo Special and Vegetarian Delight recipes. Optional toppings/add-ons have separate menu prices, including double-charge topping categories. All pizza starts with tomato sauce and mozzarella; other menu inclusions are not additional coupon value. Filename 11-06-25, upload path 2024/03 and anniversary seal do not establish expiry. Source rechecked October 17, 2026; acceptance, stock and checkout are unverified.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "status": "unconfirmed",
+      "savings": "$3 face-value food/order discount before tax,delivery charge and tip",
+      "subtitle": "Buy a qualifying 10-, 12- or 14-inch pizza",
+      "category": "meal",
+      "tier": "unrated",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Exact owned source audit; portable checks only. Native installation, publication, current fulfillment and checkout unexecuted.",
+      "eligibleItems": [
+        "Buy a qualifying 10-, 12- or 14-inch pizza"
+      ],
+      "code": "3OFF",
+      "detailNotes": [
+        "Limited-time coupon; end unposted; available during carryout/delivery service"
+      ],
+      "timeWindow": "Times not listed"
+    },
+    {
+      "id": "north017_calo_carryout_delivery_coupons__pizza4",
+      "restaurant": "Calo Ristorante",
+      "title": "$4 off 16-, 18- or 20-inch pizza",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy a qualifying 16-, 18- or 20-inch pizza",
+        "Use code PIZZA4 at CaloRestaurant.com; carryout or delivery",
+        "One coupon per order; no combining; end unposted",
+        "$5 delivery charge; tax extra; no personal checks"
+      ],
+      "redemptionSteps": [
+        "Use the printed code PIZZA4 at CaloRestaurant.com when ordering a qualifying carryout or delivery purchase from 5343 N Clark St.",
+        "Check that the pizza is 16, 18 or 20 inches; use code PIZZA4 only for that size-qualified pizza. Use one coupon per order and do not combine it with other offers or promotions.",
+        "Review tax, $5 delivery charge and the printed order/payment terms before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/wp-content/uploads/2024/03/Calo-Catering-and-To-Go-11-06-25-P1-scaled.jpg",
+      "fullTerms": "Calo Ristorante, 5343 N Clark St, Chicago, IL 60640. Owner-linked full-resolution panels explicitly advertise $4.00 OFF with a qualifying 16-, 18- or 20-inch pizza. USE CODE: PIZZA4 @CaloRestaurant.com. CARRY-OUT or DELIVERY. One coupon per order. May not combine with any other offer or promotion. Limited time offer; no calendar expiry is printed. Buy the qualifying pizza or order and use code PIZZA4 at CaloRestaurant.com for a qualifying carryout or delivery purchase from this exact branch. $5.00 delivery charge for all orders. Personal checks are not accepted. Prices are subject to change without notice and tax is not included. Address any order problems or concerns within 24 hours of placing the order. Be prepared to present the credit card upon delivery. Illinois Department of Public Health advisory: eating raw or undercooked meat, poultry, eggs or seafood poses a health risk to everyone, especially young children under age 4, pregnant women and highly susceptible individuals with compromised immune systems; thorough cooking reduces illness risk. Carryout/delivery service hours are Sunday–Thursday 11am–9:15pm and Friday–Saturday 11am–10:15pm. Closed Thanksgiving and Christmas. Printed dine-in close 9:15/10:15pm differs from HTML 9:30/10:30pm; this does not alter the agreeing carryout/delivery hours. No dine-in coupon eligibility is promised. The fixed coupon amount is a food/order discount; delivery charges and taxes are not savings. No percentage saving, completed checkout, physical-coupon presentation requirement or additional app/rewards/account condition is invented. The coupon itself states pizza diameters for the size coupons but no crust-style restriction; no broader style eligibility has been checkout-tested. Printed pan/stuffed cooking time is 30–45 minutes; no-substitution notes belong to named Calo Special and Vegetarian Delight recipes. Optional toppings/add-ons have separate menu prices, including double-charge topping categories. All pizza starts with tomato sauce and mozzarella; other menu inclusions are not additional coupon value. Filename 11-06-25, upload path 2024/03 and anniversary seal do not establish expiry. Source rechecked October 17, 2026; acceptance, stock and checkout are unverified.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "status": "unconfirmed",
+      "savings": "$4 face-value food/order discount before tax,delivery charge and tip",
+      "subtitle": "Buy a qualifying 16-, 18- or 20-inch pizza",
+      "category": "meal",
+      "tier": "unrated",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Exact owned source audit; portable checks only. Native installation, publication, current fulfillment and checkout unexecuted.",
+      "eligibleItems": [
+        "Buy a qualifying 16-, 18- or 20-inch pizza"
+      ],
+      "code": "PIZZA4",
+      "detailNotes": [
+        "Limited-time coupon; end unposted; available during carryout/delivery service"
+      ],
+      "timeWindow": "Times not listed"
+    },
+    {
+      "id": "north017_calo_carryout_delivery_coupons__calo5",
+      "restaurant": "Calo Ristorante",
+      "title": "$5 off a $40 carryout/delivery purchase",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy a qualifying purchase of $40 or more, not including tax or delivery charge",
+        "Use code CALO5 at CaloRestaurant.com; carryout or delivery",
+        "One coupon per order; no combining; end unposted",
+        "$5 delivery charge; tax extra; no personal checks"
+      ],
+      "redemptionSteps": [
+        "Use the printed code CALO5 at CaloRestaurant.com when ordering a qualifying carryout or delivery purchase from 5343 N Clark St.",
+        "Check that the qualifying purchase is $40 or more before tax and delivery charge; use code CALO5 only for that qualifying purchase. Use one coupon per order and do not combine it with other offers or promotions.",
+        "Review tax, $5 delivery charge and the printed order/payment terms before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://calorestaurant.com/wp-content/uploads/2024/03/Calo-Catering-and-To-Go-11-06-25-P1-scaled.jpg",
+      "fullTerms": "Calo Ristorante, 5343 N Clark St, Chicago, IL 60640. Owner-linked full-resolution panels explicitly advertise $5.00 OFF with a qualifying purchase of $40 or more, not including tax or delivery charge. USE CODE: CALO5 @CaloRestaurant.com. CARRY-OUT or DELIVERY. One coupon per order. May not combine with any other offer or promotion. Limited time offer; no calendar expiry is printed. Buy the qualifying pizza or order and use code CALO5 at CaloRestaurant.com for a qualifying carryout or delivery purchase from this exact branch. $5.00 delivery charge for all orders. Personal checks are not accepted. Prices are subject to change without notice and tax is not included. Address any order problems or concerns within 24 hours of placing the order. Be prepared to present the credit card upon delivery. Illinois Department of Public Health advisory: eating raw or undercooked meat, poultry, eggs or seafood poses a health risk to everyone, especially young children under age 4, pregnant women and highly susceptible individuals with compromised immune systems; thorough cooking reduces illness risk. Carryout/delivery service hours are Sunday–Thursday 11am–9:15pm and Friday–Saturday 11am–10:15pm. Closed Thanksgiving and Christmas. Printed dine-in close 9:15/10:15pm differs from HTML 9:30/10:30pm; this does not alter the agreeing carryout/delivery hours. No dine-in coupon eligibility is promised. The fixed coupon amount is a food/order discount; delivery charges and taxes are not savings. No percentage saving, completed checkout, physical-coupon presentation requirement or additional app/rewards/account condition is invented. The coupon itself states pizza diameters for the size coupons but no crust-style restriction; no broader style eligibility has been checkout-tested. Printed pan/stuffed cooking time is 30–45 minutes; no-substitution notes belong to named Calo Special and Vegetarian Delight recipes. Optional toppings/add-ons have separate menu prices, including double-charge topping categories. All pizza starts with tomato sauce and mozzarella; other menu inclusions are not additional coupon value. Filename 11-06-25, upload path 2024/03 and anniversary seal do not establish expiry. Source rechecked October 17, 2026; acceptance, stock and checkout are unverified.",
+      "locationDetails": "5343 N Clark St, Chicago, IL 60640",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "status": "unconfirmed",
+      "savings": "$5 face-value food/order discount before tax,delivery charge and tip",
+      "subtitle": "Buy a qualifying purchase of $40 or more, not including tax or delivery charge",
+      "category": "meal",
+      "tier": "unrated",
+      "lastCheckedAt": "2026-10-17T16:28:43.313250+00:00",
+      "isSample": false,
+      "ratingReason": "Exact owned source audit; portable checks only. Native installation, publication, current fulfillment and checkout unexecuted.",
+      "eligibleItems": [
+        "Buy a qualifying purchase of $40 or more, not including tax or delivery charge"
+      ],
+      "code": "CALO5",
+      "detailNotes": [
+        "Limited-time coupon; end unposted; available during carryout/delivery service"
+      ],
+      "timeWindow": "Times not listed"
+    },
+    {
+      "category": "drink",
+      "fullTerms": "Wednesday: all classic cocktails $12, at Billy Sunday,3143 W Logan Blvd, Chicago. The current menu/header and retained quote disagree on regular$14/$15 prices, so no numerical saving is asserted. Wednesday • Times not listed; no all-day assertion.",
+      "id": "research-west017_billy_wednesday_classic_cocktails",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-17T16:28:42.567962+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Original owner evidence supports this specific recurring happy-hour offer. No unsupported comparator, selection or legacy fee is added.",
+      "redemptionSteps": [
+        "Visit Billy Sunday at 3143 W Logan Blvd, Chicago, IL60647 during the offer’s stated day/time or event context.",
+        "Order an eligible item listed in the source offer and ask staff for its advertised price.",
+        "Confirm the specific eligible selection, all published conditions and any extra charges before paying."
+      ],
+      "requirements": [
+        "Wednesday.",
+        "Classic cocktail category only; source says all classic cocktails."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "Billy Sunday",
+      "sourceURL": "https://www.billy-sunday.com/location/chicago/",
+      "status": "unconfirmed",
+      "subtitle": "Billy Sunday Wednesday $12 classic cocktails",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Billy Sunday Wednesday $12 classic cocktails",
+      "locationDetails": "3143 W Logan Blvd, Chicago, IL 60647",
+      "recurrenceLabel": "Wednesday; offer clock not listed",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "savings": "Savings unknown",
+      "redemptionReady": true
+    },
+    {
+      "category": "meal",
+      "fullTerms": "Happy Hour Every Day5–7 PM. French Onion Dip $6, Artichoke Spread $9 and Olives $6. The retained regular Chicago menu lists the same named items at$10,$13 and$8 respectively. Under the user’s same-named-serving presumption, these are$4,$4 and$2 less before taxes or extra charges. Same serving is assumed, not explicitly stated by the merchant.",
+      "id": "research-west017_billy_daily_highball_happy_hour",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-17T16:28:42.567962+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Original owner evidence supports this specific recurring happy-hour offer. No unsupported comparator, selection or legacy fee is added.",
+      "redemptionSteps": [
+        "Visit Billy Sunday at 3143 W Logan Blvd, Chicago, IL 60647 during the posted happy-hour window.",
+        "Order an eligible listed happy-hour item and ask staff for the advertised price.",
+        "Confirm the specific eligible selection, all published conditions and any extra charges before paying."
+      ],
+      "requirements": [
+        "Daily5–7 PM at3143 W Logan Blvd, Chicago.",
+        "The three exact named happy-hour snacks."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "Billy Sunday",
+      "sourceURL": "https://www.billy-sunday.com/menu/happy-hour/",
+      "status": "unconfirmed",
+      "subtitle": "Billy Sunday daily happy-hour snacks",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Billy Sunday daily happy-hour snacks",
+      "locationDetails": "3143 W Logan Blvd, Chicago, IL 60647",
+      "recurrenceLabel": "Daily",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "savings": "$4 less for French Onion Dip or Artichoke Spread; $2 less for Olives, presumed same named serving",
+      "redemptionReady": true,
+      "detailNotes": [
+        "Daily 17:00–19:00 America/Chicago"
+      ],
+      "timeWindow": "5–7 pm"
+    },
+    {
+      "category": "drink",
+      "fullTerms": "House Specials advertises the BTP Combo “For the low, low price of only $6.50.” The $6.50 BTP Combo is one house-selected draft plus the customer’s choice of well bourbon, rye, Malort or house tequila shot. The draft is selected by the house; an arbitrary draft brand or premium shot is not included by this wording. The FAQ requires a valid ID stating 21 or over for people who can walk/talk; the narrow prepared purchase route is an adult of 21 or over with valid ID. No matching draft-plus-shot baseline, separate special clock or expiry is posted.",
+      "id": "research-west017_bucktown_btp_house_draft_shot_combo",
+      "isSample": false,
+      "lastCheckedAt": "2026-10-17T16:28:40.264931+00:00",
+      "purchaseRequired": false,
+      "ratingReason": "Exact scoped saved original source material re-reviewed; full native content/history/publication remain separate.",
+      "redemptionSteps": [
+        "Visit Bucktown Pub at 1658 W Cortland Avenue with valid 21+ ID.",
+        "Ask the bartender for the $6.50 BTP Combo and the current house-selected draft.",
+        "Choose well bourbon, rye, Malort or house tequila for the shot and confirm final charges before ordering."
+      ],
+      "requirements": [
+        "Order the BTP Combo with the house-selected draft.",
+        "Choose only well bourbon, rye, Malort or house tequila shot.",
+        "Be 21 or over and bring valid ID."
+      ],
+      "requiresApp": false,
+      "requiresRewards": false,
+      "restaurant": "Bucktown Pub",
+      "sourceURL": "https://www.bucktownpub.com/",
+      "status": "unconfirmed",
+      "subtitle": "Bucktown Pub: $6.50 house-draft-and-shot BTP Combo",
+      "tier": "unrated",
+      "timezone": "America/Chicago",
+      "title": "Bucktown Pub: $6.50 house-draft-and-shot BTP Combo",
+      "locationDetails": "1658 W Cortland Ave, Chicago, IL 60622",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "savings": "Savings unknown; $6.50 is an explicit house special for the eligible draft/shot combo.",
+      "redemptionReady": true,
+      "detailNotes": [
+        "Ordinary owner-published combo; Times not listed; expiry unknown"
+      ],
+      "timeWindow": "Times not listed"
+    },
+    {
+      "id": "scraped-a30417c03d396a8d9c56",
+      "restaurant": "7 Brew",
+      "title": "Four medium drinks for $17",
+      "subtitle": "Participating locations • Times not listed",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "upcoming",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy four medium drinks.",
+        "Participating 7 Brew stand; confirm local participation."
+      ],
+      "redemptionSteps": [
+        "On October 31, order four eligible medium drinks at a participating 7 Brew stand.",
+        "The recorded official FAQ says the discount applies automatically at checkout; no code. Confirm the $17 promotional price before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "sourceURL": "https://7brew.com/whats-new",
+      "lastCheckedAt": "2026-10-17T15:49:26Z",
+      "isSample": false,
+      "ratingReason": "Source-reviewed campaign terms; local participation and checkout are unverified.",
+      "fullTerms": "On October 31, 2026, buy four medium drinks for $17 at a participating 7 Brew stand. The discount automatically applies at checkout; no code is required. Mix and match medium coffee, 7 Energy, tea, Chillers and other medium drinks; customization and add-ons are included according to the official FAQ. No separate promotion hours, transaction limit or tax treatment is stated. App/account requirements are not stated. Local stand participation has not been verified.",
+      "reportedStartsOn": "2026-10-31",
+      "reportedEndsOn": "2026-10-31",
+      "timeWindow": "Times not listed",
+      "savings": "Savings unknown; the four-medium-drink promotional price is $17.",
+      "detailNotes": [
+        "Campaign hours and store participation are not confirmed.",
+        "App and account requirements remain unknown; no redemption or checkout was tested."
+      ],
+      "offerEvidence": {
+        "level": "reviewed",
+        "checkedAt": "2026-10-17T15:49:26Z",
+        "validUntil": "2026-10-24T15:49:26+00:00",
+        "sourceURLs": [
+          "https://7brew.com/whats-new"
+        ],
+        "reason": "Exact owner-campaign terms supported by an attributable source-reading report; store participation, inventory and checkout are unverified."
+      },
+      "redemptionReady": true
+    },
+    {
+      "id": "instagram-krispy-costume-20261030",
+      "restaurant": "Krispy Kreme",
+      "title": "Free doughnut in costume",
+      "subtitle": "Participating locations • Times not listed",
+      "category": "dessert",
+      "tier": "unrated",
+      "status": "upcoming",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Wear a costume.",
+        "Choose an Original Glazed or Classic Ring doughnut at a participating U.S. shop.",
+        "No purchase necessary."
+      ],
+      "redemptionSteps": [
+        "Visit a participating U.S. Krispy Kreme shop in costume on October 30 or 31.",
+        "Claim the advertised free Original Glazed or Classic Ring doughnut in person; the reported company campaign states no purchase necessary. Confirm shop participation."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "not_required"
+      },
+      "sourceURL": "https://investors.krispykreme.com/news-releases/news-release-details/krispy-kremer-brings-fans-new-halloween-experiment-limited-time",
+      "lastCheckedAt": "2026-10-17T15:49:18Z",
+      "isSample": false,
+      "ratingReason": "Source-reviewed campaign terms; local participation and checkout are unverified.",
+      "fullTerms": "In person October 30–31, 2026, show up in costume to claim this offer at a participating U.S. Krispy Kreme shop: a free Original Glazed or Classic Ring doughnut, no purchase necessary. Daily hours, per-person/day limit, exact participating-shop list and app/Rewards-account requirements are not stated. Chicago shop participation has not been verified; confirm your shop before traveling. No online or delivery redemption channel is established by the source.",
+      "reportedStartsOn": "2026-10-30",
+      "reportedEndsOn": "2026-10-31",
+      "timeWindow": "Times not listed",
+      "savings": "An eligible doughnut is free; its regular value is not stated.",
+      "detailNotes": [
+        "Campaign hours and store participation are not confirmed.",
+        "App and account requirements remain unknown; no redemption or checkout was tested."
+      ],
+      "offerEvidence": {
+        "level": "reviewed",
+        "checkedAt": "2026-10-17T15:49:18Z",
+        "validUntil": "2026-10-24T15:49:18+00:00",
+        "sourceURLs": [
+          "https://investors.krispykreme.com/news-releases/news-release-details/krispy-kremer-brings-fans-new-halloween-experiment-limited-time"
+        ],
+        "reason": "Exact owner-campaign terms supported by an attributable source-reading report; store participation, inventory and checkout are unverified."
+      },
+      "redemptionReady": true
     }
   ],
   "happyHours": [
@@ -27600,16 +28395,46 @@
       "longitude": -87.68198572204422,
       "checkedAt": "2026-10-17T17:26:30Z",
       "match": "exact"
+    },
+    {
+      "address": "6257 S Cottage Grove Ave, Chicago, IL 60637",
+      "sourceAddress": "6257 S COTTAGE GROVE AVE",
+      "latitude": 41.780559644211316,
+      "longitude": -87.60578666065055,
+      "checkedAt": "2026-09-28T16:30:08Z",
+      "match": "exact"
+    },
+    {
+      "sourceAddress": "3143 W LOGAN BLVD",
+      "latitude": 41.92786304343622,
+      "longitude": -87.70660501506578,
+      "checkedAt": "2026-10-15T15:12:45.643490+00:00",
+      "address": "3143 W Logan Blvd, Chicago, IL 60647",
+      "match": "exact"
+    },
+    {
+      "sourceAddress": "5341 N CLARK ST",
+      "latitude": 41.97922554376137,
+      "longitude": -87.66815287459343,
+      "checkedAt": "2026-10-15T15:12:45.643490+00:00",
+      "address": "5343 N Clark St, Chicago, IL 60640",
+      "match": "nearest"
     }
   ],
   "mapUnmatched": [
-    "45 E Riverwalk South at Wabash Bridge, Chicago, IL 60601"
+    "45 E Riverwalk South at Wabash Bridge, Chicago, IL 60601",
+    "1658 W Cortland Ave, Chicago, IL 60622"
   ],
   "mapNonMatches": [
     {
       "address": "45 E Riverwalk South at Wabash Bridge, Chicago, IL 60601",
       "checkedAt": "2026-10-17T17:26:30Z",
       "reason": "No valid Chicago street point in city inspections or address geocoder"
+    },
+    {
+      "address": "1658 W Cortland Ave, Chicago, IL 60622",
+      "checkedAt": "2026-10-15T15:21:53.651466+00:00",
+      "reason": "Fresh literal City AddressPoints lookup and current complete City Food Inspections review found no usable point for this exact stated key under existing exact-street/same-street-within-50 rules. Returned street forms differ from the stated key: 1658 W CORTLAND ST. No street-type, direction, range or descriptive-text correction is inferred."
     }
   ]
 }

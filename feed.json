@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-18T17:30:14.354261+00:00",
+  "generatedAt": "2026-10-19T12:53:24.422897+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -3754,92 +3754,6 @@
       "newCustomer": false
     },
     {
-      "id": "scraped-92f22a0ca65a26be5600",
-      "restaurant": "Shake Shack",
-      "title": "Free sandwich",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online or in the app.",
-        "With a purchase of $10 or more at shake shack when you enter promo code scarygood during online or in-app checkout for pickup or delivery",
-        "Offer valid once per day."
-      ],
-      "redemptionSteps": [
-        "Get a free sandwich with a purchase of $10 or more at Shake Shack when you enter promo code SCARYGOOD during online or in-app checkout for pickup or delivery.",
-        "Source instructions: Get a free sandwich with a purchase of $10 or more at Shake Shack when you enter promo code SCARYGOOD during online or in-app checkout for pickup or delivery. Offer valid once per day. Oct. 12 - 18: Free cheeseburger Oct. 19 - 31: Free ShackBurger",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Use promo code SCARYGOOD as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-12T22:14:23.113870+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Get a free sandwich with a purchase of $10 or more at Shake Shack when you enter promo code SCARYGOOD during online or in-app checkout for pickup or delivery. Offer valid once per day. Oct. 12 - 18: Free cheeseburger Oct. 19 - 31: Free ShackBurger",
-      "offerDetails": "Free sandwich.",
-      "reportedDates": "Oct. 12 - 18",
-      "reportedStartsOn": "2026-10-12",
-      "reportedEndsOn": "2026-10-18",
-      "detailNotes": [
-        "Oct. 12 - 18: Free cheeseburger Oct. 19 - 31: Free ShackBurger"
-      ],
-      "code": "SCARYGOOD",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-9d2c1359f0bbefa224e7",
-      "restaurant": "Domino's",
-      "title": "$1 Personal pizza",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [],
-      "redemptionSteps": [
-        "Get a personal pizza with up to three toppings for $1 at Domino's through Oct. 18 when you enter promo code DOLLARDOMINO during online checkout.",
-        "Source instructions: Get a personal pizza with up to three toppings for $1 at Domino's through Oct. 18 when you enter promo code DOLLARDOMINO during online checkout. Note, this deal may end early.",
-        "Use promo code DOLLARDOMINO as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-15T18:28:32.252024+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Get a personal pizza with up to three toppings for $1 at Domino's through Oct. 18 when you enter promo code DOLLARDOMINO during online checkout. Note, this deal may end early.",
-      "offerDetails": "$1 Personal pizza.",
-      "reportedDates": "through Oct. 18",
-      "reportedEndsOn": "2026-10-18",
-      "detailNotes": [
-        "Note, this deal may end early."
-      ],
-      "code": "DOLLARDOMINO",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "scraped-74fd614728d32f37bd35",
       "restaurant": "Paris Baguette",
       "title": "$0.13 pastry",
@@ -3930,57 +3844,6 @@
       "redemptionReady": true,
       "requirementStates": {
         "app": "unknown",
-        "account": "required",
-        "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-8349547c82093856e99a",
-      "restaurant": "Krispy Kreme",
-      "title": "$3 Original Glazed dozen",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — activate or claim the reward in the app.",
-        "Rewards membership required",
-        "Qualifying purchase required"
-      ],
-      "redemptionSteps": [
-        "Enter promo code SCARYGOOD during online or in-app checkout.",
-        "Rewards members can scan the in-app barcode in shop.",
-        "Source instructions: Get a $3 Original Glazed dozen when you buy any dozen, including the Looney Tunes Halloween dozen, at Krispy Kreme Oct. 16 - 18. Enter promo code SCARYGOOD during online or in-app checkout. Rewards members can scan the in-app barcode in shop.",
-        "Use your rewards membership to access this offer.",
-        "App required — activate or claim the reward in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Use promo code SCARYGOOD as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-16T18:15:52.225248+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Get a $3 Original Glazed dozen when you buy any dozen, including the Looney Tunes Halloween dozen, at Krispy Kreme Oct. 16 - 18. Enter promo code SCARYGOOD during online or in-app checkout. Rewards members can scan the in-app barcode in shop.",
-      "offerDetails": "$3 Original Glazed dozen.",
-      "eligibleItems": [
-        "the Looney Tunes Halloween dozen",
-        "at Krispy Kreme Oct. 16 - 18"
-      ],
-      "reportedDates": "Oct. 16 - 18",
-      "membershipRequirement": "Rewards membership required",
-      "reportedStartsOn": "2026-10-16",
-      "reportedEndsOn": "2026-10-18",
-      "code": "SCARYGOOD",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "required",
         "account": "required",
         "purchase": "required"
       },
@@ -5587,420 +5450,6 @@
         "purchase": "required"
       },
       "savings": "$0.59 conditional matching menu saving before tax, fees and tip"
-    },
-    {
-      "id": "west048_uptown_MONSTER_S",
-      "restaurant": "Uptown Pizza and BBQ",
-      "title": "12-inch thin-crust Uptown MONSTER for $18.99",
-      "subtitle": "Exact saved owner menu comparison",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buy one 12-inch thin-crust Uptown MONSTER",
-        "Choose any five listed full-pizza ingredients",
-        "Additional extra-extra cheese is included but unvalued"
-      ],
-      "redemptionSteps": [
-        "When dining at Uptown Pizza and BBQ, 1031 West Wilson Avenue, order the 12-inch thin-crust Uptown MONSTER with any five listed ingredients over the whole pizza from the branch menu.",
-        "Check the listed $18.99 menu price and final charges before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uptownpizzabbq.com/chicago-uptown-pizza-and-bbq-food-menu",
-      "lastCheckedAt": "2026-10-11T17:52:53.983165+00:00",
-      "isSample": false,
-      "ratingReason": "Exact retained owner menu, matched quantity route and complete terms reviewed; native/client delivery and checkout remain unverified.",
-      "fullTerms": "Buy the 12-inch thin-crust Uptown MONSTER with any five listed ingredients over the whole pizza for $18.99 from the posted restaurant menu at Uptown Pizza and BBQ, 1031 West Wilson Avenue, Chicago, IL 60640. $11.99 same-size cheese pizza + 5 × $1.60 full-pizza ingredient charge = $19.99; subtract $18.99 MONSTER package = $1.00 matched-core minimum route difference. The owner includes extra, extra cheese. Its precise count and value are unposted, so that additional inclusion is unvalued. The saving compares only the matching cheese-pizza plus five ordinary full-pizza ingredient-charge core. The same named standard serving, same recipe/preparation and same listed channel are presumed unless the source specifies otherwise. For on-premise ordering, order that exact named choice from this branch menu; the owner separately offers dining in, pickup and delivery, but this saved comparison does not promise provider-price equivalence. The complete menu warns: Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness. Please inform the restaurant of any food allergies. An optional side substitution to Sweet Potato Fries costs $1.99. Menu prices and the stated conditional saving are USD before tax, fees and gratuity. Stacking, final charges, current stock/acceptance and campaign end are unposted or untested. Times not listed; no all-day or happy-hour clock is asserted.",
-      "locationDetails": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "recurrenceLabel": "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown.",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "not_required",
-        "purchase": "required"
-      },
-      "savings": "$1.00 conditional matching-main-food/menu-core route saving before tax, fees and gratuity.",
-      "detailNotes": [
-        "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown."
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "west048_uptown_MONSTER_M",
-      "restaurant": "Uptown Pizza and BBQ",
-      "title": "14-inch thin-crust Uptown MONSTER for $21.99",
-      "subtitle": "Exact saved owner menu comparison",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buy one 14-inch thin-crust Uptown MONSTER",
-        "Choose any five listed full-pizza ingredients",
-        "Additional extra-extra cheese is included but unvalued"
-      ],
-      "redemptionSteps": [
-        "When dining at Uptown Pizza and BBQ, 1031 West Wilson Avenue, order the 14-inch thin-crust Uptown MONSTER with any five listed ingredients over the whole pizza from the branch menu.",
-        "Check the listed $21.99 menu price and final charges before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uptownpizzabbq.com/chicago-uptown-pizza-and-bbq-food-menu",
-      "lastCheckedAt": "2026-10-11T17:52:53.983165+00:00",
-      "isSample": false,
-      "ratingReason": "Exact retained owner menu, matched quantity route and complete terms reviewed; native/client delivery and checkout remain unverified.",
-      "fullTerms": "Buy the 14-inch thin-crust Uptown MONSTER with any five listed ingredients over the whole pizza for $21.99 from the posted restaurant menu at Uptown Pizza and BBQ, 1031 West Wilson Avenue, Chicago, IL 60640. $14.99 same-size cheese pizza + 5 × $2.00 full-pizza ingredient charge = $24.99; subtract $21.99 MONSTER package = $3.00 matched-core minimum route difference. The owner includes extra, extra cheese. Its precise count and value are unposted, so that additional inclusion is unvalued. The saving compares only the matching cheese-pizza plus five ordinary full-pizza ingredient-charge core. The same named standard serving, same recipe/preparation and same listed channel are presumed unless the source specifies otherwise. For on-premise ordering, order that exact named choice from this branch menu; the owner separately offers dining in, pickup and delivery, but this saved comparison does not promise provider-price equivalence. The complete menu warns: Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness. Please inform the restaurant of any food allergies. An optional side substitution to Sweet Potato Fries costs $1.99. Menu prices and the stated conditional saving are USD before tax, fees and gratuity. Stacking, final charges, current stock/acceptance and campaign end are unposted or untested. Times not listed; no all-day or happy-hour clock is asserted.",
-      "locationDetails": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "recurrenceLabel": "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown.",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "not_required",
-        "purchase": "required"
-      },
-      "savings": "$3.00 conditional matching-main-food/menu-core route saving before tax, fees and gratuity.",
-      "detailNotes": [
-        "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown."
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "west048_uptown_MONSTER_L",
-      "restaurant": "Uptown Pizza and BBQ",
-      "title": "16-inch thin-crust Uptown MONSTER for $24.99",
-      "subtitle": "Exact saved owner menu comparison",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buy one 16-inch thin-crust Uptown MONSTER",
-        "Choose any five listed full-pizza ingredients",
-        "Additional extra-extra cheese is included but unvalued"
-      ],
-      "redemptionSteps": [
-        "When dining at Uptown Pizza and BBQ, 1031 West Wilson Avenue, order the 16-inch thin-crust Uptown MONSTER with any five listed ingredients over the whole pizza from the branch menu.",
-        "Check the listed $24.99 menu price and final charges before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uptownpizzabbq.com/chicago-uptown-pizza-and-bbq-food-menu",
-      "lastCheckedAt": "2026-10-11T17:52:53.983165+00:00",
-      "isSample": false,
-      "ratingReason": "Exact retained owner menu, matched quantity route and complete terms reviewed; native/client delivery and checkout remain unverified.",
-      "fullTerms": "Buy the 16-inch thin-crust Uptown MONSTER with any five listed ingredients over the whole pizza for $24.99 from the posted restaurant menu at Uptown Pizza and BBQ, 1031 West Wilson Avenue, Chicago, IL 60640. $17.99 same-size cheese pizza + 5 × $2.50 full-pizza ingredient charge = $30.49; subtract $24.99 MONSTER package = $5.50 matched-core minimum route difference. The owner includes extra, extra cheese. Its precise count and value are unposted, so that additional inclusion is unvalued. The saving compares only the matching cheese-pizza plus five ordinary full-pizza ingredient-charge core. The same named standard serving, same recipe/preparation and same listed channel are presumed unless the source specifies otherwise. For on-premise ordering, order that exact named choice from this branch menu; the owner separately offers dining in, pickup and delivery, but this saved comparison does not promise provider-price equivalence. The complete menu warns: Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness. Please inform the restaurant of any food allergies. An optional side substitution to Sweet Potato Fries costs $1.99. Menu prices and the stated conditional saving are USD before tax, fees and gratuity. Stacking, final charges, current stock/acceptance and campaign end are unposted or untested. Times not listed; no all-day or happy-hour clock is asserted.",
-      "locationDetails": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "recurrenceLabel": "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown.",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "not_required",
-        "purchase": "required"
-      },
-      "savings": "$5.50 conditional matching-main-food/menu-core route saving before tax, fees and gratuity.",
-      "detailNotes": [
-        "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown."
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "west048_uptown_MONSTER_XL",
-      "restaurant": "Uptown Pizza and BBQ",
-      "title": "18-inch thin-crust Uptown MONSTER for $26.99",
-      "subtitle": "Exact saved owner menu comparison",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buy one 18-inch thin-crust Uptown MONSTER",
-        "Choose any five listed full-pizza ingredients",
-        "Additional extra-extra cheese is included but unvalued"
-      ],
-      "redemptionSteps": [
-        "When dining at Uptown Pizza and BBQ, 1031 West Wilson Avenue, order the 18-inch thin-crust Uptown MONSTER with any five listed ingredients over the whole pizza from the branch menu.",
-        "Check the listed $26.99 menu price and final charges before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uptownpizzabbq.com/chicago-uptown-pizza-and-bbq-food-menu",
-      "lastCheckedAt": "2026-10-11T17:52:53.983165+00:00",
-      "isSample": false,
-      "ratingReason": "Exact retained owner menu, matched quantity route and complete terms reviewed; native/client delivery and checkout remain unverified.",
-      "fullTerms": "Buy the 18-inch thin-crust Uptown MONSTER with any five listed ingredients over the whole pizza for $26.99 from the posted restaurant menu at Uptown Pizza and BBQ, 1031 West Wilson Avenue, Chicago, IL 60640. $19.99 same-size cheese pizza + 5 × $3.00 full-pizza ingredient charge = $34.99; subtract $26.99 MONSTER package = $8.00 matched-core minimum route difference. The owner includes extra, extra cheese. Its precise count and value are unposted, so that additional inclusion is unvalued. The saving compares only the matching cheese-pizza plus five ordinary full-pizza ingredient-charge core. The same named standard serving, same recipe/preparation and same listed channel are presumed unless the source specifies otherwise. For on-premise ordering, order that exact named choice from this branch menu; the owner separately offers dining in, pickup and delivery, but this saved comparison does not promise provider-price equivalence. The complete menu warns: Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness. Please inform the restaurant of any food allergies. An optional side substitution to Sweet Potato Fries costs $1.99. Menu prices and the stated conditional saving are USD before tax, fees and gratuity. Stacking, final charges, current stock/acceptance and campaign end are unposted or untested. Times not listed; no all-day or happy-hour clock is asserted.",
-      "locationDetails": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "recurrenceLabel": "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown.",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "not_required",
-        "purchase": "required"
-      },
-      "savings": "$8.00 conditional matching-main-food/menu-core route saving before tax, fees and gratuity.",
-      "detailNotes": [
-        "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown."
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "west048_uptown_nominal_fried_whole",
-      "restaurant": "Uptown Pizza and BBQ",
-      "title": "Fried whole chicken for $19.99",
-      "subtitle": "Exact saved owner menu comparison",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buy one whole chicken",
-        "Keep the same Fried Chicken recipe/preparation",
-        "Only nominal main-food quantity is compared; side sets are unvalued"
-      ],
-      "redemptionSteps": [
-        "When dining at Uptown Pizza and BBQ, 1031 West Wilson Avenue, order whole chicken from the branch menu.",
-        "Check the listed $19.99 menu price and final charges before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uptownpizzabbq.com/chicago-uptown-pizza-and-bbq-food-menu",
-      "lastCheckedAt": "2026-10-11T17:52:53.983165+00:00",
-      "isSample": false,
-      "ratingReason": "Exact retained owner menu, matched quantity route and complete terms reviewed; native/client delivery and checkout remain unverified.",
-      "fullTerms": "Buy whole chicken for $19.99 from the posted restaurant menu at Uptown Pizza and BBQ, 1031 West Wilson Avenue, Chicago, IL 60640. two fried half-chicken orders at $11.99 each total $23.98; the whole chicken is $19.99; the same named/prepared main-food quantity route difference is $3.99. No equal edible weight, part mix or accessory scaling is invented. The menu includes cole slaw, bread and a choice of side with each order. Two smaller orders can contain two side sets while the larger order has one. Their quantities and values are unposted; this comparison is for nominal matching main-food quantity only and is not an equal-side or complete-basket savings claim. The same named standard serving, same recipe/preparation and same listed channel are presumed unless the source specifies otherwise. For on-premise ordering, order that exact named choice from this branch menu; the owner separately offers dining in, pickup and delivery, but this saved comparison does not promise provider-price equivalence. The complete menu warns: Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness. Please inform the restaurant of any food allergies. An optional side substitution to Sweet Potato Fries costs $1.99. An optional added sauce on top or on the side costs $0.99. Menu prices and the stated conditional saving are USD before tax, fees and gratuity. Stacking, final charges, current stock/acceptance and campaign end are unposted or untested. Times not listed; no all-day or happy-hour clock is asserted.",
-      "locationDetails": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "recurrenceLabel": "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown.",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "not_required",
-        "purchase": "required"
-      },
-      "savings": "$3.99 conditional matching-main-food/menu-core route saving before tax, fees and gratuity.",
-      "detailNotes": [
-        "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown."
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "west048_uptown_nominal_baked_whole",
-      "restaurant": "Uptown Pizza and BBQ",
-      "title": "Baked whole chicken for $19.99",
-      "subtitle": "Exact saved owner menu comparison",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buy one whole chicken",
-        "Keep the same Baked Chicken recipe/preparation",
-        "Only nominal main-food quantity is compared; side sets are unvalued"
-      ],
-      "redemptionSteps": [
-        "When dining at Uptown Pizza and BBQ, 1031 West Wilson Avenue, order whole chicken from the branch menu.",
-        "Check the listed $19.99 menu price and final charges before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uptownpizzabbq.com/chicago-uptown-pizza-and-bbq-food-menu",
-      "lastCheckedAt": "2026-10-11T17:52:53.983165+00:00",
-      "isSample": false,
-      "ratingReason": "Exact retained owner menu, matched quantity route and complete terms reviewed; native/client delivery and checkout remain unverified.",
-      "fullTerms": "Buy whole chicken for $19.99 from the posted restaurant menu at Uptown Pizza and BBQ, 1031 West Wilson Avenue, Chicago, IL 60640. two baked half-chicken orders at $11.99 each total $23.98; the whole chicken is $19.99; the same named/prepared main-food quantity route difference is $3.99. No equal edible weight, part mix or accessory scaling is invented. The menu includes cole slaw, bread and a choice of side with each order. Two smaller orders can contain two side sets while the larger order has one. Their quantities and values are unposted; this comparison is for nominal matching main-food quantity only and is not an equal-side or complete-basket savings claim. The same named standard serving, same recipe/preparation and same listed channel are presumed unless the source specifies otherwise. For on-premise ordering, order that exact named choice from this branch menu; the owner separately offers dining in, pickup and delivery, but this saved comparison does not promise provider-price equivalence. The complete menu warns: Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness. Please inform the restaurant of any food allergies. An optional side substitution to Sweet Potato Fries costs $1.99. An optional added sauce on top or on the side costs $0.99. Menu prices and the stated conditional saving are USD before tax, fees and gratuity. Stacking, final charges, current stock/acceptance and campaign end are unposted or untested. Times not listed; no all-day or happy-hour clock is asserted.",
-      "locationDetails": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "recurrenceLabel": "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown.",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "not_required",
-        "purchase": "required"
-      },
-      "savings": "$3.99 conditional matching-main-food/menu-core route saving before tax, fees and gratuity.",
-      "detailNotes": [
-        "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown."
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "west048_uptown_nominal_ribs_full",
-      "restaurant": "Uptown Pizza and BBQ",
-      "title": "Full slab of ribs for $23.99",
-      "subtitle": "Exact saved owner menu comparison",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buy one full slab of ribs",
-        "Keep the same Ribs & Rib Tips recipe/preparation",
-        "Only nominal main-food quantity is compared; side sets are unvalued"
-      ],
-      "redemptionSteps": [
-        "When dining at Uptown Pizza and BBQ, 1031 West Wilson Avenue, order full slab of ribs from the branch menu.",
-        "Check the listed $23.99 menu price and final charges before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uptownpizzabbq.com/chicago-uptown-pizza-and-bbq-food-menu",
-      "lastCheckedAt": "2026-10-11T17:52:53.983165+00:00",
-      "isSample": false,
-      "ratingReason": "Exact retained owner menu, matched quantity route and complete terms reviewed; native/client delivery and checkout remain unverified.",
-      "fullTerms": "Buy full slab of ribs for $23.99 from the posted restaurant menu at Uptown Pizza and BBQ, 1031 West Wilson Avenue, Chicago, IL 60640. two half-slab rib orders at $13.99 each total $27.98; the full slab of ribs is $23.99; the same named/prepared main-food quantity route difference is $3.99. No equal edible weight, part mix or accessory scaling is invented. The menu includes cole slaw, bread and a choice of side with each order. Two smaller orders can contain two side sets while the larger order has one. Their quantities and values are unposted; this comparison is for nominal matching main-food quantity only and is not an equal-side or complete-basket savings claim. The same named standard serving, same recipe/preparation and same listed channel are presumed unless the source specifies otherwise. For on-premise ordering, order that exact named choice from this branch menu; the owner separately offers dining in, pickup and delivery, but this saved comparison does not promise provider-price equivalence. The complete menu warns: Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness. Please inform the restaurant of any food allergies. An optional side substitution to Sweet Potato Fries costs $1.99. An optional extra BBQ sauce costs $0.99. Menu prices and the stated conditional saving are USD before tax, fees and gratuity. Stacking, final charges, current stock/acceptance and campaign end are unposted or untested. Times not listed; no all-day or happy-hour clock is asserted.",
-      "locationDetails": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "recurrenceLabel": "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown.",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "not_required",
-        "purchase": "required"
-      },
-      "savings": "$3.99 conditional matching-main-food/menu-core route saving before tax, fees and gratuity.",
-      "detailNotes": [
-        "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown."
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "west048_uptown_nominal_hot_wings20",
-      "restaurant": "Uptown Pizza and BBQ",
-      "title": "20 hot party wings for $19.99",
-      "subtitle": "Exact saved owner menu comparison",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buy one 20-piece hot party-wing order",
-        "Keep the same Hot Wings recipe/preparation",
-        "Only nominal main-food quantity is compared; side sets are unvalued"
-      ],
-      "redemptionSteps": [
-        "When dining at Uptown Pizza and BBQ, 1031 West Wilson Avenue, order 20-piece hot party-wing order from the branch menu.",
-        "Check the listed $19.99 menu price and final charges before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uptownpizzabbq.com/chicago-uptown-pizza-and-bbq-food-menu",
-      "lastCheckedAt": "2026-10-11T17:52:53.983165+00:00",
-      "isSample": false,
-      "ratingReason": "Exact retained owner menu, matched quantity route and complete terms reviewed; native/client delivery and checkout remain unverified.",
-      "fullTerms": "Buy 20-piece hot party-wing order for $19.99 from the posted restaurant menu at Uptown Pizza and BBQ, 1031 West Wilson Avenue, Chicago, IL 60640. two 10-piece hot party-wing orders at $11.99 each total $23.98; the 20-piece hot party-wing order is $19.99; the same named/prepared main-food quantity route difference is $3.99. No equal edible weight, part mix or accessory scaling is invented. The menu includes cole slaw, bread and a choice of side with each order. Two smaller orders can contain two side sets while the larger order has one. Their quantities and values are unposted; this comparison is for nominal matching main-food quantity only and is not an equal-side or complete-basket savings claim. The same named standard serving, same recipe/preparation and same listed channel are presumed unless the source specifies otherwise. For on-premise ordering, order that exact named choice from this branch menu; the owner separately offers dining in, pickup and delivery, but this saved comparison does not promise provider-price equivalence. The complete menu warns: Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness. Please inform the restaurant of any food allergies. An optional side substitution to Sweet Potato Fries costs $1.99. Menu prices and the stated conditional saving are USD before tax, fees and gratuity. Stacking, final charges, current stock/acceptance and campaign end are unposted or untested. Times not listed; no all-day or happy-hour clock is asserted.",
-      "locationDetails": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "recurrenceLabel": "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown.",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "not_required",
-        "purchase": "required"
-      },
-      "savings": "$3.99 conditional matching-main-food/menu-core route saving before tax, fees and gratuity.",
-      "detailNotes": [
-        "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown."
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
-    },
-    {
-      "id": "west048_uptown_nominal_whole_wings20",
-      "restaurant": "Uptown Pizza and BBQ",
-      "title": "20 fried wings for $27.99",
-      "subtitle": "Exact saved owner menu comparison",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Buy one 20-wing fried order",
-        "Keep the same Fried Chicken recipe/preparation",
-        "Only nominal main-food quantity is compared; side sets are unvalued"
-      ],
-      "redemptionSteps": [
-        "When dining at Uptown Pizza and BBQ, 1031 West Wilson Avenue, order 20-wing fried order from the branch menu.",
-        "Check the listed $27.99 menu price and final charges before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://uptownpizzabbq.com/chicago-uptown-pizza-and-bbq-food-menu",
-      "lastCheckedAt": "2026-10-11T17:52:53.983165+00:00",
-      "isSample": false,
-      "ratingReason": "Exact retained owner menu, matched quantity route and complete terms reviewed; native/client delivery and checkout remain unverified.",
-      "fullTerms": "Buy 20-wing fried order for $27.99 from the posted restaurant menu at Uptown Pizza and BBQ, 1031 West Wilson Avenue, Chicago, IL 60640. one 12-wing fried order at $19.99 plus one 8-wing fried order at $14.99 total $34.98; the 20-wing fried order is $27.99; the same named/prepared main-food quantity route difference is $6.99. No equal edible weight, part mix or accessory scaling is invented. The menu includes cole slaw, bread and a choice of side with each order. Two smaller orders can contain two side sets while the larger order has one. Their quantities and values are unposted; this comparison is for nominal matching main-food quantity only and is not an equal-side or complete-basket savings claim. The same named standard serving, same recipe/preparation and same listed channel are presumed unless the source specifies otherwise. For on-premise ordering, order that exact named choice from this branch menu; the owner separately offers dining in, pickup and delivery, but this saved comparison does not promise provider-price equivalence. The complete menu warns: Consuming raw or undercooked meats, poultry, seafood, shellfish or eggs may increase your risk of foodborne illness. Please inform the restaurant of any food allergies. An optional side substitution to Sweet Potato Fries costs $1.99. An optional added sauce on top or on the side costs $0.99. Menu prices and the stated conditional saving are USD before tax, fees and gratuity. Stacking, final charges, current stock/acceptance and campaign end are unposted or untested. Times not listed; no all-day or happy-hour clock is asserted.",
-      "locationDetails": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "recurrenceLabel": "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown.",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "not_required",
-        "account": "not_required",
-        "purchase": "required"
-      },
-      "savings": "$6.99 conditional matching-main-food/menu-core route saving before tax, fees and gratuity.",
-      "detailNotes": [
-        "Posted restaurant menu quantity or combination choice; Times not listed; calendar end unknown."
-      ],
-      "timeWindow": "Times not listed",
-      "discovery": {
-        "kind": "menu_special",
-        "neighborhood": "",
-        "days": [],
-        "allDay": false
-      }
     },
     {
       "id": "research-west016_taku_menu_special_roll_packages_regular2",
@@ -9960,47 +9409,6 @@
       }
     },
     {
-      "id": "research-south017_medley_football",
-      "restaurant": "Medley Grill & BBQ",
-      "title": "10% off wings and turkey tips on Sunday, October 18",
-      "subtitle": "Sunday, October 18 • 11 am–6 pm",
-      "category": "meal",
-      "locationDetails": "8340 S Stony Island Ave, Chicago, IL 60617",
-      "fullTerms": "At Medley Grill & BBQ, 8340 S Stony Island Ave, Chicago, IL 60617, with qualifying purchase: Current dated occurrence Sunday, October 18: purchase wings or turkey tips and enter FOOTBALL at checkout for 10% off,11 am–6 pm America/Chicago. The previous October 11 occurrence is not copied forward as current. This record covers only the currently listed upcoming game-day occurrence, not every future Sunday. The year is omitted on the page;2026 is contextual from theOctober 13,2026 capture and matching Sunday, not explicit merchant wording. Owner homepage binds online ordering; the ordering provider and checkout were not requested. Minimum spend beyond the named item, account/app requirement, stacking, use limits and discount tax/fee basis are unposted.",
-      "requirements": [
-        "Purchase the stated eligible pizza/order or food.",
-        "Use coupon code FOOTBALL during the stated window."
-      ],
-      "redemptionSteps": [
-        "Use Medley Grill & BBQ’s official Order link for the eligible food during the stated special window.",
-        "Enter FOOTBALL at checkout and confirm the stated food discount before paying."
-      ],
-      "savings": "10% off eligible wings/turkey tips; tax/fee basis unposted.",
-      "sourceURL": "https://medleygrillandbbq.com/chicago-avalon-medley-grill-and-bbq-happy-hours-specials",
-      "lastCheckedAt": "2026-10-13T12:22:35.438089+00:00",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "isSample": false,
-      "tier": "unrated",
-      "ratingReason": "Actual current source/material and portable claiming checked; latest Mac human/current history and native resources pending.",
-      "requiresApp": false,
-      "requiresRewards": false,
-      "purchaseRequired": true,
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "required"
-      },
-      "code": "FOOTBALL",
-      "reportedEndsOn": "2026-10-18",
-      "detailNotes": [
-        "Sunday, October 18 • 11 am–6 pm"
-      ],
-      "reportedStartsOn": "2026-10-18",
-      "timeWindow": "11 am–6 pm"
-    },
-    {
       "id": "research-south017_medley_sauce",
       "restaurant": "Medley Grill & BBQ",
       "title": "$1 off 10 or 15-piece smoked wings, Tuesday/Thursday",
@@ -10645,44 +10053,6 @@
         "First order after joining VIP • Dates and times not listed"
       ],
       "timeWindow": "Times not listed"
-    },
-    {
-      "category": "meal",
-      "fullTerms": "Tuesday: Pollo, Abuelita Bistec, Al Pastor or Chorizo tacos $3 each plus tax. Wednesday: chicken enchilada dinner $10, red or green sauce, with rice, beans, lettuce, tomato and sour cream. Thursday: chicken flautas dinner $10 with rice, beans, lettuce, tomato, cheese and sour cream. Sunday: hamburger on a toasted bun with lettuce and tomato, fries and canned pop $10 plus tax; cheese is an optional $1 addition. Use the owner-linked online pickup/delivery route and confirm the named special price and final charges. The full menu has a temporary-unavailability notice directing customers to order online or call. Promotion-specific times and calendar expiry are unlisted. Savings unknown.",
-      "id": "research-central054_LaBiznaga2_weekly_specials",
-      "isSample": false,
-      "lastCheckedAt": "2026-10-11T18:50:07.869447+00:00",
-      "purchaseRequired": false,
-      "ratingReason": "Scoped original material reviewed; exact history, native content and publication remain pending.",
-      "redemptionSteps": [
-        "Open La Biznaga #2’s official menu for 3555 N Broadway and its published pickup/delivery ordering route.",
-        "On the named weekday choose the exact Tuesday taco, Wednesday chicken enchilada, Thursday chicken flautas or Sunday burger/fries/canned-pop special.",
-        "Keep the stated components, select red or green sauce for Wednesday, and add Sunday cheese only if wanted at +$1.",
-        "Confirm the published special price, Tuesday/Sunday tax addition and any fees in the actual order flow before placing it."
-      ],
-      "requirements": [
-        "Use the exact named special on its respective weekday through the owner-linked pickup/delivery ordering route.",
-        "Keep the stated dinner components and sauce choice; Sunday cheese is an optional+$1 modifier.",
-        "Retain explicit Tuesday and Sunday tax addition; other tax/fee handling remains unknown."
-      ],
-      "requiresApp": false,
-      "requiresRewards": false,
-      "restaurant": "La Biznaga #2",
-      "sourceURL": "https://labiznaga2.com/menu",
-      "status": "unconfirmed",
-      "subtitle": "La Biznaga #2: named weekly specials",
-      "tier": "unrated",
-      "timezone": "America/Chicago",
-      "title": "La Biznaga #2: named weekly specials",
-      "locationDetails": "3555 N Broadway, Chicago, IL 60657",
-      "recurrenceLabel": "Tuesday, Wednesday, Thursday or Sunday for each named special; Times not listed; calendar end unknown",
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "savings": "Savings unknown; owner-advertised named weekly specials only",
-      "redemptionReady": true
     },
     {
       "id": "research-southside048_ja_unpriced_daily_promotions-tuesday_two_jerk_tacos",
@@ -13920,6 +13290,375 @@
         "App and account requirements remain unknown; no redemption or checkout was tested."
       ],
       "redemptionReady": true
+    },
+    {
+      "id": "scraped-f33d8b75eeef22a8e925",
+      "restaurant": "KFC",
+      "title": "Free Classic Chicken Sandwich with $5 purchase",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Participating locations only",
+        "Qualifying purchase required",
+        "With $5 purchase",
+        "Valid October 19, 2026 only.",
+        "Rewards membership required",
+        "Available online at KFC.com or in the KFC app.",
+        "KFC Rewards membership required.",
+        "Participating locations only.",
+        "With a $5 purchase."
+      ],
+      "redemptionSteps": [
+        "Source instructions: Free Classic Chicken Sandwich with $5 purchase. Valid October 19, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+        "Use your rewards membership to access this offer.",
+        "Available online at KFC.com or in the KFC app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/",
+      "lastCheckedAt": "2026-10-19T12:26:00Z",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Free Classic Chicken Sandwich with $5 purchase. Valid October 19, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+      "offerDetails": "Free Classic Chicken Sandwich with $5 purchase.",
+      "reportedDates": "October 19, 2026 only",
+      "reportedStartsOn": "2026-10-19",
+      "reportedEndsOn": "2026-10-19",
+      "detailNotes": [
+        "KFC Rewards membership required.",
+        "Available online at KFC.com or in the KFC app at participating locations.",
+        "Sources reviewed 2026-10-19: https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/ • https://www.instagram.com/thefreebieguy/p/Dek0wAVifcU/ • https://www.instagram.com/jamies_daily_deals/p/DendtWXtzUc/"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-b23efbd377745a0d9e8f",
+      "restaurant": "KFC",
+      "title": "Free Wedges or Fries with $5 purchase",
+      "subtitle": "",
+      "category": "side",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Participating locations only",
+        "Qualifying purchase required",
+        "With $5 purchase",
+        "Valid October 20, 2026 only.",
+        "Rewards membership required",
+        "Available online at KFC.com or in the KFC app.",
+        "KFC Rewards membership required.",
+        "Participating locations only.",
+        "With a $5 purchase."
+      ],
+      "redemptionSteps": [
+        "Source instructions: Free Wedges or Fries with $5 purchase. Valid October 20, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+        "Use your rewards membership to access this offer.",
+        "Available online at KFC.com or in the KFC app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/",
+      "lastCheckedAt": "2026-10-19T12:26:00Z",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Free Wedges or Fries with $5 purchase. Valid October 20, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+      "offerDetails": "Free Wedges or Fries with $5 purchase.",
+      "reportedDates": "October 20, 2026 only",
+      "reportedStartsOn": "2026-10-20",
+      "reportedEndsOn": "2026-10-20",
+      "detailNotes": [
+        "KFC Rewards membership required.",
+        "Available online at KFC.com or in the KFC app at participating locations.",
+        "Sources reviewed 2026-10-19: https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/ • https://www.instagram.com/thefreebieguy/p/Dek0wAVifcU/ • https://www.instagram.com/jamies_daily_deals/p/DendtWXtzUc/"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-d265fd9d6fcf9f3d3864",
+      "restaurant": "KFC",
+      "title": "Free two-piece bone-in chicken with $10 purchase",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Participating locations only",
+        "Qualifying purchase required",
+        "With $10 purchase",
+        "Valid October 22, 2026 only.",
+        "Rewards membership required",
+        "Available online at KFC.com or in the KFC app.",
+        "KFC Rewards membership required.",
+        "Participating locations only.",
+        "With a $10 purchase."
+      ],
+      "redemptionSteps": [
+        "Source instructions: Free two-piece bone-in chicken with $10 purchase. Valid October 22, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+        "Use your rewards membership to access this offer.",
+        "Available online at KFC.com or in the KFC app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/",
+      "lastCheckedAt": "2026-10-19T12:26:00Z",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Free two-piece bone-in chicken with $10 purchase. Valid October 22, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+      "offerDetails": "Free two-piece bone-in chicken with $10 purchase.",
+      "reportedDates": "October 22, 2026 only",
+      "reportedStartsOn": "2026-10-22",
+      "reportedEndsOn": "2026-10-22",
+      "detailNotes": [
+        "KFC Rewards membership required.",
+        "Available online at KFC.com or in the KFC app at participating locations.",
+        "Sources reviewed 2026-10-19: https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/ • https://www.instagram.com/thefreebieguy/p/Dek0wAVifcU/"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-a94fa3ff05ad831262c0",
+      "restaurant": "KFC",
+      "title": "40% off five-piece Tenders Combo",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Participating locations only",
+        "Valid October 23, 2026 only.",
+        "Rewards membership required",
+        "Available online at KFC.com or in the KFC app.",
+        "KFC Rewards membership required.",
+        "Participating locations only."
+      ],
+      "redemptionSteps": [
+        "Source instructions: 40% off five-piece Tenders Combo. Valid October 23, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+        "Use your rewards membership to access this offer.",
+        "Available online at KFC.com or in the KFC app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/",
+      "lastCheckedAt": "2026-10-19T12:26:00Z",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "40% off five-piece Tenders Combo. Valid October 23, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+      "offerDetails": "40% off five-piece Tenders Combo.",
+      "reportedDates": "October 23, 2026 only",
+      "reportedStartsOn": "2026-10-23",
+      "reportedEndsOn": "2026-10-23",
+      "detailNotes": [
+        "40% off five-piece Tenders Combo.",
+        "KFC Rewards membership required.",
+        "Available online at KFC.com or in the KFC app at participating locations.",
+        "Sources reviewed 2026-10-19: https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/ • https://www.instagram.com/thefreebieguy/p/Dek0wAVifcU/ • https://www.instagram.com/jamies_daily_deals/p/DendtWXtzUc/"
+      ],
+      "savings": "40% off",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-06f820c44817e5bea9ce",
+      "restaurant": "KFC",
+      "title": "Free Pot Pie with $10 purchase",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Participating locations only",
+        "Qualifying purchase required",
+        "With $10 purchase",
+        "Valid October 26, 2026 only.",
+        "Rewards membership required",
+        "Available online at KFC.com or in the KFC app.",
+        "KFC Rewards membership required.",
+        "Participating locations only.",
+        "With a $10 purchase."
+      ],
+      "redemptionSteps": [
+        "Source instructions: Free Pot Pie with $10 purchase. Valid October 26, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+        "Use your rewards membership to access this offer.",
+        "Available online at KFC.com or in the KFC app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/",
+      "lastCheckedAt": "2026-10-19T12:26:00Z",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Free Pot Pie with $10 purchase. Valid October 26, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+      "offerDetails": "Free Pot Pie with $10 purchase.",
+      "reportedDates": "October 26, 2026 only",
+      "reportedStartsOn": "2026-10-26",
+      "reportedEndsOn": "2026-10-26",
+      "detailNotes": [
+        "KFC Rewards membership required.",
+        "Available online at KFC.com or in the KFC app at participating locations.",
+        "Sources reviewed 2026-10-19: https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/ • https://www.instagram.com/thefreebieguy/p/Dek0wAVifcU/ • https://www.instagram.com/jamies_daily_deals/p/DendtWXtzUc/"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-fe8129c0a7a255d7a745",
+      "restaurant": "KFC",
+      "title": "Free Famous Bowl with $10 purchase",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Participating locations only",
+        "Qualifying purchase required",
+        "With $10 purchase",
+        "Valid October 27, 2026 only.",
+        "Rewards membership required",
+        "Available online at KFC.com or in the KFC app.",
+        "KFC Rewards membership required.",
+        "Participating locations only.",
+        "With a $10 purchase."
+      ],
+      "redemptionSteps": [
+        "Source instructions: Free Famous Bowl with $10 purchase. Valid October 27, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+        "Use your rewards membership to access this offer.",
+        "Available online at KFC.com or in the KFC app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/",
+      "lastCheckedAt": "2026-10-19T12:26:00Z",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Free Famous Bowl with $10 purchase. Valid October 27, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+      "offerDetails": "Free Famous Bowl with $10 purchase.",
+      "reportedDates": "October 27, 2026 only",
+      "reportedStartsOn": "2026-10-27",
+      "reportedEndsOn": "2026-10-27",
+      "detailNotes": [
+        "KFC Rewards membership required.",
+        "Available online at KFC.com or in the KFC app at participating locations.",
+        "Sources reviewed 2026-10-19: https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/ • https://www.instagram.com/thefreebieguy/p/Dek0wAVifcU/"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-23e54e6d9dfc29257ebe",
+      "restaurant": "KFC",
+      "title": "Free Snacker with $5 purchase",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Participating locations only",
+        "Qualifying purchase required",
+        "With $5 purchase",
+        "Valid October 29, 2026 only.",
+        "Rewards membership required",
+        "Available online at KFC.com or in the KFC app.",
+        "KFC Rewards membership required.",
+        "Participating locations only.",
+        "With a $5 purchase."
+      ],
+      "redemptionSteps": [
+        "Source instructions: Free Snacker with $5 purchase. Valid October 29, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+        "Use your rewards membership to access this offer.",
+        "Available online at KFC.com or in the KFC app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/",
+      "lastCheckedAt": "2026-10-19T12:26:00Z",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Free Snacker with $5 purchase. Valid October 29, 2026 only. KFC Rewards membership required. Available online at KFC.com or in the KFC app at participating locations.",
+      "offerDetails": "Free Snacker with $5 purchase.",
+      "reportedDates": "October 29, 2026 only",
+      "reportedStartsOn": "2026-10-29",
+      "reportedEndsOn": "2026-10-29",
+      "detailNotes": [
+        "KFC Rewards membership required.",
+        "Available online at KFC.com or in the KFC app at participating locations.",
+        "Sources reviewed 2026-10-19: https://www.instagram.com/thekrazycouponlady/p/DepazrlFa3X/ • https://www.instagram.com/thefreebieguy/p/Dek0wAVifcU/"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "required"
+      },
+      "newCustomer": false
     }
   ],
   "happyHours": [
@@ -14357,14 +14096,6 @@
       "sourceAddress": "1015 N RUSH ST",
       "latitude": 41.90119804129134,
       "longitude": -87.6275640618535,
-      "checkedAt": "2026-10-17T17:26:30Z",
-      "match": "exact"
-    },
-    {
-      "address": "1031 West Wilson Avenue, Chicago, IL 60640",
-      "sourceAddress": "1031 W WILSON AVE",
-      "latitude": 41.96530660268448,
-      "longitude": -87.65611796936844,
       "checkedAt": "2026-10-17T17:26:30Z",
       "match": "exact"
     },
@@ -14830,14 +14561,6 @@
       "latitude": 41.944989935472,
       "longitude": -87.727120345333,
       "checkedAt": "2026-09-28T16:30:08Z",
-      "match": "exact"
-    },
-    {
-      "address": "3555 N Broadway, Chicago, IL 60657",
-      "sourceAddress": "3555 N BROADWAY",
-      "latitude": 41.94704993176384,
-      "longitude": -87.64693051797316,
-      "checkedAt": "2026-10-17T17:26:30Z",
       "match": "exact"
     },
     {

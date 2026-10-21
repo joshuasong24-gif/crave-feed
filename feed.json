@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-20T18:37:05.481807+00:00",
+  "generatedAt": "2026-10-21T12:40:42.921318+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -9487,36 +9487,38 @@
     {
       "id": "scraped-e1ac00545ca42df16fb8",
       "restaurant": "Shake Shack",
-      "title": "Free Shackburger",
+      "title": "Free Single ShackBurger",
       "subtitle": "",
-      "category": "drink",
+      "category": "meal",
       "tier": "unrated",
       "status": "unconfirmed",
       "timezone": "UTC",
       "requirements": [
-        "Available online or in the app.",
-        "With a purchase of $10 or more at shake shack when you enter promo code scarygood during online or in-app checkout for pickup or delivery",
-        "Offer valid once per day through Oct. 31."
+        "Add a Single ShackBurger and at least $10 of other food or beverages to your order.",
+        "The $10 minimum excludes the free promotional sandwich, gift cards, taxes, delivery fees and other fees.",
+        "Limit one free promotional sandwich per order.",
+        "Valid October 19–31, 2026 at participating U.S. Shake Shack locations; excludes airports, stadiums, arenas, travel plazas and museums.",
+        "Order at an in-Shack kiosk or through the Shake Shack app or shakeshack.com for pickup or delivery.",
+        "Not valid at drive-thru or through third-party delivery apps.",
+        "Paid add-ons are excluded; cannot combine with other offers or promotions.",
+        "While supplies last."
       ],
       "redemptionSteps": [
-        "Get a free Shackburger with a purchase of $10 or more at Shake Shack when you enter promo code SCARYGOOD during online or in-app checkout for pickup or delivery.",
-        "Source instructions: Get a free Shackburger with a purchase of $10 or more at Shake Shack when you enter promo code SCARYGOOD during online or in-app checkout for pickup or delivery. Offer valid once per day through Oct. 31.",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Use promo code SCARYGOOD as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+        "Choose a participating location and order at an in-Shack kiosk, in the Shake Shack app, or at shakeshack.com for pickup or delivery.",
+        "Add one Single ShackBurger and at least $10 of other food or beverages to the cart. The free sandwich, gift cards, taxes and fees do not count toward the $10 minimum.",
+        "Enter promo code SCARYGOOD in uppercase at checkout; the code is case-sensitive.",
+        "Confirm the Single ShackBurger discount before paying. Limit one free promotional sandwich per order; paid add-ons are not included."
       ],
       "purchaseRequired": true,
       "requiresApp": false,
       "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-20T18:36:31.098497+00:00",
+      "sourceURL": "https://shakeshack.com/blog/our-food/scary-good-deals-are-back-this-october-at-shake-shack",
+      "lastCheckedAt": "2026-10-21T12:34:35.435627+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Get a free Shackburger with a purchase of $10 or more at Shake Shack when you enter promo code SCARYGOOD during online or in-app checkout for pickup or delivery. Offer valid once per day through Oct. 31.",
-      "offerDetails": "Free Shackburger.",
-      "reportedDates": "through Oct. 31",
+      "fullTerms": "Get one free Single ShackBurger per order with a minimum purchase of $10 in other food or beverages, October 19–31, 2026, while supplies last. Add the Single ShackBurger to the cart before checkout and enter promo code SCARYGOOD in uppercase; the code is case-sensitive. The $10 minimum excludes the free promotional sandwich, gift cards, taxes, delivery fees and other fees. Qualifying orders must be placed at an in-Shack kiosk or for pickup or delivery through the Shake Shack app or shakeshack.com, and fulfilled during the promotional period. Valid at participating U.S. Shake Shack locations, excluding airports, stadiums, arenas, travel plazas and museums. Not valid for drive-thru orders or third-party delivery apps. Paid add-ons, including avocado and bacon, are excluded. Cannot combine with other offers or promotions.",
+      "offerDetails": "Free Single ShackBurger with $10 of other food or beverages.",
+      "reportedDates": "October 19–31, 2026",
       "reportedEndsOn": "2026-10-31",
       "code": "SCARYGOOD",
       "redemptionReady": true,
@@ -9525,7 +9527,8 @@
         "account": "unknown",
         "purchase": "required"
       },
-      "newCustomer": false
+      "newCustomer": false,
+      "reportedStartsOn": "2026-10-19"
     }
   ],
   "happyHours": [

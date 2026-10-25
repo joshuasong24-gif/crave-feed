@@ -4219,59 +4219,6 @@
         "purchase": "required"
       },
       "newCustomer": false
-    },
-    {
-      "id": "scraped-ae70298889ad656cd085",
-      "restaurant": "Toppers Pizza",
-      "title": "Free Triple Original Topperstix",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online or in the app.",
-        "Qualifying purchase required",
-        "With a $25 purchase at Toppers Pizza when you use promo code BASEBALL during national baseball championship games through Oct",
-        "Limit one reward per member per week, Monday - Sunday",
-        "No purchase necessary",
-        "Upper Crust Society members",
-        "Limit one reward per member per week, Monday - Sunday.",
-        "No purchase necessary.",
-        "Rewards membership required"
-      ],
-      "redemptionSteps": [
-        "Upper Crust Society members can score free Triple Original Topperstix with a $25 purchase at Toppers Pizza when you use promo code BASEBALL during national baseball championship games through Oct. 31.",
-        "Wisconsin residents ages 18 and older can also enter game-day prize drawings starting Oct. 24.",
-        "Source instructions: Upper Crust Society members can score free Triple Original Topperstix with a $25 purchase at Toppers Pizza when you use promo code BASEBALL during national baseball championship games through Oct. 31. Order online, in app, by phone, or in store from three hours before first pitch through 11:59 p.m. CT. The reward will arrive the next day in your rewards account and is valid for seven days. Limit one reward per member per week, Monday - Sunday. Wisconsin residents ages 18 and older can also enter game-day prize drawings starting Oct. 24. No purchase necessary.",
-        "Use your rewards membership to access this offer.",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Use promo code BASEBALL as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-24T17:33:22.160504+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Upper Crust Society members can score free Triple Original Topperstix with a $25 purchase at Toppers Pizza when you use promo code BASEBALL during national baseball championship games through Oct. 31. Order online, in app, by phone, or in store from three hours before first pitch through 11:59 p.m. CT. The reward will arrive the next day in your rewards account and is valid for seven days. Limit one reward per member per week, Monday - Sunday. Wisconsin residents ages 18 and older can also enter game-day prize drawings starting Oct. 24. No purchase necessary.",
-      "offerDetails": "Free Triple Original Topperstix.",
-      "reportedDates": "through Oct. 31",
-      "reportedEndsOn": "2026-10-31",
-      "detailNotes": [
-        "Order online, in app, by phone, or in store from three hours before first pitch through 11:59 p.m. CT."
-      ],
-      "code": "BASEBALL",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "required",
-        "purchase": "required"
-      },
-      "newCustomer": false
     }
   ],
   "happyHours": [],

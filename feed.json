@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-31T18:43:09.987661+00:00",
+  "generatedAt": "2026-11-01T19:52:22.062781+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -27,7 +27,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-21T18:50:46.719442+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:46.056473+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Royal Perks members can get a $3.99 Whopper every Wednesday online or through the BK app.",
@@ -66,7 +66,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.082090+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:46.057390+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Get BOGO 50% off large pizzas every Tuesday at Chuck E. Cheese. Offer is for dine-in and carryout orders. Just be sure to mention \"Topping Tuesday\" to get this deal.",
@@ -111,7 +111,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:33.943213+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:45.982867+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Every Tuesday, Cinnabon Rewards members can get $7 off any CinnaPack at Cinnabon when you order online or in app.",
@@ -152,7 +152,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.112016+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:46.075015+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Every day from 2 - 5 p.m., you can enjoy BOGO cookies, regular tots, and chips at Quiznos when you use the promo code SHBOGO at checkout.",
@@ -235,7 +235,7 @@
       "requiresApp": true,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.097635+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:46.066525+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Score a free 6-piece Nuggs at Wendy's every Wednesday when you make an in-app purchase of $5 or more.",
@@ -281,7 +281,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.063393+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:46.045118+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Through Dec. 4: Rewards members can get 50% off a Dave's Single with purchase when you enter promo code FOXBIGNOON online or in app. Offer valid once per week.",
@@ -2741,86 +2741,6 @@
       "redemptionReady": true
     },
     {
-      "id": "scraped-884a0b35c3f71a24181e",
-      "restaurant": "White Castle",
-      "title": "BOGO Crispy Chicken Slider",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App only — access this offer in the app.",
-        "Qualifying purchase required",
-        "White Castle Craver Nation members",
-        "Rewards membership required"
-      ],
-      "redemptionSteps": [
-        "Source instructions: Throughout October 2026, White Castle Craver Nation members can get a buy one Crispy Chicken Slider, get one free offer exclusively in the White Castle app. Check the app offer for your selected participating restaurant and confirm the discount before paying. Craver Nation membership is free; participation, limits and restrictions may vary.",
-        "Use your rewards membership to access this offer.",
-        "App only — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Buy one Crispy Chicken Slider; the second is free under this offer. Check the source for quantity and item restrictions.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://www.instagram.com/p/DdXam-pR7-8/",
-      "lastCheckedAt": "2026-09-19T03:38:56.386463+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Throughout October 2026, White Castle Craver Nation members can get a buy one Crispy Chicken Slider, get one free offer exclusively in the White Castle app. Check the app offer for your selected participating restaurant and confirm the discount before paying. Craver Nation membership is free; participation, limits and restrictions may vary.",
-      "offerDetails": "BOGO Crispy Chicken Slider.",
-      "reportedStartsOn": "2026-10-01",
-      "reportedEndsOn": "2026-10-31",
-      "detailNotes": [
-        "Throughout October 2026, White Castle Craver Nation members can get a buy one Crispy Chicken Slider, get one free offer exclusively in the White Castle app.",
-        "Check the app offer for your selected participating restaurant and confirm the discount before paying.",
-        "Craver Nation membership is free; participation, limits and restrictions may vary."
-      ],
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-8dc572b5f4760e1b8013",
-      "restaurant": "White Castle",
-      "title": "5 Original Sliders for $3",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App only — access this offer in the app.",
-        "White Castle Craver Nation members",
-        "Rewards membership required"
-      ],
-      "redemptionSteps": [
-        "Source instructions: Throughout October 2026, White Castle Craver Nation members can get five Original Sliders for $3 through an app-exclusive deal. Check the White Castle app offer for your selected participating restaurant and confirm the price before paying. Craver Nation membership is free; participation, limits and restrictions may vary.",
-        "Use your rewards membership to access this offer.",
-        "App only — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://www.instagram.com/p/DdXam-pR7-8/",
-      "lastCheckedAt": "2026-09-19T03:38:56.386463+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Throughout October 2026, White Castle Craver Nation members can get five Original Sliders for $3 through an app-exclusive deal. Check the White Castle app offer for your selected participating restaurant and confirm the price before paying. Craver Nation membership is free; participation, limits and restrictions may vary.",
-      "offerDetails": "5 Original Sliders for $3.",
-      "reportedStartsOn": "2026-10-01",
-      "reportedEndsOn": "2026-10-31",
-      "detailNotes": [
-        "Throughout October 2026, White Castle Craver Nation members can get five Original Sliders for $3 through an app-exclusive deal.",
-        "Check the White Castle app offer for your selected participating restaurant and confirm the price before paying.",
-        "Craver Nation membership is free; participation, limits and restrictions may vary."
-      ],
-      "redemptionReady": true
-    },
-    {
       "id": "scraped-8b408f284f5dbbbb77a8",
       "restaurant": "McDonald's",
       "title": "Free Friday medium fries",
@@ -2929,7 +2849,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.084030+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:46.058559+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Every Monday, get a Build Your Own Smoke Stack for $8.85 when you order online or in the Dickey's Barbecue Pit app. Find the offer under the Deals section; limit one per person per transaction.",
@@ -2970,7 +2890,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:33.958482+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:45.989974+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Every Wednesday, you can get 10 bone-in classic wings for $10 at Dickey's Barbecue Pit when you order online or in app. Offer valid while supplies last.",
@@ -3014,7 +2934,7 @@
       "requiresApp": false,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.107762+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:46.072477+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "From 2 - 5 p.m. daily, My Rewards members can get 25% off up to four select sips, shakes, and sides at Hardee's when you order in the app or online at order.hardees.com. Eligible items include any size fountain drinks, Hand-Crafted Lemonades, Hand-Scooped Ice Cream Shakes, fries, and Apple Turnovers. Limit one redemption per registered user per day.",
@@ -3035,97 +2955,6 @@
       "redemptionReady": true,
       "requirementStates": {
         "app": "unknown",
-        "account": "required",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-9ec9ed33c053edc9efc6",
-      "restaurant": "RA Sushi",
-      "title": "BOGO Wagyu Fried Rice",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Qualifying purchase required",
-        "Buy one Wagyu Fried Rice",
-        "Limit one offer per order",
-        "Limit one offer per order."
-      ],
-      "redemptionSteps": [
-        "Through Oct. 31, buy one Wagyu Fried Rice and get a second free at RA Sushi when you enter promo code WAGYU26O at online checkout.",
-        "Source instructions: Through Oct. 31, buy one Wagyu Fried Rice and get a second free at RA Sushi when you enter promo code WAGYU26O at online checkout. Limit one offer per order.",
-        "Buy one Wagyu Fried Rice; the second is free under this offer. Check the source for quantity and item restrictions.",
-        "Use promo code WAGYU26O as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.032865+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Through Oct. 31, buy one Wagyu Fried Rice and get a second free at RA Sushi when you enter promo code WAGYU26O at online checkout. Limit one offer per order.",
-      "offerDetails": "BOGO Wagyu Fried Rice.",
-      "reportedDates": "Through Oct. 31",
-      "reportedEndsOn": "2026-10-31",
-      "code": "WAGYU26O",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-eac7995148c7e8a0e932",
-      "restaurant": "Smashburger",
-      "title": "$2 off a Meal Deal",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "Rewards membership required",
-        "Smash Rewards members"
-      ],
-      "redemptionSteps": [
-        "Source instructions: Through Oct. 31, Smash Rewards members can get $2 off a Meal Deal in app at Smashburger. Meal Deal options include an All-American Smash, Deluxe Smash, or Classic Smash with fries and a 20 oz Coca-Cola.",
-        "Use your rewards membership to access this offer.",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.042221+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Through Oct. 31, Smash Rewards members can get $2 off a Meal Deal in app at Smashburger. Meal Deal options include an All-American Smash, Deluxe Smash, or Classic Smash with fries and a 20 oz Coca-Cola.",
-      "offerDetails": "$2 off a Meal Deal.",
-      "eligibleItems": [
-        "an All-American Smash",
-        "Deluxe Smash",
-        "or Classic Smash with fries and a 20 oz Coca-Cola"
-      ],
-      "reportedDates": "Through Oct. 31",
-      "membershipRequirement": "Rewards membership required",
-      "reportedEndsOn": "2026-10-31",
-      "detailNotes": [
-        "Through Oct. 31, Smash Rewards members can get $2 off a Meal Deal in app at Smashburger."
-      ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "required",
         "account": "required",
         "purchase": "unknown"
       },
@@ -3174,56 +3003,6 @@
       "newCustomer": false
     },
     {
-      "id": "scraped-ac00638440ef2e063f8f",
-      "restaurant": "Paris Baguette",
-      "title": "Free pastry",
-      "subtitle": "",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "With any beverage purchase",
-        "Rewards membership required",
-        "With any purchase on your next visit",
-        "PB Rewards members",
-        "New members",
-        "Enrollment required; see redemption steps"
-      ],
-      "redemptionSteps": [
-        "Source instructions: Oct. 31: Free pastry with any beverage purchase",
-        "Use your rewards membership to access this offer.",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.021099+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Oct. 31: Free pastry with any beverage purchase",
-      "offerDetails": "Free pastry.",
-      "reportedDates": "Oct. 31",
-      "membershipRequirement": "Rewards membership required",
-      "reportedStartsOn": "2026-10-31",
-      "reportedEndsOn": "2026-10-31",
-      "detailNotes": [
-        "Shared campaign terms: Paris Baguette has several offers for PB Rewards members in October. New members who sign up through the mobile app for a free pastry with any purchase on your next visit."
-      ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "required",
-        "account": "required",
-        "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "scraped-c05e688aa27a6018ba01",
       "restaurant": "Sonic",
       "title": "Half-price Cheeseburgers",
@@ -3260,54 +3039,6 @@
       "requirementStates": {
         "app": "unknown",
         "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-2b41d5f0237bd0286b6a",
-      "restaurant": "White Castle",
-      "title": "$3 Five Original Sliders",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "Rewards membership required",
-        "Craver Nation Rewards members",
-        "New rewards members",
-        "Enrollment required; see redemption steps"
-      ],
-      "redemptionSteps": [
-        "Source instructions: Oct. 1 - 31: Five Original Sliders for $3 in restaurants (rewards members)",
-        "Use your rewards membership to access this offer.",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-01T19:42:22.556086+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Oct. 1 - 31: Five Original Sliders for $3 in restaurants (rewards members)",
-      "offerDetails": "$3 Five Original Sliders.",
-      "reportedDates": "Oct. 1–31",
-      "membershipRequirement": "Rewards membership required",
-      "reportedStartsOn": "2026-10-01",
-      "reportedEndsOn": "2026-10-31",
-      "detailNotes": [
-        "Oct. 1 - 31: Five Original Sliders for $3 in restaurants (rewards members)",
-        "Shared campaign terms: This fall, White Castle has several offers for Craver Nation Rewards members and other customers. New rewards members also get $5 off their first in-app order of $8 or more, valid for 30 days after joining."
-      ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "required",
-        "account": "required",
         "purchase": "unknown"
       },
       "newCustomer": false
@@ -3382,7 +3113,7 @@
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.029846+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:46.029126+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "Get free 6 pc. wings with a Popeyes online or in-app purchase of $10 or more every Monday, through Jan. 4, 2027. Choose Classic, Honey BBQ, Ghost Pepper, or Sweet 'N Spicy. Limit one per order.",
@@ -3428,7 +3159,7 @@
       "requiresApp": true,
       "requiresRewards": true,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:33.990622+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:46.006883+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
       "fullTerms": "This year, Jack in the Box is offering Jack Pack members two tacos for $0.75 with an in-app purchase on National Taco Day. Offer valid every Tuesday through Dec. 27.",
@@ -3594,49 +3325,6 @@
       "newCustomer": false
     },
     {
-      "id": "scraped-f60a371d8dbfd0a5742e",
-      "restaurant": "Dickey's Barbecue Pit",
-      "title": "Food & drink specials",
-      "subtitle": "",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online or in the app.",
-        "Limit one per person",
-        "Offer valid through Oct. 31.",
-        "Limit one per person."
-      ],
-      "redemptionSteps": [
-        "Save $5 on an order of $25 or more at Dickey's Barbecue Pit when you enter promo code SAVEFIVE85 during online or in-app checkout.",
-        "Source instructions: Save $5 on an order of $25 or more at Dickey's Barbecue Pit when you enter promo code SAVEFIVE85 during online or in-app checkout. Offer valid through Oct. 31. Limit one per person.",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Use promo code SAVEFIVE85 as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-29T19:47:13.137999+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Save $5 on an order of $25 or more at Dickey's Barbecue Pit when you enter promo code SAVEFIVE85 during online or in-app checkout. Offer valid through Oct. 31. Limit one per person.",
-      "offerDetails": "Food & drink specials.",
-      "reportedDates": "through Oct. 31",
-      "reportedEndsOn": "2026-10-31",
-      "code": "SAVEFIVE85",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "scraped-357705166b156a246aae",
       "restaurant": "Wingstop",
       "title": "$30 30 wings",
@@ -3669,42 +3357,6 @@
       "detailNotes": [
         "Wingstop offers 30 wings for $30 on Thursdays and Sundays through January 3, 2027, plus NFL game days."
       ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-f26740a2ae5b59d1262c",
-      "restaurant": "Benihana",
-      "title": "$10 off an",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [],
-      "redemptionSteps": [
-        "Get $10 off an online order of $40 or more at Benihana through Oct. 31 when you enter promo code HIBACHI10 during online checkout.",
-        "Source instructions: Get $10 off an online order of $40 or more at Benihana through Oct. 31 when you enter promo code HIBACHI10 during online checkout.",
-        "Use promo code HIBACHI10 as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:33.913488+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Get $10 off an online order of $40 or more at Benihana through Oct. 31 when you enter promo code HIBACHI10 during online checkout.",
-      "offerDetails": "$10 off an.",
-      "reportedDates": "through Oct. 31",
-      "reportedEndsOn": "2026-10-31",
-      "code": "HIBACHI10",
       "redemptionReady": true,
       "requirementStates": {
         "app": "unknown",
@@ -3801,57 +3453,6 @@
       "newCustomer": false
     },
     {
-      "id": "scraped-ae70298889ad656cd085",
-      "restaurant": "Toppers Pizza",
-      "title": "Free Triple Original Topperstix",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online or in the app.",
-        "Qualifying purchase required",
-        "With a $25 purchase at Toppers Pizza when you use promo code BASEBALL during national baseball championship games through Oct",
-        "Limit one reward per member per week, Monday - Sunday",
-        "Upper Crust Society members",
-        "Limit one reward per member per week, Monday - Sunday.",
-        "Rewards membership required"
-      ],
-      "redemptionSteps": [
-        "Upper Crust Society members can score free Triple Original Topperstix with a $25 purchase at Toppers Pizza when you use promo code BASEBALL during national baseball championship games through Oct. 31.",
-        "Source instructions: Upper Crust Society members can score free Triple Original Topperstix with a $25 purchase at Toppers Pizza when you use promo code BASEBALL during national baseball championship games through Oct. 31. Order online, in app, by phone, or in store from three hours before first pitch through 11:59 p.m. CT. The reward will arrive the next day in your rewards account and is valid for seven days. Limit one reward per member per week, Monday - Sunday.",
-        "Use your rewards membership to access this offer.",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Use promo code BASEBALL as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-31T18:42:34.057977+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Upper Crust Society members can score free Triple Original Topperstix with a $25 purchase at Toppers Pizza when you use promo code BASEBALL during national baseball championship games through Oct. 31. Order online, in app, by phone, or in store from three hours before first pitch through 11:59 p.m. CT. The reward will arrive the next day in your rewards account and is valid for seven days. Limit one reward per member per week, Monday - Sunday.",
-      "offerDetails": "Free Triple Original Topperstix.",
-      "reportedDates": "through Oct. 31",
-      "reportedEndsOn": "2026-10-31",
-      "detailNotes": [
-        "Order online, in app, by phone, or in store from three hours before first pitch through 11:59 p.m. CT."
-      ],
-      "code": "BASEBALL",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "required",
-        "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "scraped-ce87be06e4523ba45f6b",
       "restaurant": "Subway",
       "title": "Buy one Footlong, get one Free",
@@ -3898,82 +3499,85 @@
       "newCustomer": false
     },
     {
-      "id": "scraped-00bcd90a3130ee8e8bad",
-      "restaurant": "Shake Shack",
-      "title": "Free Single ShackBurger",
-      "subtitle": "",
-      "category": "drink",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online, in the app or in store.",
-        "Minimum purchase at participating us shake shack locations",
-        "With a $10 minimum purchase at participating US Shake Shack locations"
-      ],
-      "redemptionSteps": [
-        "Shake Shack – Use code SCARYGOOD through October 31, 2026, for a free Single ShackBurger with a $10 minimum purchase at participating US Shake Shack locations.",
-        "Source instructions: Shake Shack – Use code SCARYGOOD through October 31, 2026, for a free Single ShackBurger with a $10 minimum purchase at participating US Shake Shack locations. Order online, through the app, or in-store with the promo code.",
-        "Available online, in the app or in store.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Make the qualifying purchase described in Terms & Conditions; check the required items and minimum spend.",
-        "Use promo code SCARYGOOD as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://thefreebieguy.com/cheap-wednesday-food-deals/",
-      "lastCheckedAt": "2026-10-26T20:43:29.937183+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Shake Shack – Use code SCARYGOOD through October 31, 2026, for a free Single ShackBurger with a $10 minimum purchase at participating US Shake Shack locations. Order online, through the app, or in-store with the promo code.",
-      "offerDetails": "Free Single ShackBurger.",
-      "reportedDates": "October 31, 2026",
-      "reportedEndsOn": "2026-10-31",
-      "detailNotes": [
-        "Order online, through the app, or in-store with the promo code."
-      ],
-      "code": "SCARYGOOD",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "unknown",
-        "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-a199b2a3be1f2b3ebfae",
-      "restaurant": "Penn Station",
-      "title": "$10 off any Party Box",
+      "id": "scraped-9078b6d007a914398df9",
+      "restaurant": "Applebee's",
+      "title": "Free Boneless Wings To Go",
       "subtitle": "",
       "category": "meal",
       "tier": "unrated",
       "status": "unconfirmed",
       "timezone": "UTC",
-      "requirements": [],
+      "requirements": [
+        "Available online or in the app.",
+        "With an eligible $15 or more order placed through the chain's own website or app",
+        "Club Applebee's members",
+        "Enrollment required; see redemption steps",
+        "Rewards membership required"
+      ],
       "redemptionSteps": [
-        "Enter promo code PARTYBOX10 during online checkout.",
-        "Source instructions: Get $10 off any Party Box at Penn Station through Oct. 31. Enter promo code PARTYBOX10 during online checkout.",
-        "Use promo code PARTYBOX10 as directed in the source terms.",
+        "Applebee's official NFL Season Wing Ticket announcement says Club Applebee's members can sign up to receive a weekly code for six free Boneless Wings To Go with an eligible $15 or more order placed through the chain's own website or app.",
+        "Source instructions: Applebee's official NFL Season Wing Ticket announcement says Club Applebee's members can sign up to receive a weekly code for six free Boneless Wings To Go with an eligible $15 or more order placed through the chain's own website or app. Codes arrive on Sunday and work Sunday through Thursday that same week; the promotion continues through January 10, 2027. One six-wing deal per week; alcohol, gift cards, tax, delivery or service fees and gratuity are excluded from the minimum. Third-party delivery apps do not qualify, and location participation varies.",
+        "Use your rewards membership to access this offer.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://totallythebomb.com/november-restaurant-deals-2026/",
+      "lastCheckedAt": "2026-11-01T19:51:48.521301+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Applebee's official NFL Season Wing Ticket announcement says Club Applebee's members can sign up to receive a weekly code for six free Boneless Wings To Go with an eligible $15 or more order placed through the chain's own website or app. Codes arrive on Sunday and work Sunday through Thursday that same week; the promotion continues through January 10, 2027. One six-wing deal per week; alcohol, gift cards, tax, delivery or service fees and gratuity are excluded from the minimum. Third-party delivery apps do not qualify, and location participation varies.",
+      "offerDetails": "Free Boneless Wings To Go.",
+      "reportedDates": "January 10, 2027",
+      "reportedEndsOn": "2027-01-10",
+      "detailNotes": [
+        "Codes arrive on Sunday and work Sunday through Thursday that same week; the promotion continues through January 10, 2027.",
+        "Third-party delivery apps do not qualify, and location participation varies."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-8e88251cd5ae016e1571",
+      "restaurant": "Dickey's Barbecue Pit",
+      "title": "$10 off your",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Offer valid through Nov. 6, 2026."
+      ],
+      "redemptionSteps": [
+        "Get $10 off your online or in-app order of $55 or more at Dickey's Barbecue Pit when you enter promo code SMOKIN85 at checkout.",
+        "Source instructions: Get $10 off your online or in-app order of $55 or more at Dickey's Barbecue Pit when you enter promo code SMOKIN85 at checkout. Offer valid through Nov. 6, 2026.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Use promo code SMOKIN85 as directed in the source terms.",
         "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
       ],
       "purchaseRequired": false,
       "requiresApp": false,
       "requiresRewards": false,
       "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-10-29T19:47:13.177717+00:00",
+      "lastCheckedAt": "2026-11-01T19:51:45.989818+00:00",
       "isSample": false,
       "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Get $10 off any Party Box at Penn Station through Oct. 31. Enter promo code PARTYBOX10 during online checkout.",
-      "offerDetails": "$10 off any Party Box.",
-      "reportedDates": "through Oct. 31",
-      "reportedEndsOn": "2026-10-31",
-      "detailNotes": [
-        "Get $10 off any Party Box at Penn Station through Oct. 31."
-      ],
-      "code": "PARTYBOX10",
+      "fullTerms": "Get $10 off your online or in-app order of $55 or more at Dickey's Barbecue Pit when you enter promo code SMOKIN85 at checkout. Offer valid through Nov. 6, 2026.",
+      "offerDetails": "$10 off your.",
+      "reportedDates": "Nov. 6, 2026",
+      "reportedEndsOn": "2026-11-06",
+      "code": "SMOKIN85",
       "redemptionReady": true,
       "requirementStates": {
         "app": "unknown",
@@ -3981,6 +3585,102 @@
         "purchase": "unknown"
       },
       "newCustomer": false
+    },
+    {
+      "id": "scraped-1b155bc3c1a8df00fc7b",
+      "restaurant": "Tropical Smoothie Cafe",
+      "title": "Free 24 oz. smoothie",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "Available online or in the app.",
+        "Rewards membership required",
+        "With any Tropic Bowl or food purchase at Tropical Smoothie Cafe",
+        "Tropic Rewards members",
+        "Offer valid daily with rewards redemption in app, online or by scanning in cafe."
+      ],
+      "redemptionSteps": [
+        "Source instructions: From Nov. 2 - 8, Tropic Rewards members can get a free 24 oz. smoothie with any Tropic Bowl or food purchase at Tropical Smoothie Cafe. Offer valid daily with rewards redemption in app, online or by scanning in cafe. Free smoothie applies to the lowest-priced 24 oz. smoothie ordered.",
+        "Use your rewards membership to access this offer.",
+        "Available online or in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
+      "lastCheckedAt": "2026-11-01T19:51:46.042187+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "From Nov. 2 - 8, Tropic Rewards members can get a free 24 oz. smoothie with any Tropic Bowl or food purchase at Tropical Smoothie Cafe. Offer valid daily with rewards redemption in app, online or by scanning in cafe. Free smoothie applies to the lowest-priced 24 oz. smoothie ordered.",
+      "offerDetails": "Free 24 oz. smoothie.",
+      "reportedDates": "Nov. 2–8",
+      "membershipRequirement": "Rewards membership required",
+      "recurrenceLabel": "Daily",
+      "reportedStartsOn": "2026-11-02",
+      "reportedEndsOn": "2026-11-08",
+      "detailNotes": [
+        "Free smoothie applies to the lowest-priced 24 oz. smoothie ordered."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-41a4bdfa578996eb77a2",
+      "restaurant": "White Castle",
+      "title": "Food & drink specials",
+      "subtitle": "",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "UTC",
+      "requirements": [
+        "App required — access this offer in the app.",
+        "Rewards membership required",
+        "Craver Nation Rewards members",
+        "New rewards members",
+        "Enrollment required; see redemption steps"
+      ],
+      "redemptionSteps": [
+        "Source instructions: This fall, White Castle is offering Craver Nation Rewards members and non-members. New rewards members also get $5 off their first in-app order of $8 or more, valid for 30 days after joining. Through Nov. 1: Halloween Mystery Offer on mobile orders (rewards members) 12 pc. Chicken Rings for $4.99 in restaurants",
+        "Use your rewards membership to access this offer.",
+        "App required — access this offer in the app.",
+        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
+        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
+      "lastCheckedAt": "2026-11-01T19:51:46.046870+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "This fall, White Castle is offering Craver Nation Rewards members and non-members. New rewards members also get $5 off their first in-app order of $8 or more, valid for 30 days after joining. Through Nov. 1: Halloween Mystery Offer on mobile orders (rewards members) 12 pc. Chicken Rings for $4.99 in restaurants",
+      "offerDetails": "Food & drink specials.",
+      "reportedDates": "Through Nov. 1",
+      "membershipRequirement": "Rewards membership required",
+      "reportedEndsOn": "2026-11-01",
+      "detailNotes": [
+        "This fall, White Castle is offering Craver Nation Rewards members and non-members.",
+        "Through Nov. 1: Halloween Mystery Offer on mobile orders (rewards members) 12 pc.",
+        "Chicken Rings for $4.99 in restaurants"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "required",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": true
     }
   ],
   "happyHours": [],

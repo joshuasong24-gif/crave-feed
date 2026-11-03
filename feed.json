@@ -3589,6 +3589,42 @@
         "purchase": "required"
       },
       "newCustomer": false
+    },
+    {
+      "id": "scraped-9b5ec1b1e40701ca4108",
+      "restaurant": "Schlotzsky’s",
+      "title": "$5 qualifying medium sandwiches",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Schlotzsky's Rewards offer required.",
+        "Up to 10 sandwiches in one order; single use.",
+        "No substitutions, free add-ons or stacking; excludes catering and third-party delivery."
+      ],
+      "redemptionSteps": [
+        "Apply the Rewards offer in-store, online or in the app at a participating location.",
+        "Choose the qualifying medium sandwich and confirm the promotional price."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/thefrugal.foodie/p/DfIjYPkj1cv/",
+      "lastCheckedAt": "2026-10-31T12:06:36.091Z",
+      "isSample": false,
+      "ratingReason": "Source-reviewed promotion; redemption and selected-store participation untested.",
+      "fullTerms": "Schlotzsky's Rewards offer: $5 qualifying medium sandwiches, October 31–November 3, 2026. Apply the Rewards offer in-store, online or in the app at participating US locations. Up to 10 sandwiches in one order; single use. No substitutions or free add-ons; no stacking. Excludes catering and third-party delivery. Taxes and online/app fees extra.",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false,
+      "reportedStartsOn": "2026-10-31",
+      "reportedEndsOn": "2026-11-03",
+      "redemptionReady": true
     }
   ],
   "happyHours": [],

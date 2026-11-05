@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T21:25:51.199192+00:00",
+  "generatedAt": "2026-11-05T03:55:01.800182+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -3675,6 +3675,81 @@
         "purchase": "required"
       },
       "newCustomer": false
+    },
+    {
+      "id": "scraped-0122c671175388fb2d96",
+      "restaurant": "Popeyes",
+      "title": "Two chicken sandwiches for $9",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Popeyes Rewards membership required.",
+        "Two chicken sandwiches for $9; available in the app or on the website through November 8, 2026.",
+        "Participating locations only; individual Chicago-store participation has not been separately checked."
+      ],
+      "redemptionSteps": [
+        "Sign in to Popeyes Rewards in the app or on the website.",
+        "Find the two-chicken-sandwiches-for-$9 offer for a participating location and follow its ordering instructions.",
+        "Confirm the two chicken sandwiches are offered for $9 before paying."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.instagram.com/thefrugal.foodie/p/DfQtLs9AkGK/",
+      "lastCheckedAt": "2026-11-03T21:57:52.642Z",
+      "isSample": false,
+      "ratingReason": "Reviewed trusted-source promotion; redemption and individual store participation untested.",
+      "fullTerms": "Popeyes Rewards members can get two chicken sandwiches for $9 through November 8, 2026. Redeem the offer in the Popeyes app or on the website at participating locations.",
+      "reportedEndsOn": "2026-11-08",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "membershipRequirement": "Popeyes Rewards membership required.",
+      "redemptionReady": true
+    },
+    {
+      "id": "scraped-e6a2f8305d9242848dc4",
+      "restaurant": "Buffalo Wild Wings",
+      "title": "BOGO boneless wings",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Buy boneless wings to receive boneless wings free.",
+        "Available for takeout or delivery at participating locations."
+      ],
+      "redemptionSteps": [
+        "The reviewed promotion is for boneless wings ordered for takeout or delivery on November 5, 2026.",
+        "Confirm the offer details and charges with your selected restaurant before paying.",
+        "Exact claiming method is not stated; check the source or restaurant before ordering."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/thefreebieguy/p/DfNMo7dFZMH/",
+      "isSample": false,
+      "ratingReason": "Reviewed trusted-source promotion; exact claiming method is unstated and redemption is untested.",
+      "fullTerms": "Thursday, November 5, 2026: buy boneless wings and get boneless wings free at Buffalo Wild Wings for takeout or delivery. Thursday recurrence is reported.",
+      "reportedStartsOn": "2026-11-05",
+      "reportedEndsOn": "2026-11-05",
+      "recurrenceLabel": "Every Thursday",
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "redemptionReady": true,
+      "lastCheckedAt": "2026-11-02T13:47:17.687Z",
+      "detailNotes": [
+        "Exact claiming method is not stated; check the source or restaurant before ordering."
+      ]
     }
   ],
   "happyHours": [],

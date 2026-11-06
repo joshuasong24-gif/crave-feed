@@ -3750,6 +3750,90 @@
       "detailNotes": [
         "Exact claiming method is not stated; check the source or restaurant before ordering."
       ]
+    },
+    {
+      "id": "scraped-aeea4c0aaac34dfb21af",
+      "restaurant": "QDOBA",
+      "title": "$7 chicken Create Your Own Nachos",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "One adult-sized Create Your Own Nachos with grilled Adobo Chicken or Chicken Tinga.",
+        "One per customer at participating US and Puerto Rico locations.",
+        "No other offers or Rewards-wallet stacking; no third-party delivery or catering.",
+        "Taxes excluded."
+      ],
+      "redemptionSteps": [
+        "Order the qualifying adult-sized nachos on November 6, 2026.",
+        "Use NACHODAY online or mention the offer in store.",
+        "Check participation and the final price before paying."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://tffdeals.com/deals/08e23aa6-ec74-4b76-a2cc-5cc2f3d22eae",
+      "lastCheckedAt": "2026-11-06T17:22:09Z",
+      "isSample": false,
+      "ratingReason": "Reported TFF promotion; local participation, numeric cash savings and redemption have not been verified.",
+      "fullTerms": "November 6, 2026 only: one adult-sized Create Your Own Nachos with grilled Adobo Chicken or Chicken Tinga for $7. Use NACHODAY online or mention the offer in store. One per customer; eligible in the US and Puerto Rico at participating QDOBA locations. Not valid with other offers or the Rewards wallet. No third-party delivery or catering. Taxes excluded.",
+      "reportedStartsOn": "2026-11-06",
+      "reportedEndsOn": "2026-11-06",
+      "eligibleItems": [
+        "Adult-sized Create Your Own Nachos with grilled Adobo Chicken",
+        "Adult-sized Create Your Own Nachos with Chicken Tinga"
+      ],
+      "requirementStates": {
+        "app": "not_required",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "redemptionReady": true,
+      "code": "NACHODAY"
+    },
+    {
+      "id": "scraped-8a10ee0fac9678f8c942",
+      "restaurant": "Dickey's Barbecue Pit",
+      "title": "BOGO Giant Loaded Bakers",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Order two qualifying Loaded Bakers, with or without meat.",
+        "Second qualifying Baker of equal or lesser value is free.",
+        "Participating locations may vary.",
+        "Ordering channel and membership requirement are not stated."
+      ],
+      "redemptionSteps": [
+        "Order two qualifying Loaded Bakers on November 6, 2026.",
+        "Use code FRIDAY at checkout; the second equal-or-lower-value Baker is free.",
+        "The source does not specify a channel; check participation and charges before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://tffdeals.com/deals/845c7aeb-8465-461d-a5d8-be45cfea5f5c",
+      "lastCheckedAt": "2026-11-06T17:22:26Z",
+      "isSample": false,
+      "ratingReason": "Reported TFF promotion; local participation, numeric cash savings and redemption have not been verified.",
+      "fullTerms": "BOGO Giant Loaded Bakers, November 6, 2026 only: order two qualifying Loaded Bakers, with or without meat, and use code FRIDAY at checkout. The second qualifying Baker of equal or lesser value is free. Participating locations may vary. Ordering channel, membership requirement, additional limits and stacking rules are not stated in the reviewed source.",
+      "reportedStartsOn": "2026-11-06",
+      "reportedEndsOn": "2026-11-06",
+      "eligibleItems": [
+        "Qualifying Giant Loaded Bakers with meat",
+        "Qualifying Giant Loaded Bakers without meat"
+      ],
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "redemptionReady": true,
+      "code": "FRIDAY"
     }
   ],
   "happyHours": [],

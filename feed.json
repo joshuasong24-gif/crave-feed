@@ -3834,6 +3834,59 @@
       },
       "redemptionReady": true,
       "code": "FRIDAY"
+    },
+    {
+      "id": "scraped-44c8bf85d7a0dc871ab1",
+      "restaurant": "Dunkin'",
+      "title": "Free medium Cookie Butter Cloud Latte with any purchase",
+      "subtitle": "November 10, 2–6 PM local time",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Any purchase required.",
+        "Medium Cookie Butter Cloud Latte only.",
+        "November 10, 2026, 2–6 PM local time; pickup or in store.",
+        "No Rewards membership or code required.",
+        "Exact participating Chicago locations and additional limits are not established."
+      ],
+      "redemptionSteps": [
+        "During 2–6 PM local time on November 10, request a medium Cookie Butter Cloud Latte with any purchase in store or for pickup.",
+        "No Rewards membership or code is needed; confirm availability and the discount before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/rebeldealz/p/DfS30MqMWgb/",
+      "lastCheckedAt": "2026-11-04T13:36:43.111Z",
+      "isSample": false,
+      "ratingReason": "Trusted Instagram caption report; local participation and redemption not tested.",
+      "fullTerms": "November 10, 2026, 2–6 PM local time: free medium Cookie Butter Cloud Latte with any purchase. Order for pickup or in store. No Rewards membership is required; no code is needed. Exact participating Chicago stores, quantity limits and additional exclusions are not stated in the transferred caption.",
+      "reportedStartsOn": "2026-11-10",
+      "reportedEndsOn": "2026-11-10",
+      "eligibleItems": [
+        "Medium Cookie Butter Cloud Latte"
+      ],
+      "requirementStates": {
+        "app": "not_required",
+        "account": "not_required",
+        "purchase": "required"
+      },
+      "redemptionReady": true,
+      "timeWindow": "2–6 PM local time",
+      "discovery": {
+        "neighborhood": "",
+        "kind": "",
+        "days": [
+          2
+        ],
+        "allDay": false,
+        "startTime": "14:00",
+        "endTime": "18:00"
+      },
+      "startsAt": "2026-11-10T20:00:00Z",
+      "endsAt": "2026-11-11T00:00:00Z"
     }
   ],
   "happyHours": [],

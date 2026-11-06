@@ -3914,6 +3914,258 @@
         "purchase": "unknown"
       },
       "newCustomer": false
+    },
+    {
+      "id": "scraped-f4d392fb432694b28505",
+      "restaurant": "Insomnia Cookies",
+      "title": "2 free Classic cookies with $5 purchase",
+      "subtitle": "",
+      "category": "dessert",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Qualifying $5 purchase required for two free Classic cookies.",
+        "Eligible stores, channels, limits and stacking rules are not fully specified.",
+        "A membership requirement is not stated."
+      ],
+      "redemptionSteps": [
+        "Check availability of the November 4–6 promotion before placing a qualifying $5 order.",
+        "The exact claiming method and channel are not stated in the source; confirm them before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://tffdeals.com/deals/cc44abc0-6bf4-4b29-8080-123b41273899",
+      "lastCheckedAt": "2026-11-06T17:22:38Z",
+      "isSample": false,
+      "ratingReason": "Reported TFF promotion; local participation, numeric cash savings and redemption have not been verified.",
+      "fullTerms": "TFF reports two free Classic cookies with a $5 qualifying purchase November 4–6, 2026, attributing the promotion to an Insomnia Rewards email and promo calendar. Eligible stores, ordering channels, limits, stacking rules and any membership requirement are not fully specified in the reviewed page. Confirm availability before ordering.",
+      "reportedStartsOn": "2026-11-04",
+      "reportedEndsOn": "2026-11-06",
+      "eligibleItems": [
+        "Two Classic cookies"
+      ],
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "redemptionReady": true
+    },
+    {
+      "id": "scraped-a6324a31af002065b5d4",
+      "restaurant": "Noodles & Company",
+      "title": "Two regular Culinary Classics entrées for $12",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Noodles Rewards account required.",
+        "Two qualifying regular Culinary Classics entrées for $12 total.",
+        "One redemption per member.",
+        "No stacking unless expressly allowed; no third-party delivery, call-in or catering.",
+        "Participating locations only."
+      ],
+      "redemptionSteps": [
+        "Sign in to Noodles Rewards and select two qualifying regular Culinary Classics entrées.",
+        "Apply the offer on the My Cart checkout screen during November 6–10, 2026.",
+        "Check participation, eligible items and charges before paying."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://tffdeals.com/deals/2fa61664-464e-4b29-8015-c163d7196957",
+      "lastCheckedAt": "2026-11-06T17:22:52Z",
+      "isSample": false,
+      "ratingReason": "Reported TFF promotion; local participation, numeric cash savings and redemption have not been verified.",
+      "fullTerms": "November 6–10, 2026: Noodles Rewards members can get two qualifying regular Culinary Classics entrées for $12 total. One redemption per member. Apply the offer on the My Cart checkout screen. No stacking unless expressly allowed. Excludes third-party delivery, call-in and catering; participating locations only. The eligible entrée list and any additional charge treatment are not specified.",
+      "reportedStartsOn": "2026-11-06",
+      "reportedEndsOn": "2026-11-10",
+      "eligibleItems": [
+        "Two qualifying regular Culinary Classics entrées"
+      ],
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "redemptionReady": true,
+      "membershipRequirement": "Noodles Rewards account required."
+    },
+    {
+      "id": "scraped-4b3647f2b0650e4de1f1",
+      "restaurant": "Culver's",
+      "title": "$9 off $30+ DashPass / $8 off $30+ nonmembers on DoorDash",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Thursday–Monday only within August 29–November 8, 2026.",
+        "Qualifying $30+ delivery order from a participating Culver's through DoorDash.",
+        "DashPass customers: $9 off; nonmembers: $8 off.",
+        "Activation method, subtotal exclusions and other fees are not stated."
+      ],
+      "redemptionSteps": [
+        "Place a qualifying $30+ delivery order through DoorDash on an eligible day.",
+        "Check the applicable $9 DashPass or $8 nonmember offer; its activation or code instructions are not stated in the source."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://tffdeals.com/deals/1950b700-531a-4ee0-bbd4-619f9bb67698",
+      "lastCheckedAt": "2026-11-06T18:00:14Z",
+      "isSample": false,
+      "ratingReason": "TFF publisher report; exact store participation, redemption and numeric cash savings have not been verified.",
+      "fullTerms": "August 29–November 8, 2026, Thursdays through Mondays only: with a $30+ qualifying Culver's delivery order through DoorDash, DashPass customers save $9 or nonmembers save $8, at participating Culver's locations. The discounts are alternatives, not combined. Offer activation, code, qualifying-subtotal exclusions and other fees are not specified in the reviewed TFF page.",
+      "reportedStartsOn": "2026-08-29",
+      "reportedEndsOn": "2026-11-08",
+      "eligibleItems": [
+        "Qualifying Culver's delivery order of $30 or more"
+      ],
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "redemptionReady": true,
+      "recurrenceLabel": "Thursday–Monday",
+      "discovery": {
+        "neighborhood": "",
+        "kind": "",
+        "days": [
+          1,
+          4,
+          5,
+          6,
+          7
+        ],
+        "allDay": true
+      }
+    },
+    {
+      "id": "scraped-5e7f5095ba011c6f052e",
+      "restaurant": "Del Taco",
+      "title": "Free 3-Layer Queso Nachos with $5 pretax purchase",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Del Yeah! Rewards required.",
+        "$5 pretax qualifying purchase required.",
+        "Select/save the offer and add the 3-Layer Queso Nachos.",
+        "One per guest; participating locations; no third-party delivery, catering or stacking."
+      ],
+      "redemptionSteps": [
+        "Sign in to Del Yeah! Rewards and select/save the offer.",
+        "Add 3-Layer Queso Nachos and a qualifying $5 pretax purchase; order/scan through the Rewards app or deltaco.com."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://tffdeals.com/deals/0fa5ec9f-6f9b-4ed9-a6d3-86cf5269d540",
+      "lastCheckedAt": "2026-11-06T18:00:27Z",
+      "isSample": false,
+      "ratingReason": "TFF publisher report; exact store participation, redemption and numeric cash savings have not been verified.",
+      "fullTerms": "November 6–8, 2026: Del Yeah! Rewards members get free 3-Layer Queso Nachos with a $5 pretax qualifying purchase. Get the offer through the Rewards app or deltaco.com for ordering/scanning; select and save the offer and add the item. One per guest at participating locations. No third-party delivery or catering; no stacking.",
+      "reportedStartsOn": "2026-11-06",
+      "reportedEndsOn": "2026-11-08",
+      "eligibleItems": [
+        "3-Layer Queso Nachos"
+      ],
+      "requirementStates": {
+        "app": "not_required",
+        "account": "required",
+        "purchase": "required"
+      },
+      "redemptionReady": true,
+      "membershipRequirement": "Del Yeah! Rewards account required."
+    },
+    {
+      "id": "scraped-4c6a749342d4420c43aa",
+      "restaurant": "Denny's",
+      "title": "$10 off $35+; then conditional 15% off next purchase",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Denny's Rewards account and qualifying $35+ first order November 2–9.",
+        "Participating US locations, dine-in or Denny's ordering; no third-party orders.",
+        "Follow-on reward only after qualifying first purchase: 15% off next qualifying $8+ purchase, maximum $10, stated 14-day window.",
+        "Personal issue/redemption times and the exact window anchor are unknown."
+      ],
+      "redemptionSteps": [
+        "Use Denny's Rewards for a qualifying $35+ dine-in or Denny's order; confirm the $10 discount.",
+        "If the first purchase qualifies, check the issued next-purchase reward for its personal redemption instructions and expiry; no earned reward is assumed."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://tffdeals.com/deals/64d2d1b5-81fc-4d2b-b7fe-884e866988af",
+      "lastCheckedAt": "2026-11-06T18:00:59Z",
+      "isSample": false,
+      "ratingReason": "TFF publisher report; exact store participation, redemption and numeric cash savings have not been verified.",
+      "fullTerms": "Denny's Rewards members: $10 off with a $35+ qualifying order November 2–9, 2026, at participating US locations, dine-in or Denny's ordering; third-party orders excluded. A qualifying first purchase then unlocks 15% off the next qualifying $8+ purchase within a stated 14-day use window, capped at $10. The second reward is conditional, not already earned. Its issue time, personal expiry and precise 14-day anchor are not established in this capture. The source does not state an activation code or exact first-offer claiming method.",
+      "reportedStartsOn": "2026-11-02",
+      "reportedEndsOn": "2026-11-09",
+      "eligibleItems": [
+        "Qualifying $35+ order",
+        "Conditional next qualifying $8+ purchase"
+      ],
+      "requirementStates": {
+        "app": "not_required",
+        "account": "required",
+        "purchase": "required"
+      },
+      "redemptionReady": true,
+      "membershipRequirement": "Denny's Rewards account required."
+    },
+    {
+      "id": "scraped-ea174fe77032fe9d220d",
+      "restaurant": "Papa Murphy's",
+      "title": "50% off regular-menu-priced pizzas",
+      "subtitle": "",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Regular-menu-priced pizzas; online only.",
+        "Use code 50PIZZA; limit five, with period unstated.",
+        "Participating locations only."
+      ],
+      "redemptionSteps": [
+        "Select qualifying regular-menu-priced pizzas online, no more than the stated five-item limit.",
+        "Use code 50PIZZA and check the discount before paying."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://tffdeals.com/deals/55745cc7-99f7-4e1c-9b5a-2861fab1e25a",
+      "lastCheckedAt": "2026-11-06T18:01:10Z",
+      "isSample": false,
+      "ratingReason": "TFF publisher report; exact store participation, redemption and numeric cash savings have not been verified.",
+      "fullTerms": "November 4–9, 2026: 50% off regular-menu-priced pizzas online with code 50PIZZA at participating Papa Murphy's locations. Limit five; the limit period is not stated. Membership, stacking and additional exclusions are not stated. The discount applies to qualifying pizzas, not the entire bill.",
+      "reportedStartsOn": "2026-11-04",
+      "reportedEndsOn": "2026-11-09",
+      "eligibleItems": [
+        "Qualifying regular-menu-priced pizzas"
+      ],
+      "requirementStates": {
+        "app": "unknown",
+        "account": "unknown",
+        "purchase": "unknown"
+      },
+      "redemptionReady": true,
+      "code": "50PIZZA"
     }
   ],
   "happyHours": [],

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T04:24:50.682541+00:00",
+  "generatedAt": "2026-11-16T04:29:08.215224+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -3752,6 +3752,51 @@
         "purchase": "unknown"
       },
       "newCustomer": false
+    },
+    {
+      "id": "scraped-498759e60a490758da62",
+      "restaurant": "Cheba Hut",
+      "title": "Free 4-inch sub or Pretzel Nugs",
+      "subtitle": "In store • No purchase required",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "upcoming",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "In store only",
+        "Limit one offer per person",
+        "No purchase required"
+      ],
+      "redemptionSteps": [
+        "Visit a Cheba Hut shop on November 17 between 4:20 PM and 10 PM local time.",
+        "Choose a 4-inch Nug sandwich or an order of Pretzel Nugs."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.qsrmagazine.com/news/cheba-hut-to-celebrate-annual-nugsgiving-giveaway-on-november-17/",
+      "lastCheckedAt": "2026-11-16T04:20:04+00:00",
+      "isSample": false,
+      "ratingReason": "One free item per person without a purchase. Cheba Hut announced the offer for all shops.",
+      "fullTerms": "On November 17, 2026, from 4:20 PM to 10 PM local time, Cheba Hut is offering one free 4-inch Nug sandwich or one order of Pretzel Nugs per person at all locations. Visit the shop in person during the offer hours and choose one item. No purchase necessary. No app required. No code needed.",
+      "offerDetails": "Choose one 4-inch Nug sandwich or one order of Pretzel Nugs.",
+      "reportedDates": "November 17, 2026",
+      "reportedStartsOn": "2026-11-17",
+      "reportedEndsOn": "2026-11-17",
+      "detailNotes": [
+        "Chicago location: 3412 N Sheffield Ave.",
+        "Chicago location source: https://chicago.lakevieweast.com/list/member/cheba-hut-6639"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "not_required",
+        "account": "unknown",
+        "purchase": "not_required"
+      },
+      "newCustomer": false,
+      "startsAt": "2026-11-17T16:20:00-06:00",
+      "endsAt": "2026-11-17T22:00:00-06:00",
+      "timeWindow": "4:20–10 PM"
     }
   ],
   "happyHours": [],

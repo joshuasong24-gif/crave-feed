@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T04:29:08.215224+00:00",
+  "generatedAt": "2026-11-16T04:43:15.362806+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -3797,6 +3797,174 @@
       "startsAt": "2026-11-17T16:20:00-06:00",
       "endsAt": "2026-11-17T22:00:00-06:00",
       "timeWindow": "4:20–10 PM"
+    },
+    {
+      "id": "scraped-ae5c89c25e58c6bb8bff",
+      "restaurant": "Wendy's",
+      "title": "Free small chili with $5 purchase",
+      "subtitle": "With purchase",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Find the offer online or in the Wendy’s app",
+        "Qualifying purchase of $5 or more",
+        "Availability may vary by location or account",
+        "Cannot combine with other coupons"
+      ],
+      "redemptionSteps": [
+        "Open Wendy’s Offers online or in the app and select this offer if it is available.",
+        "Apply it to your mobile order or load it onto your QR code for use at the counter or pickup window."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/DfkxJyriur0/",
+      "lastCheckedAt": "2026-11-16T04:40:17+00:00",
+      "isSample": false,
+      "ratingReason": "Wendy’s publicly lists this offer. Check availability for your location and account.",
+      "fullTerms": "Get one free small chili with a $5 qualifying purchase or larger. The Instagram publisher reports an end date of November 16, 2026. Find the offer in Wendy’s online or in-app Offers and apply it to a mobile order, or load it to your QR code to redeem at the counter or pickup window. Offer and location availability can vary. Coupons cannot be combined with other offers.",
+      "offerDetails": "Get one free small chili with a $5 qualifying purchase or larger.",
+      "reportedDates": "Through November 16, 2026",
+      "reportedEndsOn": "2026-11-16",
+      "detailNotes": [
+        "Instagram source posted November 10, 2026.",
+        "Wendy’s offer and redemption page: https://www.wendys.com/offers-coupons"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "not_required",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-9d4968220135fd0d8f4a",
+      "restaurant": "Wendy's",
+      "title": "$1 off a Premium Combo",
+      "subtitle": "With purchase",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Find the offer online or in the Wendy’s app",
+        "Purchase of an eligible premium combo",
+        "Availability may vary by location or account",
+        "Cannot combine with other coupons"
+      ],
+      "redemptionSteps": [
+        "Open Wendy’s Offers online or in the app and select this offer if it is available.",
+        "Apply it to your mobile order or load it onto your QR code for use at the counter or pickup window."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/DfkxJyriur0/",
+      "lastCheckedAt": "2026-11-16T04:40:17+00:00",
+      "isSample": false,
+      "ratingReason": "Wendy’s publicly lists this offer. Check availability for your location and account.",
+      "fullTerms": "Get $1 off an eligible Premium Combo with purchase of the combo. The Instagram publisher reports an end date of November 16, 2026. Find the offer in Wendy’s online or in-app Offers and apply it to a mobile order, or load it to your QR code to redeem at the counter or pickup window. Offer and location availability can vary. Coupons cannot be combined with other offers.",
+      "offerDetails": "Get $1 off an eligible Premium Combo with purchase of the combo.",
+      "reportedDates": "Through November 16, 2026",
+      "reportedEndsOn": "2026-11-16",
+      "detailNotes": [
+        "Instagram source posted November 10, 2026.",
+        "Wendy’s offer and redemption page: https://www.wendys.com/offers-coupons"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "not_required",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-b2bbbbeb13c62c4e8c53",
+      "restaurant": "Wendy's",
+      "title": "$3 off a $20 purchase",
+      "subtitle": "With purchase",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Find the offer online or in the Wendy’s app",
+        "Qualifying purchase of $20 or more",
+        "Availability may vary by location or account",
+        "Cannot combine with other coupons"
+      ],
+      "redemptionSteps": [
+        "Open Wendy’s Offers online or in the app and select this offer if it is available.",
+        "Apply it to your mobile order or load it onto your QR code for use at the counter or pickup window."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/DfkxJyriur0/",
+      "lastCheckedAt": "2026-11-16T04:40:17+00:00",
+      "isSample": false,
+      "ratingReason": "Wendy’s publicly lists this offer. Check availability for your location and account.",
+      "fullTerms": "Get $3 off with a $20 qualifying purchase or larger. The Instagram publisher reports an end date of November 16, 2026. Find the offer in Wendy’s online or in-app Offers and apply it to a mobile order, or load it to your QR code to redeem at the counter or pickup window. Offer and location availability can vary. Coupons cannot be combined with other offers.",
+      "offerDetails": "Get $3 off with a $20 qualifying purchase or larger.",
+      "reportedDates": "Through November 16, 2026",
+      "reportedEndsOn": "2026-11-16",
+      "detailNotes": [
+        "Instagram source posted November 10, 2026.",
+        "Wendy’s offer and redemption page: https://www.wendys.com/offers-coupons"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "not_required",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-69e207c61cfffa5b1825",
+      "restaurant": "Wendy's",
+      "title": "99¢ any-size soft drink",
+      "subtitle": "With purchase",
+      "category": "drink",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Find the offer online or in the Wendy’s app",
+        "Qualifying purchase",
+        "Availability may vary by location or account",
+        "Cannot combine with other coupons"
+      ],
+      "redemptionSteps": [
+        "Open Wendy’s Offers online or in the app and select this offer if it is available.",
+        "Apply it to your mobile order or load it onto your QR code for use at the counter or pickup window."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": false,
+      "sourceURL": "https://www.instagram.com/p/DfkxJyriur0/",
+      "lastCheckedAt": "2026-11-16T04:40:17+00:00",
+      "isSample": false,
+      "ratingReason": "Wendy’s publicly lists this offer. Check availability for your location and account.",
+      "fullTerms": "Get an any-size soft drink for 99 cents with qualifying purchase. The Instagram publisher reports an end date of November 16, 2026. Find the offer in Wendy’s online or in-app Offers and apply it to a mobile order, or load it to your QR code to redeem at the counter or pickup window. Offer and location availability can vary. Coupons cannot be combined with other offers.",
+      "offerDetails": "Get an any-size soft drink for 99 cents with qualifying purchase.",
+      "reportedDates": "Through November 16, 2026",
+      "reportedEndsOn": "2026-11-16",
+      "detailNotes": [
+        "Instagram source posted November 10, 2026.",
+        "Wendy’s offer and redemption page: https://www.wendys.com/offers-coupons"
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "not_required",
+        "account": "unknown",
+        "purchase": "required"
+      },
+      "newCustomer": false
     }
   ],
   "happyHours": [],

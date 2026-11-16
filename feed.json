@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T20:31:02.442319+00:00",
+  "generatedAt": "2026-11-16T04:24:50.682541+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -3626,50 +3626,6 @@
       "newCustomer": false
     },
     {
-      "id": "scraped-5d5f603d5a84b9f1fdc8",
-      "restaurant": "Capriotti's",
-      "title": "Free side of gravy",
-      "subtitle": "",
-      "category": "side",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online, in the app or in store.",
-        "Rewards membership required",
-        "With any full-priced sub purchase",
-        "Capriotti's Rewards members",
-        "Offer valid online, in app, or in store.",
-        "Offer valid until Dec. 31."
-      ],
-      "redemptionSteps": [
-        "Source instructions: This holiday season Capriotti's Rewards members can score a free side of gravy with any full-priced sub purchase. Offer valid online, in app, or in store. Offer valid until Dec. 31.",
-        "Use your rewards membership to access this offer.",
-        "Available online, in the app or in store.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://thekrazycouponlady.com/tips/money/food-deals-near-me",
-      "lastCheckedAt": "2026-11-15T20:30:24.781924+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "This holiday season Capriotti's Rewards members can score a free side of gravy with any full-priced sub purchase. Offer valid online, in app, or in store. Offer valid until Dec. 31.",
-      "offerDetails": "Free side of gravy.",
-      "reportedDates": "until Dec. 31",
-      "membershipRequirement": "Rewards membership required",
-      "reportedEndsOn": "2026-12-31",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "required",
-        "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
       "id": "scraped-da4fc38076604165a630",
       "restaurant": "Paris Baguette",
       "title": "Free drinks",
@@ -3754,57 +3710,6 @@
         "app": "unknown",
         "account": "unknown",
         "purchase": "required"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-6c1accce1f992caea0be",
-      "restaurant": "Jimmy John's",
-      "title": "Free pickle",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "Available online or in the app.",
-        "Rewards membership required",
-        "Participating locations only",
-        "With a qualifying sandwich purchase at participating locations",
-        "JJ Rewards members"
-      ],
-      "redemptionSteps": [
-        "JJ Rewards members can use code FREEPICKLE on Jimmy John's website or app to get one free pickle with a qualifying sandwich purchase at participating locations.",
-        "Source instructions: JJ Rewards members can use code FREEPICKLE on Jimmy John's website or app to get one free pickle with a qualifying sandwich purchase at participating locations. The offer runs November 13–15, 2026. The pickle is free; the sandwich is not.",
-        "Use your rewards membership to access this offer.",
-        "Available online or in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Use promo code FREEPICKLE as directed in the source terms.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": false,
-      "requiresApp": false,
-      "requiresRewards": true,
-      "sourceURL": "https://totallythebomb.com/november-restaurant-deals-2026/",
-      "lastCheckedAt": "2026-11-15T20:30:27.162882+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "JJ Rewards members can use code FREEPICKLE on Jimmy John's website or app to get one free pickle with a qualifying sandwich purchase at participating locations. The offer runs November 13–15, 2026. The pickle is free; the sandwich is not.",
-      "offerDetails": "Free pickle.",
-      "reportedDates": "November 13–15, 2026",
-      "membershipRequirement": "Rewards membership required",
-      "reportedStartsOn": "2026-11-13",
-      "reportedEndsOn": "2026-11-15",
-      "detailNotes": [
-        "The offer runs November 13–15, 2026.",
-        "The pickle is free; the sandwich is not."
-      ],
-      "code": "FREEPICKLE",
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "unknown",
-        "account": "required",
-        "purchase": "unknown"
       },
       "newCustomer": false
     },

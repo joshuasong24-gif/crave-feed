@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T04:43:15.362806+00:00",
+  "generatedAt": "2026-11-18T17:26:05.397168+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -3963,6 +3963,94 @@
         "app": "not_required",
         "account": "unknown",
         "purchase": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-0e6c389553c6b0d411bc",
+      "restaurant": "White Castle",
+      "title": "BOGO Breakfast Sliders",
+      "subtitle": "In store • With purchase",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "White Castle app",
+        "Craver Nation Rewards membership",
+        "In restaurant"
+      ],
+      "redemptionSteps": [
+        "Buy one Breakfast Slider and get one free in restaurant. Find the offer in the White Castle app and show it at the counter before paying."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://www.qsrmagazine.com/food/burgers/white-castle-announces-holiday-deals-for-november-and-december/",
+      "lastCheckedAt": "2026-11-16T04:54:05+00:00",
+      "isSample": false,
+      "ratingReason": "White Castle announced the offer for Craver Nation Rewards members.",
+      "fullTerms": "Buy one Breakfast Slider and get one free in restaurant. Find the offer in the White Castle app and show it at the counter before paying. Craver Nation Rewards members. Available November 1–30, 2026.",
+      "offerDetails": "Buy one Breakfast Slider and get one free in restaurant. Find the offer in the White Castle app and show it at the counter before paying.",
+      "reportedDates": "November 1–30, 2026",
+      "membershipRequirement": "Rewards membership required",
+      "reportedStartsOn": "2026-11-01",
+      "reportedEndsOn": "2026-11-30",
+      "detailNotes": [
+        "Buy one Breakfast Slider and get one free in restaurant.",
+        "Find the offer in the White Castle app and show it at the counter before paying.",
+        "Craver Nation Rewards members.",
+        "Available November 1–30, 2026."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "purchase": "required",
+        "app": "required",
+        "account": "required"
+      },
+      "newCustomer": false
+    },
+    {
+      "id": "scraped-a57a9363b49045b4ec60",
+      "restaurant": "White Castle",
+      "title": "Buy 3 Original Sliders, get 1 free",
+      "subtitle": "In app • With purchase",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "White Castle app",
+        "Craver Nation Rewards membership",
+        "Mobile order"
+      ],
+      "redemptionSteps": [
+        "Buy three Original Sliders on a mobile order and get one free. Apply the offer in the White Castle app before checkout."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": true,
+      "requiresRewards": true,
+      "sourceURL": "https://www.qsrmagazine.com/food/burgers/white-castle-announces-holiday-deals-for-november-and-december/",
+      "lastCheckedAt": "2026-11-16T04:54:05+00:00",
+      "isSample": false,
+      "ratingReason": "White Castle announced the offer for Craver Nation Rewards members.",
+      "fullTerms": "Buy three Original Sliders on a mobile order and get one free. Apply the offer in the White Castle app before checkout. Craver Nation Rewards members. Available November 1–30, 2026.",
+      "offerDetails": "Buy three Original Sliders on a mobile order and get one free. Apply the offer in the White Castle app before checkout.",
+      "reportedDates": "November 1–30, 2026",
+      "membershipRequirement": "Rewards membership required",
+      "reportedStartsOn": "2026-11-01",
+      "reportedEndsOn": "2026-11-30",
+      "detailNotes": [
+        "Buy three Original Sliders on a mobile order and get one free.",
+        "Apply the offer in the White Castle app before checkout.",
+        "Craver Nation Rewards members.",
+        "Available November 1–30, 2026."
+      ],
+      "redemptionReady": true,
+      "requirementStates": {
+        "purchase": "required",
+        "app": "required",
+        "account": "required"
       },
       "newCustomer": false
     }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T01:44:07.659360+00:00",
+  "generatedAt": "2026-11-25T01:50:37.682795+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4029,7 +4029,216 @@
       "newCustomer": false
     }
   ],
-  "happyHours": [],
+  "happyHours": [
+    {
+      "id": "north-becks",
+      "venue": "Beck’s",
+      "address": "2201 North Clybourn Ave",
+      "sourceURL": "https://beckschicago.com/",
+      "neighborhood": "Lincoln Park",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T01:43:47.691793+00:00",
+      "validUntil": "2026-12-02T01:43:47.691793+00:00",
+      "sourceText": "https://beckschicago.com/\n– Happy Hour – Mondays - Thursdays 4:00pm-6:00pm – 50% off appetizers (excludes Wings & Specials) – $6 Draft Beer – $4 All Bottles and Cans – $6 Well cocktails – – $6 Glasses of Wine –\n2201 North Clybourn Ave",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "50% off appetizers, excluding wings and specials"
+      ],
+      "drinkOffers": [
+        "$4 all bottles and cans",
+        "$6 draft beer",
+        "$6 well cocktails",
+        "$6 glasses of wine"
+      ],
+      "terms": [
+        "Available during the stated happy-hour schedule."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$4 all bottles and cans",
+          "price": 4,
+          "kind": "beer"
+        },
+        {
+          "label": "$6 draft beer",
+          "price": 6,
+          "kind": "beer"
+        },
+        {
+          "label": "$6 well cocktails",
+          "price": 6,
+          "kind": "cocktail"
+        },
+        {
+          "label": "$6 glasses of wine",
+          "price": 6,
+          "kind": "wine"
+        }
+      ],
+      "savings": {
+        "50% off appetizers, excluding wings and specials": "Half off the regular price"
+      }
+    },
+    {
+      "id": "loop-prime",
+      "venue": "Prime & Provisions",
+      "address": "222 North LaSalle St, Chicago, IL 60601",
+      "sourceURL": "https://www.primeandprovisions.com/menu/happy-hour/",
+      "neighborhood": "Loop",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T01:43:12.507629+00:00",
+      "validUntil": "2026-12-02T01:43:12.507629+00:00",
+      "sourceText": "https://www.primeandprovisions.com/menu/happy-hour/\nBar Selections available all day • dine-in only PRIME CHILI cheddar, scallion, crème fraîche $ 14 House-Cut Potato Chips blue cheese fondue, scallion, chili flake $ 14 Lobster Rolls 3 ea., louie dressing, house slaw, new england roll $ 28 Petite Dry-Aged Cheeseburgers 3 ea., sharp wisconsin american cheese, tomato, onion, pickle, dijonnaise, brioche bun $ 24 Fried Chicken Sliders 3 ea., garlic aioli, pickles, house slaw $ 24 SHAVED RIBEYE CHEESESTEAK linz heritage ribeye, white american cheese, caramelized onion, roasted garlic $ 28 DRY-AGED PRIME BURGER sharp wisconsin american cheese, tomato, onion, pickle, dijonnaise, brioche bun $ 27 add thick-cut bacon $ 5 add farm egg $ 4\nHappy Hour MONDAY - FRIDAY: 4-6 pm • SUNDAY: 4-9 pm • HALF OFF BAR BITES Oysters chef’s daily selection of the freshest oysters, lemon ginger mignonette, official cocktail sauce $ 1.50 gluten free\nWine Rotating Seasonal Wine Selection $ 12 SOMMELIER SELECTION ‘24 Kenwood, Chardonnay, California $ 40\nHappy Hour Cocktails 12 Classic or Dirty Martini Espresso Martini Cosmopolitan Old Fashioned\nPrime &amp; Provisions accepts reservations up to 60 days in advance. Reservations are accepted for groups of up to 12 people. For any parties greater than 12, please email our private events team: events@primeandprovisions.com. Please note that for parties 6 and larger, a credit card is required to hold the reservation.Make A ReservationWe understand plans change &mdash; so if for any reason you need to modify or cancel your reservation &mdash; please inform us as soon as possible. A fee of $25 per individual may be incurred if you do not arrive for your reservation without any notice. Our bar area welcomes walk-ins and is available on a first come, first served basis.DRESS CODEWe kindly ask that guests follow our sophisticated-casual dinner attire. Please refrain from wearing baseball caps, flip flops, shorts, sweatsuits and athletic wear, or extremely revealing clothing. Thank you in advance for your cooperation.SERVICE CHARGEIn an effort to support our hourly staff members, an 18% gratuity will automatically be included in your final bill for parties of 6 or more.We thank you for your continued support and patronage.\n222 North LaSalle St, Chicago, IL 60601",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Bar bites · half off",
+        "Oysters, chef’s daily selection · $1.50"
+      ],
+      "drinkOffers": [
+        "Rotating seasonal wine selection · $12",
+        "Classic or dirty martini, espresso martini, cosmopolitan, or Old Fashioned · $12"
+      ],
+      "terms": [
+        "Dine-in only.",
+        "Half off applies to bar bites during the listed happy-hour window.",
+        "Automatic 18% gratuity for parties of 6 or more.",
+        "Sophisticated-casual dinner attire; no baseball caps, flip flops, shorts, sweatsuits, athletic wear, or extremely revealing clothing.",
+        "Reservations for 6 or more require a credit card; a $25 per-person no-show fee may apply without notice. Bar walk-ins are first come, first served."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Rotating seasonal wine selection · $12",
+          "price": 12.0,
+          "kind": "wine"
+        },
+        {
+          "label": "Classic or dirty martini, espresso martini, cosmopolitan, or Old Fashioned · $12",
+          "price": 12.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {
+        "Bar bites · half off": "Half off the regular price"
+      }
+    },
+    {
+      "id": "loop-prime-sunday",
+      "venue": "Prime & Provisions",
+      "address": "222 North LaSalle St, Chicago, IL 60601",
+      "sourceURL": "https://www.primeandprovisions.com/menu/happy-hour/",
+      "neighborhood": "Loop",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T01:43:12.507629+00:00",
+      "validUntil": "2026-12-02T01:43:12.507629+00:00",
+      "sourceText": "https://www.primeandprovisions.com/menu/happy-hour/\nBar Selections available all day • dine-in only PRIME CHILI cheddar, scallion, crème fraîche $ 14 House-Cut Potato Chips blue cheese fondue, scallion, chili flake $ 14 Lobster Rolls 3 ea., louie dressing, house slaw, new england roll $ 28 Petite Dry-Aged Cheeseburgers 3 ea., sharp wisconsin american cheese, tomato, onion, pickle, dijonnaise, brioche bun $ 24 Fried Chicken Sliders 3 ea., garlic aioli, pickles, house slaw $ 24 SHAVED RIBEYE CHEESESTEAK linz heritage ribeye, white american cheese, caramelized onion, roasted garlic $ 28 DRY-AGED PRIME BURGER sharp wisconsin american cheese, tomato, onion, pickle, dijonnaise, brioche bun $ 27 add thick-cut bacon $ 5 add farm egg $ 4\nHappy Hour MONDAY - FRIDAY: 4-6 pm • SUNDAY: 4-9 pm • HALF OFF BAR BITES Oysters chef’s daily selection of the freshest oysters, lemon ginger mignonette, official cocktail sauce $ 1.50 gluten free\nWine Rotating Seasonal Wine Selection $ 12 SOMMELIER SELECTION ‘24 Kenwood, Chardonnay, California $ 40\nHappy Hour Cocktails 12 Classic or Dirty Martini Espresso Martini Cosmopolitan Old Fashioned\nPrime &amp; Provisions accepts reservations up to 60 days in advance. Reservations are accepted for groups of up to 12 people. For any parties greater than 12, please email our private events team: events@primeandprovisions.com. Please note that for parties 6 and larger, a credit card is required to hold the reservation.Make A ReservationWe understand plans change &mdash; so if for any reason you need to modify or cancel your reservation &mdash; please inform us as soon as possible. A fee of $25 per individual may be incurred if you do not arrive for your reservation without any notice. Our bar area welcomes walk-ins and is available on a first come, first served basis.DRESS CODEWe kindly ask that guests follow our sophisticated-casual dinner attire. Please refrain from wearing baseball caps, flip flops, shorts, sweatsuits and athletic wear, or extremely revealing clothing. Thank you in advance for your cooperation.SERVICE CHARGEIn an effort to support our hourly staff members, an 18% gratuity will automatically be included in your final bill for parties of 6 or more.We thank you for your continued support and patronage.\n222 North LaSalle St, Chicago, IL 60601",
+      "days": [
+        7
+      ],
+      "startTime": "16:00",
+      "endTime": "21:00",
+      "foodOffers": [
+        "Bar bites · half off",
+        "Oysters, chef’s daily selection · $1.50"
+      ],
+      "drinkOffers": [
+        "Rotating seasonal wine selection · $12",
+        "Classic or dirty martini, espresso martini, cosmopolitan, or Old Fashioned · $12"
+      ],
+      "terms": [
+        "Dine-in only.",
+        "Half off applies to bar bites during the listed happy-hour window.",
+        "Automatic 18% gratuity for parties of 6 or more.",
+        "Sophisticated-casual dinner attire; no baseball caps, flip flops, shorts, sweatsuits, athletic wear, or extremely revealing clothing.",
+        "Reservations for 6 or more require a credit card; a $25 per-person no-show fee may apply without notice. Bar walk-ins are first come, first served."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Rotating seasonal wine selection · $12",
+          "price": 12.0,
+          "kind": "wine"
+        },
+        {
+          "label": "Classic or dirty martini, espresso martini, cosmopolitan, or Old Fashioned · $12",
+          "price": 12.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {
+        "Bar bites · half off": "Half off the regular price"
+      }
+    },
+    {
+      "id": "north-lark",
+      "venue": "Lark",
+      "address": "3441 North Halsted St.",
+      "sourceURL": "https://larkchicago.com/events/daily-specials/",
+      "neighborhood": "Lakeview",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T01:43:36.448059+00:00",
+      "validUntil": "2026-12-02T01:43:36.448059+00:00",
+      "sourceText": "https://larkchicago.com/events/daily-specials/\nEnjoy daily specials at Lark! Happy Hour: Tuesday-Friday 5pm-6:30pm $5 Bud Light $6 Red & White Wine $7 Well Cocktails 25% off Starters and Appetizers Tuesdays: Pizza Party! $12 cheese pizza (thin crust or Neapolitan), 32oz Bud Light $10, and 50% off bottles of wine. Wednesdays Trivia night 7pm-9pm $10 double cheeseburgers $8 mules $5 Bud Light Thursdays Xtream bingo! $10 1800 Tequila Margaritas. 25% off Nachos & Tachos. Friday & Saturdays Lark After Dark Happy Hour 10pm-close, Nutrl & Beer Buckets on Special. Saturday & Sunday 11am-3pm bottomless brunch. Sundays All you can eat spaghetti 4pm-9pm, $17.99 / $5 kids under 12.\n3441 North Halsted St.",
+      "days": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "17:00",
+      "endTime": "18:30",
+      "foodOffers": [
+        "25% off starters and appetizers"
+      ],
+      "drinkOffers": [
+        "$5 Bud Light",
+        "$6 red and white wine",
+        "$7 well cocktails"
+      ],
+      "terms": [
+        "Happy hour: Tuesday–Friday, 5–6:30 PM."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$5 Bud Light",
+          "price": 5,
+          "kind": "beer"
+        },
+        {
+          "label": "$6 red and white wine",
+          "price": 6,
+          "kind": "wine"
+        },
+        {
+          "label": "$7 well cocktails",
+          "price": 7,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    }
+  ],
   "mapLocations": [
     {
       "address": "1139 W Grand Ave, Chicago, IL 60642",

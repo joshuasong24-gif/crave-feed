@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T02:47:43.242388+00:00",
+  "generatedAt": "2026-11-25T18:06:37.511582+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -3210,55 +3210,6 @@
         "app": "unknown",
         "account": "unknown",
         "purchase": "unknown"
-      },
-      "newCustomer": false
-    },
-    {
-      "id": "scraped-374cb32f9c30e2553050",
-      "restaurant": "Panera",
-      "title": "BOGO cookies",
-      "subtitle": "",
-      "category": "dessert",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "UTC",
-      "requirements": [
-        "App required — access this offer in the app.",
-        "Rewards membership required",
-        "Qualifying purchase required",
-        "Purchase required for BOGO offer",
-        "With the purchase of any cookie in the Rewards tab of their app",
-        "Panera Rewards members"
-      ],
-      "redemptionSteps": [
-        "Source instructions: Panera Rewards members got BOGO cookies. On December 4th, 2025, Panera Rewards members found an offer for one free cookie with the purchase of any cookie in the Rewards tab of their app.",
-        "Use your rewards membership to access this offer.",
-        "App required — access this offer in the app.",
-        "Open the restaurant app and find this offer for your selected store. Follow the instructions shown there and confirm the discount before paying.",
-        "Buy one cookies; the second is free under this offer. Check the source for quantity and item restrictions.",
-        "Check the offer date and confirm the saving before you pay. If the offer is missing, do not assume it applies automatically."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": true,
-      "requiresRewards": true,
-      "sourceURL": "https://hip2save.com/deals/national-cookie-day/",
-      "lastCheckedAt": "2026-10-13T20:18:57.237408+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Panera Rewards members got BOGO cookies. On December 4th, 2025, Panera Rewards members found an offer for one free cookie with the purchase of any cookie in the Rewards tab of their app.",
-      "offerDetails": "BOGO cookies.",
-      "reportedDates": "December 4th",
-      "membershipRequirement": "Rewards membership required",
-      "reportedStartsOn": "2026-12-04",
-      "reportedEndsOn": "2026-12-04",
-      "detailNotes": [
-        "Panera Rewards members got BOGO cookies."
-      ],
-      "redemptionReady": true,
-      "requirementStates": {
-        "app": "required",
-        "account": "required",
-        "purchase": "required"
       },
       "newCustomer": false
     },

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T02:03:15.322468+00:00",
+  "generatedAt": "2026-11-25T02:47:43.242388+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -1125,50 +1125,6 @@
       "redemptionReady": true
     },
     {
-      "id": "scraped-b293715d8eeb84f5399e",
-      "restaurant": "Ahjoomah's Apron",
-      "title": "Free kimbop with $50 purchase",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Dine-in only",
-        "Minimum $50 regular-priced items before tax, fees and gratuity",
-        "Daily specials do not count toward $50",
-        "Ahjoomahs gift cards cannot pay for the order",
-        "Mention the website post to your server while ordering",
-        "Limit one free kimbop per table, per visit, per day",
-        "Holidays excluded",
-        "Cannot combine with other offers or promotions",
-        "May end without notice; no cash value"
-      ],
-      "redemptionSteps": [
-        "Dine in from 11 am to 9 pm on a non-holiday.",
-        "Mention the free-kimbop website post to your server while ordering at least $50 of regular-priced items.",
-        "Pay without Ahjoomahs gift cards; discounted daily specials do not count toward the qualifying spend."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://www.ahjoomahchicago.com/",
-      "lastCheckedAt": "2026-09-12T17:15:45.406893+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Free kimbop with a $50 purchase. Every day, Monday–Sunday, 11 am–9 pm. Dine-in only. Mention this website post to your server while ordering. Spend at least $50 on regular-priced items before tax, fees and gratuity; daily special deals do not count. Ahjoomahs gift cards cannot be used to pay for this order. Limit one free kimbop per table, per visit, per day. Holidays excluded. No cash value. Cannot combine with other offers or promotions. May end without notice. 218 W Cermak Rd, Chicago, IL.",
-      "offerDetails": "Free kimbop.",
-      "reportedDates": "Every day, 11 am–9 pm, excluding holidays",
-      "timeWindow": "11 AM–9 PM",
-      "detailNotes": [
-        "Official restaurant source and address reviewed September 10, 2026.",
-        "No campaign end date is stated; availability remains unconfirmed."
-      ],
-      "recurrenceLabel": "Every day, 11 am–9 pm, excluding holidays",
-      "locationDetails": "218 W Cermak Rd, Chicago, IL 60616",
-      "redemptionReady": true
-    },
-    {
       "id": "scraped-15ed0dcd0ba5abda84c9",
       "restaurant": "Panino's Pizzeria Chicago",
       "title": "$2 off pizza or $10 order",
@@ -1386,48 +1342,6 @@
       "locationDetails": "3702 N Broadway, Chicago, IL 60613",
       "reportedEndsOn": "2026-12-31",
       "savings": "Saves $7.50 off the regular $7.50",
-      "redemptionReady": true
-    },
-    {
-      "id": "scraped-effa8a6699117767190a",
-      "restaurant": "BITES Asian Kitchen + Bar",
-      "title": "Free chicken rice with $55",
-      "subtitle": "",
-      "category": "meal",
-      "tier": "unrated",
-      "status": "unconfirmed",
-      "timezone": "America/Chicago",
-      "requirements": [
-        "Minimum purchase $55 before taxes, delivery charges, tips and fees",
-        "One use per customer per day",
-        "Cannot combine with other offers, promotions or rewards",
-        "Order online at BitesKitchen.com for carryout or delivery",
-        "Not valid on third-party sites",
-        "Cannot combine with other offers or promotions",
-        "Subject to availability; may end without notice; no cash value"
-      ],
-      "redemptionSteps": [
-        "On Tuesday, order qualifying items through BitesKitchen.com for carryout or delivery.",
-        "Enter code TUESDAY at checkout and confirm the promotion before paying."
-      ],
-      "purchaseRequired": true,
-      "requiresApp": false,
-      "requiresRewards": false,
-      "sourceURL": "https://biteskitchen.com/bites-promotions",
-      "lastCheckedAt": "2026-09-12T17:15:45.406893+00:00",
-      "isSample": false,
-      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
-      "fullTerms": "Free chicken fried rice with a minimum purchase of $55 before taxes, delivery charges, tips and fees. Every Tuesday. Use promo code TUESDAY at checkout. Carryout or delivery orders placed online at BitesKitchen.com only. Not valid on third-party sites. Minimum purchase $55 before taxes, delivery charges, tips and fees. One use per customer per day. Cannot combine with other offers, promotions or rewards. Cannot combine with other offers or promotions. Subject to availability, may change or end without notice, and cannot be redeemed for cash. BITES Asian Kitchen + Bar, 3313 N Clark St, Chicago, IL.",
-      "offerDetails": "Free chicken fried rice.",
-      "reportedDates": "Every Tuesday",
-      "recurrenceLabel": "Every Tuesday",
-      "detailNotes": [
-        "Official promotion terms and linked Chicago ordering location reviewed September 10, 2026.",
-        "No campaign end date is stated; availability remains unconfirmed.",
-        "Delivery minimum is $15 according to the linked official ordering page."
-      ],
-      "code": "TUESDAY",
-      "locationDetails": "3313 N Clark St, Chicago, IL",
       "redemptionReady": true
     },
     {

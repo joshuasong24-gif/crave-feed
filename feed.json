@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T01:50:37.682795+00:00",
+  "generatedAt": "2026-11-25T02:03:15.322468+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4027,6 +4027,117 @@
         "purchase": "unknown"
       },
       "newCustomer": false
+    },
+    {
+      "id": "scraped-d84eeb27b03c422bf29a",
+      "restaurant": "Whole Foods Market",
+      "title": "$2 off a rotisserie chicken",
+      "subtitle": "Amazon Prime · Lincoln Park",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Amazon Prime membership required",
+        "In store only",
+        "While supplies last"
+      ],
+      "redemptionSteps": [
+        "Visit the Lincoln Park Whole Foods Market on Tuesday.",
+        "Choose a Whole Foods Market rotisserie chicken.",
+        "Identify yourself as a Prime member at checkout to receive the discount."
+      ],
+      "purchaseRequired": false,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.wholefoodsmarket.com/days-of-deals",
+      "lastCheckedAt": "2026-11-25T01:48:14.859154+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "$2 off Whole Foods Market Rotisserie Chicken. Every Tuesday. Valid 10/7/26 – 3/30/27 only on the specific day of the week stated for the applicable product unless otherwise stated. U.S. and in store only. Excludes Hawaii stores. Offer varies based on location and store type. While supplies last. Quantity limits apply. Quantities limited. No rain checks except where required by law. Must identify as a Prime member to receive Prime member discount. Whole Foods Market Rotisserie Chicken excludes half chickens, chicken meals, fried chicken, smoked whole chickens and pulled chicken. Availability varies by store.",
+      "offerDetails": "$2 off a rotisserie chicken.",
+      "reportedDates": "Every Tuesday",
+      "recurrenceLabel": "Every Tuesday",
+      "reportedStartsOn": "2026-10-07",
+      "reportedEndsOn": "2027-03-30",
+      "detailNotes": [
+        "Confirmed in the Lincoln Park weekly flyer."
+      ],
+      "membershipRequirement": "Amazon Prime membership required",
+      "locationDetails": "1550 N Kingsbury St, Chicago, IL 60642",
+      "savings": "$2 off",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "unknown"
+      },
+      "newCustomer": false,
+      "offerEvidence": {
+        "level": "reviewed",
+        "checkedAt": "2026-11-25T01:48:14.859154+00:00",
+        "validUntil": "2026-12-02T01:48:14.859154+00:00",
+        "sourceURLs": [
+          "https://www.wholefoodsmarket.com/days-of-deals"
+        ],
+        "reason": "The campaign and material terms have a current, source-matched evidence review. This does not confirm store or account eligibility."
+      }
+    },
+    {
+      "id": "scraped-c20debb89f4b3e73c8e9",
+      "restaurant": "Whole Foods Market",
+      "title": "Buy two sushi rolls, get the lower-priced roll half off",
+      "subtitle": "Amazon Prime · Lincoln Park",
+      "category": "meal",
+      "tier": "unrated",
+      "status": "unconfirmed",
+      "timezone": "America/Chicago",
+      "requirements": [
+        "Amazon Prime membership required",
+        "In store only",
+        "While supplies last",
+        "Buy packaged sushi rolls in multiples of two"
+      ],
+      "redemptionSteps": [
+        "Visit the Lincoln Park Whole Foods Market on Friday.",
+        "Choose two eligible packaged sushi rolls.",
+        "Identify yourself as a Prime member at checkout to receive the discount."
+      ],
+      "purchaseRequired": true,
+      "requiresApp": false,
+      "requiresRewards": true,
+      "sourceURL": "https://www.wholefoodsmarket.com/days-of-deals",
+      "lastCheckedAt": "2026-11-25T01:48:14.859154+00:00",
+      "isSample": false,
+      "ratingReason": "Unreviewed scraper discovery; verify all terms with the source.",
+      "fullTerms": "Buy 1, Get 1 50% Off Packaged Sushi Rolls. Every Friday. Valid 10/7/26 – 3/30/27 only on the specific day of the week stated for the applicable product unless otherwise stated. U.S. and in store only. Excludes Hawaii stores. Offer varies based on location and store type. While supplies last. Quantity limits apply. Quantities limited. No rain checks except where required by law. Must identify as a Prime member to receive Prime member discount. Packaged Sushi Rolls valid for prepackaged sushi only. Excludes salad rolls, catering trays, made-to-order rolls, appetizers, spring rolls, sashimi, nigiri, combos, venues and restaurants. Must purchase in multiples of 2 to receive discount. Discount applied on lower-priced item.",
+      "offerDetails": "Buy two sushi rolls, get the lower-priced roll half off.",
+      "reportedDates": "Every Friday",
+      "recurrenceLabel": "Every Friday",
+      "reportedStartsOn": "2026-10-07",
+      "reportedEndsOn": "2027-03-30",
+      "detailNotes": [
+        "Confirmed in the Lincoln Park weekly flyer."
+      ],
+      "membershipRequirement": "Amazon Prime membership required",
+      "locationDetails": "1550 N Kingsbury St, Chicago, IL 60642",
+      "savings": "50% off the lower-priced roll",
+      "redemptionReady": true,
+      "requirementStates": {
+        "app": "unknown",
+        "account": "required",
+        "purchase": "required"
+      },
+      "newCustomer": false,
+      "offerEvidence": {
+        "level": "reviewed",
+        "checkedAt": "2026-11-25T01:48:14.859154+00:00",
+        "validUntil": "2026-12-02T01:48:14.859154+00:00",
+        "sourceURLs": [
+          "https://www.wholefoodsmarket.com/days-of-deals"
+        ],
+        "reason": "The campaign and material terms have a current, source-matched evidence review. This does not confirm store or account eligibility."
+      }
     }
   ],
   "happyHours": [
@@ -4374,6 +4485,14 @@
       "latitude": 41.873608285143355,
       "longitude": -87.63050028599581,
       "checkedAt": "2026-11-09T23:53:45Z",
+      "match": "exact"
+    },
+    {
+      "address": "1550 N Kingsbury St, Chicago, IL 60642",
+      "sourceAddress": "1550 N. Kingsbury Street",
+      "latitude": 41.9087,
+      "longitude": -87.652641,
+      "checkedAt": "2026-11-25T01:48:55.391594+00:00",
       "match": "exact"
     }
   ],

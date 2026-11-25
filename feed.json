@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T18:06:37.511582+00:00",
+  "generatedAt": "2026-11-25T18:27:56.487553+00:00",
   "mode": "scraped",
   "offers": [
     {
@@ -4212,6 +4212,2675 @@
           "kind": "cocktail"
         }
       ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-107122",
+      "venue": "Spilt Milk",
+      "address": "2758 W Fullerton Ave, Chicago, IL 60647",
+      "sourceURL": "https://www.spiltmilktavern.com/",
+      "neighborhood": "Logan Square",
+      "promotionName": "Weekday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:10.093907+00:00",
+      "validUntil": "2026-12-02T02:59:10.093907+00:00",
+      "sourceText": "https://www.spiltmilktavern.com/\nHAPPY HOUR MONDAY-THURSDAY 4-7 PM • NO RESERVATIONS • WALK-IN ONLY\nSPILT MILK IS A 21+ ESTABLISHMENT ONLY\nHAPPY HOUR SPECIALS\nMONDAY - THURSDAY, 4PM - 7PM HALF OFF DRAFT BEER & $7 SELECT WINE\n2758 W. FULLERTON AVE, CHICAGO, IL 60647\n2758 W Fullerton Ave, Chicago, IL 60647",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Half off draft beer",
+        "$7 select wine"
+      ],
+      "terms": [
+        "Walk-in only. Ages 21 and over."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$7 select wine",
+          "price": 7.0,
+          "kind": "wine"
+        }
+      ],
+      "savings": {
+        "Half off draft beer": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-106360",
+      "venue": "The Globe Pub",
+      "address": "1934 W IRVING PARK RD 1, Chicago, IL 60613",
+      "sourceURL": "https://www.theglobepub.com/specials-happyhour",
+      "neighborhood": "North Center",
+      "promotionName": "Weekday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.336110+00:00",
+      "validUntil": "2026-12-02T02:59:12.336110+00:00",
+      "sourceText": "https://www.theglobepub.com/specials-happyhour\n~ Happy Hour ~\nMonday - Friday 4-6 PM\n$3 Off Signature Cocktails\n$2 Off Any Draft $7+\n$1 Off Any Bottle or Can $7+\nHalf Off Glasses & Bottles of Wine\n1934 W. Irving Park Road , Chicago, IL 60613 773.871.3757\n21+ For All Arsenal Games\n1934 W IRVING PARK RD 1, Chicago, IL 60613",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$3 off signature cocktails",
+        "$2 off any draft $7+",
+        "$1 off any bottle or can $7+",
+        "Half off glasses and bottles of wine"
+      ],
+      "terms": [
+        "Discounts on draft beer, bottles and cans apply to selections priced $7 or more."
+      ],
+      "budgetDrinks": [],
+      "savings": {
+        "$3 off signature cocktails": "Saves $3",
+        "$2 off any draft $7+": "Saves $2",
+        "$1 off any bottle or can $7+": "Saves $1",
+        "Half off glasses and bottles of wine": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-106419",
+      "venue": "Southern Chicago",
+      "address": "2000 S WABASH AVE, Chicago, IL 60616",
+      "sourceURL": "https://www.southernchicagorestaurant.com/menu/happy-hour",
+      "neighborhood": "South Loop",
+      "promotionName": "Weekday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:14.168937+00:00",
+      "validUntil": "2026-12-02T02:59:14.168937+00:00",
+      "sourceText": "https://www.southernchicagorestaurant.com/menu/happy-hour\n2000 S Wabash Ave, Chicago, IL 60616\nHappy Hour Monday - Friday 4:00pm-6:00pm DINE IN AT BAR ONLY\nDINE IN AT BAR ONLY\nCocktails & Wine House White California $ 10 House Red California $ 10 Old Fashioned Demerara, Angostura Bitters, Orange Twist $ 10 Cosmopolitan Cranberry, Cointreau, Lime Juice, Simple Syrup $ 10 Margarita Fresh Lime, Agave Nectar, Cointreau, Salted Rim $ 10 Hugo Spritz Elderflower, Prosecco, Soda, Mint, Lemon $ 10 Gimlet Fresh Lime Juice, Simple Syrup $ 10\nHouse White California $ 10\nTastings Mussels White Wine Sauce $ 10 Crisped Green Tomatoes Pimento Cheese, Gulf Crabmeat, Creole Remoulade $ 9 Mini Filet Sliders Filet Medallions, Red Onion Jam, Blue Cheese $ 12 Wagyu Cheeseburger Sliders Pressed, Caramelized Onions $ 12 Barrel Aged Maple Fried Chicken Buttermilk Marinated, Barrel-Aged Maple Mustard Glaze $ 12 Oyster Rockefeller $ 5 Jalapeño Cornbread $ 6 Truffle Parmesan Fries $ 10\nMussels White Wine Sauce $ 10\n2000 S WABASH AVE, Chicago, IL 60616",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "$6 jalapeño cornbread",
+        "$10 truffle Parmesan fries",
+        "$10 mussels",
+        "$9 crisped green tomatoes",
+        "$12 mini filet sliders",
+        "$12 Wagyu cheeseburger sliders",
+        "$12 barrel aged maple fried chicken",
+        "$5 oyster Rockefeller"
+      ],
+      "drinkOffers": [
+        "House White California $10",
+        "House Red California $10",
+        "$10 Old Fashioned",
+        "$10 Cosmopolitan",
+        "$10 Margarita",
+        "$10 Hugo Spritz",
+        "$10 Gimlet"
+      ],
+      "terms": [
+        "Dine in at the bar only."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$10 Old Fashioned",
+          "price": 10.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "$10 Margarita",
+          "price": 10.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "$10 Hugo Spritz",
+          "price": 10.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "north-sushi-san-mon-thu",
+      "venue": "Sushi-san Lincoln Park",
+      "address": "1950 N. Halsted St.",
+      "sourceURL": "https://www.sushisanrestaurant.com/lincoln-park/menu/",
+      "neighborhood": "Lincoln Park",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.359995+00:00",
+      "validUntil": "2026-12-02T02:59:12.359995+00:00",
+      "sourceText": "https://www.sushisanrestaurant.com/lincoln-park/menu/\navailable monday - thursday 4pm - 6pm & friday - sunday 3pm - 5pm\n$6 ASAHI COLD DRAFT\n*These food items may be served raw or undercooked. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. Sushi-san is a cashless restaurant. As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose. Please inform your server of any dietary restrictions or food allergies\nLocation 1950 N. Halsted St. Chicago, IL 60614 Valet Parking Available Change Location\nhttps://www.sushisanrestaurant.com/lincoln-park\nHappy Hour Monday - Thursday: 4:00PM - 6:00PM & Friday - Sunday: 3:00PM-5:00PM! $6 Japanese Beer, $6 Sake, $6 Wine, $10 Cocktails, and $6 Sushi-san Snacks: Roasted Edamame, Shishito Peppers, Japanese Eggplant, 5pc Crunchy Avocado Maki, 5pc Spicy Salmon Maki, 5pc Spicy Tuna Maki Reservations\nLocation 1950 N. Halsted St. Chicago, IL 60614 Valet Parking Available Change Location\n1950 N. Halsted St.",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$6 Asahi cold draft",
+        "$6 sake",
+        "$6 wine",
+        "$10 cocktails"
+      ],
+      "terms": [
+        "Cashless restaurant. The 3.5% surcharge can be removed on request.",
+        "The restaurant flags raw or undercooked foods on its menu."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$6 Asahi cold draft",
+          "price": 6.0,
+          "kind": "beer"
+        },
+        {
+          "label": "$6 wine",
+          "price": 6.0,
+          "kind": "wine"
+        },
+        {
+          "label": "$10 cocktails",
+          "price": 10.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "north-sushi-san-fri-sun",
+      "venue": "Sushi-san Lincoln Park",
+      "address": "1950 N. Halsted St.",
+      "sourceURL": "https://www.sushisanrestaurant.com/lincoln-park/menu/",
+      "neighborhood": "Lincoln Park",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.359995+00:00",
+      "validUntil": "2026-12-02T02:59:12.359995+00:00",
+      "sourceText": "https://www.sushisanrestaurant.com/lincoln-park/menu/\navailable monday - thursday 4pm - 6pm & friday - sunday 3pm - 5pm\n$6 ASAHI COLD DRAFT\n*These food items may be served raw or undercooked. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. Sushi-san is a cashless restaurant. As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose. Please inform your server of any dietary restrictions or food allergies\nLocation 1950 N. Halsted St. Chicago, IL 60614 Valet Parking Available Change Location\nhttps://www.sushisanrestaurant.com/lincoln-park\nHappy Hour Monday - Thursday: 4:00PM - 6:00PM & Friday - Sunday: 3:00PM-5:00PM! $6 Japanese Beer, $6 Sake, $6 Wine, $10 Cocktails, and $6 Sushi-san Snacks: Roasted Edamame, Shishito Peppers, Japanese Eggplant, 5pc Crunchy Avocado Maki, 5pc Spicy Salmon Maki, 5pc Spicy Tuna Maki Reservations\nLocation 1950 N. Halsted St. Chicago, IL 60614 Valet Parking Available Change Location\n1950 N. Halsted St.",
+      "days": [
+        5,
+        6,
+        7
+      ],
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$6 Asahi cold draft",
+        "$6 sake",
+        "$6 wine",
+        "$10 cocktails"
+      ],
+      "terms": [
+        "Cashless restaurant. The 3.5% surcharge can be removed on request.",
+        "The restaurant flags raw or undercooked foods on its menu."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$6 Asahi cold draft",
+          "price": 6.0,
+          "kind": "beer"
+        },
+        {
+          "label": "$6 wine",
+          "price": 6.0,
+          "kind": "wine"
+        },
+        {
+          "label": "$10 cocktails",
+          "price": 10.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-13201",
+      "venue": "Wrigleyville North",
+      "address": "3900 N Sheridan Rd, Chicago, IL 60613, USA",
+      "sourceURL": "https://wrigleyvillenorthchicago.com/chicago-wrigleyville-wrigleyville-north-happy-hours-specials",
+      "neighborhood": "Wrigleyville",
+      "promotionName": "Daily Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:42.421456+00:00",
+      "validUntil": "2026-12-02T02:59:42.421456+00:00",
+      "sourceText": "https://wrigleyvillenorthchicago.com/chicago-wrigleyville-wrigleyville-north-happy-hours-specials\n3900 N Sheridan Rd , Chicago\nHappy Hour! From 4-6pm. $5 drafts, Import bottles, White Claws, and house wine. $4 Domestic bottles. Everyday, excluding game days.\n04:00 PM - 06:00 PM\nhttps://wrigleyvillenorthchicago.com/\nmap marker pin 3900 N Sheridan Rd, Chicago, IL 60613\nHappy Hour! From 4-6pm. $5 drafts, Import bottles, White Claws, and house wine. $4 Domestic bottles. Everyday, excluding game days.\n3900 N Sheridan Rd, Chicago, IL 60613, USA",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$5 drafts, import bottles, White Claws and house wine",
+        "$4 domestic bottles"
+      ],
+      "terms": [
+        "Excludes game days."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$5 drafts, import bottles, White Claws and house wine",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-12621",
+      "venue": "The Rabbit Hole Wrigley",
+      "address": "3474 N CLARK ST 1, Chicago, IL 60657",
+      "sourceURL": "https://rabbitholewrigley.com/",
+      "neighborhood": "Wrigleyville",
+      "promotionName": "Hoppy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:43.351521+00:00",
+      "validUntil": "2026-12-02T02:59:43.351521+00:00",
+      "sourceText": "https://rabbitholewrigley.com/\nHoppy Hour: Wednesday – Friday, 4pm – 7pm\n$3 Bud Light Cans, $5 Green Tea Shots, $5 Well Cocktails, $7 Vodka Red Bulls, $8 Moscow Mules, $9 Old Fashions, $9 Manhattans\n3474 N Clark St, Chicago, IL 60657\n3474 N CLARK ST 1, Chicago, IL 60657",
+      "days": [
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$3 Bud Light cans",
+        "$5 Green Tea shots",
+        "$5 well cocktails",
+        "$7 vodka Red Bulls",
+        "$8 Moscow Mules",
+        "$9 Old Fashions",
+        "$9 Manhattans"
+      ],
+      "terms": [
+        "Available Wednesday through Friday during Hoppy Hour."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$5 Green Tea shots",
+          "price": 5.0,
+          "kind": "shot"
+        },
+        {
+          "label": "$5 well cocktails",
+          "price": 5.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "$7 vodka Red Bulls",
+          "price": 7.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-915",
+      "venue": "The Park Bar & Grill",
+      "address": "65 E Garfield Blvd, Chicago, IL 60637, USA",
+      "sourceURL": "https://theparkbargrill.com/",
+      "neighborhood": "Woodlawn",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:15.207981+00:00",
+      "validUntil": "2026-12-02T03:00:15.207981+00:00",
+      "sourceText": "https://theparkbargrill.com/\n18% gratuity + taxes will be added\nPrices subject to change without notice. While we try to make sure prices are updated, inhouse pricing overrides website pricing.\n65 East Garfield Blvd. Chicago, IL 60637\nHappy Hour Specials Thurs. - Sat. 4PM - 7PM 20% Off Martinis and Appetizers\n65 E Garfield Blvd, Chicago, IL 60637, USA",
+      "days": [
+        4,
+        5,
+        6
+      ],
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "20% off appetizers"
+      ],
+      "drinkOffers": [
+        "20% off martinis"
+      ],
+      "terms": [
+        "18% gratuity and tax are added. In-house prices take precedence."
+      ],
+      "budgetDrinks": [],
+      "savings": {}
+    },
+    {
+      "id": "312deals-23583",
+      "venue": "Tortoise Supper Club",
+      "address": "350 N State St, Chicago, IL 60654",
+      "sourceURL": "https://tortoisesupperclub.com/menus/happy-hour-specials",
+      "neighborhood": "River North",
+      "promotionName": "After Work Wednesday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:00.211775+00:00",
+      "validUntil": "2026-12-02T03:00:00.211775+00:00",
+      "sourceText": "https://tortoisesupperclub.com/menus/happy-hour-specials\nOne dollar oysters and one dollar gulf shrimp served with craft cocktails. Settle into our swanky, River North, supper club vibe and enjoy Happy Hour specials in the lounge and on the patio.\nAfter Work Wednesdays 4:30-6:30pm 1/2-Price Signature Cocktails $1 Oysters & $1 Cocktail Shrimp\n4:30-6:30pm\n1/2-Price Signature Cocktails $1 Oysters & $1 Cocktail Shrimp\n$1 Oysters & $1 Cocktail Shrimp\nTuesday-Thursday 5:00-9:00pm\nTortoise Supper Club 350 N State St Chicago, IL 60654 View Google Map Call (312) 755-1700\n350 N State St, Chicago, IL 60654",
+      "days": [
+        3
+      ],
+      "startTime": "16:30",
+      "endTime": "18:30",
+      "foodOffers": [
+        "$1 oysters",
+        "$1 cocktail shrimp"
+      ],
+      "drinkOffers": [
+        "Half-price signature cocktails"
+      ],
+      "terms": [
+        "Served in the lounge and on the patio. The happy-hour menu lists a 4:30 p.m. start. The restaurant lists Wednesday dinner service from 5 p.m.",
+        "The restaurant describes the $1 shellfish as served with craft cocktails."
+      ],
+      "budgetDrinks": [],
+      "savings": {
+        "Half-price signature cocktails": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-7796",
+      "venue": "Hawksmoor",
+      "address": "500 N La Salle Dr, Chicago, IL 60654",
+      "sourceURL": "https://thehawksmoor.com/us/locations/chicago/?pl=chicago&utm_source=google&utm_medium=organic&utm_campaign=gbp",
+      "neighborhood": "River North",
+      "promotionName": "Hawksmoor Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:17.313107+00:00",
+      "validUntil": "2026-12-02T02:59:17.313107+00:00",
+      "sourceText": "https://thehawksmoor.com/us/locations/chicago/?pl=chicago&utm_source=google&utm_medium=organic&utm_campaign=gbp\n500 N La Salle Dr, Chicago, IL 60654\nhttps://thehawksmoor.com/us/locations/chicago/happy-hour/\nHawksmoor Happy Hour\nEvery day 4-6pm\nThe Powerhouse Burger for $21\nOrder it at the bar with a cocktail for $12 or less, and you’ve got a very good hour ahead of you\n500 N La Salle Dr, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Powerhouse Burger for $21"
+      ],
+      "drinkOffers": [],
+      "terms": [
+        "Order at the bar during the Chicago happy hour."
+      ],
+      "budgetDrinks": [],
+      "savings": {}
+    },
+    {
+      "id": "312deals-17",
+      "venue": "Summer House - Lincoln Park",
+      "address": "1954 N Halsted St, Chicago, IL 60614",
+      "sourceURL": "https://www.summerhouserestaurants.com/lincoln-park/events",
+      "neighborhood": "Lincoln Park",
+      "promotionName": "Martini Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:02.056065+00:00",
+      "validUntil": "2026-12-02T03:00:02.056065+00:00",
+      "sourceText": "https://www.summerhouserestaurants.com/lincoln-park/events\nMartini Hour\nhttps://www.summerhouserestaurants.com/lincoln-park/menus/\nAvailable Monday – Friday from 3:00 PM – 6:00. Martini Hour is available in the bar area only. Bar seating is first come, first served\nEspresso Martini 10 Aspen vodka, espresso liqueur, cold brew\nFirst Class Warm Nuts 4\nWagyu Cheese Burger 5 special sauce, pickle spear Dress it up for a Buck, Add Glazed Bacon - 2.00 Add Crispy Fries - 3.00\nAs a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose\nLocation 1954 N Halsted Street Chicago, IL 60614 Change Location\nHours Monday – Thursday: 11:00 AM – 9:00 PM Friday: 11:00 AM – 10:00 PM Saturday: 9:00 AM – 10:00 PM Sunday: 9:00 AM – 9:00 PM Martini Hour: Monday – Friday: 3:00 PM – 6:00 PM Brunch: Saturday & Sunday: 9:00 AM - 3:00 PM\n1954 N Halsted St, Chicago, IL 60614",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "$5 Wagyu Cheese Burger",
+        "$4 First Class Warm Nuts"
+      ],
+      "drinkOffers": [
+        "$10 Espresso Martini"
+      ],
+      "terms": [
+        "Bar area only. Seats are first come, first served. The 3.5% surcharge can be removed on request."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$10 Espresso Martini",
+          "price": 10.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "north-ramen-san",
+      "venue": "Ramen-san Lincoln Park",
+      "address": "1962 N Halsted St",
+      "sourceURL": "https://www.ramensan.com/lincoln-park-menus/",
+      "neighborhood": "Lincoln Park",
+      "promotionName": "Lucky Hour",
+      "regularPrices": {
+        "$7 karaage chicken nuggets": 14.0,
+        "$6 chili crunch cucumbers": 8.0,
+        "$5 Asahi cold draft": 9.0
+      },
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.621107+00:00",
+      "validUntil": "2026-12-02T02:59:12.621107+00:00",
+      "sourceText": "https://www.ramensan.com/lincoln-park-menus/\nPlease advise the restaurant of any dietary restrictions and allergies when dining in or placing a carry out order. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. All items are subject to availability. | As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose.\nLucky Hour\nMonday through Friday from 3-6pm\nFried Chicken Bun 4 fried chicken, spicy mustard, japanese bbq sauce and kewpie mayo on a steamed bun\nKaraage Chicken Nuggets 7 with a nod to japanese karaage, we take juicy, marinated chicken thighs and toss in a breading seasoned by our signature S+P. homemade lime kosho aioli served on the side\nChili Crunch Cucumbers 6 sliced cucumbers topped with a savory sesame chili crunch sauce with garlic, citrus, and toasted sesame seeds\nAsahi Cold Draft 5 imported japanese lager, poured through our hoshizaki blast-chiller, served ice cold in a frosted mug\nCold Dry Sake 6\nRamen-San Lincoln Park MON - THURS 11AM - 10PM FRI 11AM - 11PM SAT 11AM - 11PM SUN 11AM - 10PM 1962 N Halsted St Chicago, IL 60614 773-248-3000\nhttps://www.ramensan.com/events/lucky-hour-2\nJoin us every Monday – Friday from 3 PM – 6 PM for food and drink specials!\nFried Chicken Bun $4\nKaraage Chicken Nuggets $7\nChili Crunch Cucumbers $6\nAsahi Cold Draft $5\nCold Dry Sake $6\nhttps://www.ramensan.com/lincoln-park-menus/\n1962 N Halsted St Chicago, IL 60614\n1962 N Halsted St",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "$4 Fried Chicken Bun",
+        "$7 Karaage Chicken Nuggets",
+        "$6 Chili Crunch Cucumbers"
+      ],
+      "drinkOffers": [
+        "$5 Asahi Cold Draft",
+        "$6 Cold Dry Sake"
+      ],
+      "terms": [
+        "The 3.5% surcharge can be removed on request.",
+        "Items are subject to availability."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$5 Asahi Cold Draft",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106097",
+      "venue": "STK Chicago",
+      "address": "9 W KINZIE ST 1ST, Chicago, IL 60654",
+      "sourceURL": "https://stksteakhouse.com/happenings/happy-hour/",
+      "neighborhood": "River North",
+      "promotionName": "Chicago Afternoon Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:57.026517+00:00",
+      "validUntil": "2026-12-02T02:59:57.026517+00:00",
+      "sourceText": "https://stksteakhouse.com/happenings/happy-hour/\nAvailable exclusively in the bar, lounge and patio areas.\nhttps://stksteakhouse.com/location/chicago/\n9 W Kinzie St Chicago, IL 60654\nMonday - Friday, Sunday: 3pm - 5:30pm\nDoes STK Chicago have Happy Hour?\nhttps://stksteakhouse.com/en-us/location/chicago/menu?menu=Happy-Hour-Menu\nSunday - Friday: 3PM - 5:30PM\nFood only. Late Night - available in the bar, lounge, & patio only\n$3 | Main\nTater Tots\nCrab & Corn Fritters\n$9 | Beverages Happy Hour Cocktails Chimay Bottle\n9 W KINZIE ST 1ST, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ],
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "foodOffers": [
+        "$3 tater tots",
+        "$3 crab and corn fritters"
+      ],
+      "drinkOffers": [],
+      "terms": [
+        "Order in the bar, lounge or patio. The local Chicago menu lists the afternoon session from 3 to 5:30 p.m."
+      ],
+      "budgetDrinks": [],
+      "savings": {}
+    },
+    {
+      "id": "312deals-6818",
+      "venue": "Carol's Pub",
+      "address": "4659 N CLARK ST 1ST, Chicago, IL 60640",
+      "sourceURL": "https://carolspub.com/",
+      "neighborhood": "Uptown",
+      "promotionName": "Thursday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:10.352064+00:00",
+      "validUntil": "2026-12-02T02:59:10.352064+00:00",
+      "sourceText": "https://carolspub.com/\nTHURSDAY HAPPY HOUR (4PM - 7PM) House Margarita - $7 House Old Fashioned - $7\n4659 N CLARK ST 1ST, Chicago, IL 60640",
+      "days": [
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "House Margarita · $7",
+        "House Old Fashioned · $7"
+      ],
+      "terms": [
+        "Available during the listed happy hour at Carol’s Pub."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "House Margarita · $7",
+          "price": 7.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "House Old Fashioned · $7",
+          "price": 7.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-107230",
+      "venue": "Carol's Pub",
+      "address": "4659 N CLARK ST 1ST, Chicago, IL 60640",
+      "sourceURL": "https://carolspub.com/",
+      "neighborhood": "Uptown",
+      "promotionName": "Friday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:10.352064+00:00",
+      "validUntil": "2026-12-02T02:59:10.352064+00:00",
+      "sourceText": "https://carolspub.com/\nFRIDAY HAPPY HOUR (2PM - 6PM) House Margarita - $7 House Old Fashioned - $7\n4659 N CLARK ST 1ST, Chicago, IL 60640",
+      "days": [
+        5
+      ],
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "House Margarita · $7",
+        "House Old Fashioned · $7"
+      ],
+      "terms": [
+        "Available during the listed happy hour at Carol’s Pub."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "House Margarita · $7",
+          "price": 7.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "House Old Fashioned · $7",
+          "price": 7.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-9",
+      "venue": "Ema - River North",
+      "address": "74 W Illinois St, Chicago, IL 60654",
+      "sourceURL": "https://emarestaurants.com/chicago/happenings/happy-hour",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:16.631939+00:00",
+      "validUntil": "2026-12-02T02:59:16.631939+00:00",
+      "sourceText": "https://emarestaurants.com/chicago/happenings/happy-hour\nHappy Hour Happy Hour Monday - Thursday, 4:00PM - 6:00PM Join Ema for Happy Hour in River North every Monday – Thursday from 4:00pm – 6:00pm! Enjoy select spreads and mezze, craft beer and sommelier-selected white and red wine pours. Available dine-in only. Reserve\nHappy Hour Monday – Thursday • 4:00 PM - 6:00 PM Mezze - $7 Hummus v za'atar, vegetable crudité Crispy Potatoes v, gf mizithra, rosemary, scallion crema TOASTED ALMOND & GARLIC v castelvetrano olives, fresh herbs Charred Eggplant v aleppo, mint, olive oil Crispy Brussels Sprouts vg crispy shallots, pumpkin seeds, sherry glaze Cocktail - $10 HOUSE MARGARITA Craft Beer - $6 LIL BUDDY LAGER hopewell brewing, chicago, il APERTIF PILSNER moody tongue brewing, chicago, il Wine - $8 SOMMELIER SELECTION WHITE SOMMELIER SELECTION RED Surcharge As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose. Please advise the restaurant of any dietary restrictions and allergies when dining in or placing a carry out order. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. All items are subject to availability v = vegetarian vg = vegan gf = gluten free\n74 W Illinois St, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Hummus · $7",
+        "Crispy potatoes · $7",
+        "Charred eggplant · $7",
+        "Crispy Brussels sprouts · $7"
+      ],
+      "drinkOffers": [
+        "House margarita · $10",
+        "Lil Buddy lager · $6",
+        "Sommelier selection white · $8",
+        "Sommelier selection red · $8"
+      ],
+      "terms": [
+        "River North, dine-in only. All items subject to availability.",
+        "A 3.5% surcharge is added, removable on request."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "House margarita · $10",
+          "price": 10.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "Lil Buddy lager · $6",
+          "price": 6.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-1856",
+      "venue": "Cafe Ba-Ba-Reeba!",
+      "address": "2024 N Halsted St, Chicago, IL 60614",
+      "sourceURL": "https://www.cafebabareeba.com/events/happy-hour/",
+      "neighborhood": "Lincoln Park",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:01.029125+00:00",
+      "validUntil": "2026-12-02T03:00:01.029125+00:00",
+      "sourceText": "https://www.cafebabareeba.com/events/happy-hour/\nHappy Hour Lincoln Park’s best-kept secret is Cafe Ba-Ba-Reeba! ’s Happy Hour. Join us seven days a week from 4:00 PM – 6:00 PM for $23 Sangria pitchers, $4 Estrella Damm bottles, $1.50 pintxos, tapas from $3 to $5, and more. Happy Hour is available in the Bar Area only and is first come, first served. Reserve Order Online\nHappy Hour Happy Hour Daily 4pm-6pm. Bar Seats & Cocktail Area Only La Hora Del Vermut La Hora Del Vermut La Cueva Nueva Vermut, orange, splash of soda 6 Pintxos caña de cabra membrillo jam, maldon sea salt gf v 1.50 la \"gilda\" the original pintxo bar snack from san sebastián, gordal olive, piparra pepper, cantabrian anchovy gf v 1.50 deviled egg crispy jamón ibérico 1.50 Tapas garlic potato salad gf v 3 ibérico ham croquetas sherry aioli 4 roasted dates wrapped in bacon 4 spanish meatballs \"al jerez\" sherry-tomato sauce 4 patatas bravas spicy potatoes with sun-dried tomato aioli 4 fried shishito peppers hawaiian black sea salt 4 catalan-style \"crystal bread\" tomato purée, garlic, olive oil, manchego (half order) gf v 4 Torres Selecta Patatas Fritas torres selecta patatas fritas jamón ibérico, cured cheese or extra virgin olive oil gf v 5 Beer, Wine & Sangria classic red sangria The traditional drink of Spain made with wine, liqueurs & diced fresh fruit glass 6 pitcher 23 estrella galicia lager, a coruña, spain 4 \"tapas pour\" of old irving ba-ba brew! 4 featured wine by the glass 6 Surcharge As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose. Download PDF\n2024 N Halsted St, Chicago, IL 60614",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Pintxos · $1.50",
+        "Ibérico ham croquetas, sherry aioli · $4"
+      ],
+      "drinkOffers": [
+        "Featured wine by the glass · $6"
+      ],
+      "terms": [
+        "Bar seats and cocktail area only. First come, first served.",
+        "A 3.5% surcharge is added, removable on request."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Featured wine by the glass · $6",
+          "price": 6.0,
+          "kind": "wine"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-432",
+      "venue": "Beatrix",
+      "address": "519 N CLARK ST 1, Chicago, IL 60654",
+      "sourceURL": "https://www.beatrixrestaurants.com/happenings/happy-hour",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:17.890069+00:00",
+      "validUntil": "2026-12-02T02:59:17.890069+00:00",
+      "sourceText": "https://www.beatrixrestaurants.com/happenings/happy-hour\nCheers to Happy Hour Join us every Monday-Friday from 3:00PM-6:00PM for the happiest of hours at Beatrix River North! Enjoy: $6 local beers $7 select wines $8 hand-crafted cocktails $9 snacks $12 burger choice of: mushroom & quinoa burger or prime cheeseburger Available at Beatrix River North for dine-in only. Valid on select beers, wines and cocktails. Plus, every Monday enjoy half-off bottles of wine all day long! Reserve Now View All Happenings\nHappy Hour Monday-Friday from 3:00PM-6:00PM Download PDF Local Beers Pilsner - 6 moody tongue paradise, chicago, il Pale Ale - 6 hopewell ride or die pale ale, chicago, il Wines Prosecco - 7 caposaldo, italy, nv Rosé - 7 dominio de eguren, tempranillo/bobal, spain, 2023 ROSÉ - 7 hampton water, grenache noir/syrah/mourvèdre, france, 2024 Pinot Grigio - 7 la fiera, venice, italy, 2023 Montepulciano - 7 la fiera, abruzzo, italy, 2022 Hand-Crafted Cocktails House Margarita - 8 gran centenario plata tequila, agave nectar, lime Old Fashioned - 8 rittenhouse rye, demerara, angostura bitters Moscow Mule - 8 wheatley vodka, fresh juiced ginger, lime, soda Food Snacks - 9 Burger - 12 choice of: mushroom & quinoa burger or prime cheeseburger Surcharge - As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose. *These items are cooked to order. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness\n519 N CLARK ST 1, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Mushroom & quinoa burger or prime cheeseburger · $12",
+        "Snacks · $9"
+      ],
+      "drinkOffers": [
+        "Local beers · $6",
+        "Select wines · $7",
+        "Hand-crafted cocktails · $8"
+      ],
+      "terms": [
+        "Dine-in only at Beatrix River North. Select beers, wines and cocktails qualify.",
+        "A 3.5% surcharge is added, removable on request.",
+        "*These items are cooked to order. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness"
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Local beers · $6",
+          "price": 6.0,
+          "kind": "beer"
+        },
+        {
+          "label": "Select wines · $7",
+          "price": 7.0,
+          "kind": "wine"
+        },
+        {
+          "label": "Hand-crafted cocktails · $8",
+          "price": 8.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-7539",
+      "venue": "Barrio",
+      "address": "65 W KINZIE ST, Chicago, IL 60654",
+      "sourceURL": "https://www.barriochicago.com/menu/happy-hour",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:20.772018+00:00",
+      "validUntil": "2026-12-02T02:59:20.772018+00:00",
+      "sourceText": "https://www.barriochicago.com/menu/happy-hour\nMain content starts here, tab to start navigating Happy Hour Every Day: 4 pm - 6 pm Download PDF Margaritas • $9 make it a grande! • $16 Jalapeño cucumber THE CLASSICO The Skinny Classico Strawberry mint Beer • $5 Tecate Corona A 3.95% surcharge will be added to each check in order to support the rising operating costs affecting the restaurant industry. We do this in lieu of increased menu prices. Management will remove this charge upon request. Chips & Dips • $5 make it a trio • $12 Queso Americano Guacamole Chips & Salsa BITES • $5 Tuna Poke Wonton Tacos choice of: chicken, steak, or shrimp Poblano & Cheese Empanada Made to Share • $9 Cornbread Skillet Queso Fundido Nachos Quesadilla\n65 W KINZIE ST, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Poblano & cheese empanada · $5"
+      ],
+      "drinkOffers": [
+        "Tecate · $5",
+        "Corona · $5"
+      ],
+      "terms": [
+        "During the daily 4–6 pm happy-hour menu.",
+        "A 3.95% surcharge is added, removable on request."
+      ],
+      "budgetDrinks": [],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106370",
+      "venue": "Cleo's",
+      "address": "1935 W CHICAGO AVE 1ST, Chicago, IL 60622",
+      "sourceURL": "https://www.cleospub.com/menu/daily-specials",
+      "neighborhood": "West Town",
+      "promotionName": "Monday-Thursday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:55.920671+00:00",
+      "validUntil": "2026-12-02T02:59:55.920671+00:00",
+      "sourceText": "https://www.cleospub.com/menu/daily-specials\nHAPPY HOUR Monday-Thursday (3:00 pm-6:00 pm) 1/2 off all drafts, well liquors & wines. *Happy hour pricing may not be applicable during special events. *Over 21 after 7:00 PM.\nhttps://www.cleospub.com/location/cleos/\n1935 W Chicago Ave, Chicago, IL 60622 (opens in a new tab)\nCleo's is located at 1935 W Chicago Avenue in the heart of Ukrainian Village. We are located 1 block East of the corner of Damen and Chicago Avenues on the Southside of the street.\n1935 W CHICAGO AVE 1ST, Chicago, IL 60622",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Half off all drafts, well liquors & wines."
+      ],
+      "terms": [
+        "Happy hour pricing may not be applicable during special events.",
+        "Over 21 after 7:00 PM."
+      ],
+      "budgetDrinks": [],
+      "savings": {
+        "Half off all drafts, well liquors & wines.": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-910",
+      "venue": "Forbidden Root Restaurant & Brewery",
+      "address": "1746 W Chicago Ave, Chicago, IL 60622, USA",
+      "sourceURL": "https://forbiddenroot.com/",
+      "neighborhood": "Garfield Park",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:51.938706+00:00",
+      "validUntil": "2026-12-02T02:59:51.938706+00:00",
+      "sourceText": "https://forbiddenroot.com/\nCHICAGO WEST TOWN\nhttps://forbiddenroot.com/restaurants/restaurant-brewery/\nWEST TOWN HAPPY HOUR! Visit us at Forbidden Root for happy hour! Monday – Thursday: 4 pm – 6 pm; Friday 3 pm – 5 pm Half off ALL bar snacks \\ $10 FR Flight \\ $5 Draft Beer $8 Glass Wine \\ 1/2 off Bottles of Wine $8 Select House Cocktails * Ask your local FR for any other HH specials. Specific items may vary based on location.\n1746 W Chicago Ave Chicago, IL 60622 ( map ) Phone: (312) 929-2202\n1746 W Chicago Ave, Chicago, IL 60622, USA",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Half off all bar snacks"
+      ],
+      "drinkOffers": [
+        "Draft beer · $5",
+        "Wine by the glass · $8",
+        "Select house cocktails · $8"
+      ],
+      "terms": [
+        "West Town location. Specific items may vary by location. Ask the local restaurant about any other specials."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Draft beer · $5",
+          "price": 5.0,
+          "kind": "beer"
+        },
+        {
+          "label": "Wine by the glass · $8",
+          "price": 8.0,
+          "kind": "wine"
+        },
+        {
+          "label": "Select house cocktails · $8",
+          "price": 8.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {
+        "Half off all bar snacks": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-207",
+      "venue": "Adalina",
+      "address": "912 N STATE ST, Chicago, IL 60610",
+      "sourceURL": "https://www.adalinachicago.com/menu/happy-hour",
+      "neighborhood": "Gold Coast",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:52.250081+00:00",
+      "validUntil": "2026-12-02T02:59:52.250081+00:00",
+      "sourceText": "https://www.adalinachicago.com/menu/happy-hour\nMain content starts here, tab to start navigating Happy Hour Menu Reserve Happy Hour Monday - Friday 4-7pm Available in the bar and on the patio only Download PDF Drinks $9 CLASSIC MARTINI Bombay Sapphire or Grey Goose $ 9 Dolce Fresca Sneaky Fox Vodka, St. Germain, Cucumber, Passion Fruit, Lime $ 9 ADALINA SPRITZ Caravella Limoncillo, Apervita Aperitivo, Soda Water, Prosecco $ 9 ADALINA HANDSHAKE Peroni and a Fernet Back $ 9 CALABRESE Adalina Dobel Diamante Tequila, Calabrian Chili Agave, Black Lime $ 9 WINE OF THE DAY Sparkling, White or Red $ 9 LA ROTAZIONE Rotating cocktail inspired by seasonal ingredients. $ 9 PERONI $ 5 Assortments Bubbles & Pearls Perrier-Jouët Grand Brut Champagne & Golden Kaluga Caviar Bump $ 15 MINI MARTINI TRIO PARM│FILTHY│CLEAN Choice of Bombay Sapphire or Grey Goose Vodka $ 20 ADALINA KISS Choice of: 1) Martini or Aperol Spritz 2) Caprese Sandwich or Mortadella Sandwich. Served with a side of French Fries and Caviar Lemon Aioli $ 19 Bites $9 Meatball Sliders Scamorza, Pomodoro, EVOO, Whipped Ricotta, Basil, Housemade Brioche Buns | 2 Pieces $ 9 Bread Service Quattro Formaggi Garlic Stuffed Bread $ 9 Fried Ravioli Spicy Pomodoro, Parmigiano Reggiano $ 9 Gnocco Fritto 24-Month Aged Prosciutto di San Daniele, Whipped Ricotta, Mieli Thun Honey | 2 Pieces $ 9 Shrimp Traditional Cocktail Sauce | 3 Pieces $ 9 Arancini Pecorino, Parmigiano Reggiano, Aioli | 4 Pieces $ 9 Fried Calamari Shishito Peppers, Sage, Lemon, Calabrian Aioli $ 9 Oysters Per piece $ 2\nhttps://www.adalinachicago.com/location/adalina/\n912 N State Street, Chicago, IL 60610\n912 N STATE ST, Chicago, IL 60610",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "Oysters, per piece · $2"
+      ],
+      "drinkOffers": [
+        "Peroni · $5",
+        "Classic martini, Bombay Sapphire or Grey Goose · $9"
+      ],
+      "terms": [
+        "Available in the bar and on the patio only."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Classic martini, Bombay Sapphire or Grey Goose · $9",
+          "price": 9.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106042",
+      "venue": "Aztec Dave's Cantina",
+      "address": "1143 N California Ave, Chicago, IL 60622, USA",
+      "sourceURL": "https://aztecdaves.com/specials",
+      "neighborhood": "Humboldt Park",
+      "promotionName": "Weekday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:11.638614+00:00",
+      "validUntil": "2026-12-02T03:00:11.638614+00:00",
+      "sourceText": "https://aztecdaves.com/specials\nTuesday November 24th Taco Tuesday! $1 OFF all Tacos $2 OFF Taco Special 11:00 AM - 11:00 PM $4 & $5 Happy Hour 2-5pm - food & drinks 02:00 PM - 05:00 PM\nWednesday November 25th $1 OFF Quesadillas $2 OFF Quesadilla Special 11:00 AM - 11:00 PM $4 & $5 Happy Hour 2-5pm - food & drinks 02:00 PM - 05:00 PM\nThursday November 26th Torta Thursday! $2 OFF Tortas & Torta Special 11:00 AM - 11:00 PM $4 & $5 Happy Hour 2-5pm - food & drinks 02:00 PM - 05:00 PM\nFriday November 27th Burrito Friday! $2 OFF Burritos & Burrito Specials 11:00 AM - 01:00 AM $4 & $5 Happy Hour 2-5pm - food & drinks 02:00 PM - 05:00 PM\nhttps://aztecdaves.com/food-menu\nHappy Hour (2-5pm)\nTuesday - Friday 2-5 pm. Food Tacos $4.00 Birria, chicken, al pastor or veggie. Quesadillas $5.00 Chicken, pastor, cheese. Quesabirria $5.00 Elote $5.00 Waffle Fries & Queso $5.00 Churro & Ice Cream $5.00 Personal Loaded Nacho $8.00 Drinks Any Beer / Seltzer / Can Cocktail $4.00/12-16oz Any Well Shot $4.00 Any 12oz Draft $4.00 Modelo, Pacifico, Twisted Tea. House Michelada $5.00/9oz House (Lime) Margarita $5.00/9oz Mimosa $4.00 Any Domestic Bucket $15.00/5 Any Import Bucket $20.00/5\nhttps://aztecdaves.com/\nLocation Aztec Daves Cantina 1143 North California Avenue Chicago, IL 60622 Get Directions\n1143 N California Ave, Chicago, IL 60622, USA",
+      "days": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "foodOffers": [
+        "Tacos · $4",
+        "Quesadillas · $5",
+        "Quesabirria · $5",
+        "Elote · $5"
+      ],
+      "drinkOffers": [
+        "Mimosa · $4"
+      ],
+      "terms": [
+        "Taco choices are birria, chicken, al pastor or veggie. Quesadilla choices are chicken, pastor or cheese. Tuesday–Friday, 2–5 pm."
+      ],
+      "budgetDrinks": [],
+      "savings": {}
+    },
+    {
+      "id": "312deals-1320",
+      "venue": "Big Star Wrigleyville",
+      "address": "3640 N Clark St, Chicago, IL 60613",
+      "sourceURL": "https://www.bigstarchicago.com/menu/happy-hour",
+      "neighborhood": "Wrigleyville",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:45.328673+00:00",
+      "validUntil": "2026-12-02T02:59:45.328673+00:00",
+      "sourceText": "https://www.bigstarchicago.com/menu/happy-hour\nMain content starts here, tab to start navigating Happy Hour Menu MON - THURS from 4-6 PM *not available on Cubs Home Game Days at Big Star Wrigleyville 1/2 Off Nachos Classic Margarita Pueblo viejo blanco, gran gala orange curaçao, fresh lime, and agave $ 12.00 Ranch Water $ 8.00 Tequila and Limeade or Hibiscus Agua Fresca $ 8.00 Pacifico $ 4.00 Shot of the Day daily tequila, bourbon, mezcal $ 3.00\nhttps://www.bigstarchicago.com/location/wrigleyville/\n3640 N Clark St, Chicago, IL 60613\n3640 N Clark St, Chicago, IL 60613",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Half off nachos"
+      ],
+      "drinkOffers": [
+        "Ranch Water · $8",
+        "Pacifico · $4"
+      ],
+      "terms": [
+        "Unavailable on Cubs home game days at Big Star Wrigleyville."
+      ],
+      "budgetDrinks": [],
+      "savings": {
+        "Half off nachos": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-9938",
+      "venue": "Avec River North",
+      "address": "141 W. Erie Street, Chicago, IL 60654",
+      "sourceURL": "https://www.avecrestaurant.com/menu/happy-hour",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:18.951026+00:00",
+      "validUntil": "2026-12-02T02:59:18.951026+00:00",
+      "sourceText": "https://www.avecrestaurant.com/menu/happy-hour\nMain content starts here, tab to start navigating happy hour available on the bar and patio only mon - fri: 5 pm - 6pm Download PDF spinach and guanciale pizza buffalo mozzarella, parmesan and salted pepperberries $ 13 maitake mushroom pizza smoked tomato sauce, sweet aji chili and dill $ 13 bartender’s choice cocktail $ 10 red, white and sparkling wines sommelier’s selection $ 10 non-alcoholic rosemary limonata and hibiscus fizz $ 6\nhttps://www.avecrestaurant.com/avec-river-north-menus/\navailable on the bar and patio only mon - fri: 5 pm - 6pm Download PDF spinach and guanciale pizza buffalo mozzarella, parmesan and salted pepperberries $ 13 maitake mushroom pizza smoked tomato sauce, sweet aji chili and dill $ 13 bartender’s choice cocktail $ 10 red, white and sparkling wines sommelier’s selection $ 10 non-alcoholic rosemary limonata and hibiscus fizz $ 6\nhttps://www.avecrestaurant.com/location/avec-river-north/\nHours & Location 141 W. Erie Street, Chicago, IL 60654 877.298.0592 rivernorthinfo@avecrestaurant.com avec river north dinner: sunday: 5 PM - 9 PM monday - thursday: 5 PM - 10 PM friday - saturday: 5 PM - 11 PM avec river north happy hour: monday - friday: 5 PM - 6PM avec river north brunch: saturday - sunday: 10 AM - 2 PM avec river north lunch: monday - friday: 11 AM - 2 PM\n141 W. Erie Street, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Maitake mushroom pizza, smoked tomato sauce, sweet aji chili and dill · $13"
+      ],
+      "drinkOffers": [
+        "Bartender’s choice cocktail · $10"
+      ],
+      "terms": [
+        "Bar and patio only at Avec River North."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Bartender’s choice cocktail · $10",
+          "price": 10.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106357",
+      "venue": "Fatpour Tap Works - Wicker Park",
+      "address": "2005 W Division St, Chicago, IL",
+      "sourceURL": "https://fatpourtapworks.com/wicker-park/menu/happy-hour",
+      "neighborhood": "Wicker Park",
+      "promotionName": "Weekday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:16.731167+00:00",
+      "validUntil": "2026-12-02T02:59:16.731167+00:00",
+      "sourceText": "https://fatpourtapworks.com/wicker-park/menu/happy-hour\nHappy Hour at Fatpour Wicker Park Monday – Friday from 5-7PM cash price $6 Glasses of Wine 50% off Pizzas $10 Domestic Pitchers $11 Espresso Martinis & Old Fashioneds Reserve a Table\n2005 W division st Chicago, IL\n2005 W Division St, Chicago, IL",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "50% off pizzas"
+      ],
+      "drinkOffers": [
+        "Glasses of wine · $6"
+      ],
+      "terms": [
+        "Advertised prices apply to cash payments at Fatpour Wicker Park."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Glasses of wine · $6",
+          "price": 6.0,
+          "kind": "wine"
+        }
+      ],
+      "savings": {
+        "50% off pizzas": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-7940",
+      "venue": "Broken Shaker Chicago",
+      "address": "19 East Ohio St., Chicago, IL 60611",
+      "sourceURL": "https://www.brokenshaker.com/",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:18.787489+00:00",
+      "validUntil": "2026-12-02T02:59:18.787489+00:00",
+      "sourceText": "https://www.brokenshaker.com/\nMenus\nhttps://www.brokenshaker.com/chicago-menus/\nHappy Hour\nMonday- Thursday | 4-6 PM\n$8 Daily Punch Created by our delightful Bar Team\n$5 Pacifico or Miller High Life\nhttps://www.brokenshaker.com/location/chicago-hours-and-location/\n19 East Ohio St., Chicago, IL 60611\n19 East Ohio St., Chicago, IL 60611",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Daily punch · $8",
+        "Pacifico or Miller High Life · $5"
+      ],
+      "terms": [
+        "Monday through Thursday, 4–6 pm, at Broken Shaker Chicago."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Pacifico or Miller High Life · $5",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106502",
+      "venue": "Clover Sports Bar",
+      "address": "722 W Grand Ave, Chicago, IL 60654",
+      "sourceURL": "https://cloverchicago.com/",
+      "neighborhood": "West Town",
+      "promotionName": "Monday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.099429+00:00",
+      "validUntil": "2026-12-02T02:59:12.099429+00:00",
+      "sourceText": "https://cloverchicago.com/\n722 W Grand Ave, Chicago, IL 60654 | (312) 344-1934 | clover@lastcalltaverngroup.com\nhttps://cloverchicago.com/monday-happy-hour-clover-river-west/\nMondays aren’t so bad when the drinks are this good! Join us for Happy Hour every Monday from 4–7 PM and kick off the week Clover-style. 🍸 $5 Wells 🍺 $6 Drafts 🥃 $7 Calls Because nothing cures the Monday blues like five, six, seven! Clover River West 722 W Grand Ave, Chicago, IL cloverchicago.com\n722 W Grand Ave, Chicago, IL 60654 | (312) 344-1934 | clover@lastcalltaverngroup.com\n722 W Grand Ave, Chicago, IL 60654",
+      "days": [
+        1
+      ],
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Wells · $5",
+        "Drafts · $6",
+        "Calls · $7"
+      ],
+      "terms": [
+        "Clover River West on Mondays, 4–7 pm."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Wells · $5",
+          "price": 5.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "Drafts · $6",
+          "price": 6.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "chicago-centennial",
+      "venue": "Centennial Crafted Beer & Eatery",
+      "address": "733 N La Salle Dr.",
+      "sourceURL": "https://www.centennialchicago.com/",
+      "neighborhood": "River North",
+      "regularPrices": {
+        "$7 house mixed drinks": 10.0
+      },
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:16.623814+00:00",
+      "validUntil": "2026-12-02T02:59:16.623814+00:00",
+      "sourceText": "https://www.centennialchicago.com/\n733 N La Salle Dr. Chicago, IL 60654 | Order Online or Call Us at (312) 284.5353\nWeekly Happy Hour\nWednesday - Friday: 4-6 pm\n$2 off draft beers | $10 Classic Cocktails\n$8 Select Wine | $7 House Mix Drinks\n$8 Bavarian Pretzel | $6 Chips & Beer Cheese\nhttps://www.centennialchicago.com/\nWelcome to Centennial A special pub in the heart of River North. 36 rotating craft draf ts. Chef-driven kitchen. Beer pairings. Always a good time! Barrel- Aged Tappings Watch for our special Barrel-Aged Stout tappings. Happy Hour Tuesday - Thursday: 4 - 6pm Friday: 4 - 6 pm (open at 11:30am) $2 off all Drafts. $7 House Mixed Drinks $10 Classic Cocktails, $8 Wine + Appetizer Specials Centennial Gift Cards Send an Instant Gift Cards Today Physical Gift Cards also available. New on Draft Anniversary Brew (Hop Butcher ) Dark Lord XXX (3 Floyds ) Pumpkin Beer for Cafes (Off Color) 30th Anniversay Ale (Firestone Walker) Centennial Fresh Hop (Noon Whistle) Poocha (Hopewell) Green City (Other Half)\n733 N La Salle Dr.",
+      "days": [
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Bavarian pretzel · $8",
+        "Chips & beer cheese · $6"
+      ],
+      "drinkOffers": [
+        "Draft beers · $2 off",
+        "Classic cocktails · $10",
+        "Select wine · $8"
+      ],
+      "terms": [
+        "Wednesday through Friday, 4–6 pm, at Centennial Crafted Beer & Eatery."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Classic cocktails · $10",
+          "price": 10.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "Select wine · $8",
+          "price": 8.0,
+          "kind": "wine"
+        }
+      ],
+      "savings": {
+        "Draft beers · $2 off": "Saves $2"
+      }
+    },
+    {
+      "id": "312deals-7897",
+      "venue": "Celeste Rooftop Garden",
+      "address": "111 W. Hubbard St., Chicago, IL 60654",
+      "sourceURL": "https://celestedisco.com/happy-hour/",
+      "neighborhood": "River North",
+      "promotionName": "Rooftop Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:20.267124+00:00",
+      "validUntil": "2026-12-02T02:59:20.267124+00:00",
+      "sourceText": "https://celestedisco.com/happy-hour/\nRooftop Happy Hour in River North, Chicago\nIt’s Rooftop Season , and the garden is in full bloom. Join us at Celeste for an all-new Happy Hour on our lush rooftop. Sip signature cocktails, enjoy chef-curated bites, and unwind at our urban escape — all in the heart of River North. Wed – Fri | 5 – 8 PM\n111 W. Hubbard St. Chicago, IL 60654 (312) 828-9000\nhttps://celestedisco.com/menus/happy-hour\nBeer 6 MODELO Lager Cocktails 10 AGUA RANCHERA Gran Centanario Plata Tequila | Lime Cordial | Soda ESPRESSO MARTINI Absolut Elyx | Coffee Liqueur | Cold Brew CUCUMBER COLLINS Tito’s Vodka | St. Germain | Cucumber | Basil | Lime MELON MELON Honeydew Mint Grey Goose Vodka Clarified Watermelon Cordial | Lemon Happy Hour JUST ENJOY! Prosecco SABINE BIELER PÈRE & FILS Rosé LOVEBLOCK Sauvignon Blanc UNSHACKLED Cabernet Sauvignon Wine 8\nCACIO E PEPE ARANCINI 3 per piece Arborio Rice | Parmesan | Mozzarella | Truffle Aioli D, G, E, S STEAK TACO 4 per piece Skirt Steak | Cotija Cheese | Pico de Gallo Pickled Onion | Spicy Aioli | Lime D, G, E FRIES 6 Spicy Ketchup | Garlic Aioli D, G, E, S TRUFFLE FRIES 8 Parmesan | Parsley | Truffle Aioli D, G, E, S CRISPY CHICKEN BITES 10 Honey Mustard | Buffalo Sauce D, G, E, S FRICO BURGER 18 8oz Beef Patty | Cheddar Cheese | Caramelized Onion Bacon | Pickles | Brioche Bun D, G, SM, E DAIRY D | GLUTEN G | SESAME SM | EGG E | SOY S Happy Hour WEDNESDAY - FRIDAY | 5PM TO 7PM These items are served raw, undercooked, cooked to order or contain raw or under cooked ingredients. consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions. Please be advised that food prepared here may contain these ingredients: milk, eggs, wheat, soybean, peanuts, tree nuts, fish and shellfish. A 20% service charge will be automatically applied to groups of six or more. We are a cashless venue.\n111 W. Hubbard St., Chicago, IL 60654",
+      "days": [
+        3,
+        4,
+        5
+      ],
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "Fries · $6",
+        "Truffle fries · $8"
+      ],
+      "drinkOffers": [
+        "Modelo lager · $6"
+      ],
+      "terms": [
+        "Rooftop Garden only. Wednesday through Friday, 5–7 pm.",
+        "Cashless venue. A 20% service charge automatically applies to groups of six or more.",
+        "Arancini, fries and truffle fries are marked dairy, gluten, egg and soy. The restaurant gives a raw/undercooked food advisory and warns that its food may contain milk, eggs, wheat, soybean, peanuts, tree nuts, fish or shellfish."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Modelo lager · $6",
+          "price": 6.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-20527",
+      "venue": "Koi Noodles",
+      "address": "163 N SANGAMON ST 1ST, Chicago, IL 60607",
+      "sourceURL": "https://koinoodleschicago.com/specials",
+      "neighborhood": "West Loop",
+      "promotionName": "Weekday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:34.339142+00:00",
+      "validUntil": "2026-12-02T02:59:34.339142+00:00",
+      "sourceText": "https://koinoodleschicago.com/specials\nTuesday November 24th\nHappy Hour Specials (the best in west loop): $7 specialty cocktails, $6 bites, $3 Sapporo draft, $7 Sake, 2 for $20 bottles of Soju 04:00 PM - 07:00 PM\nWednesday November 25th\nHappy Hour Specials (the best in west loop): $7 specialty cocktails, $6 bites, $3 Sapporo draft, $7 Sake, 2 for $20 bottles of Soju 04:00 PM - 07:00 PM\nThursday November 26th\nHappy Hour Specials (the best in west loop): $7 specialty cocktails, $6 bites, $3 Sapporo draft, $7 Sake, 2 for $20 bottles of Soju 04:00 PM - 07:00 PM\nFriday November 27th\nHappy Hour Specials (the best in west loop): $7 specialty cocktails, $6 bites, $3 Sapporo draft, $7 Sake, 2 for $20 bottles of Soju 04:00 PM - 07:00 PM\nMonday November 30th\nHappy Hour Specials (the best in west loop): $7 specialty cocktails, $6 bites, $3 Sapporo draft, $7 Sake, 2 for $20 bottles of Soju 04:00 PM - 07:00 PM\nhttps://koinoodleschicago.com/\nDining Hours: 11:30-9pm 7 Days a Week - Fridays: Kitchen open until 2am - Weekly Events: Happy Hour: M-F 4-7, Sat & Sun 4-6 Friday Night Karaoke: 11pm-2am Saturday After Hours - Live DJs & Dancing: 11pm-2am\nLocation Koi Noodles 163 North Sangamon Street Chicago, IL 60607 Get Directions\n163 N SANGAMON ST 1ST, Chicago, IL 60607",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$7 specialty cocktails",
+        "$3 Sapporo draft",
+        "$7 Sake"
+      ],
+      "terms": [
+        "Order from the happy-hour menu at the West Loop location."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$7 specialty cocktails",
+          "price": 7.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "$3 Sapporo draft",
+          "price": 3.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-3463",
+      "venue": "Koi Noodles",
+      "address": "163 N SANGAMON ST 1ST, Chicago, IL 60607",
+      "sourceURL": "https://koinoodleschicago.com/specials",
+      "neighborhood": "West Loop",
+      "promotionName": "Saturday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:34.339142+00:00",
+      "validUntil": "2026-12-02T02:59:34.339142+00:00",
+      "sourceText": "https://koinoodleschicago.com/specials\nSaturday November 28th\nSaturday Happy Hour! $7 specialty cocktails, $6 bites, $3 Sapporo draft, $7 Sake, 2 for $20 bottles of Soju 04:00 PM - 06:00 PM\nhttps://koinoodleschicago.com/\nDining Hours: 11:30-9pm 7 Days a Week - Fridays: Kitchen open until 2am - Weekly Events: Happy Hour: M-F 4-7, Sat & Sun 4-6 Friday Night Karaoke: 11pm-2am Saturday After Hours - Live DJs & Dancing: 11pm-2am\nLocation Koi Noodles 163 North Sangamon Street Chicago, IL 60607 Get Directions\n163 N SANGAMON ST 1ST, Chicago, IL 60607",
+      "days": [
+        6
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$7 specialty cocktails",
+        "$3 Sapporo draft",
+        "$7 Sake"
+      ],
+      "terms": [
+        "Order from the happy-hour menu at the West Loop location."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$7 specialty cocktails",
+          "price": 7.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "$3 Sapporo draft",
+          "price": 3.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-8406",
+      "venue": "Legno by Suparossa",
+      "address": "4250 N Central Ave, Chicago, IL 60634, USA",
+      "sourceURL": "https://www.legnochicago.com/daily-specials/",
+      "neighborhood": "Portage Park",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:45.611477+00:00",
+      "validUntil": "2026-12-02T02:59:45.611477+00:00",
+      "sourceText": "https://www.legnochicago.com/daily-specials/\nHappy Hour\nTuesday-Friday 4-6pm $5 Sangrias $5 Tito’s Drinks $3 Domestic Bottles\n– All specials are for dine in only –\nhttps://www.legnochicago.com/contact-us/\nLegno Chicago 4250 N. Central Avenue Chicago, IL 60634 773.736.2854 ben@suparossa.com For Delivery, Please Call: 773.736.5828 Our Hours RESTAURANT TUESDAY-THURSDAY Dinner: 4:00pm-9:00PM FRIDAY Lunch & Dinner: 11:00am-11:00pm SATURDAY Brunch and Dinner: 10:00am-11:00PM SUNDAY Brunch and Dinner: 10:00am-9:00PM Interested in a career with Legno? Send your resume to ben@suparossa.com\n4250 N Central Ave, Chicago, IL 60634, USA",
+      "days": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "$5 Sangrias",
+        "$5 Tito’s Drinks",
+        "$3 Domestic Bottles"
+      ],
+      "terms": [
+        "Dine-in only."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$5 Sangrias",
+          "price": 5.0,
+          "kind": "wine"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-20295",
+      "venue": "Pazzo’s",
+      "address": "311 South Wacker Drive, Chicago, IL 60606",
+      "sourceURL": "https://pazzoschicago.com/happy-hour/",
+      "neighborhood": "The Loop",
+      "promotionName": "Midweek Happy Hour Specials",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:06:02.691852+00:00",
+      "validUntil": "2026-12-02T03:06:02.691852+00:00",
+      "sourceText": "https://pazzoschicago.com/happy-hour/\nHave a Midweek Break with Pazzo’s Happy Hour Specials! Spice up your midweek routine! Join us at Pazzo’s Chicago for our sizzling Wednesday and Thursday Happy Hour specials! Join us as we transform your hump day and thirsty Thursday evenings into a celebration of good times, great deals, and unbeatable vibes. Here’s What We’ve Got Brewing Wednesdays & Thursdays 4:00 PM – 6:00 PM Specials 1/2 Price Starters $6 house wine $4 domestic beers Cheers to making memories and raising glasses! We can’t wait to see you.\n311 South Wacker Drive Chicago, IL 60606 312-913-1600\n311 South Wacker Drive, Chicago, IL 60606",
+      "days": [
+        3,
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "1/2 Price Starters"
+      ],
+      "drinkOffers": [
+        "$6 house wine",
+        "$4 domestic beers"
+      ],
+      "terms": [
+        "Available Wednesday and Thursday at the South Wacker location."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$6 house wine",
+          "price": 6.0,
+          "kind": "wine"
+        },
+        {
+          "label": "$4 domestic beers",
+          "price": 4.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-3298",
+      "venue": "La Parrilla Latin Food",
+      "address": "5940 N Broadway, Chicago, IL 60660",
+      "sourceURL": "https://myparrilla.com/specials",
+      "neighborhood": "Edgewater",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:48.192523+00:00",
+      "validUntil": "2026-12-02T02:59:48.192523+00:00",
+      "sourceText": "https://myparrilla.com/specials\nWednesday November 25th Happy Hour! Cocktails $5.99, Beers $3.99, small plates & appetizers $9.99 04:00 PM - 07:00 PM\nThursday November 26th Happy Hour! Cocktails $5.99, Beers $3.99, small plates & appetizers $9.99 04:00 PM - 07:00 PM\nFriday November 27th Happy Hour! Cocktails $5.99, Beers $3.99, small plates & appetizers $9.99 04:00 PM - 07:00 PM\nhttps://myparrilla.com/\nLocation La Parrilla Latin Food 5940 N Broadway Chicago, IL 60660 Get Directions\n5940 N Broadway, Chicago, IL 60660",
+      "days": [
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "small plates & appetizers $9.99"
+      ],
+      "drinkOffers": [
+        "Cocktails $5.99",
+        "Beers $3.99"
+      ],
+      "terms": [
+        "Available during the posted Wednesday, Thursday and Friday sessions."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Cocktails $5.99",
+          "price": 5.99,
+          "kind": "cocktail"
+        },
+        {
+          "label": "Beers $3.99",
+          "price": 3.99,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-6732",
+      "venue": "Highway House",
+      "address": "5653 N Northwest Hwy, Chicago, IL 60646",
+      "sourceURL": "https://www.hwyhouse.com/",
+      "neighborhood": "Norwood Park",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:53.984513+00:00",
+      "validUntil": "2026-12-02T02:59:53.984513+00:00",
+      "sourceText": "https://www.hwyhouse.com/\nFull Happy Hour Menu\n5653 N Northwest Hwy Chicago, IL 60646 Norwood Park\n5653 N Northwest Hwy • Chicago, IL 60646\nhttps://www.hwyhouse.com/happy-hour/\nHighway House Happy Hour Mon – Thu • 3PM – 6PM Drink Specials Domestic Buckets $15 Tito’s Drinks $6 Jameson Drinks $6 Jack Drinks $6 Chicago Spirit Martinis $8 $12 Meals Special Grilled Cheese of the Day $12 Chicken Wrap $12 Chicken Picatta 6oz Harrison's chicken sautéed with lemon butter caper sauce over pasta $12 Santa Fe Salad $12 $7 Bar Bites — All Week Highway House Egg Rolls Choice of house made corned beef or southwest $7 Fried Cheese Curds With pickled jalapeño and ranch dipping sauces $7 Jalapeño Cheddar Fritters Deep fried and served with house mayo $7 Fall Cocktail Menu Margarita Classic lime on the rocks Apple Cider Spritz Champagne, apple cider, soda Red Sangria Red wine, brandy, rum topped with a splash of Sprite Pineapple Coconut Crush Tequila, coconut purée, pineapple juice, lime juice Espresso Martini Espresso vodka, coffee, simple syrup The Bourbon Smooth Maker’s, lemon juice, simple syrup, splash of soda, cinnamon stick Aperol Spritz Aperol, champagne, club soda Chocolate Express Crown chocolate, Kahlua, simple syrup, coffee Moscow Mule Tito’s vodka, lime juice, and ginger beer *Prices subject to change.\n5653 N Northwest Hwy, Chicago, IL 60646",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Chicken Wrap $12",
+        "Santa Fe Salad $12"
+      ],
+      "drinkOffers": [
+        "Jameson Drinks $6",
+        "Chicago Spirit Martinis $8"
+      ],
+      "terms": [
+        "Prices subject to change."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Chicago Spirit Martinis $8",
+          "price": 8.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-364",
+      "venue": "Jake Melnick’s Corner Tap",
+      "address": "41 E SUPERIOR ST, Chicago, IL 60611",
+      "sourceURL": "https://www.jakemelnicks.com/menus/happy-hour",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:18.236533+00:00",
+      "validUntil": "2026-12-02T02:59:18.236533+00:00",
+      "sourceText": "https://www.jakemelnicks.com/menus/happy-hour\nHappy Hour Menu\n\n\nMonday - Friday 3pm-6pm\nHappy Drinks SELECT DRAFTS ASK FOR THE CURRENT SELECTION 7 YOU CALL IT Well Mixed Drinks 8 WINE DOWN CHOICE OF RED , WHITE , OR ROSE 10\n41 E. Superior St. Chicago, IL 60611 312.266.0400\n41 E SUPERIOR ST, Chicago, IL 60611",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Well Mixed Drinks · $8"
+      ],
+      "terms": [
+        "Choose from the happy-hour drinks menu at the East Superior Street location."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Well Mixed Drinks · $8",
+          "price": 8.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106207",
+      "venue": "Dog Haus Biergarten - Lincoln Park",
+      "address": "2464 N Lincoln Ave, Chicago, IL 60614",
+      "sourceURL": "https://locations.doghaus.com/locations/il/chicago/2464-n-lincoln-ave",
+      "neighborhood": "Lincoln Park",
+      "promotionName": "Weekday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:02:03.560479+00:00",
+      "validUntil": "2026-12-02T03:02:03.560479+00:00",
+      "sourceText": "https://locations.doghaus.com/locations/il/chicago/2464-n-lincoln-ave\n2464 N Lincoln Ave Chicago, IL 60614\nHappy Hour $1 OFF Any 3-Pack of Sliders $2 OFF Draft Beer & Wine $2 OFF Shareables $3 OFF Haus Cocktails $3 OFF Wings Monday - Friday: 3PM - 6PM Learn More\n2464 N Lincoln Ave, Chicago, IL 60614",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "$3 OFF Wings"
+      ],
+      "drinkOffers": [
+        "$2 OFF Draft Beer & Wine",
+        "$3 OFF Haus Cocktails"
+      ],
+      "terms": [
+        "Available at Dog Haus Lincoln Park during its weekday happy-hour session."
+      ],
+      "budgetDrinks": [],
+      "savings": {
+        "$3 OFF Wings": "Saves $3",
+        "$2 OFF Draft Beer & Wine": "Saves $2",
+        "$3 OFF Haus Cocktails": "Saves $3"
+      }
+    },
+    {
+      "id": "312deals-21",
+      "venue": "Osteria Via Stato",
+      "address": "620 N State St, Chicago, IL 60654",
+      "sourceURL": "https://www.lettuce.com/blog/happy-hour-deals-near-you/",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:15.784168+00:00",
+      "validUntil": "2026-12-02T02:59:15.784168+00:00",
+      "sourceText": "https://www.lettuce.com/blog/happy-hour-deals-near-you/\nOsteria Via Stato\nhttps://www.osteriaviastato.com/events/happy-hour/\nWe welcome you to one of the best Happy Hours in Chicago! Join us for a classic afternoon Italian aperitivo on the patio or in the dining room, every day of the week. Nosh on half-priced Roman-style thin crust pizzas and select wines by the glass. The full menu and bar is also available - Salutí!\nHappy Hour Order For Pick Up Order For Drop Off Download PDF HALF PRICED PIZZAS & SELECT WINES BY THE GLASS Sun-Thurs 5pm-6pm / Fri-Sat 4:30pm-5:30pm Classico Cheese mozzarella, tomato sauce Margherita crushed tomatoes, hand-pulled mozzarella, basil Mushroom vidalia onion, mozzarella, tomato sauce House-Made Fennel Sausage housemade sausage, mozzarella, tomato sauce Charred Pepperoni mozzarella, tomato sauce Wine by the Glass Valdo Prosecco, Le Manzane Rose Prosecco, Sant'Ana Pinot Grigio and Ca Donini Montepulciano. Surcharge As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose. Please advise the restaurant of any dietary restrictions and allergies when dining in or placing a carry out order. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. All items are subject to availability. indicates gluten free menu item indicates vegan menu item indicates vegetarian menu item\n620 North State Street Chicago, Illinois 60654\nDining room and carryout hours may vary due to private events\n620 N State St, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        7
+      ],
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Half-price Roman-style thin crust pizzas"
+      ],
+      "drinkOffers": [
+        "Half-price select wines by the glass"
+      ],
+      "terms": [
+        "Available on the patio or in the dining room. Items are subject to availability. Dining room and carryout hours may vary due to private events.",
+        "A 3.5% surcharge is added to checks and may be removed on request."
+      ],
+      "budgetDrinks": [],
+      "savings": {
+        "Half-price Roman-style thin crust pizzas": "Half off the regular price",
+        "Half-price select wines by the glass": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-22",
+      "venue": "Osteria Via Stato",
+      "address": "620 N State St, Chicago, IL 60654",
+      "sourceURL": "https://www.lettuce.com/blog/happy-hour-deals-near-you/",
+      "neighborhood": "River North",
+      "promotionName": "Weekend Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:15.784168+00:00",
+      "validUntil": "2026-12-02T02:59:15.784168+00:00",
+      "sourceText": "https://www.lettuce.com/blog/happy-hour-deals-near-you/\nOsteria Via Stato\nhttps://www.osteriaviastato.com/events/happy-hour/\nWe welcome you to one of the best Happy Hours in Chicago! Join us for a classic afternoon Italian aperitivo on the patio or in the dining room, every day of the week. Nosh on half-priced Roman-style thin crust pizzas and select wines by the glass. The full menu and bar is also available - Salutí!\nHappy Hour Order For Pick Up Order For Drop Off Download PDF HALF PRICED PIZZAS & SELECT WINES BY THE GLASS Sun-Thurs 5pm-6pm / Fri-Sat 4:30pm-5:30pm Classico Cheese mozzarella, tomato sauce Margherita crushed tomatoes, hand-pulled mozzarella, basil Mushroom vidalia onion, mozzarella, tomato sauce House-Made Fennel Sausage housemade sausage, mozzarella, tomato sauce Charred Pepperoni mozzarella, tomato sauce Wine by the Glass Valdo Prosecco, Le Manzane Rose Prosecco, Sant'Ana Pinot Grigio and Ca Donini Montepulciano. Surcharge As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose. Please advise the restaurant of any dietary restrictions and allergies when dining in or placing a carry out order. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. All items are subject to availability. indicates gluten free menu item indicates vegan menu item indicates vegetarian menu item\n620 North State Street Chicago, Illinois 60654\nDining room and carryout hours may vary due to private events\n620 N State St, Chicago, IL 60654",
+      "days": [
+        5,
+        6
+      ],
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "foodOffers": [
+        "Half-price Roman-style thin crust pizzas"
+      ],
+      "drinkOffers": [
+        "Half-price select wines by the glass"
+      ],
+      "terms": [
+        "Available on the patio or in the dining room. Items are subject to availability. Dining room and carryout hours may vary due to private events.",
+        "A 3.5% surcharge is added to checks and may be removed on request."
+      ],
+      "budgetDrinks": [],
+      "savings": {
+        "Half-price Roman-style thin crust pizzas": "Half off the regular price",
+        "Half-price select wines by the glass": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-18",
+      "venue": "Sushi-san - River North",
+      "address": "63 W Grand Ave, Chicago, IL 60654",
+      "sourceURL": "https://www.lettuce.com/blog/happy-hour-deals-near-you/",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:15.784168+00:00",
+      "validUntil": "2026-12-02T02:59:15.784168+00:00",
+      "sourceText": "https://www.lettuce.com/blog/happy-hour-deals-near-you/\nSushi-san – River North\nhttps://www.sushisanrestaurant.com/river-north/menu/\nHappy Hour available monday - thursday 4pm - 6pm & friday - sunday 3pm - 5pm $18 Kappu-San Doi Shuzo, Tokubetsu Honjozo bottled in our San exclusive 6oz keepsake \"One Cup\" Kappu-San Our Kitty Cup, aka \"Kappu-san\", is a sake for everyone! The enjoyment of \"one-cup\" sake is an everyday tradition in Japanese beverage culture. In celebration of this tradition, Sushi-san and Ramen-san have teamed up with Doi Shuzo for this one-of-a-kind, premium, one-cup. The label is an homage to the on-the-go vibe of the -Sans' hometown. This Tokubetsu Honjozo sake is a special grade, made with the highest quality sake rice, brewed next to Japan's most famous wasabi and tea fields, located in rural Shizuoka. Grab a Kitty Cup for a clean, crisp sip that will transport you to Japan's countryside. $6 ASAHI COLD DRAFT Asahi Cold Draft imported japanese lager run through a hoshizaki blast chiller, served ice-cold in a frosted mug $6 GLASS POURS SAUVIGNON BLANC matthew fritz, north coast sonoma, 24 PINOT NOIR fossil point, edna valley, 21 SNOW MAIDEN kizakura, nigori HOT SAKE chokaisan, tenju shuzo $10 COCKTAILS PANDAN OLD FASHIONED suntory toki black, pandan, peach bitters COCONUT NEGRONI yuzu gin, \"sake-san\" junmai ginjo, gentian, amaro, coconut $6 SNACKS SPICY SALMON MAKI* (5PC) faroe island salmon mixed with yuzu and spicy korean gochujang is rolled with cucumber, jalapeño, chives, and a bit of tempura crunch. served with side of wasabi soy. SPICY TUNA MAKI* (5PC) lean tuna dressed with spicy tobanjan and black sesame seeds is rolled with avocado, jalapeno, cilantro, and a bit of tempura crunch. served with sides of wasabi soy and spicy mayo. CRUNCHY AVOCADO MAKI (5PC) creamy michoacan avocado rolled with sweet soy, yuzu mayo, and tempura crunch. topped with crunch and served with side of wasabi soy. ROASTED EDAMAME whole edamame pods are tossed in garlic oil and roasted in our coal-burning oven before being finished with a squeeze of lemon and a dusting of our signature S+P seasoning TEMPURA JAPANESE EGGPLANT eggplant batons are delicately battered and fried. tossed with sweet and tangy Vietnamese dressing and finished with mint, fried shallot, togarashi ichimi, and dried shrimp. served with a side of yuzu mayo. CHILI CRUNCH CUCUMBER Sliced English cucumber, Szechuan chili crunch, ponzu, sesame seeds, negi curls. *These food items may be served raw or undercooked. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. Sushi-san is a cashless restaurant. As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose. Please inform your server of any dietary restrictions or food allergies\n63 w Grand Ave Chicago, IL 60654\n63 W Grand Ave, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Asahi Cold Draft · $6"
+      ],
+      "terms": [
+        "Order at the River North restaurant, which is cashless.",
+        "A 3.5% surcharge is added to checks and may be removed on request.",
+        "These food items may be served raw or undercooked. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Asahi Cold Draft · $6",
+          "price": 6.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-19",
+      "venue": "Sushi-san - River North",
+      "address": "63 W Grand Ave, Chicago, IL 60654",
+      "sourceURL": "https://www.lettuce.com/blog/happy-hour-deals-near-you/",
+      "neighborhood": "River North",
+      "promotionName": "Weekend Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:15.784168+00:00",
+      "validUntil": "2026-12-02T02:59:15.784168+00:00",
+      "sourceText": "https://www.lettuce.com/blog/happy-hour-deals-near-you/\nSushi-san – River North\nhttps://www.sushisanrestaurant.com/river-north/menu/\nHappy Hour available monday - thursday 4pm - 6pm & friday - sunday 3pm - 5pm $18 Kappu-San Doi Shuzo, Tokubetsu Honjozo bottled in our San exclusive 6oz keepsake \"One Cup\" Kappu-San Our Kitty Cup, aka \"Kappu-san\", is a sake for everyone! The enjoyment of \"one-cup\" sake is an everyday tradition in Japanese beverage culture. In celebration of this tradition, Sushi-san and Ramen-san have teamed up with Doi Shuzo for this one-of-a-kind, premium, one-cup. The label is an homage to the on-the-go vibe of the -Sans' hometown. This Tokubetsu Honjozo sake is a special grade, made with the highest quality sake rice, brewed next to Japan's most famous wasabi and tea fields, located in rural Shizuoka. Grab a Kitty Cup for a clean, crisp sip that will transport you to Japan's countryside. $6 ASAHI COLD DRAFT Asahi Cold Draft imported japanese lager run through a hoshizaki blast chiller, served ice-cold in a frosted mug $6 GLASS POURS SAUVIGNON BLANC matthew fritz, north coast sonoma, 24 PINOT NOIR fossil point, edna valley, 21 SNOW MAIDEN kizakura, nigori HOT SAKE chokaisan, tenju shuzo $10 COCKTAILS PANDAN OLD FASHIONED suntory toki black, pandan, peach bitters COCONUT NEGRONI yuzu gin, \"sake-san\" junmai ginjo, gentian, amaro, coconut $6 SNACKS SPICY SALMON MAKI* (5PC) faroe island salmon mixed with yuzu and spicy korean gochujang is rolled with cucumber, jalapeño, chives, and a bit of tempura crunch. served with side of wasabi soy. SPICY TUNA MAKI* (5PC) lean tuna dressed with spicy tobanjan and black sesame seeds is rolled with avocado, jalapeno, cilantro, and a bit of tempura crunch. served with sides of wasabi soy and spicy mayo. CRUNCHY AVOCADO MAKI (5PC) creamy michoacan avocado rolled with sweet soy, yuzu mayo, and tempura crunch. topped with crunch and served with side of wasabi soy. ROASTED EDAMAME whole edamame pods are tossed in garlic oil and roasted in our coal-burning oven before being finished with a squeeze of lemon and a dusting of our signature S+P seasoning TEMPURA JAPANESE EGGPLANT eggplant batons are delicately battered and fried. tossed with sweet and tangy Vietnamese dressing and finished with mint, fried shallot, togarashi ichimi, and dried shrimp. served with a side of yuzu mayo. CHILI CRUNCH CUCUMBER Sliced English cucumber, Szechuan chili crunch, ponzu, sesame seeds, negi curls. *These food items may be served raw or undercooked. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. Sushi-san is a cashless restaurant. As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose. Please inform your server of any dietary restrictions or food allergies\n63 w Grand Ave Chicago, IL 60654\n63 W Grand Ave, Chicago, IL 60654",
+      "days": [
+        5,
+        6,
+        7
+      ],
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Asahi Cold Draft · $6"
+      ],
+      "terms": [
+        "Order at the River North restaurant, which is cashless.",
+        "A 3.5% surcharge is added to checks and may be removed on request.",
+        "These food items may be served raw or undercooked. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Asahi Cold Draft · $6",
+          "price": 6.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-1060",
+      "venue": "Ramen-san",
+      "address": "59 W Hubbard St, Chicago, IL 60654",
+      "sourceURL": "https://www.lettuce.com/blog/happy-hour-deals-near-you/",
+      "neighborhood": "River North",
+      "promotionName": "Lucky Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:15.784168+00:00",
+      "validUntil": "2026-12-02T02:59:15.784168+00:00",
+      "sourceText": "https://www.lettuce.com/blog/happy-hour-deals-near-you/\nRamen-san – River North\nRamen-san – River North\nhttps://www.ramensan.com/river-north-menus/\nLucky Hour Monday through Friday from 3-6pm Food Fried Chicken Bun 4 fried chicken, spicy mustard, japanese bbq sauce and kewpie mayo on a steamed bun Karaage Chicken Nuggets 6 with a nod to japanese karaage, we take juicy, marinated chicken thighs and toss in a breading seasoned by our signature S+P. homemade lime kosho aioli served on the side Chili Crunch Cucumbers 6 Drink Asahi Cold Draft 5 imported japanese lager, poured through our hoshizaki blast-chiller, served ice cold in a frosted mug Cold Dry Sake 6 Penicillin #2 7 GF items can be made gluten free with slight modifications. Please advise the restaurant of any dietary restrictions and allergies when dining in or placing a carry out order. *Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. | As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose.\n59 W. HUBBARD ST CHICAGO IL, 60654\n59 W Hubbard St, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Fried Chicken Bun · $4",
+        "Karaage Chicken Nuggets · $6",
+        "Chili Crunch Cucumbers · $6"
+      ],
+      "drinkOffers": [
+        "Asahi Cold Draft · $5",
+        "Cold Dry Sake · $6"
+      ],
+      "terms": [
+        "A 3.5% surcharge is added to checks and may be removed on request.",
+        "Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Asahi Cold Draft · $5",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-1984",
+      "venue": "Bub City - River North",
+      "address": "435 N Clark St, Chicago, IL 60654",
+      "sourceURL": "https://www.lettuce.com/blog/happy-hour-deals-near-you/",
+      "neighborhood": "River North",
+      "promotionName": "Bub’s Famous $5 Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:15.784168+00:00",
+      "validUntil": "2026-12-02T02:59:15.784168+00:00",
+      "sourceText": "https://www.lettuce.com/blog/happy-hour-deals-near-you/\nBub City – River North\nhttps://bub-city.com/events/happy-hour/\nSkip to main content Reserve chicago Change Location Order Online Reserve Menus Live Music Happenings Catering Private Events Change Location Order Online Reserve Menus Live Music Happenings Catering Private Events Bub’s Famous $5 Happy Hour Grab your crew and enjoy $5 food & drink specials Monday – Friday from 4 PM to 6 PM. Reserve FOOD Single All-American Burger 5 Single Cali Burger 5 Pimento Grilled Cheese 5 2-Piece Chicken Tenders 5 Cheesy Waffle Fries 5 DRINKS Mamitas 5 Surfside 5 High Noon 5 NUTRL 5 Bucket! 25 Mamitas, Surfside, High Noon, or NUTRL Back Porch Tea 6 Easy Peasy Lemonade! 6 Bub Light by Spiteful 6 Location 435 N Clark St Chicago, IL 60654 Hours Sun - Mon | 11AM - 12AM Tue | 11AM - 1AM Wed - Sat | 11AM - 2AM Phone 312-610-4200 Kitchen open late. Stay in the Know Newsletter Mobile Club First Name: Last Name: Email: Zip Code: Subscribe Accept All Only Necessary Customize We use cookies to provide the best experience on our website. By continuing to use our site you agree to our updated Privacy Policy and Terms of Use . Facebook Icon ig_icon UPDATE COOKIES PREFERENCES CONTACT LETTUCE ENTERTAIN YOU® GIFT CARDS EMPLOYMENT FREQUENT DINER CLUB ACCESSIBILITY PRIVACY POLICY TERMS OF USE ©2025 Bub City®. A Lettuce Entertain You® Restaurant. Return to Top\nFOOD Single All-American Burger 5 Single Cali Burger 5 Pimento Grilled Cheese 5 2-Piece Chicken Tenders 5 Cheesy Waffle Fries 5 DRINKS Mamitas 5 Surfside 5 High Noon 5 NUTRL 5 Bucket! 25 Mamitas, Surfside, High Noon, or NUTRL Back Porch Tea 6 Easy Peasy Lemonade! 6 Bub Light by Spiteful 6\nLocation 435 N Clark St Chicago, IL 60654\n435 N Clark St, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Single All-American Burger · $5",
+        "Pimento Grilled Cheese · $5",
+        "Cheesy Waffle Fries · $5"
+      ],
+      "drinkOffers": [
+        "Mamitas · $5",
+        "Surfside · $5",
+        "High Noon · $5"
+      ],
+      "terms": [
+        "Available Monday through Friday from 4–6 p.m. at Bub City River North."
+      ],
+      "budgetDrinks": [],
+      "savings": {}
+    },
+    {
+      "id": "312deals-1166",
+      "venue": "RPM Italian",
+      "address": "52 W Illinois St, Chicago, IL",
+      "sourceURL": "https://www.lettuce.com/blog/happy-hour-deals-near-you/",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:15.784168+00:00",
+      "validUntil": "2026-12-02T02:59:15.784168+00:00",
+      "sourceText": "https://www.lettuce.com/blog/happy-hour-deals-near-you/\nRPM Italian\nhttps://www.rpmrestaurants.com/rpm-italian-chicago/menus/\nHappy Hour Weekdays in the bar | 4:00 PM - 6:00 PM Wines By The Glass Download PDF Special limited availability Burrata & Spinach Raviolo - $15 Brown Butter, Sage, Parmigiano Vacche Rosse Cicchetti $8 Tuna Bruschetta Red Chili Pesto , Basil Aioli Arancini Smoked Scamorza, Pomodoro Prosciutto Bruschetta Truffle Whipped Ricotta Pizzette Charred Pepperoni Prime Beef Meatballs Roasted Garlic, Parmesan Stuffed Peppers Provolone Mozzarella in Carrozza Spicy Pomodoro Signature Cocktails $8 RPM Spritz Giuliana Prosecco, Sunny Vodka, Strawberry, Lemon Seasonal Old Fashioned Sazerac Rye, Meletti Amaro, Demerara, Angostura Bitters Crystal Paloma Flecha Azul Blanco Tequila, Clarified Grapefruit, Citrus Salt Timeless Negroni Ford's Gin, Poli Vermouth, Campari Matured in our very own Buffalo Trace Barrel 10 Wines By The Glass $8 each Sparkling Prosecco Giuliana, Extra Dry, NV White Pinot Grigio Artiglio Bianco, Friuli, '25 Verdicchio dei Castelli di Jesi Classico Superiore La Staffa, '24 Sauvignon Blanc Cantina La Vis, Trevenezie, '25 Red Pinot Noir Three Kings, Santa Barbara, '24 Chianti Classico Colline del Ginepro, '22 Zero Proof $7 each Waitlist Belvoir Sparkling Elderflower, Fresh Citrus Beer $5 each Peroni Italian Lager, 11.2oz Tivoli \"Outlaw\" Light Lager, 12oz Please advise the restaurant of any dietary restrictions and allergies when dining in or placing a carry out order. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. All items are subject to availability. | As a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose.\n52 W ILLINOIS ST Chicago, IL\n52 W Illinois St, Chicago, IL",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Beer · $5 each",
+        "Wines by the glass · $8 each"
+      ],
+      "terms": [
+        "Available in the bar on weekdays. Items are subject to availability.",
+        "A 3.5% surcharge is added to checks and may be removed on request."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Beer · $5 each",
+          "price": 5.0,
+          "kind": "beer"
+        },
+        {
+          "label": "Wines by the glass · $8 each",
+          "price": 8.0,
+          "kind": "wine"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-3034",
+      "venue": "Nighthawk",
+      "address": "4744 N. Kimball Ave.",
+      "sourceURL": "https://nighthawkchicago.com/hawk-menu/",
+      "neighborhood": "Albany Park",
+      "promotionName": "Commuter Special",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:47.272052+00:00",
+      "validUntil": "2026-12-02T02:59:47.272052+00:00",
+      "sourceText": "https://nighthawkchicago.com/hawk-menu/\nHappy Hour\nCommuter Special $7 $7 Rotating beer and a shot of Bourbon, Malort or Tequila Mon-Fri: 5 – 7 p.m.\nhttps://nighthawkchicago.com/location/\nNighthawk is located at 4744 N. Kimball Ave. in the Albany Park neighborhood of Chicago. We’re a tiny garnish south of Lawrence Ave, directly west of the Kimball Brown Line CTA Station.\n4744 N. Kimball Ave.",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Rotating beer and a shot of Bourbon, Malort or Tequila · $7"
+      ],
+      "terms": [
+        "Choose one shot with the rotating beer. Available Monday to Friday at Nighthawk in Albany Park."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Rotating beer and a shot of Bourbon, Malort or Tequila · $7",
+          "price": 7.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-3449",
+      "venue": "Gordo’s Tiny Taco Bar",
+      "address": "333 E Benton Pl, Chicago, IL 60601",
+      "sourceURL": "https://gordostinytaco.com/specials",
+      "neighborhood": "The Loop",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:27.011232+00:00",
+      "validUntil": "2026-12-02T02:59:27.011232+00:00",
+      "sourceText": "https://gordostinytaco.com/specials\nTuesday November 24th\nHappy Hour Nachos 7. Tiny Quesadillas 7 Choriqueso 7. Quesabirrias 10 Empanadas 3. Quesaburger Sliders 10 Esquites 5. Tiny Taco Flight 7 Margarita 8 Gordo-Rita 22 Beer 4 04:00 PM - 06:00 PM\nWednesday November 25th\nHappy Hour Nachos 7. Tiny Quesadillas 7 Choriqueso 7. Quesabirrias 10 Empanadas 3. Quesaburger Sliders 10 Esquites 5. Tiny Taco Flight 7 Margarita 8 Gordo-Rita 22 Beer 4 04:00 PM - 06:00 PM\nThursday November 26th\nHappy Hour Nachos 7. Tiny Quesadillas 7 Choriqueso 7. Quesabirrias 10 Empanadas 3. Quesaburger Sliders 10 Esquites 5. Tiny Taco Flight 7 Margarita 8 Gordo-Rita 22 Beer 4 04:00 PM - 06:00 PM\nFriday November 27th\nHappy Hour Nachos 7. Tiny Quesadillas 7 Choriqueso 7. Quesabirrias 10 Empanadas 3. Quesaburger Sliders 10 Esquites 5. Tiny Taco Flight 7 Margarita 8 Gordo-Rita 22 Beer 4 04:00 PM - 06:00 PM\nMonday November 30th\nHappy Hour Nachos 7. Tiny Quesadillas 7 Choriqueso 7. Quesabirrias 10 Empanadas 3. Quesaburger Sliders 10 Esquites 5. Tiny Taco Flight 7 Margarita 8 Gordo-Rita 22 Beer 4 04:00 PM - 06:00 PM\nhttps://gordostinytaco.com/\nOur restaurant brings big personality and traditional street food favorites right in the Lakeshore East area. From our signature Taco Flights to famous Birria Pizza made fresh every day, we’re all about easygoing food and good times.\nLocation Gordo's Tiny Taco Bar 333 E Benton Pl Chicago, IL 60601 Get Directions\n333 E Benton Pl, Chicago, IL 60601",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Nachos · $7",
+        "Empanadas · $3",
+        "Esquites · $5"
+      ],
+      "drinkOffers": [
+        "Margarita · $8",
+        "Beer · $4"
+      ],
+      "terms": [
+        "Order individually from Gordo’s posted weekday Happy Hour menu."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Margarita · $8",
+          "price": 8.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "Beer · $4",
+          "price": 4.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-107012",
+      "venue": "Ox Bar & Hearth",
+      "address": "1578 N. Clybourn Avenue, Chicago IL",
+      "sourceURL": "https://oxbarchicago.com/happyhour",
+      "neighborhood": "Lincoln Park",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:09.981263+00:00",
+      "validUntil": "2026-12-02T02:59:09.981263+00:00",
+      "sourceText": "https://oxbarchicago.com/happyhour\nHAPPY HOUR 5 - 6 pm from wednesday through sunday in the bar, lounge & patio on wednesdays, select wine bottles are ½ off! POURS old fitzgerald bourbon $8 hamm’s lager $4 hamm’s & old fitz $10 select wines btg $10 freezer gin or vodka tini martini $10 BITES - $12 crudites raw market vegetables & caramelized onion dip smoked chicken wings buttermilk ranch & pickled asparagus fritto misto fried cheese curds, pickles & seasonal vegetables, harissa aioli grilled cheese seeded sourdough, american cheese, blue cheese & onion marmalade\nHoliday Hours Thanksgiving Day: Closed Christmas Eve: Closed Christmas Day: Closed New Year’s Day: Closed\nHours & Location 1578 N. Clybourn Avenue, Chicago IL Wed-Thurs: 5-9 • Fri-Sat: 5-10 • Sun: 10-1:30, 5-9 Valet Available • Cashless Establishment Our full-service Bar & Lounge seating are on a first-come, first-served, walk-in basis only.\nhttps://oxbarchicago.com/\nOx Bar & Hearth is Lincoln Park’s neighborhood gathering place. Centered around our custom wood-burning hearth, we honor seasonality, exceptional local ingredients, and time-tested & modern techniques. Come for the dinner, and stay for our spirited bar and lounge, an inviting space designed for lingering over seasonal cocktails, a curated wine list, and great conversation.\n1578 N. Clybourn Avenue, Chicago IL",
+      "days": [
+        3,
+        5,
+        6,
+        7
+      ],
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "hamm’s lager $4",
+        "old fitzgerald bourbon $8",
+        "freezer gin or vodka tini martini $10"
+      ],
+      "terms": [
+        "Only in the bar, lounge or patio. Bar and lounge seating is first come, first served and walk-in only. This location is cashless.",
+        "Closed Thanksgiving Day, Christmas Eve, Christmas Day and New Year’s Day.",
+        "Thanksgiving week runs Wednesday and Friday–Sunday. The restaurant is closed Thursday, November 26."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "hamm’s lager $4",
+          "price": 4.0,
+          "kind": "beer"
+        },
+        {
+          "label": "old fitzgerald bourbon $8",
+          "price": 8.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "freezer gin or vodka tini martini $10",
+          "price": 10.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-248",
+      "venue": "Easy Does It",
+      "address": "2354 N Milwaukee Ave, Chicago, IL 60647",
+      "sourceURL": "https://www.easydoes.it/happyhour",
+      "neighborhood": "Logan Square",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:01:59.311575+00:00",
+      "validUntil": "2026-12-02T03:01:59.311575+00:00",
+      "sourceText": "https://www.easydoes.it/happyhour\nHAPPY HOUR Menu First two hours 7 days a week, 2-6pm on fridays & all night monday\nHAPPY HOUR BEER $ 3 Miller High Life $ 3 WI, Champagne of Beers, 12oz Bottle, 4.6%\nHAPPY HOUR COCKTAIL $ 8 HAPPY NEGRONI $ 8 Letherbee Gin, Misoo Aperitivo, Antica Vermouth $ 8 Cafe Americano $ 8 Faccia Bruto Carciofo, Carpano Antica Vermouth, coffee, soda\n2354 N MILWAUKEE AVE CHICAGO, IL 60647 easydoesitchicago@gmail.com 773-420-wine\nhttps://www.easydoes.it/contact-and-hours\nMonday All Night Tuesday - Thursday 5-7pm Friday 2-6pm Saturday & Sunday 12-2pm\nMonday 5pm - 12am Tuesday 5pm - 12am Wednesday 5pm - 12am Thursday 5pm - 1am Friday 2pm - 2am Saturday 12pm - 2am Sunday 12pm - 12am\n2354 N Milwaukee Ave, Chicago, IL 60647",
+      "days": [
+        5
+      ],
+      "startTime": "14:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Miller High Life · $3",
+        "Happy Negroni · $8",
+        "Cafe Americano · $8"
+      ],
+      "terms": [
+        "Miller High Life is served in a 12-ounce bottle. Friday happy hour runs 2–6 p.m. The bar also lists Monday all night, Tuesday–Thursday 5–7 p.m. and Saturday–Sunday noon–2 p.m."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Miller High Life · $3",
+          "price": 3.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-16338",
+      "venue": "RPM Seafood",
+      "address": "317 N Clark St, Chicago, IL 60654",
+      "sourceURL": "https://www.rpmrestaurants.com/rpm-seafood-chicago/",
+      "neighborhood": "River North",
+      "promotionName": "RPM Seafood Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:15.784168+00:00",
+      "validUntil": "2026-12-02T02:59:15.784168+00:00",
+      "sourceText": "https://www.rpmrestaurants.com/rpm-seafood-chicago/\n317 N Clark St, Chicago, IL 60654\nAs a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose.\nAs a way to offset rising costs, we have added a 3.5% surcharge to all checks. You may request to have this taken off your check should you choose.\nHappy Hour\nAvailable at the Bar | Monday – Friday | 4:00PM – 5:30PM\nCrystal Paloma Flecha Azul Blanco Tequila, Clarified Grapefruit, Citrus Salt 10\nStella Artois Lager, 12oz 5\nhttps://www.lettuce.com/blog/happy-hour-deals-near-you/\nRPM Seafood WHEN: Monday – Friday: 4:00 PM – 5:30 PM HAPPY HOUR DEAL: Select $10 cocktails and wines by the glass, select $5 beers and zero-proof drinks, signature bites such as Yellowfin Tuna Crispy Rice, Prime Steakburger , and more. Available only at the bar, first come, first served. View RPM Seafood’s Happy Hour menu\n317 N Clark St, Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Select cocktails · $10",
+        "Select beers · $5"
+      ],
+      "terms": [
+        "Available only at the bar, first come, first served.",
+        "A 3.5% surcharge is added to checks and can be removed on request.",
+        "The happy-hour drink list includes the Crystal Paloma and 12-ounce Stella Artois lager."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Select cocktails · $10",
+          "price": 10.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "Select beers · $5",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-185",
+      "venue": "El Mariachi Tequila Bar",
+      "address": "3906 N Broadway, Chicago, IL 60613",
+      "sourceURL": "https://elmariachitequilabar.com/specials",
+      "neighborhood": "Lakeview",
+      "promotionName": "El Mariachi Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:09.921160+00:00",
+      "validUntil": "2026-12-02T02:59:09.921160+00:00",
+      "sourceText": "https://elmariachitequilabar.com/specials\nTuesday Happy Hour Specials! $8 House Lime Margaritas $5 Mexican draft beers, Half price selected appetizers 4:00 PM - 6:00 PM $8 Sangria All Day! 4:00 PM - 11:00 PM\nWednesday $8 House Lime Margaritas $10 Flavored House Margaritas All Day! 4:00 PM - 11:00 PM Happy Hour Specials! $8 House Lime Margaritas $5 Mexican draft beers, Half price selected appetizers 4:00 PM - 6:00 PM\nThursday $8 Cantaritos All Day! 4:00 PM - 11:00 PM Happy Hour Specials! $8 House Lime Margaritas $5 Mexican draft beers, Half price selected appetizers 4:00 PM - 6:00 PM\nFriday Bottomless Mimosa Brunch! $19.99 Add $10 for Bottomless lime, mango and strawberry margaritas. Friday: 11 AM-3 PM. Saturday & Sunday: 10 AM-3 PM Click the link below 👇 to Reserve Today! 💻https://elmariachitequilabar.com/ ☎ (773) 549-2932 11:00 AM - 3:00 PM Happy Hour Specials! $8 House Lime Margaritas $5 Mexican draft beers, Half price selected appetizers Click the link below 👇 to Reserve Today! 💻https://elmariachitequilabar.com/ ☎ (773) 549-2932 4:00 PM - 6:00 PM\nMonday Happy Hour Specials! $8 House Lime Margaritas $5 Mexican draft beers, Half price selected appetizers 4:00 PM - 6:00 PM $8 House Lime Margaritas $10 Flavored House Margaritas All Day! Click the link below 👇 to Reserve Today! 💻https://elmariachitequilabar.com/ ☎ (773) 549-2932 4:00 PM - 11:00 PM\nhttps://elmariachitequilabar.com/locations\nEl Mariachi Tequila Bar & Grill Address: 3906 N Broadway, Chicago, IL 60613 on Google maps Location Hours: Monday: 4 PM - 10 PM Tuesday: 4 PM - 10 PM Wednesday: 4 PM - 10 PM Thursday: 11 AM - 10 PM Friday: 10 AM - 11 PM Saturday: 10 AM - 11 PM Sunday: 10 AM - 10 PM Phone: 773-549-2932 View El Mariachi Tequila Bar & Grill on Google maps View on map El Mariachi Tequila Bar & Grill\n3906 N Broadway, Chicago, IL 60613",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Selected appetizers · half price"
+      ],
+      "drinkOffers": [
+        "House lime margaritas · $8",
+        "Mexican draft beers · $5"
+      ],
+      "terms": [
+        "Applies to selected appetizers, Mexican draft beers and house lime margaritas."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "House lime margaritas · $8",
+          "price": 8.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "Mexican draft beers · $5",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {
+        "Selected appetizers · half price": "Half off the regular price"
+      }
+    },
+    {
+      "id": "312deals-1194",
+      "venue": "Bungalow by Middle Brow",
+      "address": "2840 W Armitage Ave, Chicago, IL 60647",
+      "sourceURL": "https://www.middlebrowbeer.com/menu-1",
+      "neighborhood": "Logan Square",
+      "promotionName": "Happy Hour (Wed-Fri)",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:52.226292+00:00",
+      "validUntil": "2026-12-02T03:00:52.226292+00:00",
+      "sourceText": "https://www.middlebrowbeer.com/menu-1\nWINE by middle brow. in chicago. farmed in michigan. $ 8 / gl white bubbles CRICK / chenin blanc / chasing the smell of recently-spent oyster shells / 2025 $ 8 / gl $ 8 / gl red bubbles PIZZA WINE / marechal foch + frontenac + noiret et al / red fruit, strawberry yogurt / 2025 $ 8 / gl $ 8 / $ 60 white BIG SEEDS / cayuga + seyval blanc/ crunchy lemon, granny smiths / 2025 $ 8 / $ 60 $ 8 / $ 60 rosé MARA DE BOIS / gewürztraminer + marquette / fruit flesh juice / 2024 $ 8 / $ 60 $ 8 / $ 60 rosé FLOWER BARK / chambourcin / a blueberry pie behind a dusty autumn window screen. in the middle of a sherwood forest. / 2024 $ 8 / $ 60 $ 8 / gl orange SEEDLING / seyval blanc / old paw paw buried under a pile of young island citrus / 2025 $ 8 / gl $ 8 / gl red BERRY BARK / chambourcin / neon violet + velvet stone / 2025 $ 8 / gl $ 8 / $ 68 red COUNTRY / semi-carbonic field blend of pinot noir + cab sauv + merlot / black pepper makes a melon-berry more mysterious / 2025 $ 8 / $ 68 BEER by middle brow. in chicago. $ 5 bungalow a bright american beer. a beer's beer. 4%. 10z. $ 5 $ 5 pith a kolsch brewed with grapefruit + dry hopped sabro. coconut, citrus + cream 4.5%. 12z. $ 5 $ 5 mackinac crush a little ipa with michigan grown mackinac and copper hops. strawcherry + pine.4.5%. 12z. $ 5 $ 5 bloc party passion a sour beer. with blackberry & passion fruit. 4%. 12z. $ 5 $ 9 oak forest no. 2 a french-oak-aged sour beer brewed with peruvian purple corn, with michigan-grown tart cherries. 4.5%. 7z. $ 9 COCKTAILS $ 10 lager spritz crisp lager + zissou aperitivo. $ 10 coming soon shrub highball housemade peach + rosemary shrub, supergay gin, fancy water. coming soon $ 15 gin supergay gin, apologue celery root liqueur, mulassano bianco, salers. $ 15 $ 14 spanish wine + coke alessio vino chinato + middle brow sparkling red wine. $ 14 $ 16 old fashioned judson & moore rye, el dorado 5yr rum, piloncillo bay leaf syrup, cherry bark + blackstrap bitters. $ 16 $ 14 mezcal yola mezcal, goofy bandit coffee liqueur, alma finca triple sec, licor 43. $ 14 WHISKEY + AMARO neat or rocky $ 10 judson & moore red corn bourbon OR single malt whiskey. $ 10 $ 10 buzzard's roost signature double oak bourbon $ 10 $ 14 buzzard's roost cigar blend bourbon $ 14 $ 4 zissou bitter aperitivo. $ 4 $ 5 letherbee besk $ 5 $ 8 faccia brutto centerbe giallo $ 8 $ 6 green key herbal liqueur $ 6 $ 6 fred jerbis fernet $ 6 N—A $ 15 MIDDLE BROW | dark and stormy lyre's n/a dark rum, pathfinder hemp root amaro, lime, ginger beer. $ 15 coming soon MIDDLE BROW | shrub + soda peach + rosemary. coming soon $ 7 MIDDLE BROW | kombucha table grape cheong $ 7 $ 8 revolution | anti-zero n/a ipa $ 8 $ 14 domaine montrose n/a sparkling rosé. fr. 5z. $ 14 $ 5 coca cola $ 5 agua de piedra salad + bread $ 8 marinated olives house marinated olive mix with sherry soaked tart cherries. $ 8 $ 14 fall kale salad kale, cran-cider vinaigrette with buddha’s hand, roasted squash, blakesville chevre, savory buckwheat granola, pomegranate seeds. $ 14 $ 18 big salad little gem, cucumbers, red onion, watermelon radish, parmesan, creamy basil-ferm'd pepper dressing. $ 18 coming soon middle brow seeded grape focaccia + whipped brie brie, rosemary, lemon juice. coming soon $ 9 middle brow bread + cultured butter sardines + 7. honey + 4. $ 9 $ 12 middle brow bread + white anchovies parmesan, herb oil. $ 12 $ 14 middle brow bread + market cheese apple jam. $ 14 $ 11 middle brow bread + jalapeno oil yuzu, ginger, lime, coriander, pink peppercorn. (vv) $ 11 $ 10 middle brow bread + feta + shishito dip calabrian chile + cranberry vinaigrette. $ 10 $ 10 middle brow bread + calabrian garlic butter calabrian peppers, roasted garlic, lime hot honey. $ 10 pizza $ 28 squash + nduja nduja, baby squash, feta, pesto, calabrian-cranberry vinaigrette, thai basil. $ 28 $ 27 squash + leek koginut + honeypatch squash, leeks, blakesville chevre, pickled ground cherries, spiced pecans. $ 27 $ 26 curry cauliflower roasted cauliflower, vegan makhani, dates, mint, cilantro, spiced chickpeas. (vv) $ 26 $ 28 soppressata + hot honey (or, sunday afternoon on a patio in bushwick in 2008) soppressata, mozzarella, ferm'd pepper honey, sbp. $ 28 $ 11 adult's cheese the best cheese pizza in the city. $ 11 $ 12 margherita fresh mozzarella, basil. $ 12 $ 13.50 pepperoni fresh mozzarella, pepperoni, tarragon. $ 13.50 $ 13.50 sausage + olive house made sausage, green olives. $ 13.50 $ 12.50 mushroom mushroom cream sauce, caramelized onions, fontina, oyster mushrooms, chives. $ 12.50 $ 8.50 kid's cheese just cheese! no green stuff! $ 8.50 $ 10.50 red sauce + yuzu oil shaved garlic, fresh oregano, omed. (vv) add anchovy + 6 $ 10.50\nhttps://www.middlebrowbeer.com/house\n2840 w armitage ave. logan square chicago, il (773) 318-0452\nhours: tues / 8a - 10p / pastries, tavern lunch & dinner wed-fri / 8a - 10p / pastries, lunch & dinner sat / 9a-10p / bagels, pastries, brunch & dinner sun / 9a - 9p / bagels, pastries, brunch & dinner closed mon happy hour wed—fri: 4—6p / sa—su: 3—4p\nhttps://communitysupportedgoods.com/\nall pick up orders @ 2840 w. armitage ave. chicago, il 60647\n2840 W Armitage Ave, Chicago, IL 60647",
+      "days": [
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Bungalow · $5",
+        "Lager spritz · $10"
+      ],
+      "terms": [
+        "The brewery lists a separate weekday and weekend happy hour. This card represents its Wednesday–Friday session."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Lager spritz · $10",
+          "price": 10.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-1195",
+      "venue": "Bungalow by Middle Brow",
+      "address": "2840 W Armitage Ave, Chicago, IL 60647",
+      "sourceURL": "https://www.middlebrowbeer.com/menu-1",
+      "neighborhood": "Logan Square",
+      "promotionName": "Happy Hour (Sat-Sun)",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:52.226292+00:00",
+      "validUntil": "2026-12-02T03:00:52.226292+00:00",
+      "sourceText": "https://www.middlebrowbeer.com/menu-1\nWINE by middle brow. in chicago. farmed in michigan. $ 8 / gl white bubbles CRICK / chenin blanc / chasing the smell of recently-spent oyster shells / 2025 $ 8 / gl $ 8 / gl red bubbles PIZZA WINE / marechal foch + frontenac + noiret et al / red fruit, strawberry yogurt / 2025 $ 8 / gl $ 8 / $ 60 white BIG SEEDS / cayuga + seyval blanc/ crunchy lemon, granny smiths / 2025 $ 8 / $ 60 $ 8 / $ 60 rosé MARA DE BOIS / gewürztraminer + marquette / fruit flesh juice / 2024 $ 8 / $ 60 $ 8 / $ 60 rosé FLOWER BARK / chambourcin / a blueberry pie behind a dusty autumn window screen. in the middle of a sherwood forest. / 2024 $ 8 / $ 60 $ 8 / gl orange SEEDLING / seyval blanc / old paw paw buried under a pile of young island citrus / 2025 $ 8 / gl $ 8 / gl red BERRY BARK / chambourcin / neon violet + velvet stone / 2025 $ 8 / gl $ 8 / $ 68 red COUNTRY / semi-carbonic field blend of pinot noir + cab sauv + merlot / black pepper makes a melon-berry more mysterious / 2025 $ 8 / $ 68 BEER by middle brow. in chicago. $ 5 bungalow a bright american beer. a beer's beer. 4%. 10z. $ 5 $ 5 pith a kolsch brewed with grapefruit + dry hopped sabro. coconut, citrus + cream 4.5%. 12z. $ 5 $ 5 mackinac crush a little ipa with michigan grown mackinac and copper hops. strawcherry + pine.4.5%. 12z. $ 5 $ 5 bloc party passion a sour beer. with blackberry & passion fruit. 4%. 12z. $ 5 $ 9 oak forest no. 2 a french-oak-aged sour beer brewed with peruvian purple corn, with michigan-grown tart cherries. 4.5%. 7z. $ 9 COCKTAILS $ 10 lager spritz crisp lager + zissou aperitivo. $ 10 coming soon shrub highball housemade peach + rosemary shrub, supergay gin, fancy water. coming soon $ 15 gin supergay gin, apologue celery root liqueur, mulassano bianco, salers. $ 15 $ 14 spanish wine + coke alessio vino chinato + middle brow sparkling red wine. $ 14 $ 16 old fashioned judson & moore rye, el dorado 5yr rum, piloncillo bay leaf syrup, cherry bark + blackstrap bitters. $ 16 $ 14 mezcal yola mezcal, goofy bandit coffee liqueur, alma finca triple sec, licor 43. $ 14 WHISKEY + AMARO neat or rocky $ 10 judson & moore red corn bourbon OR single malt whiskey. $ 10 $ 10 buzzard's roost signature double oak bourbon $ 10 $ 14 buzzard's roost cigar blend bourbon $ 14 $ 4 zissou bitter aperitivo. $ 4 $ 5 letherbee besk $ 5 $ 8 faccia brutto centerbe giallo $ 8 $ 6 green key herbal liqueur $ 6 $ 6 fred jerbis fernet $ 6 N—A $ 15 MIDDLE BROW | dark and stormy lyre's n/a dark rum, pathfinder hemp root amaro, lime, ginger beer. $ 15 coming soon MIDDLE BROW | shrub + soda peach + rosemary. coming soon $ 7 MIDDLE BROW | kombucha table grape cheong $ 7 $ 8 revolution | anti-zero n/a ipa $ 8 $ 14 domaine montrose n/a sparkling rosé. fr. 5z. $ 14 $ 5 coca cola $ 5 agua de piedra salad + bread $ 8 marinated olives house marinated olive mix with sherry soaked tart cherries. $ 8 $ 14 fall kale salad kale, cran-cider vinaigrette with buddha’s hand, roasted squash, blakesville chevre, savory buckwheat granola, pomegranate seeds. $ 14 $ 18 big salad little gem, cucumbers, red onion, watermelon radish, parmesan, creamy basil-ferm'd pepper dressing. $ 18 coming soon middle brow seeded grape focaccia + whipped brie brie, rosemary, lemon juice. coming soon $ 9 middle brow bread + cultured butter sardines + 7. honey + 4. $ 9 $ 12 middle brow bread + white anchovies parmesan, herb oil. $ 12 $ 14 middle brow bread + market cheese apple jam. $ 14 $ 11 middle brow bread + jalapeno oil yuzu, ginger, lime, coriander, pink peppercorn. (vv) $ 11 $ 10 middle brow bread + feta + shishito dip calabrian chile + cranberry vinaigrette. $ 10 $ 10 middle brow bread + calabrian garlic butter calabrian peppers, roasted garlic, lime hot honey. $ 10 pizza $ 28 squash + nduja nduja, baby squash, feta, pesto, calabrian-cranberry vinaigrette, thai basil. $ 28 $ 27 squash + leek koginut + honeypatch squash, leeks, blakesville chevre, pickled ground cherries, spiced pecans. $ 27 $ 26 curry cauliflower roasted cauliflower, vegan makhani, dates, mint, cilantro, spiced chickpeas. (vv) $ 26 $ 28 soppressata + hot honey (or, sunday afternoon on a patio in bushwick in 2008) soppressata, mozzarella, ferm'd pepper honey, sbp. $ 28 $ 11 adult's cheese the best cheese pizza in the city. $ 11 $ 12 margherita fresh mozzarella, basil. $ 12 $ 13.50 pepperoni fresh mozzarella, pepperoni, tarragon. $ 13.50 $ 13.50 sausage + olive house made sausage, green olives. $ 13.50 $ 12.50 mushroom mushroom cream sauce, caramelized onions, fontina, oyster mushrooms, chives. $ 12.50 $ 8.50 kid's cheese just cheese! no green stuff! $ 8.50 $ 10.50 red sauce + yuzu oil shaved garlic, fresh oregano, omed. (vv) add anchovy + 6 $ 10.50\nhttps://www.middlebrowbeer.com/house\n2840 w armitage ave. logan square chicago, il (773) 318-0452\nhours: tues / 8a - 10p / pastries, tavern lunch & dinner wed-fri / 8a - 10p / pastries, lunch & dinner sat / 9a-10p / bagels, pastries, brunch & dinner sun / 9a - 9p / bagels, pastries, brunch & dinner closed mon happy hour wed—fri: 4—6p / sa—su: 3—4p\nhttps://communitysupportedgoods.com/\nall pick up orders @ 2840 w. armitage ave. chicago, il 60647\n2840 W Armitage Ave, Chicago, IL 60647",
+      "days": [
+        6,
+        7
+      ],
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Bungalow · $5",
+        "Lager spritz · $10"
+      ],
+      "terms": [
+        "The brewery lists a separate weekday and weekend happy hour. This card represents its Saturday–Sunday session."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Lager spritz · $10",
+          "price": 10.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-52",
+      "venue": "Boqueria",
+      "address": "807 West Fulton Market, Chicago, IL 60607",
+      "sourceURL": "https://boqueriarestaurant.com/location/chi-fulton-market/?utm_source=organic&utm_medium=gmb",
+      "neighborhood": "West Loop",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:35.414124+00:00",
+      "validUntil": "2026-12-02T02:59:35.414124+00:00",
+      "sourceText": "https://boqueriarestaurant.com/location/chi-fulton-market/?utm_source=organic&utm_medium=gmb\n807 West Fulton Market, Chicago, IL 60607 Today 11:00 AM – 10:00 PM\nCLASSIC MINI MARTINI 8 Vodka or gin, dry vermouth\nPAN CON TOMATE 2 Toasted bread rubbed with tomato, garlic, and olive oil — by the piece\nHappy Hour: Mon–Fri 3–6 PM · Sat–Sun 4–6 PM\n807 West Fulton Market, Chicago, IL 60607",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Pan con tomate · $2"
+      ],
+      "drinkOffers": [
+        "Classic mini martini · $8"
+      ],
+      "terms": [
+        "Pan con tomate is ordered by the piece. This card covers the weekday session; the restaurant also advertises a separate weekend 4–6 p.m. window."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Classic mini martini · $8",
+          "price": 8.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-62",
+      "venue": "Gaijin",
+      "address": "950 W Lake St, Chicago, IL 60607",
+      "sourceURL": "https://gaijinchicago.com/menu",
+      "neighborhood": "West Loop",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:51.476555+00:00",
+      "validUntil": "2026-12-02T03:00:51.476555+00:00",
+      "sourceText": "https://gaijinchicago.com/menu\nTuesday - Thursday / 5 pm - 6 pm\n5 GAIJIN TOKI HIGHBALL suntory toki whisky / soda / lemon oil 5\n5 GAIJIN LAGER collaboration with chicago’s moody tongue brewing co.; refreshing light lager with a crisp finish 5\n- A 3% service charge will be added to all dine-in checks to support paid sick leave for our employees - - 20% automatic gratuity will be added to parties of seven or more -\nGAIJIN BY PAUL VIRANT 950 W Lake St, Chicago, IL 60607 (312) 265-1348 Reservations | Email Us | Gift Cards | FAQ | Press Inquiries | Donation Request\nhttps://gaijinchicago.com/\nGAIJIN BY PAUL VIRANT 950 W Lake St, Chicago, IL 60607 (312) 265-1348 Reservations | Email Us | Gift Cards | FAQ | Press Inquiries | Donation Request\n— HAPPY HOUR — Tuesday - Thursday 5 p.m. - 6 p.m.\n950 W Lake St, Chicago, IL 60607",
+      "days": [
+        2,
+        3,
+        4
+      ],
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Gaijin Toki Highball · $5",
+        "Gaijin Lager · $5"
+      ],
+      "terms": [
+        "3% service charge on dine-in checks.",
+        "20% automatic gratuity for parties of seven or more."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Gaijin Lager · $5",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-2826",
+      "venue": "Sophia Steak Chicago",
+      "address": "748 N. State St., Chicago, IL 60654",
+      "sourceURL": "https://sophiasteak.com/chicago/menu/",
+      "neighborhood": "Gold Coast",
+      "promotionName": "The $10 Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:52.160651+00:00",
+      "validUntil": "2026-12-02T02:59:52.160651+00:00",
+      "sourceText": "https://sophiasteak.com/chicago/menu/\nHappy Hour\nHappy Hour\nView this menu as a PDF\nA 3.5% restaurant surcharge is added to each guest check. This may be removed upon request. To place your order call Sophia Steak Chicago directly 773.569.3522\nCONTACT 748 N. State St. Chicago, IL 60654 773.569.3522 chicagoinfo@sophiasteak.com Visit Sophia Wilmette's Website Visit Sophia Lake Forest's Website\nHOURS 7 DAYS A WEEK Sunday - Thursday 4:30pm - 9:30pm Friday & Saturday 4:30pm - 10:30pm WEEKEND BRUNCH Saturday & Sunday 11:00am - 3:30pm Dress code enforced – see FAQ for details Valet available for both dinner & brunch services Sophia's patio is dog-friendly Illinois Digital ID not accepted Physical ID required\nhttps://sophiasteak.com/img/SophiaC_Menu_HH_110226.pdf\nTHE $10 HOUR MONDAY - FRIDAY FROM 4:30 p m - 5:30 p m *$10 PER SELECTION $10 DRINKS House Wine RED, WHITE, OR ROSÉ Classic Martini VODKA OR GIN Espresso Martini VODKA, COFFEE LIQUEUR, ESPRESSO Easy Breezy Beautiful Erratic CUCUMBER VODKA, GENEPY, STRAWBERRY, SODA Hot To Go TEQUILA, MEZCAL, HABANERO, LIME, BLACK SEA SALT $10 SNACKS Potato Croquettes HORSERADISH AIOLI Ahi Tuna Crisp PONZU AIOLI, PICKLED CHILIES Nashville Fried Chicken Bites BUTTERMILK RANCH Jumbo Coconut Shrimp SWEET CHILI AIOLI Meatball Sliders HOT GIARDINIERA, PARMESAN THESE ITEMS ARE SERVED RAW, UNDERCOOKED, COOKED TO ORDER OR CONTAIN RAW OR UNDERCOOKED INGREDIENTS. CONSUMING RAW OR UNDERCOOKED MEATS, POULTRY, SEAFOOD, SHELLFISH OR EGGS MAY INCREASE YOUR RISK OF FOODBORNE ILLNESS. A 3.5% RESTAURANT SURCHARGE IS ADDED TO EACH GUEST CHECK. FOR ALL PARTIES AN ADDITIONAL 20% SERVICE FEE WILL BE ADDED. THESE ITEMS ARE SERVED RAW, UNDERCOOKED, COOKED TO ORDER OR CONTAIN RAW OR UNDERCOOKED INGREDIENTS. CONSUMING RAW OR UNDERCOOKED MEATS, POULTRY, SEAFOOD, SHELLFISH OR EGGS MAY INCREASE YOUR RISK OF FOODBORNE ILLNESS. A 3.5% RESTAURANT SURCHARGE IS ADDED TO EACH GUEST CHECK. FOR ALL PARTIES AN ADDITIONAL 20% SERVICE FEE WILL BE ADDED. THESE ITEMS ARE SERVED RAW, UNDERCOOKED, COOKED TO ORDER OR CONTAIN RAW OR UNDERCOOKED INGREDIENTS. CONSUMING RAW OR UNDERCOOKED MEATS, POULTRY, SEAFOOD, SHELLFISH OR EGGS MAY INCREASE YOUR RISK OF FOODBORNE ILLNESS. A 3.5% RESTAURANT SURCHARGE IS ADDED TO EACH GUEST CHECK. FOR ALL PARTIES AN ADDITIONAL 20% SERVICE FEE WILL BE ADDED. THE $10 HOUR MONDAY - FRIDAY FROM 4:30 p m - 5:30 p m *$10 PER SELECTION $10 DRINKS House Wine RED, WHITE, OR ROSÉ Classic Martini VODKA OR GIN Espresso Martini VODKA, COFFEE LIQUEUR, ESPRESSO Easy Breezy Beautiful Erratic CUCUMBER VODKA, GENEPY, STRAWBERRY, SODA Hot To Go TEQUILA, MEZCAL, HABANERO, LIME, BLACK SEA SALT $10 SNACKS Potato Croquettes HORSERADISH AIOLI Ahi Tuna Crisp PONZU AIOLI, PICKLED CHILIES Nashville Fried Chicken Bites BUTTERMILK RANCH Jumbo Coconut Shrimp SWEET CHILI AIOLI Meatball Sliders HOT GIARDINIERA, PARMESAN THE $10 HOUR MONDAY - FRIDAY FROM 4:30 p m - 5:30 p m *$10 PER SELECTION $10 DRINKS House Wine RED, WHITE, OR ROSÉ Classic Martini VODKA OR GIN Espresso Martini VODKA, COFFEE LIQUEUR, ESPRESSO Easy Breezy Beautiful Erratic CUCUMBER VODKA, GENEPY, STRAWBERRY, SODA Hot To Go TEQUILA, MEZCAL, HABANERO, LIME, BLACK SEA SALT $10 SNACKS Potato Croquettes HORSERADISH AIOLI Ahi Tuna Crisp PONZU AIOLI, PICKLED CHILIES Nashville Fried Chicken Bites BUTTERMILK RANCH Jumbo Coconut Shrimp SWEET CHILI AIOLI Meatball Sliders HOT GIARDINIERA, PARMESAN\nhttps://sophiasteak.com/chicago/faq/\nDRESS CODE To maintain a welcoming and comfortable atmosphere for all, we kindly ask that guests wear clean, well-kept attire suitable for an elevated dining experience. Additionally, to ensure a pleasant environment for all patrons, guests must be free of strong cannabis or tobacco odors. This dress code and atmosphere policy applies both inside the restaurant and on the patio. The following items are not permitted: • Swimwear or beachwear • Excessively revealing clothing or exposed undergarments • Clothing with offensive language or graphics A guest who appears inappropriately dressed or does not meet these environmental standards may be refused entry. Professional and third-party photography will not be permitted in the restaurant without prior approval. We appreciate your cooperation and look forward to welcoming you. VALET Valet is available at the front doors of Sophia Steak at 748 N. State Street, Chicago, IL 60654. DOG FRIENDLY Our pawtio is so friendly—feel free to bring your favorite furry family members! SURCHARGE AND GRATUITY A 20% gratuity, as well as a 3.5% restaurant surcharge, is added to each guest check. This may be removed upon request.\n748 N. State St., Chicago, IL 60654",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "foodOffers": [
+        "Potato Croquettes · $10",
+        "Nashville Fried Chicken Bites · $10",
+        "Jumbo Coconut Shrimp · $10"
+      ],
+      "drinkOffers": [
+        "House Wine · $10",
+        "Classic Martini · $10",
+        "Espresso Martini · $10"
+      ],
+      "terms": [
+        "$10 per selection.",
+        "An additional 20% service fee applies to all parties. The separate 3.5% restaurant surcharge can be removed on request.",
+        "Physical identification is required. Illinois Digital ID is not accepted.",
+        "Both dining room and patio require clean, well-kept attire. No swimwear or beachwear, excessively revealing clothes, exposed undergarments, offensive graphics or language, or strong cannabis or tobacco odors. Entry may be refused."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "House Wine · $10",
+          "price": 10.0,
+          "kind": "wine"
+        },
+        {
+          "label": "Classic Martini · $10",
+          "price": 10.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "Espresso Martini · $10",
+          "price": 10.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-200",
+      "venue": "Felix",
+      "address": "3301 N Clark St, Chicago, IL 60657",
+      "sourceURL": "https://www.eatatfelix.com/menu",
+      "neighborhood": "Lakeview",
+      "promotionName": "Felix Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:01:58.428766+00:00",
+      "validUntil": "2026-12-02T03:01:58.428766+00:00",
+      "sourceText": "https://www.eatatfelix.com/menu\nHappy Hour\n3301 N. Clark Street Chicago, Illinois 60657\nhttps://www.eatatfelix.com/s/HH-menu-for-web-7-14.pdf\nHappy Hour Menu Mon,Weds,Thurs, Fri 4PM-6PM CrispyBrusselSprouts-6 ParmesanFries - 6 Mac&Cheese - 6 PotatoSkins - 7 CaesarSalad - 9 Meatballs - 10 Calamari - 12 Lasagna - 17 MangoGroveSpritz TheFelix-Rita PearlyThyme PurpleRain 312-Tini ModeloEspecial Yuengling BlueMoon Anti-Hero Stella SelectBottles - HalfPrice HouseWines - 7(glass)\n3301 N Clark St, Chicago, IL 60657",
+      "days": [
+        1,
+        3,
+        4,
+        5
+      ],
+      "startTime": "16:00",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Calamari · $12",
+        "Lasagna · $17"
+      ],
+      "drinkOffers": [
+        "House wines · $7"
+      ],
+      "terms": [
+        "House wine is served by the glass. Happy hour runs Monday, Wednesday, Thursday and Friday."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "House wines · $7",
+          "price": 7.0,
+          "kind": "wine"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-309",
+      "venue": "Avli River North",
+      "address": "702 N Wells St, Chicago, IL",
+      "sourceURL": "https://www.avli.us/avli-river-north",
+      "neighborhood": "River North",
+      "promotionName": "Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:47.151491+00:00",
+      "validUntil": "2026-12-02T03:00:47.151491+00:00",
+      "sourceText": "https://www.avli.us/avli-river-north\n702 N Wells St, Chicago, IL • (312) 643-5656\nStop in for Happy Hour, Monday through Friday, 3pm to 6pm, for discounted libations and small plates.\nHappy Hour\nhttps://www.avli.us/s/ARN_FW26-Menus_Happy-Hour_5x11.pdf\nHAPPY HOUR MON - FRI, 3PM - 6PM SPREADS single 6 / trio 9 | served with pita • sub crudités for +295 HUMMUS chickpea, garlic, lemon, tahini • VN GF TZATZIKI yogurt, garlic, cucumber, dill • V GF TIROKAFTERI feta, bell pepper, chili flake • V GF MELITZANOSALATA eggplant, sundried tomato, hazelnut • VN GF CN SMOKED SALMON TARAMA chive, onion, lemon • F MEZE KATAIFI SHRIMP shredded filo, spicy thyme aioli • SF 4ea. GREEK FRIES graviera, spicy thyme aioli • GF 7 WAGYU SOUTZOUKAKIA rich tomato sauce, graviera 4ea. ZUCCHINI CHIPS garlic dip • V GF DF 9 COCKTAILS A-GOURI vodka, cucumber, lime 8 KLIMA KLUB gin, Skinos mastiha, tart cherry, lemon, foam 8 CANELA SOUR* bourbon, cinnamon, maple, lime, egg white 8 TAVERNA CARAFE 1/2 LTR 1 LTR White • the best Greek table wine there is 12 24 Red • the second best Greek table wine there is 12 24 Rosé • floral & fresh 12 24 mini BOTTLE SERVICE 200 mL bottle • served with ice & lemon OUZO PLOMARI anise flavored spirit 16 TSIPOURO IDONIKO grape pomace spirit 16 BEER MYTHOS Lager 5 V - vegetarian | VN - vegan | GF - gluten free | DF - dairy free | SF - shellfish *These items are served undercooked or cooked to order. Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness. • Please advise your server of any dietary restrictions or food allergies. • Not all ingredients are listed and we cannot guarantee that are food is completely free of any allergen. • To support expanded employee benefits & rising operating costs, a 3.75% surcharge will be added to each check. We are happy to remove this charge upon request.\n702 N Wells St, Chicago, IL",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "startTime": "15:00",
+      "endTime": "18:00",
+      "foodOffers": [],
+      "drinkOffers": [
+        "Mythos lager · $5"
+      ],
+      "terms": [
+        "The restaurant adds a 3.75% surcharge and removes it on request.",
+        "The menu marks undercooked or cooked-to-order items and advises diners to disclose food allergies. The starred Canela Sour contains egg white."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "Mythos lager · $5",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106411",
+      "venue": "Standard Bar and Grill",
+      "address": "1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "sourceURL": "https://standardbarandgrill.com/happy-hour",
+      "neighborhood": "Wicker Park",
+      "promotionName": "Monday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.411208+00:00",
+      "validUntil": "2026-12-02T02:59:12.411208+00:00",
+      "sourceText": "https://standardbarandgrill.com/happy-hour\nHAPPY HOUR Mon–Fri 5–7pm Call To Reserve: 773-904-8615\nMONDAY $7 Plain Nachos Add chicken $6 or Skirt steak $8 $7 XL Pretzel Warm Bavarian style pretzel served with ale fondue, homemade cheese sauce, and Guinness mustard DRINKS & SHOTS $5 Draft Miller Lite or Kona Big Wave $9 Bottle Beer & Shot Combo Miller High Life or Bud Light + Marolt shot\n1332 North Milwaukee Ave Chicago, IL 60622 Wicker Park\n1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "days": [
+        1
+      ],
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "$7 Plain Nachos",
+        "$7 XL Pretzel"
+      ],
+      "drinkOffers": [
+        "$5 Draft Miller Lite or Kona Big Wave"
+      ],
+      "terms": [
+        "Adding chicken to the nachos costs $6. Skirt steak adds $8."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$5 Draft Miller Lite or Kona Big Wave",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106412",
+      "venue": "Standard Bar and Grill",
+      "address": "1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "sourceURL": "https://standardbarandgrill.com/happy-hour",
+      "neighborhood": "Wicker Park",
+      "promotionName": "Tuesday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.411208+00:00",
+      "validUntil": "2026-12-02T02:59:12.411208+00:00",
+      "sourceText": "https://standardbarandgrill.com/happy-hour\nHAPPY HOUR Mon–Fri 5–7pm Call To Reserve: 773-904-8615\nTUESDAY $10 Adobo Tacos 3 per order. Corn tortillas, Adobo chicken, Chipotle slaw, avocado cream, pickled onions, crispy potatoes $10 Veggie Quesadillas Loaded with melted cheese and fresh vegetables DRINKS & SHOTS $8 Standard Jalapeño Margarita A spicy twist on our classic margarita with fresh jalapeños $5 Bottle Beer Modelo or Corona 7-9PM WHADDAYAKNOW? FREE PUB TRIVIA (Every Tuesday) Book Table\n1332 North Milwaukee Ave Chicago, IL 60622 Wicker Park\n1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "days": [
+        2
+      ],
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "$10 Adobo Tacos",
+        "$10 Veggie Quesadillas"
+      ],
+      "drinkOffers": [
+        "$8 Standard Jalapeño Margarita",
+        "$5 Bottle Beer Modelo or Corona"
+      ],
+      "terms": [
+        "The adobo tacos come three per order."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$8 Standard Jalapeño Margarita",
+          "price": 8.0,
+          "kind": "cocktail"
+        },
+        {
+          "label": "$5 Bottle Beer Modelo or Corona",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106414",
+      "venue": "Standard Bar and Grill",
+      "address": "1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "sourceURL": "https://standardbarandgrill.com/happy-hour",
+      "neighborhood": "Wicker Park",
+      "promotionName": "Wednesday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.411208+00:00",
+      "validUntil": "2026-12-02T02:59:12.411208+00:00",
+      "sourceText": "https://standardbarandgrill.com/happy-hour\nHAPPY HOUR Mon–Fri 5–7pm Call To Reserve: 773-904-8615\nWEDNESDAY $20 Girl Dinner + Martini Caesar Salad and any martini (French, Dirty, Espresso, Cosmo) $10 Standard Burger w/ Fries 8 oz Angus beef patty with cheese, lettuce, tomato, onion, and mayo served with seasoned fries DRINKS & SHOTS $5 Draft Miller Lite or Kona Big Wave $8 Combos Bottle: High Life + Jäger, Bud Light + Jameson shot, Old Style or Malört\n1332 North Milwaukee Ave Chicago, IL 60622 Wicker Park\n1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "days": [
+        3
+      ],
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "$10 Standard Burger w/ Fries"
+      ],
+      "drinkOffers": [
+        "$5 Draft Miller Lite or Kona Big Wave"
+      ],
+      "terms": [
+        "The burger is an 8-ounce Angus patty and comes with seasoned fries."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$5 Draft Miller Lite or Kona Big Wave",
+          "price": 5.0,
+          "kind": "beer"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106415",
+      "venue": "Standard Bar and Grill",
+      "address": "1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "sourceURL": "https://standardbarandgrill.com/happy-hour",
+      "neighborhood": "Wicker Park",
+      "promotionName": "Thursday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.411208+00:00",
+      "validUntil": "2026-12-02T02:59:12.411208+00:00",
+      "sourceText": "https://standardbarandgrill.com/happy-hour\nHAPPY HOUR Mon–Fri 5–7pm Call To Reserve: 773-904-8615\nTHURSDAY $10 Jumbo Wings Choice of Jameson Chipotle BBQ, Honey mustard, ranch, Blue cheese, or buffalo $8 Chicken Tenders Crispy tenders with your choice of dipping sauce DRINKS & SHOTS $30 Buckets (5 per bucket) NUTRL Seltzer or Surfside Teas $8 Combos 1 Draft & 1 Shot — Drafts: Miller, Kona, Michelob · Shots: Fireball, Chica Chida, Skrewball\n1332 North Milwaukee Ave Chicago, IL 60622 Wicker Park\n1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "days": [
+        4
+      ],
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "$10 Jumbo Wings",
+        "$8 Chicken Tenders"
+      ],
+      "drinkOffers": [],
+      "terms": [
+        "Wings come with a choice of Jameson chipotle BBQ, honey mustard, ranch, blue cheese or buffalo sauce."
+      ],
+      "budgetDrinks": [],
+      "savings": {}
+    },
+    {
+      "id": "312deals-106416",
+      "venue": "Standard Bar and Grill",
+      "address": "1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "sourceURL": "https://standardbarandgrill.com/happy-hour",
+      "neighborhood": "Wicker Park",
+      "promotionName": "Friday Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T02:59:12.411208+00:00",
+      "validUntil": "2026-12-02T02:59:12.411208+00:00",
+      "sourceText": "https://standardbarandgrill.com/happy-hour\nHAPPY HOUR Mon–Fri 5–7pm Call To Reserve: 773-904-8615\nFRIDAY $10 Smash Burger Two Angus patties with cheese, lettuce, tomato, onion, and mayo served with seasoned fries (Excellent Deal) $8 Chicken Tenders Crispy tenders with your choice of dipping sauce $7 XL Pretzel Warm Bavarian style pretzel served with ale fondue, homemade cheese sauce, and Guinness mustard DRINKS & SHOTS $6 Jameson Shots Smooth Irish whiskey $5 Kona Big Wave Draft Golden ale with a smooth, tropical finish $8 Standard Jalapeño Margarita A spicy twist on our classic margarita with fresh jalapeños 8PM - 12AM KARAOKE Night Book Table\n1332 North Milwaukee Ave Chicago, IL 60622 Wicker Park\n1332 N Milwaukee Ave, Chicago, IL 60622, USA",
+      "days": [
+        5
+      ],
+      "startTime": "17:00",
+      "endTime": "19:00",
+      "foodOffers": [
+        "$10 Smash Burger",
+        "$8 Chicken Tenders",
+        "$7 XL Pretzel"
+      ],
+      "drinkOffers": [
+        "$6 Jameson Shots",
+        "$5 Kona Big Wave Draft",
+        "$8 Standard Jalapeño Margarita"
+      ],
+      "terms": [
+        "The smash burger comes with seasoned fries."
+      ],
+      "budgetDrinks": [
+        {
+          "label": "$6 Jameson Shots",
+          "price": 6.0,
+          "kind": "shot"
+        },
+        {
+          "label": "$5 Kona Big Wave Draft",
+          "price": 5.0,
+          "kind": "beer"
+        },
+        {
+          "label": "$8 Standard Jalapeño Margarita",
+          "price": 8.0,
+          "kind": "cocktail"
+        }
+      ],
+      "savings": {}
+    },
+    {
+      "id": "312deals-1292",
+      "venue": "Formento's",
+      "address": "925 W Randolph St, Chicago, IL 60607",
+      "sourceURL": "https://www.formentos.com/menus",
+      "neighborhood": "West Loop",
+      "promotionName": "Formento's Happy Hour",
+      "city": "Chicago",
+      "timezone": "America/Chicago",
+      "status": "unconfirmed",
+      "checkedAt": "2026-11-25T03:00:49.282747+00:00",
+      "validUntil": "2026-12-02T03:00:49.282747+00:00",
+      "sourceText": "https://www.formentos.com/menus\nHappy Hour\nhttps://www.formentos.com/contact-us\nWe’d love to hear from you. Please reach out with any questions or concerns. dinner Hours Sunday - Thursday: 4:30pm - 9:00pm Friday - Saturday: 4:30pm - 10:00pm Happy hour Available in the Bar & Lounge and Patio Everyday: 4:30pm - 6:00pm Call Reservations 312.690.7295 Private Dining Inquiries 312.721.5064 Visit 925 W. Randolph St. Chicago, IL 60607 Valet Available Daily City Parking Garage located at: 922 W Washington Blvd Metered Street Parking available in the area Email Us events@bhospitalityco.com formentos@bhospitalityco.com Private Events Connect with our Sales Director events@bhospitalityco.com Press For Press Inquiries lcaballero@bhospitalityco.com\n925 W. Randolph St. Chicago, IL 60607\nhttps://www.formentos.com/\nNestled in the heart of the West Loop, Formento’s is an Italian Steakhouse that blends Chicago’s rich steakhouse heritage with the timeless flavors of Italy. Established in 2015 as a tribute to Nonna Formento, the beloved grandmother of one of the owners, the restaurant offers a warm, welcoming space where family recipes, heartfelt hospitality, and classic flavors come together.\nhttps://www.formentos.com/s/NEW-HAPPY-HOUR-MENU-ktry.pdf\n6 minimum DINE IN ONL Y AT THE BAR & PATIO HAPPY HOUR MENU Bruschetta Chef ’s Choice 2.50 each Nonnas mEATBALL Parmesan, Marinara 4 each Little Gem Salad Avocado, Cipollini & Red Onion, Radicchio, Roasted Tomato, Pecorino, Oregano Vinaigrette 8 Ceci bEAN hUMMUS Roman Flatbread, Seasonal Veggies 10 Fried Olives Castelvetrano Olives, Italian Sausage, Lemon Aioli 8 MOzzarella STICKS Marinara Aioli, Marinara Sauce 10 Truffle Fries Truffle Aioli, Grana Padano 11 foRMENTO’S bURGER Special Sauce, Lettuce, Pickle, Onion, Provolone Cheese 15 Pizzetta 12 Calabrese Sausage, Red Onion, Calabrian Chili, Hot Honey & Pistachio Dukkah Vodka Rosa Spicy Vodka Sauce, Cup ‘N Char Pepperoni, Ricotta & Basil Veggie Salmoriglio, Charred Corn, Mushroom, Sundried Tomatoes & Balsamic Glaze East Coast Oysters 1.5 each Chilled 2.5 each Grilled\n925 W Randolph St, Chicago, IL 60607",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "startTime": "16:30",
+      "endTime": "18:00",
+      "foodOffers": [
+        "Truffle fries, truffle aioli and Grana Padano · $11"
+      ],
+      "drinkOffers": [],
+      "terms": [
+        "Dine-in only at the bar or patio. The oyster offer requires a minimum order of six."
+      ],
+      "budgetDrinks": [],
       "savings": {}
     }
   ],
